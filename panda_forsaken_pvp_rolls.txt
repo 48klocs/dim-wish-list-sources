@@ -1,3 +1,6 @@
+title:u/pandapaxxy's Forsaken PvP picks
+description:Originally found at https://docs.google.com/spreadsheets/d/1YWX2NCw8joV0T15ivF7Hu98iMC1Za4lzMWpwJiMx6q8/edit?usp=sharing
+
 //misfit (pvp)
 dimwishlist:item=819441402&perks=1288081798,1561002382,1890422124,2213355989
 dimwishlist:item=819441402&perks=1452368634,1561002382,1890422124,2213355989

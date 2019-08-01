@@ -1,3 +1,6 @@
+title:u/Mercules904's Dreaming City breakdown picks
+description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/a184tl/massive_breakdown_of_the_dreaming_city_weapons/
+
 //waking vigil
 dimwishlist:item=334171687&perks=1926090093,1885400500,47981717,1168162263
 dimwishlist:item=334171687&perks=1926090093,1885400500,2387244414,1168162263

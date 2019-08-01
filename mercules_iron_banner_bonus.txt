@@ -1,4 +1,6 @@
-// from https://www.reddit.com/r/DestinyTheGame/comments/aa1wqz/massive_breakdown_of_the_season_5_iron_banner/?
+title:u/Mercules904's S5 Iron Banner picks
+description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/aa1wqz/massive_breakdown_of_the_season_5_iron_banner/
+// from https://www.reddit.com/r/DestinyTheGame/comments/aa1wqz/massive_breakdown_of_the_season_5_iron_banner/
 
 // crimil's dagger (masterworked)
 dimwishlist:item=4292849692&perks=1926090094,1087426260,1168162263,2387244414
