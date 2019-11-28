@@ -1,0 +1,34 @@
+title:u/Mercules904's Altars of Sorrow weapons breakdown
+description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/e2iwm2/massive_breakdown_of_the_altars_of_sorrow_weapons/
+
+// Apostate (PvP)
+//notes:Mercules904 (must have PvP) - "Definitely rate this gun as a must have for PvP snipers."
+dimwishlist:item=2164448701&perks=3250034553,3142289711,706527188,47981717
+dimwishlist:item=2164448701&perks=3250034553,791862061,706527188,47981717
+dimwishlist:item=2164448701&perks=3250034553,3142289711,706527188,4082225868
+dimwishlist:item=2164448701&perks=3250034553,791862061,706527188,4082225868
+
+// Apostate (PvP) [curated]
+//notes:Mercules904 (must have PvP/curated) - "Definitely rate this gun as a must have for PvP snipers."
+dimwishlist:item=2164448701&perks=1840239774,3142289711,3275789089,247725512
+
+// Blasphemer (PvP)
+//notes:Mercules904 (must have PvP) - "Highly recommend this weapon for anyone who loves the Chaperone but wants a legendary alternative, or just loves slug shotties in general, and the curated roll is pretty nearly perfect as well."
+dimwishlist:item=2782847179&perks=3250034553,3142289711,706527188,47981717
+dimwishlist:item=2782847179&perks=3250034553,791862061,706527188,47981717
+dimwishlist:item=2782847179&perks=3250034553,3142289711,706527188,4082225868
+dimwishlist:item=2782847179&perks=3250034553,791862061,706527188,4082225868
+
+// Heretic (PvP)
+//notes:Mercules904 (PVP; pretty good PvE) - "Honestly a weapon with great possibilities if the heavy weapon classes ever get reworked."
+dimwishlist:item=3067821200&perks=332773068,1996142143,2846385770,1275731761
+dimwishlist:item=3067821200&perks=1478423395,1996142143,2846385770,1275731761
+
+// Heretic (PvE)
+//notes:Mercules904 (pretty good PvE) - "Honestly a weapon with great possibilities if the heavy weapon classes ever get reworked."
+dimwishlist:item=3067821200&perks=981914802,3796465595,3523296417,1275731761
+
+// Heretic (PvE; curated)
+//notes:Mercules904 (pretty good PvE; curated) - "Honestly a weapon with great possibilities if the heavy weapon classes ever get reworked."
+dimwishlist:item=3067821200&perks=3525010810,3492396210,3523296417,1275731761
+
