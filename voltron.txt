@@ -1,5 +1,5 @@
 title:This is a compiled collection of god/recommended rolls from top community minds.
-description:Thanks to u/Mercules904, u/pandapaxxy, and u/HavocsCall for their contributions. Ping u/48klocs / @48klocs with any issues.
+description:Thanks to u/Mercules904, u/pandapaxxy, u/HavocsCall, @chrisfried, and @sundevour for their contributions. Ping u/48klocs / @48klocs with any issues.
 
 // Mercules' Erentil FR4 breakdown
 // https://www.reddit.com/r/DestinyTheGame/comments/cbxao7/massive_breakdown_of_erentil_fr4_including_stats/
@@ -26302,6 +26302,40 @@ dimwishlist:item=3369545945&perks=839105230,1885400500,280464955,3425386926#note
 dimwishlist:item=3369545945&perks=1840239774,679225683,280464955,3425386926#notes:pandapaxxy Shadowkeep PvP
 dimwishlist:item=3369545945&perks=839105230,679225683,280464955,3425386926#notes:pandapaxxy Shadowkeep PvP
 
+title:u/Mercules904's Altars of Sorrow weapons breakdown
+description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/e2iwm2/massive_breakdown_of_the_altars_of_sorrow_weapons/
+
+// Apostate (PvP)
+//notes:Mercules904 (must have PvP) - "Definitely rate this gun as a must have for PvP snipers."
+dimwishlist:item=2164448701&perks=3250034553,3142289711,706527188,47981717
+dimwishlist:item=2164448701&perks=3250034553,791862061,706527188,47981717
+dimwishlist:item=2164448701&perks=3250034553,3142289711,706527188,4082225868
+dimwishlist:item=2164448701&perks=3250034553,791862061,706527188,4082225868
+
+// Apostate (PvP) [curated]
+//notes:Mercules904 (must have PvP/curated) - "Definitely rate this gun as a must have for PvP snipers."
+dimwishlist:item=2164448701&perks=1840239774,3142289711,3275789089,247725512
+
+// Blasphemer (PvP)
+//notes:Mercules904 (must have PvP) - "Highly recommend this weapon for anyone who loves the Chaperone but wants a legendary alternative, or just loves slug shotties in general, and the curated roll is pretty nearly perfect as well."
+dimwishlist:item=2782847179&perks=3250034553,3142289711,706527188,47981717
+dimwishlist:item=2782847179&perks=3250034553,791862061,706527188,47981717
+dimwishlist:item=2782847179&perks=3250034553,3142289711,706527188,4082225868
+dimwishlist:item=2782847179&perks=3250034553,791862061,706527188,4082225868
+
+// Heretic (PvP)
+//notes:Mercules904 (PVP; pretty good PvE) - "Honestly a weapon with great possibilities if the heavy weapon classes ever get reworked."
+dimwishlist:item=3067821200&perks=332773068,1996142143,2846385770,1275731761
+dimwishlist:item=3067821200&perks=1478423395,1996142143,2846385770,1275731761
+
+// Heretic (PvE)
+//notes:Mercules904 (pretty good PvE) - "Honestly a weapon with great possibilities if the heavy weapon classes ever get reworked."
+dimwishlist:item=3067821200&perks=981914802,3796465595,3523296417,1275731761
+
+// Heretic (PvE; curated)
+//notes:Mercules904 (pretty good PvE; curated) - "Honestly a weapon with great possibilities if the heavy weapon classes ever get reworked."
+dimwishlist:item=3067821200&perks=3525010810,3492396210,3523296417,1275731761
+
 title:u/Mercules904's Garden of Salvation raid weapons breakdown
 description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/e02l73/massive_breakdown_of_the_garden_of_salvation_raid/
 
@@ -28995,3 +29029,39 @@ dimwishlist:item=2209003210&perks=839105230,1687452232,3300816228,1600092898#not
 dimwishlist:item=2209003210&perks=1467527085,1687452232,3300816228,1600092898#notes:pandapaxxy Garden of Salvation PvP
 dimwishlist:item=2209003210&perks=839105230,2969185026,3300816228,1600092898#notes:pandapaxxy Garden of Salvation PvP
 dimwishlist:item=2209003210&perks=1467527085,2969185026,3300816228,1600092898#notes:pandapaxxy Garden of Salvation PvP
+
+title:@chrisfried x @sundevour coming through with a trash list
+description:A must-not-keep list of gear, originally found in top secret group chats.
+
+//notes:🤢🤢🤢
+dimwishlist:item=-3222518097#notes:Anonymous Aupuke 🤢🤢🤢
+dimwishlist:item=-2112909415#notes:Ten Pukes 🤢🤢🤢
+dimwishlist:item=-2575506895#notes:Kindled Orpuke 🤢🤢🤢
+dimwishlist:item=-2824241403#notes:Bad Pukes XF4354 🤢🤢🤢
+dimwishlist:item=-4292849692#notes:Crimil's Dapuke 🤢🤢🤢
+dimwishlist:item=-4211534763#notes:Pukebina-D 🤢🤢🤢
+dimwishlist:item=-1357080535#notes:Breath of the Pukon 🤢🤢🤢
+dimwishlist:item=-3957603605#notes:Wrong Side of Puke 🤢🤢🤢
+dimwishlist:item=-3199662972#notes:Eyspuke-D 🤢🤢🤢
+dimwishlist:item=-4138174248#notes:Go Pukure 🤢🤢🤢
+dimwishlist:item=-1775804198#notes:Gallipuke-42 XN7568 🤢🤢🤢
+dimwishlist:item=-2009106091#notes:The Vowpuke 🤢🤢🤢
+dimwishlist:item=-2721249463#notes:Tyranny of Puken 🤢🤢🤢
+dimwishlist:item=-3461377698#notes:Balipuke XU7743 🤢🤢🤢
+dimwishlist:item=-3356526253#notes:Pukebringer 🤢🤢🤢
+dimwishlist:item=-1873270090#notes:Elegy-4Puke 🤢🤢🤢
+dimwishlist:item=-1684914716#notes:Fate Cries Puke 🤢🤢🤢
+dimwishlist:item=-2154059444#notes:The Long Goodpuke 🤢🤢🤢
+dimwishlist:item=-3100452337#notes:Dreaded Puketure 🤢🤢🤢
+dimwishlist:item=-4148143418#notes:Show of Puke XF4865 🤢🤢🤢
+dimwishlist:item=-4083045006#notes:Pukesuader 🤢🤢🤢
+dimwishlist:item=-580961571#notes:Loaded Questpuke 🤢🤢🤢
+dimwishlist:item=-218335759#notes:Puke Transit 🤢🤢🤢
+dimwishlist:item=-301362381#notes:Through Puke and Puke 🤢🤢🤢
+dimwishlist:item=-1757129747#notes:Apuketha-D XK8434 🤢🤢🤢
+dimwishlist:item=-1972985595#notes:Swarm of the Puken 🤢🤢🤢
+dimwishlist:item=-301362380#notes:Terran Puke 🤢🤢🤢
+dimwishlist:item=-2545083870#notes:Apex Pukeator 🤢🤢🤢
+dimwishlist:item=-2817798849#notes:Hoosepuke XE5837 🤢🤢🤢
+dimwishlist:item=-66875353#notes:Pukalanche 🤢🤢🤢
+dimwishlist:item=-2278995296#notes:Does Not Compuke 🤢🤢🤢
