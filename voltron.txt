@@ -29126,7 +29126,7 @@ dimwishlist:item=-4146702548 #notes:Pukerageous Fortune 🤢🤢🤢 (no full co
 dimwishlist:item=-301362380#notes:Terran Puke 🤢🤢🤢 (no full court, and redundant elements to Love and Death or Wendigo)
 
 // rocket launcher
-dimwishlist:item=-13#notes:Rocket launchers in general 🤢🤢🤢 ( don't care about these. Sleepless is good, curated Bad Omens is good, Demolitionist Cluster Heretic is good)
+// dimwishlist:item=-13#notes:Rocket launchers in general 🤢🤢🤢 ( don't care about these. Sleepless is good, curated Bad Omens is good, Demolitionist Cluster Heretic is good)
 
 // high-impact machine gun
 dimwishlist:item=-1642384931#notes:Fixed Pukes 🤢🤢🤢 (Weak archetype but curated Bane is pretty good)
