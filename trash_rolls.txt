@@ -17,7 +17,7 @@ dimwishlist:item=-2112909415#notes:Ten Pukes 🤢🤢🤢 (Kill Clip or Explosiv
 dimwishlist:item=-2429822977#notes: Auspuker 🤢🤢🤢 (Kill Clip or Explosive Payload on Better Devils are notably better than Rampage on these two. Ancient Gospel is nearly on this list but Rapid Hit and being Solar keep it off)
 
 // precision SMGs
-dimwishlist:item=-1757129747#notes:Apuketha-D XK8434 🤢🤢🤢 (Antiope is identical to Atalanta in perks with better stats, Moment has much better perks than Bad Reputation)
+dimwishlist:item=-2422664927#notes:Atapukea-D XG1992 🤢🤢🤢 (Antiope is identical to Atalanta in perks with better stats, Moment has much better perks than Bad Reputation)
 dimwishlist:item=-2105827099#notes:Bad Repuketation 🤢🤢🤢 (Antiope is identical to Atalanta in perks with better stats, Moment has much better perks than Bad Reputation)
 
 // adaptive SMGs
