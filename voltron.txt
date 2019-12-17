@@ -29916,7 +29916,7 @@ dimwishlist:item=3434944005&perks=2801223209,1500996326,201365942,1546637391
 dimwishlist:item=3434944005&perks=2801223209,1500996326,2866798147,699525795
 dimwishlist:item=3434944005&perks=2801223209,1500996326,201365942,699525795
 
-title:u/pandapaxxy's Returning (in Season of the Dawn) M+KB breakdown
+title:u/pandapaxxy's Returning (in Season of the Dawn) weapons M+KB breakdown
 description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/eazahl/returning_weapons_mnk_breakdown/
 
 
