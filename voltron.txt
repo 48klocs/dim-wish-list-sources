@@ -423,7 +423,6 @@ dimwishlist:item=1496419775&perks=4090651448,1561002382,3124871000,2848615171
 // https://docs.google.com/spreadsheets/d/1wZkZCt6YeMEkZ2-SxyLCUECVP_o_1wgsRPiC2LblkAM/edit#gid=0
 
 //Revoker
-//notes: PvP pick
 dimwishlist:item=654608616&perks=1467527085,3142289711,957782887,136456835
 
 //Hush
@@ -1403,7 +1402,6 @@ dimwishlist:item=569799273&perks=3666208348,2349202967,2590710093,3016987351
 // https://docs.google.com/spreadsheets/d/1wZkZCt6YeMEkZ2-SxyLCUECVP_o_1wgsRPiC2LblkAM/edit#gid=0
 
 //Revoker
-//notes: PvE pick
 dimwishlist:item=654608616&perks=1467527085,3142289711,957782887,136456835
 
 //Hush
@@ -15394,7 +15392,6 @@ dimwishlist:item=3704653637&perks=938542991,2349202967,354401740,3708227201
 // sourced from https://docs.google.com/spreadsheets/d/1ZEr_TCdCenhBcviXQ5iAKzrPWa_oEav5rvXdy4QaD6I/edit#gid=0
 
 //Oxygen SR3
-//notes: PvP pick
 dimwishlist:item=3907337522&perks=1392496348,3142289711,2848615171,1941225610
 
 
@@ -16259,7 +16256,6 @@ dimwishlist:item=715338174&perks=3666208348,1180618054,2590710093,818211479
 // sourced from https://docs.google.com/spreadsheets/d/1ZEr_TCdCenhBcviXQ5iAKzrPWa_oEav5rvXdy4QaD6I/edit#gid=0
 
 //Oxygen SR3
-//notes: PvE pick
 dimwishlist:item=3907337522&perks=1392496348,3142289711,2848615171,1941225610
 
 //The Recluse
@@ -29563,7 +29559,6 @@ dimwishlist:item=1506719573&perks=1467527085,3230963543,205890336,1546637391
 dimwishlist:item=1506719573&perks=3250034553,3230963543,205890336,1546637391
 
 // Trophy Hunter (curated / M+KB)
-//notes: PvP pick
 dimwishlist:item=4166221755&perks=839105230,3142289711,3096702027,2848615171
 
 // Trophy Hunter (PvE / M+KB)
@@ -29910,7 +29905,6 @@ dimwishlist:item=1506719573&perks=1392496348,3142289711,205890336,1546637391
 dimwishlist:item=1506719573&perks=3661387068,3142289711,205890336,1546637391
 
 // Trophy Hunter (curated / controller)
-//notes: PvP pick
 dimwishlist:item=4166221755&perks=839105230,3142289711,3096702027,2848615171
 
 // Trophy Hunter (PvE / controller)
@@ -33673,7 +33667,6 @@ title: u/pandapaxxy's Garden of Salvation PvE recommendations
 description: Translated from https://docs.google.com/spreadsheets/d/1UlPqO4koKRcqMxl2VO4JzdgkKyY7LW07W0k91S_Yl8U/edit#gid=699934882 by your old pal 48klocs
 
 //Accrued Redemption
-//notes: PvP pick
 dimwishlist:item=4095896073&perks=852209214,16392701,201365942,3425386926#notes:pandapaxxy Garden of Salvation PvE
 dimwishlist:item=4095896073&perks=1784898267,16392701,201365942,3425386926#notes:pandapaxxy Garden of Salvation PvE
 dimwishlist:item=4095896073&perks=3768438372,16392701,201365942,3425386926#notes:pandapaxxy Garden of Salvation PvE
