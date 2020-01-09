@@ -3,7 +3,7 @@ description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/
 // https://www.reddit.com/r/sharditkeepit/comments/ahwn4c/missing_black_armory_weapons_bow_pulse_sword/
 
 //spiteful fang (pve)
-//notes:PandaPaxxys PvE pick
+//notes:PandaPaxxy - PvE pick
 dimwishlist:item=421573768&perks=852209214,16392701,201365942,3425386926
 dimwishlist:item=421573768&perks=4067834857,16392701,201365942,3425386926
 dimwishlist:item=421573768&perks=2801223209,16392701,201365942,3425386926
@@ -87,7 +87,7 @@ dimwishlist:item=421573768&perks=4067834857,3827198035,908147344,1866048759
 dimwishlist:item=421573768&perks=2801223209,3827198035,908147344,1866048759
 
 //blast furnace (pve)
-//notes:PandaPaxxys PvE pick
+//notes:PandaPaxxy - PvE pick
 dimwishlist:item=3843477312&perks=1096957638,1087426260,2779035018,3425386926
 dimwishlist:item=3843477312&perks=3433396026,1087426260,2779035018,3425386926
 dimwishlist:item=3843477312&perks=3433396027,1087426260,2779035018,3425386926
@@ -234,7 +234,7 @@ dimwishlist:item=3843477312&perks=3433396026,2420895100,3124871000,2213355989
 dimwishlist:item=3843477312&perks=3433396027,2420895100,3124871000,2213355989
 
 //Stryker's Sure-Hand (pve)
-//notes:PandaPaxxys PvE pick
+//notes:PandaPaxxy - PvE pick
 dimwishlist:item=3704653637&perks=599007201,2349202967,1749209109,3708227201
 dimwishlist:item=3704653637&perks=436053704,2349202967,1749209109,3708227201
 dimwishlist:item=3704653637&perks=938542991,2349202967,1749209109,3708227201
