@@ -91,9 +91,11 @@ dimwishlist:item=3242168339&perks=3661387068,3177308360,4267945040,247725512
 dimwishlist:item=3242168339&perks=1392496348,3177308360,4267945040,247725512
 
 //twilight oath (pve)
+//notes: Mercules - PvE Pick
 dimwishlist:item=3297863558&perks=1840239774,3142289711,247725512,3400784728
 
 //twilight oath (pvp)
+//notes: Mercules - PvP Pick
 dimwishlist:item=3297863558&perks=1840239774,3142289711,47981717,3400784728
 
 //twilight oath (curated)
