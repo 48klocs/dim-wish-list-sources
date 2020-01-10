@@ -29701,6 +29701,34 @@ dimwishlist:item=3434944005&perks=2801223209,1500996326,201365942,1546637391
 dimwishlist:item=3434944005&perks=2801223209,1500996326,2866798147,699525795
 dimwishlist:item=3434944005&perks=2801223209,1500996326,201365942,699525795
 
+title:u/Mercules904's Season of Dawn Season Pass weapons breakdown
+description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/emrqro/massive_breakdown_of_the_season_of_dawn_season/
+
+// Trophy Hunter (PvE DPS)
+//notes:Mercules904 (must have PvE DPS) - "Let's be frank, this weapon is designed strictly with PvE in mind, and is not really a good option in any way for PvP. [...] Highly recommend this weapon if you've been looking for something new to shake up your DPS phases. Won't compete with a Sole Survivor with Fourth Times the Charm and Firing Line in terms of pure DPS, but it's a heck of a lot easier to farm."
+dimwishlist:item=4166221755&perks=4090651448,1087426260,3400784728,1546637391
+dimwishlist:item=4166221755&perks=1392496348,1087426260,3400784728,1546637391
+dimwishlist:item=4166221755&perks=1482024992,1087426260,3400784728,1546637391
+dimwishlist:item=4166221755&perks=1840239774,1087426260,3400784728,1546637391
+dimwishlist:item=4166221755&perks=839105230,1087426260,3400784728,1546637391
+
+// Pyroclastic Flow (okay PvP)
+//notes:Mercules904 (okay PvP) - "Fact of the matter is, if you're using a Rocket Launcher in PvP it should be Truth, Wardcliff, or one of the High-Impacts like Sleepless or Roar of the Bear. Using the lite-tracking offered by Pyroclastic is a gimmick better suited for Gambit (for the most part)."
+dimwishlist:item=1289324202&perks=332773068,1996142143,706527188,1275731761
+dimwishlist:item=1289324202&perks=1478423395,1996142143,706527188,1275731761
+
+// Pyroclastic Flow (okay PvE)
+//notes:Mercules904 (okay PvE) - "Unfortunately, this is not really a great rocket launcher for PvE, and it's only slightly better than it's archetype-mates in PvP. Zenobia-D can do everything it can do, but better for PvE."
+dimwishlist:item=1289324202&perks=981914802,3796465595,2010801679,3300816228
+dimwishlist:item=1289324202&perks=981914802,3796465595,3096702027,3300816228
+dimwishlist:item=1289324202&perks=981914802,3796465595,706527188,3300816228
+dimwishlist:item=1289324202&perks=981914802,3796465595,205890336,3300816228
+dimwishlist:item=1289324202&perks=981914802,3796465595,2010801679,1275731761
+dimwishlist:item=1289324202&perks=981914802,3796465595,3096702027,1275731761
+dimwishlist:item=1289324202&perks=981914802,3796465595,706527188,1275731761
+dimwishlist:item=1289324202&perks=981914802,3796465595,205890336,1275731761
+
+
 title:u/pandapaxxy's Season Pass / Dawning controller breakdown
 description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/eazc2q/season_pass_dawning_weapons_controller_breakdown/
 
