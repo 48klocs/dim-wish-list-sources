@@ -36105,8 +36105,8 @@ description:A must-not-keep list of gear, originally found in top secret group c
 //notes:🤢🤢🤢
 
 // sidearms (so trash your pal 48klocs can't even be bothered to look them all up)
-dimwishlist:item=-14#notes: Sidearms really warrant the 🤢🤢🤢est of 🤢🤢🤢s.
-dimwishlist:item=-3222518097#notes:Anonymous Aupuke 🤢🤢🤢 (does anyone really use sidearms?)
+//dimwishlist:item=-14#notes: Sidearms really warrant the 🤢🤢🤢est of 🤢🤢🤢s.
+//dimwishlist:item=-3222518097#notes:Anonymous Aupuke 🤢🤢🤢 (does anyone really use sidearms?)
 
 // aggressive hand cannons
 dimwishlist:item=-2824241403#notes:Bad Pukes XF4354 🤢🤢🤢 (Duke is best in stats and perks for PvE, Loud Lullaby has some newer perks, Warden's Law has Feeding Frenzy, Thin Line is uniquely energy & can do decent perks)
