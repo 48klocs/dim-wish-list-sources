@@ -1,5 +1,5 @@
 title:This is a compiled collection of god/recommended rolls from top community minds.
-description:Thanks to u/Mercules904, u/pandapaxxy, u/HavocsCall, @chrisfried, and @sundevour for their contributions. Ping u/48klocs / @48klocs with any issues.
+description:Thanks to u/Mercules904, u/pandapaxxy, u/HavocsCall, and @chrisfried for their contributions. Ping u/48klocs / @48klocs with any issues.
 
 // Mercules' Erentil FR4 breakdown
 // https://www.reddit.com/r/DestinyTheGame/comments/cbxao7/massive_breakdown_of_erentil_fr4_including_stats/
