@@ -21,11 +21,6 @@ def main():
         print "Generating {}.txt".format(k)
         v.printFile()
 
-
-def loadFileDefinitions(definition_file_list) :
-    # Loop through all of the files that are in the definition list. And add them to the actual file definition
-    readFile(definition_file_list[0])
-
 class OutputFile:
     def __init__(self, fileName, fileDefinition, fileGroupMap):
         self.fileName = fileName
