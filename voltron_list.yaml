@@ -51,7 +51,7 @@ definitions:
         - trash_rolls.txt
         
 outputFiles:
-    voltron:
+    voltron_mkb:
         <<: *voltron
         fileGroups:
             - pandaPvE
@@ -67,4 +67,23 @@ outputFiles:
             - mercules
             - pandaPvP
             - pandaController
+    voltron_mkb_choosy:
+        <<: *voltron
+        fileGroups:
+            - pandaPvE
+            - pandaGeneric
+            - mercules
+            - pandaPvP
+            - pandaMKB
+            - trash_lists
+    voltron_controller_choosy:
+        <<: *voltron
+        fileGroups:
+            - pandaPvE
+            - pandaGeneric
+            - mercules
+            - pandaPvP
+            - pandaController
+            - trash_lists
+
 
