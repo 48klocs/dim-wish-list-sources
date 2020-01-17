@@ -1,5 +1,5 @@
 title:Armor 1.0 picks from u/HavocsCall
-description:Originally found at https:notes:github.com/HavocsCall/DIMArmorSets/blob/master/Armor%20Wish%20List.txt
+description:Originally found at https://github.com/HavocsCall/DIMArmorSets/blob/master/Armor%20Wish%20List.txt
 
 //-----Helmet-----
 
