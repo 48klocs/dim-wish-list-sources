@@ -1,3 +1,5 @@
+from __future__ import print_function
+from builtins import object
 import yaml
 
 DEFINITION_FILE = "voltron_list.yaml"
@@ -9,19 +11,19 @@ def main():
 
     fileGroupsRaw = ymlRaw["definitions"]
     fileGroups = {}
-    for definition in fileGroupsRaw.keys():
+    for definition in list(fileGroupsRaw.keys()):
         fileGroups[definition] = FileGroup(definition, fileGroupsRaw[definition])
     
     outputFilesRaw = ymlRaw["outputFiles"]
     outputFiles = {}
-    for k,v in outputFilesRaw.iteritems():
+    for k,v in outputFilesRaw.items():
         outputFiles[k] = OutputFile(k, v, fileGroups)
 
-    for k, v in outputFiles.iteritems():
-        print "Generating {}.txt".format(k)
+    for k, v in outputFiles.items():
+        print("Generating {}.txt".format(k))
         v.printFile()
 
-class OutputFile:
+class OutputFile(object):
     def __init__(self, fileName, fileDefinition, fileGroupMap):
         self.fileName = fileName
         self.description = fileDefinition["description"]
@@ -39,7 +41,7 @@ class OutputFile:
             f.write(self.getString())
 
 
-class FileGroup:
+class FileGroup(object):
     def __init__(self, groupName, fileList):
         self.name = groupName
         self.files = {}
@@ -47,14 +49,14 @@ class FileGroup:
             self.files[fileName] = WishlistInputFile(fileName)
     def getLines(self):
         lines = []
-        for file in self.files.values():
+        for file in list(self.files.values()):
             lines = lines + file.readFile()
         return lines
     def getString(self):
         return "\n".join(self.getLines())
 
 
-class WishlistInputFile:
+class WishlistInputFile(object):
     def __init__(self, fileName):
         self.fileName = fileName
         self.lines = []
