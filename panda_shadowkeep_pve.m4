@@ -1,0 +1,4206 @@
+title: u/pandapaxxy's Shadowkeep/Season of Undying PvE recommendations
+description: Translated from https://docs.google.com/spreadsheets/d/1zuFDr31U9SQbhldpbl_JFxVGw6VfXophMEpv_OfDtJQ/edit#gid=0 by your old pal 48klocs
+
+// Exit Strategy
+wishlist_entry(4227181568, Arrowhead_Brake,Ricochet_Rounds,Underdog,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4227181568, Arrowhead_Brake,Ricochet_Rounds,Threat_Detector,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4227181568, Arrowhead_Brake,Ricochet_Rounds,Underdog,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4227181568, Arrowhead_Brake,Ricochet_Rounds,Threat_Detector,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4227181568, Arrowhead_Brake,Ricochet_Rounds,Underdog,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4227181568, Arrowhead_Brake,Ricochet_Rounds,Threat_Detector,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4227181568, Arrowhead_Brake,Ricochet_Rounds,Underdog,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4227181568, Arrowhead_Brake,Ricochet_Rounds,Threat_Detector,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+
+//Imperative
+Imperative(Fluted_Barrel,Tactical_Mag,1168162263,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Tactical_Mag,1168162263,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Tactical_Mag,1168162263,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Appended_Mag,1168162263,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Appended_Mag,1168162263,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Appended_Mag,1168162263,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Flared_Magwell,1168162263,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Flared_Magwell,1168162263,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Flared_Magwell,1168162263,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Tactical_Mag,Triple_Tap,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Tactical_Mag,Triple_Tap,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Tactical_Mag,Triple_Tap,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Appended_Mag,Triple_Tap,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Appended_Mag,Triple_Tap,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Appended_Mag,Triple_Tap,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Flared_Magwell,Triple_Tap,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Flared_Magwell,Triple_Tap,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Flared_Magwell,Triple_Tap,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Tactical_Mag,Eye_of_the_Storm,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Tactical_Mag,Eye_of_the_Storm,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Tactical_Mag,Eye_of_the_Storm,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Appended_Mag,Eye_of_the_Storm,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Appended_Mag,Eye_of_the_Storm,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Appended_Mag,Eye_of_the_Storm,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Flared_Magwell,Eye_of_the_Storm,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Flared_Magwell,Eye_of_the_Storm,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Flared_Magwell,Eye_of_the_Storm,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Tactical_Mag,3124871000,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Tactical_Mag,3124871000,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Tactical_Mag,3124871000,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Appended_Mag,3124871000,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Appended_Mag,3124871000,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Appended_Mag,3124871000,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Flared_Magwell,3124871000,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Flared_Magwell,3124871000,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Flared_Magwell,3124871000,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Tactical_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Tactical_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Tactical_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Appended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Appended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Appended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Flared_Magwell,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Flared_Magwell,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Flared_Magwell,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Tactical_Mag,Triple_Tap,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Tactical_Mag,Triple_Tap,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Tactical_Mag,Triple_Tap,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Appended_Mag,Triple_Tap,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Appended_Mag,Triple_Tap,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Appended_Mag,Triple_Tap,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Flared_Magwell,Triple_Tap,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Flared_Magwell,Triple_Tap,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Flared_Magwell,Triple_Tap,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Tactical_Mag,Eye_of_the_Storm,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Tactical_Mag,Eye_of_the_Storm,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Tactical_Mag,Eye_of_the_Storm,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Appended_Mag,Eye_of_the_Storm,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Appended_Mag,Eye_of_the_Storm,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Appended_Mag,Eye_of_the_Storm,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Flared_Magwell,Eye_of_the_Storm,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Flared_Magwell,Eye_of_the_Storm,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Flared_Magwell,Eye_of_the_Storm,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Tactical_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Tactical_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Tactical_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Appended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Appended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Appended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Flared_Magwell,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Flared_Magwell,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Flared_Magwell,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Tactical_Mag,1168162263,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Tactical_Mag,1168162263,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Tactical_Mag,1168162263,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Appended_Mag,1168162263,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Appended_Mag,1168162263,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Appended_Mag,1168162263,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Flared_Magwell,1168162263,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Flared_Magwell,1168162263,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Flared_Magwell,1168162263,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Tactical_Mag,Triple_Tap,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Tactical_Mag,Triple_Tap,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Tactical_Mag,Triple_Tap,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Appended_Mag,Triple_Tap,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Appended_Mag,Triple_Tap,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Appended_Mag,Triple_Tap,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Flared_Magwell,Triple_Tap,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Flared_Magwell,Triple_Tap,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Flared_Magwell,Triple_Tap,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Tactical_Mag,Eye_of_the_Storm,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Tactical_Mag,Eye_of_the_Storm,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Tactical_Mag,Eye_of_the_Storm,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Appended_Mag,Eye_of_the_Storm,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Appended_Mag,Eye_of_the_Storm,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Appended_Mag,Eye_of_the_Storm,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Flared_Magwell,Eye_of_the_Storm,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Flared_Magwell,Eye_of_the_Storm,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Flared_Magwell,Eye_of_the_Storm,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Tactical_Mag,3124871000,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Tactical_Mag,3124871000,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Tactical_Mag,3124871000,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Appended_Mag,3124871000,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Appended_Mag,3124871000,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Appended_Mag,3124871000,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Flared_Magwell,3124871000,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Flared_Magwell,3124871000,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Flared_Magwell,3124871000,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Tactical_Mag,1168162263,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Tactical_Mag,1168162263,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Tactical_Mag,1168162263,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Appended_Mag,1168162263,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Appended_Mag,1168162263,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Appended_Mag,1168162263,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Flared_Magwell,1168162263,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Flared_Magwell,1168162263,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Flared_Magwell,1168162263,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Tactical_Mag,Triple_Tap,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Tactical_Mag,Triple_Tap,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Tactical_Mag,Triple_Tap,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Appended_Mag,Triple_Tap,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Appended_Mag,Triple_Tap,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Appended_Mag,Triple_Tap,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Flared_Magwell,Triple_Tap,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Flared_Magwell,Triple_Tap,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Flared_Magwell,Triple_Tap,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Tactical_Mag,Eye_of_the_Storm,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Tactical_Mag,Eye_of_the_Storm,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Tactical_Mag,Eye_of_the_Storm,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Appended_Mag,Eye_of_the_Storm,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Appended_Mag,Eye_of_the_Storm,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Appended_Mag,Eye_of_the_Storm,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Flared_Magwell,Eye_of_the_Storm,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Flared_Magwell,Eye_of_the_Storm,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Flared_Magwell,Eye_of_the_Storm,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Tactical_Mag,3124871000,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Tactical_Mag,3124871000,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Tactical_Mag,3124871000,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Appended_Mag,3124871000,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Appended_Mag,3124871000,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Appended_Mag,3124871000,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Flared_Magwell,3124871000,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Flared_Magwell,3124871000,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Flared_Magwell,3124871000,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Tactical_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Tactical_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Tactical_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Appended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Appended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Appended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Flared_Magwell,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Flared_Magwell,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Flared_Magwell,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Tactical_Mag,Triple_Tap,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Tactical_Mag,Triple_Tap,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Tactical_Mag,Triple_Tap,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Appended_Mag,Triple_Tap,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Appended_Mag,Triple_Tap,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Appended_Mag,Triple_Tap,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Flared_Magwell,Triple_Tap,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Flared_Magwell,Triple_Tap,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Flared_Magwell,Triple_Tap,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Tactical_Mag,Eye_of_the_Storm,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Tactical_Mag,Eye_of_the_Storm,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Tactical_Mag,Eye_of_the_Storm,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Appended_Mag,Eye_of_the_Storm,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Appended_Mag,Eye_of_the_Storm,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Appended_Mag,Eye_of_the_Storm,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Flared_Magwell,Eye_of_the_Storm,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Flared_Magwell,Eye_of_the_Storm,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Flared_Magwell,Eye_of_the_Storm,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Tactical_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Tactical_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Tactical_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Appended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Appended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Appended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Flared_Magwell,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Flared_Magwell,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Flared_Magwell,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Tactical_Mag,1168162263,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Tactical_Mag,1168162263,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Tactical_Mag,1168162263,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Appended_Mag,1168162263,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Appended_Mag,1168162263,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Appended_Mag,1168162263,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Flared_Magwell,1168162263,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Flared_Magwell,1168162263,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Flared_Magwell,1168162263,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Tactical_Mag,Triple_Tap,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Tactical_Mag,Triple_Tap,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Tactical_Mag,Triple_Tap,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Appended_Mag,Triple_Tap,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Appended_Mag,Triple_Tap,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Appended_Mag,Triple_Tap,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Flared_Magwell,Triple_Tap,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Flared_Magwell,Triple_Tap,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Flared_Magwell,Triple_Tap,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Tactical_Mag,Eye_of_the_Storm,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Tactical_Mag,Eye_of_the_Storm,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Tactical_Mag,Eye_of_the_Storm,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Appended_Mag,Eye_of_the_Storm,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Appended_Mag,Eye_of_the_Storm,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Appended_Mag,Eye_of_the_Storm,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Flared_Magwell,Eye_of_the_Storm,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Flared_Magwell,Eye_of_the_Storm,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Flared_Magwell,Eye_of_the_Storm,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Tactical_Mag,3124871000,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Tactical_Mag,3124871000,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Tactical_Mag,3124871000,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Appended_Mag,3124871000,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Appended_Mag,3124871000,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Appended_Mag,3124871000,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Flared_Magwell,3124871000,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Flared_Magwell,3124871000,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Flared_Magwell,3124871000,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Tactical_Mag,1168162263,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Tactical_Mag,1168162263,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Tactical_Mag,1168162263,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Appended_Mag,1168162263,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Appended_Mag,1168162263,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Appended_Mag,1168162263,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Flared_Magwell,1168162263,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Flared_Magwell,1168162263,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Flared_Magwell,1168162263,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Tactical_Mag,Triple_Tap,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Tactical_Mag,Triple_Tap,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Tactical_Mag,Triple_Tap,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Appended_Mag,Triple_Tap,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Appended_Mag,Triple_Tap,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Appended_Mag,Triple_Tap,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Flared_Magwell,Triple_Tap,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Flared_Magwell,Triple_Tap,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Flared_Magwell,Triple_Tap,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Tactical_Mag,Eye_of_the_Storm,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Tactical_Mag,Eye_of_the_Storm,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Tactical_Mag,Eye_of_the_Storm,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Appended_Mag,Eye_of_the_Storm,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Appended_Mag,Eye_of_the_Storm,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Appended_Mag,Eye_of_the_Storm,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Flared_Magwell,Eye_of_the_Storm,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Flared_Magwell,Eye_of_the_Storm,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Flared_Magwell,Eye_of_the_Storm,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Tactical_Mag,3124871000,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Tactical_Mag,3124871000,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Tactical_Mag,3124871000,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Appended_Mag,3124871000,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Appended_Mag,3124871000,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Appended_Mag,3124871000,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Flared_Magwell,3124871000,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Flared_Magwell,3124871000,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Flared_Magwell,3124871000,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Tactical_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Tactical_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Tactical_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Appended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Appended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Appended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Flared_Magwell,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Flared_Magwell,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Flared_Magwell,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Tactical_Mag,Triple_Tap,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Tactical_Mag,Triple_Tap,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Tactical_Mag,Triple_Tap,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Appended_Mag,Triple_Tap,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Appended_Mag,Triple_Tap,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Appended_Mag,Triple_Tap,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Flared_Magwell,Triple_Tap,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Flared_Magwell,Triple_Tap,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Flared_Magwell,Triple_Tap,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Tactical_Mag,Eye_of_the_Storm,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Tactical_Mag,Eye_of_the_Storm,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Tactical_Mag,Eye_of_the_Storm,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Appended_Mag,Eye_of_the_Storm,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Appended_Mag,Eye_of_the_Storm,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Appended_Mag,Eye_of_the_Storm,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Flared_Magwell,Eye_of_the_Storm,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Flared_Magwell,Eye_of_the_Storm,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Flared_Magwell,Eye_of_the_Storm,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Tactical_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Tactical_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Tactical_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Appended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Appended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Appended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Flared_Magwell,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Flared_Magwell,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Flared_Magwell,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Tactical_Mag,1168162263,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Tactical_Mag,1168162263,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Tactical_Mag,1168162263,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Appended_Mag,1168162263,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Appended_Mag,1168162263,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Appended_Mag,1168162263,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Flared_Magwell,1168162263,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Flared_Magwell,1168162263,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Flared_Magwell,1168162263,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Tactical_Mag,Triple_Tap,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Tactical_Mag,Triple_Tap,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Tactical_Mag,Triple_Tap,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Appended_Mag,Triple_Tap,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Appended_Mag,Triple_Tap,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Appended_Mag,Triple_Tap,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Flared_Magwell,Triple_Tap,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Flared_Magwell,Triple_Tap,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Flared_Magwell,Triple_Tap,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Tactical_Mag,Eye_of_the_Storm,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Tactical_Mag,Eye_of_the_Storm,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Tactical_Mag,Eye_of_the_Storm,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Appended_Mag,Eye_of_the_Storm,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Appended_Mag,Eye_of_the_Storm,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Appended_Mag,Eye_of_the_Storm,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Flared_Magwell,Eye_of_the_Storm,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Flared_Magwell,Eye_of_the_Storm,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Flared_Magwell,Eye_of_the_Storm,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Tactical_Mag,3124871000,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Tactical_Mag,3124871000,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Tactical_Mag,3124871000,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Appended_Mag,3124871000,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Appended_Mag,3124871000,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Appended_Mag,3124871000,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Flared_Magwell,3124871000,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Flared_Magwell,3124871000,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Flared_Magwell,3124871000,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Tactical_Mag,1168162263,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Tactical_Mag,1168162263,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Tactical_Mag,1168162263,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Appended_Mag,1168162263,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Appended_Mag,1168162263,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Appended_Mag,1168162263,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Flared_Magwell,1168162263,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Flared_Magwell,1168162263,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Flared_Magwell,1168162263,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Tactical_Mag,Triple_Tap,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Tactical_Mag,Triple_Tap,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Tactical_Mag,Triple_Tap,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Appended_Mag,Triple_Tap,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Appended_Mag,Triple_Tap,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Appended_Mag,Triple_Tap,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Flared_Magwell,Triple_Tap,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Flared_Magwell,Triple_Tap,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Flared_Magwell,Triple_Tap,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Tactical_Mag,Eye_of_the_Storm,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Tactical_Mag,Eye_of_the_Storm,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Tactical_Mag,Eye_of_the_Storm,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Appended_Mag,Eye_of_the_Storm,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Appended_Mag,Eye_of_the_Storm,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Appended_Mag,Eye_of_the_Storm,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Flared_Magwell,Eye_of_the_Storm,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Flared_Magwell,Eye_of_the_Storm,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Flared_Magwell,Eye_of_the_Storm,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Tactical_Mag,3124871000,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Tactical_Mag,3124871000,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Tactical_Mag,3124871000,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Appended_Mag,3124871000,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Appended_Mag,3124871000,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Appended_Mag,3124871000,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Flared_Magwell,3124871000,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Flared_Magwell,3124871000,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Flared_Magwell,3124871000,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Tactical_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Tactical_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Tactical_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Appended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Appended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Appended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Flared_Magwell,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Flared_Magwell,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Flared_Magwell,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Tactical_Mag,Triple_Tap,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Tactical_Mag,Triple_Tap,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Tactical_Mag,Triple_Tap,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Appended_Mag,Triple_Tap,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Appended_Mag,Triple_Tap,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Appended_Mag,Triple_Tap,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Flared_Magwell,Triple_Tap,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Flared_Magwell,Triple_Tap,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Flared_Magwell,Triple_Tap,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Tactical_Mag,Eye_of_the_Storm,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Tactical_Mag,Eye_of_the_Storm,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Tactical_Mag,Eye_of_the_Storm,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Appended_Mag,Eye_of_the_Storm,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Appended_Mag,Eye_of_the_Storm,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Appended_Mag,Eye_of_the_Storm,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Flared_Magwell,Eye_of_the_Storm,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Flared_Magwell,Eye_of_the_Storm,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Flared_Magwell,Eye_of_the_Storm,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Tactical_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Tactical_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Tactical_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Appended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Appended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Appended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Flared_Magwell,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Flared_Magwell,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Flared_Magwell,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Tactical_Mag,1168162263,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Tactical_Mag,1168162263,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Tactical_Mag,1168162263,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Appended_Mag,1168162263,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Appended_Mag,1168162263,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Appended_Mag,1168162263,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Flared_Magwell,1168162263,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Flared_Magwell,1168162263,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Flared_Magwell,1168162263,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Tactical_Mag,Triple_Tap,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Tactical_Mag,Triple_Tap,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Tactical_Mag,Triple_Tap,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Appended_Mag,Triple_Tap,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Appended_Mag,Triple_Tap,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Appended_Mag,Triple_Tap,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Flared_Magwell,Triple_Tap,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Flared_Magwell,Triple_Tap,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Flared_Magwell,Triple_Tap,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Tactical_Mag,Eye_of_the_Storm,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Tactical_Mag,Eye_of_the_Storm,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Tactical_Mag,Eye_of_the_Storm,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Appended_Mag,Eye_of_the_Storm,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Appended_Mag,Eye_of_the_Storm,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Appended_Mag,Eye_of_the_Storm,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Flared_Magwell,Eye_of_the_Storm,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Flared_Magwell,Eye_of_the_Storm,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Flared_Magwell,Eye_of_the_Storm,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Tactical_Mag,3124871000,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Tactical_Mag,3124871000,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Tactical_Mag,3124871000,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Appended_Mag,3124871000,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Appended_Mag,3124871000,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Appended_Mag,3124871000,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Fluted_Barrel,Flared_Magwell,3124871000,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Corkscrew_Rifling,Flared_Magwell,3124871000,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+Imperative(Polygonal_Rifling,Flared_Magwell,3124871000,Explosive_Payload)#notes:pandapaxxy Shadowkeep PvE
+
+//Loud Lullaby (version 1)
+Loud_Lullaby(Hammer_Forged_Rifling,Tactical_Mag,No_Distractions,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Smallbore,Tactical_Mag,No_Distractions,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Corkscrew_Rifling,Tactical_Mag,No_Distractions,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Hammer_Forged_Rifling,Extended_Mag,No_Distractions,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Smallbore,Extended_Mag,No_Distractions,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Corkscrew_Rifling,Extended_Mag,No_Distractions,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Hammer_Forged_Rifling,Tactical_Mag,Eye_of_the_Storm,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Smallbore,Tactical_Mag,Eye_of_the_Storm,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Corkscrew_Rifling,Tactical_Mag,Eye_of_the_Storm,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Hammer_Forged_Rifling,Extended_Mag,Eye_of_the_Storm,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Smallbore,Extended_Mag,Eye_of_the_Storm,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Corkscrew_Rifling,Extended_Mag,Eye_of_the_Storm,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Hammer_Forged_Rifling,Tactical_Mag,1168162263,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Smallbore,Tactical_Mag,1168162263,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Corkscrew_Rifling,Tactical_Mag,1168162263,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Hammer_Forged_Rifling,Extended_Mag,1168162263,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Smallbore,Extended_Mag,1168162263,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Corkscrew_Rifling,Extended_Mag,1168162263,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Hammer_Forged_Rifling,Tactical_Mag,3124871000,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Smallbore,Tactical_Mag,3124871000,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Corkscrew_Rifling,Tactical_Mag,3124871000,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Hammer_Forged_Rifling,Extended_Mag,3124871000,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Smallbore,Extended_Mag,3124871000,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Corkscrew_Rifling,Extended_Mag,3124871000,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Hammer_Forged_Rifling,Tactical_Mag,No_Distractions,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Smallbore,Tactical_Mag,No_Distractions,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Corkscrew_Rifling,Tactical_Mag,No_Distractions,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Hammer_Forged_Rifling,Extended_Mag,No_Distractions,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Smallbore,Extended_Mag,No_Distractions,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Corkscrew_Rifling,Extended_Mag,No_Distractions,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Hammer_Forged_Rifling,Tactical_Mag,Eye_of_the_Storm,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Smallbore,Tactical_Mag,Eye_of_the_Storm,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Corkscrew_Rifling,Tactical_Mag,Eye_of_the_Storm,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Hammer_Forged_Rifling,Extended_Mag,Eye_of_the_Storm,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Smallbore,Extended_Mag,Eye_of_the_Storm,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Corkscrew_Rifling,Extended_Mag,Eye_of_the_Storm,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Hammer_Forged_Rifling,Tactical_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Smallbore,Tactical_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Corkscrew_Rifling,Tactical_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Hammer_Forged_Rifling,Extended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Smallbore,Extended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Corkscrew_Rifling,Extended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Hammer_Forged_Rifling,Tactical_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Smallbore,Tactical_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Corkscrew_Rifling,Tactical_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Hammer_Forged_Rifling,Extended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Smallbore,Extended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Corkscrew_Rifling,Extended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Hammer_Forged_Rifling,Tactical_Mag,No_Distractions,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Smallbore,Tactical_Mag,No_Distractions,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Corkscrew_Rifling,Tactical_Mag,No_Distractions,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Hammer_Forged_Rifling,Extended_Mag,No_Distractions,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Smallbore,Extended_Mag,No_Distractions,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Corkscrew_Rifling,Extended_Mag,No_Distractions,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Hammer_Forged_Rifling,Tactical_Mag,Eye_of_the_Storm,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Smallbore,Tactical_Mag,Eye_of_the_Storm,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Corkscrew_Rifling,Tactical_Mag,Eye_of_the_Storm,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Hammer_Forged_Rifling,Extended_Mag,Eye_of_the_Storm,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Smallbore,Extended_Mag,Eye_of_the_Storm,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Corkscrew_Rifling,Extended_Mag,Eye_of_the_Storm,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Hammer_Forged_Rifling,Tactical_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Smallbore,Tactical_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Corkscrew_Rifling,Tactical_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Hammer_Forged_Rifling,Extended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Smallbore,Extended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Corkscrew_Rifling,Extended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Hammer_Forged_Rifling,Tactical_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Smallbore,Tactical_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Corkscrew_Rifling,Tactical_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Hammer_Forged_Rifling,Extended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Smallbore,Extended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Corkscrew_Rifling,Extended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Hammer_Forged_Rifling,Tactical_Mag,No_Distractions,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Smallbore,Tactical_Mag,No_Distractions,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Corkscrew_Rifling,Tactical_Mag,No_Distractions,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Hammer_Forged_Rifling,Extended_Mag,No_Distractions,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Smallbore,Extended_Mag,No_Distractions,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Corkscrew_Rifling,Extended_Mag,No_Distractions,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Hammer_Forged_Rifling,Tactical_Mag,Eye_of_the_Storm,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Smallbore,Tactical_Mag,Eye_of_the_Storm,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Corkscrew_Rifling,Tactical_Mag,Eye_of_the_Storm,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Hammer_Forged_Rifling,Extended_Mag,Eye_of_the_Storm,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Smallbore,Extended_Mag,Eye_of_the_Storm,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Corkscrew_Rifling,Extended_Mag,Eye_of_the_Storm,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Hammer_Forged_Rifling,Tactical_Mag,1168162263,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Smallbore,Tactical_Mag,1168162263,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Corkscrew_Rifling,Tactical_Mag,1168162263,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Hammer_Forged_Rifling,Extended_Mag,1168162263,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Smallbore,Extended_Mag,1168162263,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Corkscrew_Rifling,Extended_Mag,1168162263,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Hammer_Forged_Rifling,Tactical_Mag,3124871000,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Smallbore,Tactical_Mag,3124871000,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Corkscrew_Rifling,Tactical_Mag,3124871000,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Hammer_Forged_Rifling,Extended_Mag,3124871000,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Smallbore,Extended_Mag,3124871000,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Corkscrew_Rifling,Extended_Mag,3124871000,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Hammer_Forged_Rifling,Tactical_Mag,No_Distractions,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Smallbore,Tactical_Mag,No_Distractions,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Corkscrew_Rifling,Tactical_Mag,No_Distractions,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Hammer_Forged_Rifling,Extended_Mag,No_Distractions,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Smallbore,Extended_Mag,No_Distractions,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Corkscrew_Rifling,Extended_Mag,No_Distractions,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Hammer_Forged_Rifling,Tactical_Mag,Eye_of_the_Storm,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Smallbore,Tactical_Mag,Eye_of_the_Storm,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Corkscrew_Rifling,Tactical_Mag,Eye_of_the_Storm,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Hammer_Forged_Rifling,Extended_Mag,Eye_of_the_Storm,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Smallbore,Extended_Mag,Eye_of_the_Storm,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Corkscrew_Rifling,Extended_Mag,Eye_of_the_Storm,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Hammer_Forged_Rifling,Tactical_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Smallbore,Tactical_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Corkscrew_Rifling,Tactical_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Hammer_Forged_Rifling,Extended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Smallbore,Extended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Corkscrew_Rifling,Extended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Hammer_Forged_Rifling,Tactical_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Smallbore,Tactical_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Corkscrew_Rifling,Tactical_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Hammer_Forged_Rifling,Extended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Smallbore,Extended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Corkscrew_Rifling,Extended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Hammer_Forged_Rifling,Tactical_Mag,No_Distractions,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Smallbore,Tactical_Mag,No_Distractions,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Corkscrew_Rifling,Tactical_Mag,No_Distractions,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Hammer_Forged_Rifling,Extended_Mag,No_Distractions,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Smallbore,Extended_Mag,No_Distractions,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Corkscrew_Rifling,Extended_Mag,No_Distractions,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Hammer_Forged_Rifling,Tactical_Mag,Eye_of_the_Storm,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Smallbore,Tactical_Mag,Eye_of_the_Storm,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Corkscrew_Rifling,Tactical_Mag,Eye_of_the_Storm,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Hammer_Forged_Rifling,Extended_Mag,Eye_of_the_Storm,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Smallbore,Extended_Mag,Eye_of_the_Storm,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Corkscrew_Rifling,Extended_Mag,Eye_of_the_Storm,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Hammer_Forged_Rifling,Tactical_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Smallbore,Tactical_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Corkscrew_Rifling,Tactical_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Hammer_Forged_Rifling,Extended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Smallbore,Extended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Corkscrew_Rifling,Extended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Hammer_Forged_Rifling,Tactical_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Smallbore,Tactical_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Corkscrew_Rifling,Tactical_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Hammer_Forged_Rifling,Extended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Smallbore,Extended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Loud_Lullaby(Corkscrew_Rifling,Extended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+
+//Loud Lullaby (version 2)
+wishlist_entry(4169533630, Hammer_Forged_Rifling,Tactical_Mag,No_Distractions,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Smallbore,Tactical_Mag,No_Distractions,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Corkscrew_Rifling,Tactical_Mag,No_Distractions,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Hammer_Forged_Rifling,Extended_Mag,No_Distractions,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Smallbore,Extended_Mag,No_Distractions,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Corkscrew_Rifling,Extended_Mag,No_Distractions,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Hammer_Forged_Rifling,Tactical_Mag,Eye_of_the_Storm,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Smallbore,Tactical_Mag,Eye_of_the_Storm,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Corkscrew_Rifling,Tactical_Mag,Eye_of_the_Storm,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Hammer_Forged_Rifling,Extended_Mag,Eye_of_the_Storm,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Smallbore,Extended_Mag,Eye_of_the_Storm,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Corkscrew_Rifling,Extended_Mag,Eye_of_the_Storm,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Hammer_Forged_Rifling,Tactical_Mag,1168162263,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Smallbore,Tactical_Mag,1168162263,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Corkscrew_Rifling,Tactical_Mag,1168162263,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Hammer_Forged_Rifling,Extended_Mag,1168162263,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Smallbore,Extended_Mag,1168162263,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Corkscrew_Rifling,Extended_Mag,1168162263,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Hammer_Forged_Rifling,Tactical_Mag,3124871000,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Smallbore,Tactical_Mag,3124871000,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Corkscrew_Rifling,Tactical_Mag,3124871000,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Hammer_Forged_Rifling,Extended_Mag,3124871000,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Smallbore,Extended_Mag,3124871000,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Corkscrew_Rifling,Extended_Mag,3124871000,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Hammer_Forged_Rifling,Tactical_Mag,No_Distractions,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Smallbore,Tactical_Mag,No_Distractions,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Corkscrew_Rifling,Tactical_Mag,No_Distractions,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Hammer_Forged_Rifling,Extended_Mag,No_Distractions,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Smallbore,Extended_Mag,No_Distractions,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Corkscrew_Rifling,Extended_Mag,No_Distractions,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Hammer_Forged_Rifling,Tactical_Mag,Eye_of_the_Storm,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Smallbore,Tactical_Mag,Eye_of_the_Storm,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Corkscrew_Rifling,Tactical_Mag,Eye_of_the_Storm,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Hammer_Forged_Rifling,Extended_Mag,Eye_of_the_Storm,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Smallbore,Extended_Mag,Eye_of_the_Storm,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Corkscrew_Rifling,Extended_Mag,Eye_of_the_Storm,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Hammer_Forged_Rifling,Tactical_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Smallbore,Tactical_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Corkscrew_Rifling,Tactical_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Hammer_Forged_Rifling,Extended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Smallbore,Extended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Corkscrew_Rifling,Extended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Hammer_Forged_Rifling,Tactical_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Smallbore,Tactical_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Corkscrew_Rifling,Tactical_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Hammer_Forged_Rifling,Extended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Smallbore,Extended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Corkscrew_Rifling,Extended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Hammer_Forged_Rifling,Tactical_Mag,No_Distractions,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Smallbore,Tactical_Mag,No_Distractions,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Corkscrew_Rifling,Tactical_Mag,No_Distractions,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Hammer_Forged_Rifling,Extended_Mag,No_Distractions,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Smallbore,Extended_Mag,No_Distractions,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Corkscrew_Rifling,Extended_Mag,No_Distractions,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Hammer_Forged_Rifling,Tactical_Mag,Eye_of_the_Storm,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Smallbore,Tactical_Mag,Eye_of_the_Storm,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Corkscrew_Rifling,Tactical_Mag,Eye_of_the_Storm,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Hammer_Forged_Rifling,Extended_Mag,Eye_of_the_Storm,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Smallbore,Extended_Mag,Eye_of_the_Storm,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Corkscrew_Rifling,Extended_Mag,Eye_of_the_Storm,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Hammer_Forged_Rifling,Tactical_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Smallbore,Tactical_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Corkscrew_Rifling,Tactical_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Hammer_Forged_Rifling,Extended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Smallbore,Extended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Corkscrew_Rifling,Extended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Hammer_Forged_Rifling,Tactical_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Smallbore,Tactical_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Corkscrew_Rifling,Tactical_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Hammer_Forged_Rifling,Extended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Smallbore,Extended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Corkscrew_Rifling,Extended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Hammer_Forged_Rifling,Tactical_Mag,No_Distractions,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Smallbore,Tactical_Mag,No_Distractions,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Corkscrew_Rifling,Tactical_Mag,No_Distractions,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Hammer_Forged_Rifling,Extended_Mag,No_Distractions,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Smallbore,Extended_Mag,No_Distractions,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Corkscrew_Rifling,Extended_Mag,No_Distractions,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Hammer_Forged_Rifling,Tactical_Mag,Eye_of_the_Storm,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Smallbore,Tactical_Mag,Eye_of_the_Storm,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Corkscrew_Rifling,Tactical_Mag,Eye_of_the_Storm,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Hammer_Forged_Rifling,Extended_Mag,Eye_of_the_Storm,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Smallbore,Extended_Mag,Eye_of_the_Storm,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Corkscrew_Rifling,Extended_Mag,Eye_of_the_Storm,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Hammer_Forged_Rifling,Tactical_Mag,1168162263,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Smallbore,Tactical_Mag,1168162263,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Corkscrew_Rifling,Tactical_Mag,1168162263,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Hammer_Forged_Rifling,Extended_Mag,1168162263,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Smallbore,Extended_Mag,1168162263,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Corkscrew_Rifling,Extended_Mag,1168162263,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Hammer_Forged_Rifling,Tactical_Mag,3124871000,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Smallbore,Tactical_Mag,3124871000,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Corkscrew_Rifling,Tactical_Mag,3124871000,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Hammer_Forged_Rifling,Extended_Mag,3124871000,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Smallbore,Extended_Mag,3124871000,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Corkscrew_Rifling,Extended_Mag,3124871000,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Hammer_Forged_Rifling,Tactical_Mag,No_Distractions,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Smallbore,Tactical_Mag,No_Distractions,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Corkscrew_Rifling,Tactical_Mag,No_Distractions,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Hammer_Forged_Rifling,Extended_Mag,No_Distractions,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Smallbore,Extended_Mag,No_Distractions,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Corkscrew_Rifling,Extended_Mag,No_Distractions,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Hammer_Forged_Rifling,Tactical_Mag,Eye_of_the_Storm,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Smallbore,Tactical_Mag,Eye_of_the_Storm,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Corkscrew_Rifling,Tactical_Mag,Eye_of_the_Storm,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Hammer_Forged_Rifling,Extended_Mag,Eye_of_the_Storm,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Smallbore,Extended_Mag,Eye_of_the_Storm,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Corkscrew_Rifling,Extended_Mag,Eye_of_the_Storm,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Hammer_Forged_Rifling,Tactical_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Smallbore,Tactical_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Corkscrew_Rifling,Tactical_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Hammer_Forged_Rifling,Extended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Smallbore,Extended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Corkscrew_Rifling,Extended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Hammer_Forged_Rifling,Tactical_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Smallbore,Tactical_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Corkscrew_Rifling,Tactical_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Hammer_Forged_Rifling,Extended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Smallbore,Extended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Corkscrew_Rifling,Extended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Hammer_Forged_Rifling,Tactical_Mag,No_Distractions,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Smallbore,Tactical_Mag,No_Distractions,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Corkscrew_Rifling,Tactical_Mag,No_Distractions,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Hammer_Forged_Rifling,Extended_Mag,No_Distractions,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Smallbore,Extended_Mag,No_Distractions,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Corkscrew_Rifling,Extended_Mag,No_Distractions,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Hammer_Forged_Rifling,Tactical_Mag,Eye_of_the_Storm,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Smallbore,Tactical_Mag,Eye_of_the_Storm,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Corkscrew_Rifling,Tactical_Mag,Eye_of_the_Storm,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Hammer_Forged_Rifling,Extended_Mag,Eye_of_the_Storm,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Smallbore,Extended_Mag,Eye_of_the_Storm,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Corkscrew_Rifling,Extended_Mag,Eye_of_the_Storm,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Hammer_Forged_Rifling,Tactical_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Smallbore,Tactical_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Corkscrew_Rifling,Tactical_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Hammer_Forged_Rifling,Extended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Smallbore,Extended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Corkscrew_Rifling,Extended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Hammer_Forged_Rifling,Tactical_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Smallbore,Tactical_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Corkscrew_Rifling,Tactical_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Hammer_Forged_Rifling,Extended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Smallbore,Extended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4169533630, Corkscrew_Rifling,Extended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+
+//One Small Step (version 1)
+wishlist_entry(597679579, Smallbore,Tactical_Mag,Grave_Robber,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Barrel_Shroud,Tactical_Mag,Grave_Robber,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Corkscrew_Rifling,Tactical_Mag,Grave_Robber,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Smallbore,Extended_Mag,Grave_Robber,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Barrel_Shroud,Extended_Mag,Grave_Robber,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Corkscrew_Rifling,Extended_Mag,Grave_Robber,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Smallbore,Appended_Mag,Grave_Robber,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Barrel_Shroud,Appended_Mag,Grave_Robber,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Corkscrew_Rifling,Appended_Mag,Grave_Robber,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Smallbore,Tactical_Mag,Quickdraw,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Barrel_Shroud,Tactical_Mag,Quickdraw,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Corkscrew_Rifling,Tactical_Mag,Quickdraw,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Smallbore,Extended_Mag,Quickdraw,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Barrel_Shroud,Extended_Mag,Quickdraw,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Corkscrew_Rifling,Extended_Mag,Quickdraw,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Smallbore,Appended_Mag,Quickdraw,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Barrel_Shroud,Appended_Mag,Quickdraw,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Corkscrew_Rifling,Appended_Mag,Quickdraw,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Smallbore,Tactical_Mag,Auto_Loading_Holster,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Barrel_Shroud,Tactical_Mag,Auto_Loading_Holster,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Corkscrew_Rifling,Tactical_Mag,Auto_Loading_Holster,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Smallbore,Extended_Mag,Auto_Loading_Holster,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Barrel_Shroud,Extended_Mag,Auto_Loading_Holster,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Corkscrew_Rifling,Extended_Mag,Auto_Loading_Holster,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Smallbore,Appended_Mag,Auto_Loading_Holster,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Barrel_Shroud,Appended_Mag,Auto_Loading_Holster,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Corkscrew_Rifling,Appended_Mag,Auto_Loading_Holster,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Smallbore,Tactical_Mag,Grave_Robber,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Barrel_Shroud,Tactical_Mag,Grave_Robber,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Corkscrew_Rifling,Tactical_Mag,Grave_Robber,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Smallbore,Extended_Mag,Grave_Robber,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Barrel_Shroud,Extended_Mag,Grave_Robber,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Corkscrew_Rifling,Extended_Mag,Grave_Robber,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Smallbore,Appended_Mag,Grave_Robber,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Barrel_Shroud,Appended_Mag,Grave_Robber,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Corkscrew_Rifling,Appended_Mag,Grave_Robber,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Smallbore,Tactical_Mag,Quickdraw,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Barrel_Shroud,Tactical_Mag,Quickdraw,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Corkscrew_Rifling,Tactical_Mag,Quickdraw,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Smallbore,Extended_Mag,Quickdraw,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Barrel_Shroud,Extended_Mag,Quickdraw,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Corkscrew_Rifling,Extended_Mag,Quickdraw,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Smallbore,Appended_Mag,Quickdraw,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Barrel_Shroud,Appended_Mag,Quickdraw,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Corkscrew_Rifling,Appended_Mag,Quickdraw,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Smallbore,Tactical_Mag,Auto_Loading_Holster,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Barrel_Shroud,Tactical_Mag,Auto_Loading_Holster,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Corkscrew_Rifling,Tactical_Mag,Auto_Loading_Holster,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Smallbore,Extended_Mag,Auto_Loading_Holster,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Barrel_Shroud,Extended_Mag,Auto_Loading_Holster,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Corkscrew_Rifling,Extended_Mag,Auto_Loading_Holster,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Smallbore,Appended_Mag,Auto_Loading_Holster,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Barrel_Shroud,Appended_Mag,Auto_Loading_Holster,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Corkscrew_Rifling,Appended_Mag,Auto_Loading_Holster,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Smallbore,Tactical_Mag,Grave_Robber,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Barrel_Shroud,Tactical_Mag,Grave_Robber,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Corkscrew_Rifling,Tactical_Mag,Grave_Robber,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Smallbore,Extended_Mag,Grave_Robber,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Barrel_Shroud,Extended_Mag,Grave_Robber,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Corkscrew_Rifling,Extended_Mag,Grave_Robber,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Smallbore,Appended_Mag,Grave_Robber,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Barrel_Shroud,Appended_Mag,Grave_Robber,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Corkscrew_Rifling,Appended_Mag,Grave_Robber,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Smallbore,Tactical_Mag,Quickdraw,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Barrel_Shroud,Tactical_Mag,Quickdraw,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Corkscrew_Rifling,Tactical_Mag,Quickdraw,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Smallbore,Extended_Mag,Quickdraw,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Barrel_Shroud,Extended_Mag,Quickdraw,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Corkscrew_Rifling,Extended_Mag,Quickdraw,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Smallbore,Appended_Mag,Quickdraw,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Barrel_Shroud,Appended_Mag,Quickdraw,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Corkscrew_Rifling,Appended_Mag,Quickdraw,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Smallbore,Tactical_Mag,Auto_Loading_Holster,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Barrel_Shroud,Tactical_Mag,Auto_Loading_Holster,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Corkscrew_Rifling,Tactical_Mag,Auto_Loading_Holster,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Smallbore,Extended_Mag,Auto_Loading_Holster,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Barrel_Shroud,Extended_Mag,Auto_Loading_Holster,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Corkscrew_Rifling,Extended_Mag,Auto_Loading_Holster,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Smallbore,Appended_Mag,Auto_Loading_Holster,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Barrel_Shroud,Appended_Mag,Auto_Loading_Holster,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Corkscrew_Rifling,Appended_Mag,Auto_Loading_Holster,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Smallbore,Tactical_Mag,Grave_Robber,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Barrel_Shroud,Tactical_Mag,Grave_Robber,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Corkscrew_Rifling,Tactical_Mag,Grave_Robber,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Smallbore,Extended_Mag,Grave_Robber,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Barrel_Shroud,Extended_Mag,Grave_Robber,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Corkscrew_Rifling,Extended_Mag,Grave_Robber,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Smallbore,Appended_Mag,Grave_Robber,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Barrel_Shroud,Appended_Mag,Grave_Robber,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Corkscrew_Rifling,Appended_Mag,Grave_Robber,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Smallbore,Tactical_Mag,Quickdraw,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Barrel_Shroud,Tactical_Mag,Quickdraw,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Corkscrew_Rifling,Tactical_Mag,Quickdraw,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Smallbore,Extended_Mag,Quickdraw,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Barrel_Shroud,Extended_Mag,Quickdraw,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Corkscrew_Rifling,Extended_Mag,Quickdraw,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Smallbore,Appended_Mag,Quickdraw,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Barrel_Shroud,Appended_Mag,Quickdraw,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Corkscrew_Rifling,Appended_Mag,Quickdraw,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Smallbore,Tactical_Mag,Auto_Loading_Holster,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Barrel_Shroud,Tactical_Mag,Auto_Loading_Holster,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Corkscrew_Rifling,Tactical_Mag,Auto_Loading_Holster,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Smallbore,Extended_Mag,Auto_Loading_Holster,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Barrel_Shroud,Extended_Mag,Auto_Loading_Holster,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Corkscrew_Rifling,Extended_Mag,Auto_Loading_Holster,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Smallbore,Appended_Mag,Auto_Loading_Holster,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Barrel_Shroud,Appended_Mag,Auto_Loading_Holster,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(597679579, Corkscrew_Rifling,Appended_Mag,Auto_Loading_Holster,3425386926)#notes:pandapaxxy Shadowkeep PvE
+
+//One Small Step (version 2)
+One_Small_Step(Smallbore,Tactical_Mag,Grave_Robber,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Barrel_Shroud,Tactical_Mag,Grave_Robber,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Corkscrew_Rifling,Tactical_Mag,Grave_Robber,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Smallbore,Extended_Mag,Grave_Robber,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Barrel_Shroud,Extended_Mag,Grave_Robber,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Corkscrew_Rifling,Extended_Mag,Grave_Robber,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Smallbore,Appended_Mag,Grave_Robber,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Barrel_Shroud,Appended_Mag,Grave_Robber,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Corkscrew_Rifling,Appended_Mag,Grave_Robber,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Smallbore,Tactical_Mag,Quickdraw,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Barrel_Shroud,Tactical_Mag,Quickdraw,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Corkscrew_Rifling,Tactical_Mag,Quickdraw,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Smallbore,Extended_Mag,Quickdraw,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Barrel_Shroud,Extended_Mag,Quickdraw,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Corkscrew_Rifling,Extended_Mag,Quickdraw,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Smallbore,Appended_Mag,Quickdraw,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Barrel_Shroud,Appended_Mag,Quickdraw,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Corkscrew_Rifling,Appended_Mag,Quickdraw,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Smallbore,Tactical_Mag,Auto_Loading_Holster,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Barrel_Shroud,Tactical_Mag,Auto_Loading_Holster,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Corkscrew_Rifling,Tactical_Mag,Auto_Loading_Holster,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Smallbore,Extended_Mag,Auto_Loading_Holster,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Barrel_Shroud,Extended_Mag,Auto_Loading_Holster,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Corkscrew_Rifling,Extended_Mag,Auto_Loading_Holster,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Smallbore,Appended_Mag,Auto_Loading_Holster,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Barrel_Shroud,Appended_Mag,Auto_Loading_Holster,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Corkscrew_Rifling,Appended_Mag,Auto_Loading_Holster,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Smallbore,Tactical_Mag,Grave_Robber,3425386926)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Barrel_Shroud,Tactical_Mag,Grave_Robber,3425386926)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Corkscrew_Rifling,Tactical_Mag,Grave_Robber,3425386926)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Smallbore,Extended_Mag,Grave_Robber,3425386926)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Barrel_Shroud,Extended_Mag,Grave_Robber,3425386926)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Corkscrew_Rifling,Extended_Mag,Grave_Robber,3425386926)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Smallbore,Appended_Mag,Grave_Robber,3425386926)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Barrel_Shroud,Appended_Mag,Grave_Robber,3425386926)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Corkscrew_Rifling,Appended_Mag,Grave_Robber,3425386926)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Smallbore,Tactical_Mag,Quickdraw,3425386926)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Barrel_Shroud,Tactical_Mag,Quickdraw,3425386926)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Corkscrew_Rifling,Tactical_Mag,Quickdraw,3425386926)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Smallbore,Extended_Mag,Quickdraw,3425386926)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Barrel_Shroud,Extended_Mag,Quickdraw,3425386926)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Corkscrew_Rifling,Extended_Mag,Quickdraw,3425386926)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Smallbore,Appended_Mag,Quickdraw,3425386926)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Barrel_Shroud,Appended_Mag,Quickdraw,3425386926)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Corkscrew_Rifling,Appended_Mag,Quickdraw,3425386926)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Smallbore,Tactical_Mag,Auto_Loading_Holster,3425386926)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Barrel_Shroud,Tactical_Mag,Auto_Loading_Holster,3425386926)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Corkscrew_Rifling,Tactical_Mag,Auto_Loading_Holster,3425386926)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Smallbore,Extended_Mag,Auto_Loading_Holster,3425386926)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Barrel_Shroud,Extended_Mag,Auto_Loading_Holster,3425386926)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Corkscrew_Rifling,Extended_Mag,Auto_Loading_Holster,3425386926)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Smallbore,Appended_Mag,Auto_Loading_Holster,3425386926)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Barrel_Shroud,Appended_Mag,Auto_Loading_Holster,3425386926)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Corkscrew_Rifling,Appended_Mag,Auto_Loading_Holster,3425386926)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Smallbore,Tactical_Mag,Grave_Robber,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Barrel_Shroud,Tactical_Mag,Grave_Robber,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Corkscrew_Rifling,Tactical_Mag,Grave_Robber,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Smallbore,Extended_Mag,Grave_Robber,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Barrel_Shroud,Extended_Mag,Grave_Robber,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Corkscrew_Rifling,Extended_Mag,Grave_Robber,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Smallbore,Appended_Mag,Grave_Robber,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Barrel_Shroud,Appended_Mag,Grave_Robber,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Corkscrew_Rifling,Appended_Mag,Grave_Robber,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Smallbore,Tactical_Mag,Quickdraw,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Barrel_Shroud,Tactical_Mag,Quickdraw,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Corkscrew_Rifling,Tactical_Mag,Quickdraw,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Smallbore,Extended_Mag,Quickdraw,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Barrel_Shroud,Extended_Mag,Quickdraw,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Corkscrew_Rifling,Extended_Mag,Quickdraw,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Smallbore,Appended_Mag,Quickdraw,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Barrel_Shroud,Appended_Mag,Quickdraw,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Corkscrew_Rifling,Appended_Mag,Quickdraw,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Smallbore,Tactical_Mag,Auto_Loading_Holster,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Barrel_Shroud,Tactical_Mag,Auto_Loading_Holster,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Corkscrew_Rifling,Tactical_Mag,Auto_Loading_Holster,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Smallbore,Extended_Mag,Auto_Loading_Holster,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Barrel_Shroud,Extended_Mag,Auto_Loading_Holster,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Corkscrew_Rifling,Extended_Mag,Auto_Loading_Holster,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Smallbore,Appended_Mag,Auto_Loading_Holster,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Barrel_Shroud,Appended_Mag,Auto_Loading_Holster,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Corkscrew_Rifling,Appended_Mag,Auto_Loading_Holster,One_Two_Punch)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Smallbore,Tactical_Mag,Grave_Robber,3425386926)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Barrel_Shroud,Tactical_Mag,Grave_Robber,3425386926)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Corkscrew_Rifling,Tactical_Mag,Grave_Robber,3425386926)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Smallbore,Extended_Mag,Grave_Robber,3425386926)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Barrel_Shroud,Extended_Mag,Grave_Robber,3425386926)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Corkscrew_Rifling,Extended_Mag,Grave_Robber,3425386926)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Smallbore,Appended_Mag,Grave_Robber,3425386926)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Barrel_Shroud,Appended_Mag,Grave_Robber,3425386926)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Corkscrew_Rifling,Appended_Mag,Grave_Robber,3425386926)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Smallbore,Tactical_Mag,Quickdraw,3425386926)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Barrel_Shroud,Tactical_Mag,Quickdraw,3425386926)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Corkscrew_Rifling,Tactical_Mag,Quickdraw,3425386926)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Smallbore,Extended_Mag,Quickdraw,3425386926)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Barrel_Shroud,Extended_Mag,Quickdraw,3425386926)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Corkscrew_Rifling,Extended_Mag,Quickdraw,3425386926)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Smallbore,Appended_Mag,Quickdraw,3425386926)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Barrel_Shroud,Appended_Mag,Quickdraw,3425386926)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Corkscrew_Rifling,Appended_Mag,Quickdraw,3425386926)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Smallbore,Tactical_Mag,Auto_Loading_Holster,3425386926)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Barrel_Shroud,Tactical_Mag,Auto_Loading_Holster,3425386926)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Corkscrew_Rifling,Tactical_Mag,Auto_Loading_Holster,3425386926)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Smallbore,Extended_Mag,Auto_Loading_Holster,3425386926)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Barrel_Shroud,Extended_Mag,Auto_Loading_Holster,3425386926)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Corkscrew_Rifling,Extended_Mag,Auto_Loading_Holster,3425386926)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Smallbore,Appended_Mag,Auto_Loading_Holster,3425386926)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Barrel_Shroud,Appended_Mag,Auto_Loading_Holster,3425386926)#notes:pandapaxxy Shadowkeep PvE
+One_Small_Step(Corkscrew_Rifling,Appended_Mag,Auto_Loading_Holster,3425386926)#notes:pandapaxxy Shadowkeep PvE
+
+//Pluperfect
+Pluperfect(Fluted_Barrel,High_Caliber_Rounds,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,High_Caliber_Rounds,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,High_Caliber_Rounds,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Appended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Appended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Appended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Ricochet_Rounds,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Ricochet_Rounds,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Ricochet_Rounds,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,High_Caliber_Rounds,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,High_Caliber_Rounds,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,High_Caliber_Rounds,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Appended_Mag,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Appended_Mag,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Appended_Mag,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Ricochet_Rounds,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Ricochet_Rounds,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Ricochet_Rounds,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,High_Caliber_Rounds,Zen_Moment,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,High_Caliber_Rounds,Zen_Moment,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,High_Caliber_Rounds,Zen_Moment,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Appended_Mag,Zen_Moment,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Appended_Mag,Zen_Moment,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Appended_Mag,Zen_Moment,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Ricochet_Rounds,Zen_Moment,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Ricochet_Rounds,Zen_Moment,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Ricochet_Rounds,Zen_Moment,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,High_Caliber_Rounds,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,High_Caliber_Rounds,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,High_Caliber_Rounds,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Appended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Appended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Appended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Ricochet_Rounds,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Ricochet_Rounds,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Ricochet_Rounds,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,High_Caliber_Rounds,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,High_Caliber_Rounds,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,High_Caliber_Rounds,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Appended_Mag,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Appended_Mag,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Appended_Mag,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Ricochet_Rounds,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Ricochet_Rounds,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Ricochet_Rounds,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,High_Caliber_Rounds,Underdog,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,High_Caliber_Rounds,Underdog,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,High_Caliber_Rounds,Underdog,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Appended_Mag,Underdog,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Appended_Mag,Underdog,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Appended_Mag,Underdog,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Ricochet_Rounds,Underdog,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Ricochet_Rounds,Underdog,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Ricochet_Rounds,Underdog,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,High_Caliber_Rounds,Zen_Moment,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,High_Caliber_Rounds,Zen_Moment,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,High_Caliber_Rounds,Zen_Moment,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Appended_Mag,Zen_Moment,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Appended_Mag,Zen_Moment,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Appended_Mag,Zen_Moment,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Ricochet_Rounds,Zen_Moment,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Ricochet_Rounds,Zen_Moment,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Ricochet_Rounds,Zen_Moment,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,High_Caliber_Rounds,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,High_Caliber_Rounds,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,High_Caliber_Rounds,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Appended_Mag,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Appended_Mag,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Appended_Mag,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Ricochet_Rounds,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Ricochet_Rounds,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Ricochet_Rounds,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,High_Caliber_Rounds,1168162263,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,High_Caliber_Rounds,1168162263,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,High_Caliber_Rounds,1168162263,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Appended_Mag,1168162263,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Appended_Mag,1168162263,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Appended_Mag,1168162263,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Ricochet_Rounds,1168162263,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Ricochet_Rounds,1168162263,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Ricochet_Rounds,1168162263,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,High_Caliber_Rounds,Underdog,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,High_Caliber_Rounds,Underdog,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,High_Caliber_Rounds,Underdog,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Appended_Mag,Underdog,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Appended_Mag,Underdog,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Appended_Mag,Underdog,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Ricochet_Rounds,Underdog,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Ricochet_Rounds,Underdog,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Ricochet_Rounds,Underdog,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,High_Caliber_Rounds,Zen_Moment,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,High_Caliber_Rounds,Zen_Moment,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,High_Caliber_Rounds,Zen_Moment,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Appended_Mag,Zen_Moment,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Appended_Mag,Zen_Moment,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Appended_Mag,Zen_Moment,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Ricochet_Rounds,Zen_Moment,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Ricochet_Rounds,Zen_Moment,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Ricochet_Rounds,Zen_Moment,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,High_Caliber_Rounds,3124871000,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,High_Caliber_Rounds,3124871000,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,High_Caliber_Rounds,3124871000,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Appended_Mag,3124871000,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Appended_Mag,3124871000,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Appended_Mag,3124871000,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Ricochet_Rounds,3124871000,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Ricochet_Rounds,3124871000,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Ricochet_Rounds,3124871000,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,High_Caliber_Rounds,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,High_Caliber_Rounds,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,High_Caliber_Rounds,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Appended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Appended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Appended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Ricochet_Rounds,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Ricochet_Rounds,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Ricochet_Rounds,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,High_Caliber_Rounds,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,High_Caliber_Rounds,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,High_Caliber_Rounds,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Appended_Mag,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Appended_Mag,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Appended_Mag,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Ricochet_Rounds,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Ricochet_Rounds,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Ricochet_Rounds,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,High_Caliber_Rounds,Zen_Moment,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,High_Caliber_Rounds,Zen_Moment,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,High_Caliber_Rounds,Zen_Moment,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Appended_Mag,Zen_Moment,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Appended_Mag,Zen_Moment,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Appended_Mag,Zen_Moment,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Ricochet_Rounds,Zen_Moment,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Ricochet_Rounds,Zen_Moment,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Ricochet_Rounds,Zen_Moment,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,High_Caliber_Rounds,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,High_Caliber_Rounds,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,High_Caliber_Rounds,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Appended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Appended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Appended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Ricochet_Rounds,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Ricochet_Rounds,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Ricochet_Rounds,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,High_Caliber_Rounds,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,High_Caliber_Rounds,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,High_Caliber_Rounds,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Appended_Mag,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Appended_Mag,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Appended_Mag,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Ricochet_Rounds,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Ricochet_Rounds,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Ricochet_Rounds,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,High_Caliber_Rounds,Underdog,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,High_Caliber_Rounds,Underdog,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,High_Caliber_Rounds,Underdog,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Appended_Mag,Underdog,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Appended_Mag,Underdog,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Appended_Mag,Underdog,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Ricochet_Rounds,Underdog,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Ricochet_Rounds,Underdog,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Ricochet_Rounds,Underdog,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,High_Caliber_Rounds,Zen_Moment,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,High_Caliber_Rounds,Zen_Moment,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,High_Caliber_Rounds,Zen_Moment,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Appended_Mag,Zen_Moment,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Appended_Mag,Zen_Moment,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Appended_Mag,Zen_Moment,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Ricochet_Rounds,Zen_Moment,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Ricochet_Rounds,Zen_Moment,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Ricochet_Rounds,Zen_Moment,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,High_Caliber_Rounds,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,High_Caliber_Rounds,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,High_Caliber_Rounds,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Appended_Mag,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Appended_Mag,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Appended_Mag,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Ricochet_Rounds,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Ricochet_Rounds,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Ricochet_Rounds,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,High_Caliber_Rounds,1168162263,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,High_Caliber_Rounds,1168162263,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,High_Caliber_Rounds,1168162263,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Appended_Mag,1168162263,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Appended_Mag,1168162263,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Appended_Mag,1168162263,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Ricochet_Rounds,1168162263,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Ricochet_Rounds,1168162263,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Ricochet_Rounds,1168162263,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,High_Caliber_Rounds,Underdog,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,High_Caliber_Rounds,Underdog,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,High_Caliber_Rounds,Underdog,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Appended_Mag,Underdog,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Appended_Mag,Underdog,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Appended_Mag,Underdog,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Ricochet_Rounds,Underdog,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Ricochet_Rounds,Underdog,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Ricochet_Rounds,Underdog,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,High_Caliber_Rounds,Zen_Moment,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,High_Caliber_Rounds,Zen_Moment,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,High_Caliber_Rounds,Zen_Moment,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Appended_Mag,Zen_Moment,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Appended_Mag,Zen_Moment,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Appended_Mag,Zen_Moment,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Ricochet_Rounds,Zen_Moment,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Ricochet_Rounds,Zen_Moment,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Ricochet_Rounds,Zen_Moment,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,High_Caliber_Rounds,3124871000,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,High_Caliber_Rounds,3124871000,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,High_Caliber_Rounds,3124871000,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Appended_Mag,3124871000,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Appended_Mag,3124871000,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Appended_Mag,3124871000,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Ricochet_Rounds,3124871000,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Ricochet_Rounds,3124871000,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Ricochet_Rounds,3124871000,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,High_Caliber_Rounds,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,High_Caliber_Rounds,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,High_Caliber_Rounds,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Appended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Appended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Appended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Ricochet_Rounds,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Ricochet_Rounds,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Ricochet_Rounds,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,High_Caliber_Rounds,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,High_Caliber_Rounds,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,High_Caliber_Rounds,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Appended_Mag,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Appended_Mag,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Appended_Mag,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Ricochet_Rounds,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Ricochet_Rounds,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Ricochet_Rounds,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,High_Caliber_Rounds,Zen_Moment,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,High_Caliber_Rounds,Zen_Moment,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,High_Caliber_Rounds,Zen_Moment,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Appended_Mag,Zen_Moment,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Appended_Mag,Zen_Moment,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Appended_Mag,Zen_Moment,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Ricochet_Rounds,Zen_Moment,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Ricochet_Rounds,Zen_Moment,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Ricochet_Rounds,Zen_Moment,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,High_Caliber_Rounds,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,High_Caliber_Rounds,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,High_Caliber_Rounds,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Appended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Appended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Appended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Ricochet_Rounds,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Ricochet_Rounds,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Ricochet_Rounds,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,High_Caliber_Rounds,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,High_Caliber_Rounds,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,High_Caliber_Rounds,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Appended_Mag,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Appended_Mag,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Appended_Mag,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Ricochet_Rounds,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Ricochet_Rounds,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Ricochet_Rounds,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,High_Caliber_Rounds,Underdog,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,High_Caliber_Rounds,Underdog,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,High_Caliber_Rounds,Underdog,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Appended_Mag,Underdog,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Appended_Mag,Underdog,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Appended_Mag,Underdog,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Ricochet_Rounds,Underdog,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Ricochet_Rounds,Underdog,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Ricochet_Rounds,Underdog,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,High_Caliber_Rounds,Zen_Moment,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,High_Caliber_Rounds,Zen_Moment,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,High_Caliber_Rounds,Zen_Moment,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Appended_Mag,Zen_Moment,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Appended_Mag,Zen_Moment,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Appended_Mag,Zen_Moment,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Ricochet_Rounds,Zen_Moment,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Ricochet_Rounds,Zen_Moment,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Ricochet_Rounds,Zen_Moment,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,High_Caliber_Rounds,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,High_Caliber_Rounds,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,High_Caliber_Rounds,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Appended_Mag,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Appended_Mag,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Appended_Mag,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Ricochet_Rounds,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Ricochet_Rounds,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Ricochet_Rounds,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,High_Caliber_Rounds,1168162263,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,High_Caliber_Rounds,1168162263,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,High_Caliber_Rounds,1168162263,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Appended_Mag,1168162263,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Appended_Mag,1168162263,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Appended_Mag,1168162263,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Ricochet_Rounds,1168162263,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Ricochet_Rounds,1168162263,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Ricochet_Rounds,1168162263,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,High_Caliber_Rounds,Underdog,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,High_Caliber_Rounds,Underdog,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,High_Caliber_Rounds,Underdog,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Appended_Mag,Underdog,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Appended_Mag,Underdog,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Appended_Mag,Underdog,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Ricochet_Rounds,Underdog,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Ricochet_Rounds,Underdog,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Ricochet_Rounds,Underdog,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,High_Caliber_Rounds,Zen_Moment,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,High_Caliber_Rounds,Zen_Moment,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,High_Caliber_Rounds,Zen_Moment,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Appended_Mag,Zen_Moment,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Appended_Mag,Zen_Moment,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Appended_Mag,Zen_Moment,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Ricochet_Rounds,Zen_Moment,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Ricochet_Rounds,Zen_Moment,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Ricochet_Rounds,Zen_Moment,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,High_Caliber_Rounds,3124871000,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,High_Caliber_Rounds,3124871000,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,High_Caliber_Rounds,3124871000,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Appended_Mag,3124871000,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Appended_Mag,3124871000,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Appended_Mag,3124871000,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Ricochet_Rounds,3124871000,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Ricochet_Rounds,3124871000,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Ricochet_Rounds,3124871000,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,High_Caliber_Rounds,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,High_Caliber_Rounds,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,High_Caliber_Rounds,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Appended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Appended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Appended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Ricochet_Rounds,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Ricochet_Rounds,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Ricochet_Rounds,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,High_Caliber_Rounds,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,High_Caliber_Rounds,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,High_Caliber_Rounds,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Appended_Mag,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Appended_Mag,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Appended_Mag,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Ricochet_Rounds,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Ricochet_Rounds,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Ricochet_Rounds,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,High_Caliber_Rounds,Zen_Moment,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,High_Caliber_Rounds,Zen_Moment,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,High_Caliber_Rounds,Zen_Moment,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Appended_Mag,Zen_Moment,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Appended_Mag,Zen_Moment,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Appended_Mag,Zen_Moment,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Ricochet_Rounds,Zen_Moment,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Ricochet_Rounds,Zen_Moment,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Ricochet_Rounds,Zen_Moment,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,High_Caliber_Rounds,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,High_Caliber_Rounds,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,High_Caliber_Rounds,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Appended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Appended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Appended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Ricochet_Rounds,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Ricochet_Rounds,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Ricochet_Rounds,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,High_Caliber_Rounds,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,High_Caliber_Rounds,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,High_Caliber_Rounds,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Appended_Mag,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Appended_Mag,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Appended_Mag,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Ricochet_Rounds,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Ricochet_Rounds,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Ricochet_Rounds,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,High_Caliber_Rounds,Underdog,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,High_Caliber_Rounds,Underdog,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,High_Caliber_Rounds,Underdog,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Appended_Mag,Underdog,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Appended_Mag,Underdog,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Appended_Mag,Underdog,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Ricochet_Rounds,Underdog,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Ricochet_Rounds,Underdog,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Ricochet_Rounds,Underdog,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,High_Caliber_Rounds,Zen_Moment,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,High_Caliber_Rounds,Zen_Moment,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,High_Caliber_Rounds,Zen_Moment,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Appended_Mag,Zen_Moment,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Appended_Mag,Zen_Moment,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Appended_Mag,Zen_Moment,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Ricochet_Rounds,Zen_Moment,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Ricochet_Rounds,Zen_Moment,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Ricochet_Rounds,Zen_Moment,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,High_Caliber_Rounds,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,High_Caliber_Rounds,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,High_Caliber_Rounds,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Appended_Mag,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Appended_Mag,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Appended_Mag,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Ricochet_Rounds,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Ricochet_Rounds,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Ricochet_Rounds,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,High_Caliber_Rounds,1168162263,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,High_Caliber_Rounds,1168162263,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,High_Caliber_Rounds,1168162263,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Appended_Mag,1168162263,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Appended_Mag,1168162263,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Appended_Mag,1168162263,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Ricochet_Rounds,1168162263,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Ricochet_Rounds,1168162263,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Ricochet_Rounds,1168162263,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,High_Caliber_Rounds,Underdog,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,High_Caliber_Rounds,Underdog,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,High_Caliber_Rounds,Underdog,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Appended_Mag,Underdog,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Appended_Mag,Underdog,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Appended_Mag,Underdog,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Ricochet_Rounds,Underdog,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Ricochet_Rounds,Underdog,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Ricochet_Rounds,Underdog,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,High_Caliber_Rounds,Zen_Moment,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,High_Caliber_Rounds,Zen_Moment,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,High_Caliber_Rounds,Zen_Moment,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Appended_Mag,Zen_Moment,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Appended_Mag,Zen_Moment,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Appended_Mag,Zen_Moment,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Ricochet_Rounds,Zen_Moment,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Ricochet_Rounds,Zen_Moment,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Ricochet_Rounds,Zen_Moment,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,High_Caliber_Rounds,3124871000,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,High_Caliber_Rounds,3124871000,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,High_Caliber_Rounds,3124871000,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Appended_Mag,3124871000,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Appended_Mag,3124871000,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Appended_Mag,3124871000,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Fluted_Barrel,Ricochet_Rounds,3124871000,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Corkscrew_Rifling,Ricochet_Rounds,3124871000,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+Pluperfect(Smallbore,Ricochet_Rounds,3124871000,High_Impact_Reserves)#notes:pandapaxxy Shadowkeep PvE
+
+//Randy's Throwing Knife
+wishlist_entry(3535742959, Fluted_Barrel,Extended_Mag,Rapid_Hit,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3535742959, Fluted_Barrel,Extended_Mag,Snapshot_Sights,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3535742959, Fluted_Barrel,Extended_Mag,Rapid_Hit,Zen_Moment)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3535742959, Fluted_Barrel,Extended_Mag,Snapshot_Sights,Zen_Moment)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3535742959, Fluted_Barrel,Extended_Mag,Rapid_Hit,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3535742959, Fluted_Barrel,Extended_Mag,Snapshot_Sights,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3535742959, Fluted_Barrel,Extended_Mag,Rapid_Hit,Zen_Moment)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3535742959, Fluted_Barrel,Extended_Mag,Snapshot_Sights,Zen_Moment)#notes:pandapaxxy Shadowkeep PvE
+
+//Tranquility (version 1)
+wishlist_entry(1170891373, Fluted_Barrel,Appended_Mag,1168162263,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Corkscrew_Rifling,Appended_Mag,1168162263,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Fluted_Barrel,Extended_Mag,1168162263,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Corkscrew_Rifling,Extended_Mag,1168162263,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Fluted_Barrel,Tactical_Mag,1168162263,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Corkscrew_Rifling,Tactical_Mag,1168162263,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Fluted_Barrel,Appended_Mag,Field_Prep,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Corkscrew_Rifling,Appended_Mag,Field_Prep,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Fluted_Barrel,Extended_Mag,Field_Prep,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Corkscrew_Rifling,Extended_Mag,Field_Prep,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Fluted_Barrel,Tactical_Mag,Field_Prep,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Corkscrew_Rifling,Tactical_Mag,Field_Prep,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Fluted_Barrel,Appended_Mag,Auto_Loading_Holster,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Corkscrew_Rifling,Appended_Mag,Auto_Loading_Holster,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Fluted_Barrel,Extended_Mag,Auto_Loading_Holster,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Corkscrew_Rifling,Extended_Mag,Auto_Loading_Holster,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Fluted_Barrel,Tactical_Mag,Auto_Loading_Holster,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Corkscrew_Rifling,Tactical_Mag,Auto_Loading_Holster,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Fluted_Barrel,Appended_Mag,3124871000,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Corkscrew_Rifling,Appended_Mag,3124871000,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Fluted_Barrel,Extended_Mag,3124871000,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Corkscrew_Rifling,Extended_Mag,3124871000,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Fluted_Barrel,Tactical_Mag,3124871000,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Corkscrew_Rifling,Tactical_Mag,3124871000,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Fluted_Barrel,Appended_Mag,1168162263,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Corkscrew_Rifling,Appended_Mag,1168162263,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Fluted_Barrel,Extended_Mag,1168162263,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Corkscrew_Rifling,Extended_Mag,1168162263,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Fluted_Barrel,Tactical_Mag,1168162263,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Corkscrew_Rifling,Tactical_Mag,1168162263,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Fluted_Barrel,Appended_Mag,Field_Prep,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Corkscrew_Rifling,Appended_Mag,Field_Prep,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Fluted_Barrel,Extended_Mag,Field_Prep,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Corkscrew_Rifling,Extended_Mag,Field_Prep,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Fluted_Barrel,Tactical_Mag,Field_Prep,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Corkscrew_Rifling,Tactical_Mag,Field_Prep,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Fluted_Barrel,Appended_Mag,Auto_Loading_Holster,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Corkscrew_Rifling,Appended_Mag,Auto_Loading_Holster,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Fluted_Barrel,Extended_Mag,Auto_Loading_Holster,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Corkscrew_Rifling,Extended_Mag,Auto_Loading_Holster,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Fluted_Barrel,Tactical_Mag,Auto_Loading_Holster,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Corkscrew_Rifling,Tactical_Mag,Auto_Loading_Holster,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Fluted_Barrel,Appended_Mag,3124871000,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Corkscrew_Rifling,Appended_Mag,3124871000,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Fluted_Barrel,Extended_Mag,3124871000,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Corkscrew_Rifling,Extended_Mag,3124871000,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Fluted_Barrel,Tactical_Mag,3124871000,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Corkscrew_Rifling,Tactical_Mag,3124871000,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Fluted_Barrel,Appended_Mag,1168162263,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Corkscrew_Rifling,Appended_Mag,1168162263,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Fluted_Barrel,Extended_Mag,1168162263,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Corkscrew_Rifling,Extended_Mag,1168162263,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Fluted_Barrel,Tactical_Mag,1168162263,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Corkscrew_Rifling,Tactical_Mag,1168162263,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Fluted_Barrel,Appended_Mag,Field_Prep,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Corkscrew_Rifling,Appended_Mag,Field_Prep,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Fluted_Barrel,Extended_Mag,Field_Prep,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Corkscrew_Rifling,Extended_Mag,Field_Prep,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Fluted_Barrel,Tactical_Mag,Field_Prep,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Corkscrew_Rifling,Tactical_Mag,Field_Prep,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Fluted_Barrel,Appended_Mag,Auto_Loading_Holster,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Corkscrew_Rifling,Appended_Mag,Auto_Loading_Holster,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Fluted_Barrel,Extended_Mag,Auto_Loading_Holster,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Corkscrew_Rifling,Extended_Mag,Auto_Loading_Holster,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Fluted_Barrel,Tactical_Mag,Auto_Loading_Holster,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Corkscrew_Rifling,Tactical_Mag,Auto_Loading_Holster,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Fluted_Barrel,Appended_Mag,3124871000,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Corkscrew_Rifling,Appended_Mag,3124871000,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Fluted_Barrel,Extended_Mag,3124871000,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Corkscrew_Rifling,Extended_Mag,3124871000,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Fluted_Barrel,Tactical_Mag,3124871000,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Corkscrew_Rifling,Tactical_Mag,3124871000,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Fluted_Barrel,Appended_Mag,1168162263,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Corkscrew_Rifling,Appended_Mag,1168162263,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Fluted_Barrel,Extended_Mag,1168162263,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Corkscrew_Rifling,Extended_Mag,1168162263,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Fluted_Barrel,Tactical_Mag,1168162263,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Corkscrew_Rifling,Tactical_Mag,1168162263,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Fluted_Barrel,Appended_Mag,Field_Prep,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Corkscrew_Rifling,Appended_Mag,Field_Prep,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Fluted_Barrel,Extended_Mag,Field_Prep,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Corkscrew_Rifling,Extended_Mag,Field_Prep,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Fluted_Barrel,Tactical_Mag,Field_Prep,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Corkscrew_Rifling,Tactical_Mag,Field_Prep,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Fluted_Barrel,Appended_Mag,Auto_Loading_Holster,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Corkscrew_Rifling,Appended_Mag,Auto_Loading_Holster,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Fluted_Barrel,Extended_Mag,Auto_Loading_Holster,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Corkscrew_Rifling,Extended_Mag,Auto_Loading_Holster,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Fluted_Barrel,Tactical_Mag,Auto_Loading_Holster,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Corkscrew_Rifling,Tactical_Mag,Auto_Loading_Holster,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Fluted_Barrel,Appended_Mag,3124871000,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Corkscrew_Rifling,Appended_Mag,3124871000,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Fluted_Barrel,Extended_Mag,3124871000,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Corkscrew_Rifling,Extended_Mag,3124871000,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Fluted_Barrel,Tactical_Mag,3124871000,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Corkscrew_Rifling,Tactical_Mag,3124871000,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Fluted_Barrel,Appended_Mag,1168162263,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Corkscrew_Rifling,Appended_Mag,1168162263,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Fluted_Barrel,Extended_Mag,1168162263,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Corkscrew_Rifling,Extended_Mag,1168162263,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Fluted_Barrel,Tactical_Mag,1168162263,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Corkscrew_Rifling,Tactical_Mag,1168162263,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Fluted_Barrel,Appended_Mag,Field_Prep,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Corkscrew_Rifling,Appended_Mag,Field_Prep,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Fluted_Barrel,Extended_Mag,Field_Prep,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Corkscrew_Rifling,Extended_Mag,Field_Prep,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Fluted_Barrel,Tactical_Mag,Field_Prep,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Corkscrew_Rifling,Tactical_Mag,Field_Prep,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Fluted_Barrel,Appended_Mag,Auto_Loading_Holster,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Corkscrew_Rifling,Appended_Mag,Auto_Loading_Holster,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Fluted_Barrel,Extended_Mag,Auto_Loading_Holster,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Corkscrew_Rifling,Extended_Mag,Auto_Loading_Holster,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Fluted_Barrel,Tactical_Mag,Auto_Loading_Holster,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Corkscrew_Rifling,Tactical_Mag,Auto_Loading_Holster,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Fluted_Barrel,Appended_Mag,3124871000,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Corkscrew_Rifling,Appended_Mag,3124871000,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Fluted_Barrel,Extended_Mag,3124871000,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Corkscrew_Rifling,Extended_Mag,3124871000,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Fluted_Barrel,Tactical_Mag,3124871000,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Corkscrew_Rifling,Tactical_Mag,3124871000,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Fluted_Barrel,Appended_Mag,1168162263,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Corkscrew_Rifling,Appended_Mag,1168162263,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Fluted_Barrel,Extended_Mag,1168162263,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Corkscrew_Rifling,Extended_Mag,1168162263,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Fluted_Barrel,Tactical_Mag,1168162263,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Corkscrew_Rifling,Tactical_Mag,1168162263,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Fluted_Barrel,Appended_Mag,Field_Prep,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Corkscrew_Rifling,Appended_Mag,Field_Prep,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Fluted_Barrel,Extended_Mag,Field_Prep,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Corkscrew_Rifling,Extended_Mag,Field_Prep,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Fluted_Barrel,Tactical_Mag,Field_Prep,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Corkscrew_Rifling,Tactical_Mag,Field_Prep,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Fluted_Barrel,Appended_Mag,Auto_Loading_Holster,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Corkscrew_Rifling,Appended_Mag,Auto_Loading_Holster,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Fluted_Barrel,Extended_Mag,Auto_Loading_Holster,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Corkscrew_Rifling,Extended_Mag,Auto_Loading_Holster,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Fluted_Barrel,Tactical_Mag,Auto_Loading_Holster,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Corkscrew_Rifling,Tactical_Mag,Auto_Loading_Holster,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Fluted_Barrel,Appended_Mag,3124871000,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Corkscrew_Rifling,Appended_Mag,3124871000,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Fluted_Barrel,Extended_Mag,3124871000,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Corkscrew_Rifling,Extended_Mag,3124871000,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Fluted_Barrel,Tactical_Mag,3124871000,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1170891373, Corkscrew_Rifling,Tactical_Mag,3124871000,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+
+//Tranquility (version 2)
+Tranquility(Fluted_Barrel,Appended_Mag,1168162263,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Corkscrew_Rifling,Appended_Mag,1168162263,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Fluted_Barrel,Extended_Mag,1168162263,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Corkscrew_Rifling,Extended_Mag,1168162263,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Fluted_Barrel,Tactical_Mag,1168162263,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Corkscrew_Rifling,Tactical_Mag,1168162263,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Fluted_Barrel,Appended_Mag,Field_Prep,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Corkscrew_Rifling,Appended_Mag,Field_Prep,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Fluted_Barrel,Extended_Mag,Field_Prep,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Corkscrew_Rifling,Extended_Mag,Field_Prep,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Fluted_Barrel,Tactical_Mag,Field_Prep,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Corkscrew_Rifling,Tactical_Mag,Field_Prep,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Fluted_Barrel,Appended_Mag,Auto_Loading_Holster,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Corkscrew_Rifling,Appended_Mag,Auto_Loading_Holster,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Fluted_Barrel,Extended_Mag,Auto_Loading_Holster,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Corkscrew_Rifling,Extended_Mag,Auto_Loading_Holster,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Fluted_Barrel,Tactical_Mag,Auto_Loading_Holster,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Corkscrew_Rifling,Tactical_Mag,Auto_Loading_Holster,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Fluted_Barrel,Appended_Mag,3124871000,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Corkscrew_Rifling,Appended_Mag,3124871000,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Fluted_Barrel,Extended_Mag,3124871000,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Corkscrew_Rifling,Extended_Mag,3124871000,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Fluted_Barrel,Tactical_Mag,3124871000,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Corkscrew_Rifling,Tactical_Mag,3124871000,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Fluted_Barrel,Appended_Mag,1168162263,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Corkscrew_Rifling,Appended_Mag,1168162263,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Fluted_Barrel,Extended_Mag,1168162263,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Corkscrew_Rifling,Extended_Mag,1168162263,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Fluted_Barrel,Tactical_Mag,1168162263,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Corkscrew_Rifling,Tactical_Mag,1168162263,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Fluted_Barrel,Appended_Mag,Field_Prep,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Corkscrew_Rifling,Appended_Mag,Field_Prep,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Fluted_Barrel,Extended_Mag,Field_Prep,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Corkscrew_Rifling,Extended_Mag,Field_Prep,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Fluted_Barrel,Tactical_Mag,Field_Prep,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Corkscrew_Rifling,Tactical_Mag,Field_Prep,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Fluted_Barrel,Appended_Mag,Auto_Loading_Holster,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Corkscrew_Rifling,Appended_Mag,Auto_Loading_Holster,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Fluted_Barrel,Extended_Mag,Auto_Loading_Holster,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Corkscrew_Rifling,Extended_Mag,Auto_Loading_Holster,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Fluted_Barrel,Tactical_Mag,Auto_Loading_Holster,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Corkscrew_Rifling,Tactical_Mag,Auto_Loading_Holster,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Fluted_Barrel,Appended_Mag,3124871000,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Corkscrew_Rifling,Appended_Mag,3124871000,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Fluted_Barrel,Extended_Mag,3124871000,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Corkscrew_Rifling,Extended_Mag,3124871000,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Fluted_Barrel,Tactical_Mag,3124871000,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Corkscrew_Rifling,Tactical_Mag,3124871000,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Fluted_Barrel,Appended_Mag,1168162263,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Corkscrew_Rifling,Appended_Mag,1168162263,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Fluted_Barrel,Extended_Mag,1168162263,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Corkscrew_Rifling,Extended_Mag,1168162263,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Fluted_Barrel,Tactical_Mag,1168162263,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Corkscrew_Rifling,Tactical_Mag,1168162263,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Fluted_Barrel,Appended_Mag,Field_Prep,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Corkscrew_Rifling,Appended_Mag,Field_Prep,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Fluted_Barrel,Extended_Mag,Field_Prep,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Corkscrew_Rifling,Extended_Mag,Field_Prep,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Fluted_Barrel,Tactical_Mag,Field_Prep,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Corkscrew_Rifling,Tactical_Mag,Field_Prep,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Fluted_Barrel,Appended_Mag,Auto_Loading_Holster,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Corkscrew_Rifling,Appended_Mag,Auto_Loading_Holster,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Fluted_Barrel,Extended_Mag,Auto_Loading_Holster,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Corkscrew_Rifling,Extended_Mag,Auto_Loading_Holster,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Fluted_Barrel,Tactical_Mag,Auto_Loading_Holster,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Corkscrew_Rifling,Tactical_Mag,Auto_Loading_Holster,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Fluted_Barrel,Appended_Mag,3124871000,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Corkscrew_Rifling,Appended_Mag,3124871000,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Fluted_Barrel,Extended_Mag,3124871000,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Corkscrew_Rifling,Extended_Mag,3124871000,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Fluted_Barrel,Tactical_Mag,3124871000,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Corkscrew_Rifling,Tactical_Mag,3124871000,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Fluted_Barrel,Appended_Mag,1168162263,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Corkscrew_Rifling,Appended_Mag,1168162263,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Fluted_Barrel,Extended_Mag,1168162263,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Corkscrew_Rifling,Extended_Mag,1168162263,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Fluted_Barrel,Tactical_Mag,1168162263,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Corkscrew_Rifling,Tactical_Mag,1168162263,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Fluted_Barrel,Appended_Mag,Field_Prep,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Corkscrew_Rifling,Appended_Mag,Field_Prep,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Fluted_Barrel,Extended_Mag,Field_Prep,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Corkscrew_Rifling,Extended_Mag,Field_Prep,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Fluted_Barrel,Tactical_Mag,Field_Prep,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Corkscrew_Rifling,Tactical_Mag,Field_Prep,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Fluted_Barrel,Appended_Mag,Auto_Loading_Holster,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Corkscrew_Rifling,Appended_Mag,Auto_Loading_Holster,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Fluted_Barrel,Extended_Mag,Auto_Loading_Holster,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Corkscrew_Rifling,Extended_Mag,Auto_Loading_Holster,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Fluted_Barrel,Tactical_Mag,Auto_Loading_Holster,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Corkscrew_Rifling,Tactical_Mag,Auto_Loading_Holster,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Fluted_Barrel,Appended_Mag,3124871000,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Corkscrew_Rifling,Appended_Mag,3124871000,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Fluted_Barrel,Extended_Mag,3124871000,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Corkscrew_Rifling,Extended_Mag,3124871000,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Fluted_Barrel,Tactical_Mag,3124871000,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Corkscrew_Rifling,Tactical_Mag,3124871000,Firing_Line)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Fluted_Barrel,Appended_Mag,1168162263,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Corkscrew_Rifling,Appended_Mag,1168162263,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Fluted_Barrel,Extended_Mag,1168162263,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Corkscrew_Rifling,Extended_Mag,1168162263,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Fluted_Barrel,Tactical_Mag,1168162263,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Corkscrew_Rifling,Tactical_Mag,1168162263,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Fluted_Barrel,Appended_Mag,Field_Prep,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Corkscrew_Rifling,Appended_Mag,Field_Prep,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Fluted_Barrel,Extended_Mag,Field_Prep,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Corkscrew_Rifling,Extended_Mag,Field_Prep,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Fluted_Barrel,Tactical_Mag,Field_Prep,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Corkscrew_Rifling,Tactical_Mag,Field_Prep,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Fluted_Barrel,Appended_Mag,Auto_Loading_Holster,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Corkscrew_Rifling,Appended_Mag,Auto_Loading_Holster,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Fluted_Barrel,Extended_Mag,Auto_Loading_Holster,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Corkscrew_Rifling,Extended_Mag,Auto_Loading_Holster,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Fluted_Barrel,Tactical_Mag,Auto_Loading_Holster,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Corkscrew_Rifling,Tactical_Mag,Auto_Loading_Holster,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Fluted_Barrel,Appended_Mag,3124871000,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Corkscrew_Rifling,Appended_Mag,3124871000,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Fluted_Barrel,Extended_Mag,3124871000,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Corkscrew_Rifling,Extended_Mag,3124871000,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Fluted_Barrel,Tactical_Mag,3124871000,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Corkscrew_Rifling,Tactical_Mag,3124871000,Fourth_Time_s_the_Charm)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Fluted_Barrel,Appended_Mag,1168162263,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Corkscrew_Rifling,Appended_Mag,1168162263,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Fluted_Barrel,Extended_Mag,1168162263,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Corkscrew_Rifling,Extended_Mag,1168162263,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Fluted_Barrel,Tactical_Mag,1168162263,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Corkscrew_Rifling,Tactical_Mag,1168162263,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Fluted_Barrel,Appended_Mag,Field_Prep,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Corkscrew_Rifling,Appended_Mag,Field_Prep,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Fluted_Barrel,Extended_Mag,Field_Prep,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Corkscrew_Rifling,Extended_Mag,Field_Prep,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Fluted_Barrel,Tactical_Mag,Field_Prep,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Corkscrew_Rifling,Tactical_Mag,Field_Prep,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Fluted_Barrel,Appended_Mag,Auto_Loading_Holster,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Corkscrew_Rifling,Appended_Mag,Auto_Loading_Holster,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Fluted_Barrel,Extended_Mag,Auto_Loading_Holster,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Corkscrew_Rifling,Extended_Mag,Auto_Loading_Holster,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Fluted_Barrel,Tactical_Mag,Auto_Loading_Holster,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Corkscrew_Rifling,Tactical_Mag,Auto_Loading_Holster,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Fluted_Barrel,Appended_Mag,3124871000,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Corkscrew_Rifling,Appended_Mag,3124871000,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Fluted_Barrel,Extended_Mag,3124871000,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Corkscrew_Rifling,Extended_Mag,3124871000,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Fluted_Barrel,Tactical_Mag,3124871000,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+Tranquility(Corkscrew_Rifling,Tactical_Mag,3124871000,Box_Breathing)#notes:pandapaxxy Shadowkeep PvE
+
+//Adhortative
+Adhortative(Arrowhead_Brake,High_Caliber_Rounds,Feeding_Frenzy,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Extended_Barrel,High_Caliber_Rounds,Feeding_Frenzy,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(3661387068,High_Caliber_Rounds,Feeding_Frenzy,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Arrowhead_Brake,Appended_Mag,Feeding_Frenzy,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Extended_Barrel,Appended_Mag,Feeding_Frenzy,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(3661387068,Appended_Mag,Feeding_Frenzy,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Arrowhead_Brake,Extended_Mag,Feeding_Frenzy,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Extended_Barrel,Extended_Mag,Feeding_Frenzy,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(3661387068,Extended_Mag,Feeding_Frenzy,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Arrowhead_Brake,High_Caliber_Rounds,Underdog,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Extended_Barrel,High_Caliber_Rounds,Underdog,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(3661387068,High_Caliber_Rounds,Underdog,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Arrowhead_Brake,Appended_Mag,Underdog,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Extended_Barrel,Appended_Mag,Underdog,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(3661387068,Appended_Mag,Underdog,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Arrowhead_Brake,Extended_Mag,Underdog,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Extended_Barrel,Extended_Mag,Underdog,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(3661387068,Extended_Mag,Underdog,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Arrowhead_Brake,High_Caliber_Rounds,Field_Prep,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Extended_Barrel,High_Caliber_Rounds,Field_Prep,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(3661387068,High_Caliber_Rounds,Field_Prep,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Arrowhead_Brake,Appended_Mag,Field_Prep,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Extended_Barrel,Appended_Mag,Field_Prep,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(3661387068,Appended_Mag,Field_Prep,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Arrowhead_Brake,Extended_Mag,Field_Prep,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Extended_Barrel,Extended_Mag,Field_Prep,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(3661387068,Extended_Mag,Field_Prep,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Arrowhead_Brake,High_Caliber_Rounds,Feeding_Frenzy,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Extended_Barrel,High_Caliber_Rounds,Feeding_Frenzy,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(3661387068,High_Caliber_Rounds,Feeding_Frenzy,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Arrowhead_Brake,Appended_Mag,Feeding_Frenzy,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Extended_Barrel,Appended_Mag,Feeding_Frenzy,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(3661387068,Appended_Mag,Feeding_Frenzy,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Arrowhead_Brake,Extended_Mag,Feeding_Frenzy,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Extended_Barrel,Extended_Mag,Feeding_Frenzy,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(3661387068,Extended_Mag,Feeding_Frenzy,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Arrowhead_Brake,High_Caliber_Rounds,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Extended_Barrel,High_Caliber_Rounds,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(3661387068,High_Caliber_Rounds,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Arrowhead_Brake,Appended_Mag,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Extended_Barrel,Appended_Mag,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(3661387068,Appended_Mag,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Arrowhead_Brake,Extended_Mag,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Extended_Barrel,Extended_Mag,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(3661387068,Extended_Mag,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Arrowhead_Brake,High_Caliber_Rounds,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Extended_Barrel,High_Caliber_Rounds,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(3661387068,High_Caliber_Rounds,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Arrowhead_Brake,Appended_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Extended_Barrel,Appended_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(3661387068,Appended_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Arrowhead_Brake,Extended_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Extended_Barrel,Extended_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(3661387068,Extended_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Arrowhead_Brake,High_Caliber_Rounds,Feeding_Frenzy,2848615171)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Extended_Barrel,High_Caliber_Rounds,Feeding_Frenzy,2848615171)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(3661387068,High_Caliber_Rounds,Feeding_Frenzy,2848615171)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Arrowhead_Brake,Appended_Mag,Feeding_Frenzy,2848615171)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Extended_Barrel,Appended_Mag,Feeding_Frenzy,2848615171)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(3661387068,Appended_Mag,Feeding_Frenzy,2848615171)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Arrowhead_Brake,Extended_Mag,Feeding_Frenzy,2848615171)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Extended_Barrel,Extended_Mag,Feeding_Frenzy,2848615171)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(3661387068,Extended_Mag,Feeding_Frenzy,2848615171)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Arrowhead_Brake,High_Caliber_Rounds,Underdog,2848615171)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Extended_Barrel,High_Caliber_Rounds,Underdog,2848615171)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(3661387068,High_Caliber_Rounds,Underdog,2848615171)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Arrowhead_Brake,Appended_Mag,Underdog,2848615171)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Extended_Barrel,Appended_Mag,Underdog,2848615171)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(3661387068,Appended_Mag,Underdog,2848615171)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Arrowhead_Brake,Extended_Mag,Underdog,2848615171)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Extended_Barrel,Extended_Mag,Underdog,2848615171)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(3661387068,Extended_Mag,Underdog,2848615171)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Arrowhead_Brake,High_Caliber_Rounds,Field_Prep,2848615171)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Extended_Barrel,High_Caliber_Rounds,Field_Prep,2848615171)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(3661387068,High_Caliber_Rounds,Field_Prep,2848615171)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Arrowhead_Brake,Appended_Mag,Field_Prep,2848615171)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Extended_Barrel,Appended_Mag,Field_Prep,2848615171)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(3661387068,Appended_Mag,Field_Prep,2848615171)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Arrowhead_Brake,Extended_Mag,Field_Prep,2848615171)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Extended_Barrel,Extended_Mag,Field_Prep,2848615171)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(3661387068,Extended_Mag,Field_Prep,2848615171)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Arrowhead_Brake,High_Caliber_Rounds,Feeding_Frenzy,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Extended_Barrel,High_Caliber_Rounds,Feeding_Frenzy,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(3661387068,High_Caliber_Rounds,Feeding_Frenzy,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Arrowhead_Brake,Appended_Mag,Feeding_Frenzy,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Extended_Barrel,Appended_Mag,Feeding_Frenzy,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(3661387068,Appended_Mag,Feeding_Frenzy,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Arrowhead_Brake,Extended_Mag,Feeding_Frenzy,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Extended_Barrel,Extended_Mag,Feeding_Frenzy,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(3661387068,Extended_Mag,Feeding_Frenzy,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Arrowhead_Brake,High_Caliber_Rounds,Underdog,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Extended_Barrel,High_Caliber_Rounds,Underdog,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(3661387068,High_Caliber_Rounds,Underdog,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Arrowhead_Brake,Appended_Mag,Underdog,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Extended_Barrel,Appended_Mag,Underdog,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(3661387068,Appended_Mag,Underdog,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Arrowhead_Brake,Extended_Mag,Underdog,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Extended_Barrel,Extended_Mag,Underdog,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(3661387068,Extended_Mag,Underdog,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Arrowhead_Brake,High_Caliber_Rounds,Field_Prep,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Extended_Barrel,High_Caliber_Rounds,Field_Prep,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(3661387068,High_Caliber_Rounds,Field_Prep,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Arrowhead_Brake,Appended_Mag,Field_Prep,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Extended_Barrel,Appended_Mag,Field_Prep,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(3661387068,Appended_Mag,Field_Prep,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Arrowhead_Brake,Extended_Mag,Field_Prep,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Extended_Barrel,Extended_Mag,Field_Prep,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(3661387068,Extended_Mag,Field_Prep,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Arrowhead_Brake,High_Caliber_Rounds,Feeding_Frenzy,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Extended_Barrel,High_Caliber_Rounds,Feeding_Frenzy,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(3661387068,High_Caliber_Rounds,Feeding_Frenzy,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Arrowhead_Brake,Appended_Mag,Feeding_Frenzy,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Extended_Barrel,Appended_Mag,Feeding_Frenzy,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(3661387068,Appended_Mag,Feeding_Frenzy,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Arrowhead_Brake,Extended_Mag,Feeding_Frenzy,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Extended_Barrel,Extended_Mag,Feeding_Frenzy,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(3661387068,Extended_Mag,Feeding_Frenzy,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Arrowhead_Brake,High_Caliber_Rounds,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Extended_Barrel,High_Caliber_Rounds,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(3661387068,High_Caliber_Rounds,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Arrowhead_Brake,Appended_Mag,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Extended_Barrel,Appended_Mag,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(3661387068,Appended_Mag,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Arrowhead_Brake,Extended_Mag,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Extended_Barrel,Extended_Mag,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(3661387068,Extended_Mag,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Arrowhead_Brake,High_Caliber_Rounds,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Extended_Barrel,High_Caliber_Rounds,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(3661387068,High_Caliber_Rounds,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Arrowhead_Brake,Appended_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Extended_Barrel,Appended_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(3661387068,Appended_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Arrowhead_Brake,Extended_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Extended_Barrel,Extended_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(3661387068,Extended_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Arrowhead_Brake,High_Caliber_Rounds,Feeding_Frenzy,2848615171)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Extended_Barrel,High_Caliber_Rounds,Feeding_Frenzy,2848615171)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(3661387068,High_Caliber_Rounds,Feeding_Frenzy,2848615171)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Arrowhead_Brake,Appended_Mag,Feeding_Frenzy,2848615171)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Extended_Barrel,Appended_Mag,Feeding_Frenzy,2848615171)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(3661387068,Appended_Mag,Feeding_Frenzy,2848615171)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Arrowhead_Brake,Extended_Mag,Feeding_Frenzy,2848615171)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Extended_Barrel,Extended_Mag,Feeding_Frenzy,2848615171)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(3661387068,Extended_Mag,Feeding_Frenzy,2848615171)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Arrowhead_Brake,High_Caliber_Rounds,Underdog,2848615171)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Extended_Barrel,High_Caliber_Rounds,Underdog,2848615171)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(3661387068,High_Caliber_Rounds,Underdog,2848615171)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Arrowhead_Brake,Appended_Mag,Underdog,2848615171)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Extended_Barrel,Appended_Mag,Underdog,2848615171)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(3661387068,Appended_Mag,Underdog,2848615171)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Arrowhead_Brake,Extended_Mag,Underdog,2848615171)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Extended_Barrel,Extended_Mag,Underdog,2848615171)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(3661387068,Extended_Mag,Underdog,2848615171)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Arrowhead_Brake,High_Caliber_Rounds,Field_Prep,2848615171)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Extended_Barrel,High_Caliber_Rounds,Field_Prep,2848615171)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(3661387068,High_Caliber_Rounds,Field_Prep,2848615171)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Arrowhead_Brake,Appended_Mag,Field_Prep,2848615171)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Extended_Barrel,Appended_Mag,Field_Prep,2848615171)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(3661387068,Appended_Mag,Field_Prep,2848615171)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Arrowhead_Brake,Extended_Mag,Field_Prep,2848615171)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(Extended_Barrel,Extended_Mag,Field_Prep,2848615171)#notes:pandapaxxy Shadowkeep PvE
+Adhortative(3661387068,Extended_Mag,Field_Prep,2848615171)#notes:pandapaxxy Shadowkeep PvE
+
+//Arc Logic (version 1)
+Arc_Logic(Fluted_Barrel,Tactical_Mag,Overflow,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Tactical_Mag,Overflow,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Tactical_Mag,Overflow,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Extended_Mag,Overflow,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Extended_Mag,Overflow,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Extended_Mag,Overflow,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Appended_Mag,Overflow,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Appended_Mag,Overflow,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Appended_Mag,Overflow,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Tactical_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Tactical_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Tactical_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Extended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Extended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Extended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Appended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Appended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Appended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Tactical_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Tactical_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Tactical_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Extended_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Extended_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Extended_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Appended_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Appended_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Appended_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Tactical_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Tactical_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Tactical_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Extended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Extended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Extended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Appended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Appended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Appended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Tactical_Mag,Overflow,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Tactical_Mag,Overflow,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Tactical_Mag,Overflow,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Extended_Mag,Overflow,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Extended_Mag,Overflow,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Extended_Mag,Overflow,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Appended_Mag,Overflow,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Appended_Mag,Overflow,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Appended_Mag,Overflow,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Tactical_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Tactical_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Tactical_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Extended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Extended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Extended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Appended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Appended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Appended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Tactical_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Tactical_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Tactical_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Extended_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Extended_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Extended_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Appended_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Appended_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Appended_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Tactical_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Tactical_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Tactical_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Extended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Extended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Extended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Appended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Appended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Appended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Tactical_Mag,Overflow,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Tactical_Mag,Overflow,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Tactical_Mag,Overflow,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Extended_Mag,Overflow,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Extended_Mag,Overflow,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Extended_Mag,Overflow,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Appended_Mag,Overflow,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Appended_Mag,Overflow,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Appended_Mag,Overflow,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Tactical_Mag,1168162263,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Tactical_Mag,1168162263,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Tactical_Mag,1168162263,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Extended_Mag,1168162263,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Extended_Mag,1168162263,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Extended_Mag,1168162263,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Appended_Mag,1168162263,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Appended_Mag,1168162263,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Appended_Mag,1168162263,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Tactical_Mag,Field_Prep,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Tactical_Mag,Field_Prep,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Tactical_Mag,Field_Prep,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Extended_Mag,Field_Prep,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Extended_Mag,Field_Prep,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Extended_Mag,Field_Prep,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Appended_Mag,Field_Prep,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Appended_Mag,Field_Prep,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Appended_Mag,Field_Prep,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Tactical_Mag,3124871000,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Tactical_Mag,3124871000,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Tactical_Mag,3124871000,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Extended_Mag,3124871000,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Extended_Mag,3124871000,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Extended_Mag,3124871000,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Appended_Mag,3124871000,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Appended_Mag,3124871000,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Appended_Mag,3124871000,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Tactical_Mag,Overflow,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Tactical_Mag,Overflow,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Tactical_Mag,Overflow,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Extended_Mag,Overflow,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Extended_Mag,Overflow,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Extended_Mag,Overflow,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Appended_Mag,Overflow,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Appended_Mag,Overflow,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Appended_Mag,Overflow,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Tactical_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Tactical_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Tactical_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Extended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Extended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Extended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Appended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Appended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Appended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Tactical_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Tactical_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Tactical_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Extended_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Extended_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Extended_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Appended_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Appended_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Appended_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Tactical_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Tactical_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Tactical_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Extended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Extended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Extended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Appended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Appended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Appended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Tactical_Mag,Overflow,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Tactical_Mag,Overflow,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Tactical_Mag,Overflow,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Extended_Mag,Overflow,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Extended_Mag,Overflow,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Extended_Mag,Overflow,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Appended_Mag,Overflow,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Appended_Mag,Overflow,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Appended_Mag,Overflow,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Tactical_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Tactical_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Tactical_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Extended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Extended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Extended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Appended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Appended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Appended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Tactical_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Tactical_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Tactical_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Extended_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Extended_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Extended_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Appended_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Appended_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Appended_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Tactical_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Tactical_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Tactical_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Extended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Extended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Extended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Appended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Appended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Appended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Tactical_Mag,Overflow,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Tactical_Mag,Overflow,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Tactical_Mag,Overflow,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Extended_Mag,Overflow,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Extended_Mag,Overflow,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Extended_Mag,Overflow,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Appended_Mag,Overflow,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Appended_Mag,Overflow,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Appended_Mag,Overflow,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Tactical_Mag,1168162263,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Tactical_Mag,1168162263,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Tactical_Mag,1168162263,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Extended_Mag,1168162263,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Extended_Mag,1168162263,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Extended_Mag,1168162263,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Appended_Mag,1168162263,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Appended_Mag,1168162263,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Appended_Mag,1168162263,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Tactical_Mag,Field_Prep,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Tactical_Mag,Field_Prep,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Tactical_Mag,Field_Prep,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Extended_Mag,Field_Prep,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Extended_Mag,Field_Prep,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Extended_Mag,Field_Prep,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Appended_Mag,Field_Prep,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Appended_Mag,Field_Prep,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Appended_Mag,Field_Prep,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Tactical_Mag,3124871000,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Tactical_Mag,3124871000,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Tactical_Mag,3124871000,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Extended_Mag,3124871000,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Extended_Mag,3124871000,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Extended_Mag,3124871000,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Appended_Mag,3124871000,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Appended_Mag,3124871000,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Appended_Mag,3124871000,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Tactical_Mag,Overflow,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Tactical_Mag,Overflow,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Tactical_Mag,Overflow,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Extended_Mag,Overflow,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Extended_Mag,Overflow,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Extended_Mag,Overflow,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Appended_Mag,Overflow,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Appended_Mag,Overflow,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Appended_Mag,Overflow,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Tactical_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Tactical_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Tactical_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Extended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Extended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Extended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Appended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Appended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Appended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Tactical_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Tactical_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Tactical_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Extended_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Extended_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Extended_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Appended_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Appended_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Appended_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Tactical_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Tactical_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Tactical_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Extended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Extended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Extended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Appended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Appended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Appended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Tactical_Mag,Overflow,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Tactical_Mag,Overflow,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Tactical_Mag,Overflow,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Extended_Mag,Overflow,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Extended_Mag,Overflow,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Extended_Mag,Overflow,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Appended_Mag,Overflow,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Appended_Mag,Overflow,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Appended_Mag,Overflow,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Tactical_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Tactical_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Tactical_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Extended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Extended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Extended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Appended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Appended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Appended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Tactical_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Tactical_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Tactical_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Extended_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Extended_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Extended_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Appended_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Appended_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Appended_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Tactical_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Tactical_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Tactical_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Extended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Extended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Extended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Appended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Appended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Appended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Tactical_Mag,Overflow,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Tactical_Mag,Overflow,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Tactical_Mag,Overflow,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Extended_Mag,Overflow,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Extended_Mag,Overflow,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Extended_Mag,Overflow,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Appended_Mag,Overflow,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Appended_Mag,Overflow,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Appended_Mag,Overflow,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Tactical_Mag,1168162263,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Tactical_Mag,1168162263,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Tactical_Mag,1168162263,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Extended_Mag,1168162263,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Extended_Mag,1168162263,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Extended_Mag,1168162263,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Appended_Mag,1168162263,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Appended_Mag,1168162263,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Appended_Mag,1168162263,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Tactical_Mag,Field_Prep,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Tactical_Mag,Field_Prep,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Tactical_Mag,Field_Prep,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Extended_Mag,Field_Prep,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Extended_Mag,Field_Prep,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Extended_Mag,Field_Prep,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Appended_Mag,Field_Prep,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Appended_Mag,Field_Prep,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Appended_Mag,Field_Prep,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Tactical_Mag,3124871000,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Tactical_Mag,3124871000,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Tactical_Mag,3124871000,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Extended_Mag,3124871000,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Extended_Mag,3124871000,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Extended_Mag,3124871000,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Appended_Mag,3124871000,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Appended_Mag,3124871000,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Appended_Mag,3124871000,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Tactical_Mag,Overflow,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Tactical_Mag,Overflow,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Tactical_Mag,Overflow,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Extended_Mag,Overflow,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Extended_Mag,Overflow,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Extended_Mag,Overflow,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Appended_Mag,Overflow,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Appended_Mag,Overflow,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Appended_Mag,Overflow,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Tactical_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Tactical_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Tactical_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Extended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Extended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Extended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Appended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Appended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Appended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Tactical_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Tactical_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Tactical_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Extended_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Extended_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Extended_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Appended_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Appended_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Appended_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Tactical_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Tactical_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Tactical_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Extended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Extended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Extended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Appended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Appended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Appended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Tactical_Mag,Overflow,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Tactical_Mag,Overflow,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Tactical_Mag,Overflow,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Extended_Mag,Overflow,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Extended_Mag,Overflow,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Extended_Mag,Overflow,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Appended_Mag,Overflow,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Appended_Mag,Overflow,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Appended_Mag,Overflow,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Tactical_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Tactical_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Tactical_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Extended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Extended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Extended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Appended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Appended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Appended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Tactical_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Tactical_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Tactical_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Extended_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Extended_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Extended_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Appended_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Appended_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Appended_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Tactical_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Tactical_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Tactical_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Extended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Extended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Extended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Appended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Appended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Appended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Tactical_Mag,Overflow,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Tactical_Mag,Overflow,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Tactical_Mag,Overflow,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Extended_Mag,Overflow,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Extended_Mag,Overflow,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Extended_Mag,Overflow,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Appended_Mag,Overflow,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Appended_Mag,Overflow,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Appended_Mag,Overflow,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Tactical_Mag,1168162263,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Tactical_Mag,1168162263,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Tactical_Mag,1168162263,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Extended_Mag,1168162263,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Extended_Mag,1168162263,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Extended_Mag,1168162263,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Appended_Mag,1168162263,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Appended_Mag,1168162263,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Appended_Mag,1168162263,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Tactical_Mag,Field_Prep,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Tactical_Mag,Field_Prep,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Tactical_Mag,Field_Prep,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Extended_Mag,Field_Prep,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Extended_Mag,Field_Prep,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Extended_Mag,Field_Prep,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Appended_Mag,Field_Prep,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Appended_Mag,Field_Prep,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Appended_Mag,Field_Prep,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Tactical_Mag,3124871000,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Tactical_Mag,3124871000,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Tactical_Mag,3124871000,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Extended_Mag,3124871000,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Extended_Mag,3124871000,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Extended_Mag,3124871000,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Fluted_Barrel,Appended_Mag,3124871000,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Smallbore,Appended_Mag,3124871000,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+Arc_Logic(Corkscrew_Rifling,Appended_Mag,3124871000,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+
+//Arc Logic (version 2)
+wishlist_entry(3287201781, Fluted_Barrel,Tactical_Mag,Overflow,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Tactical_Mag,Overflow,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Tactical_Mag,Overflow,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Extended_Mag,Overflow,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Extended_Mag,Overflow,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Extended_Mag,Overflow,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Appended_Mag,Overflow,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Appended_Mag,Overflow,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Appended_Mag,Overflow,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Tactical_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Tactical_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Tactical_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Extended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Extended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Extended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Appended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Appended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Appended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Tactical_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Tactical_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Tactical_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Extended_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Extended_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Extended_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Appended_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Appended_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Appended_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Tactical_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Tactical_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Tactical_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Extended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Extended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Extended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Appended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Appended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Appended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Tactical_Mag,Overflow,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Tactical_Mag,Overflow,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Tactical_Mag,Overflow,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Extended_Mag,Overflow,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Extended_Mag,Overflow,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Extended_Mag,Overflow,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Appended_Mag,Overflow,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Appended_Mag,Overflow,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Appended_Mag,Overflow,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Tactical_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Tactical_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Tactical_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Extended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Extended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Extended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Appended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Appended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Appended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Tactical_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Tactical_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Tactical_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Extended_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Extended_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Extended_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Appended_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Appended_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Appended_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Tactical_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Tactical_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Tactical_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Extended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Extended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Extended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Appended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Appended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Appended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Tactical_Mag,Overflow,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Tactical_Mag,Overflow,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Tactical_Mag,Overflow,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Extended_Mag,Overflow,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Extended_Mag,Overflow,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Extended_Mag,Overflow,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Appended_Mag,Overflow,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Appended_Mag,Overflow,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Appended_Mag,Overflow,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Tactical_Mag,1168162263,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Tactical_Mag,1168162263,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Tactical_Mag,1168162263,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Extended_Mag,1168162263,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Extended_Mag,1168162263,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Extended_Mag,1168162263,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Appended_Mag,1168162263,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Appended_Mag,1168162263,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Appended_Mag,1168162263,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Tactical_Mag,Field_Prep,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Tactical_Mag,Field_Prep,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Tactical_Mag,Field_Prep,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Extended_Mag,Field_Prep,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Extended_Mag,Field_Prep,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Extended_Mag,Field_Prep,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Appended_Mag,Field_Prep,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Appended_Mag,Field_Prep,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Appended_Mag,Field_Prep,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Tactical_Mag,3124871000,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Tactical_Mag,3124871000,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Tactical_Mag,3124871000,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Extended_Mag,3124871000,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Extended_Mag,3124871000,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Extended_Mag,3124871000,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Appended_Mag,3124871000,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Appended_Mag,3124871000,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Appended_Mag,3124871000,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Tactical_Mag,Overflow,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Tactical_Mag,Overflow,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Tactical_Mag,Overflow,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Extended_Mag,Overflow,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Extended_Mag,Overflow,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Extended_Mag,Overflow,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Appended_Mag,Overflow,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Appended_Mag,Overflow,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Appended_Mag,Overflow,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Tactical_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Tactical_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Tactical_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Extended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Extended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Extended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Appended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Appended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Appended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Tactical_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Tactical_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Tactical_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Extended_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Extended_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Extended_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Appended_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Appended_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Appended_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Tactical_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Tactical_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Tactical_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Extended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Extended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Extended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Appended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Appended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Appended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Tactical_Mag,Overflow,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Tactical_Mag,Overflow,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Tactical_Mag,Overflow,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Extended_Mag,Overflow,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Extended_Mag,Overflow,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Extended_Mag,Overflow,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Appended_Mag,Overflow,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Appended_Mag,Overflow,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Appended_Mag,Overflow,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Tactical_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Tactical_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Tactical_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Extended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Extended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Extended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Appended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Appended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Appended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Tactical_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Tactical_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Tactical_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Extended_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Extended_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Extended_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Appended_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Appended_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Appended_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Tactical_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Tactical_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Tactical_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Extended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Extended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Extended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Appended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Appended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Appended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Tactical_Mag,Overflow,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Tactical_Mag,Overflow,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Tactical_Mag,Overflow,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Extended_Mag,Overflow,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Extended_Mag,Overflow,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Extended_Mag,Overflow,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Appended_Mag,Overflow,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Appended_Mag,Overflow,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Appended_Mag,Overflow,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Tactical_Mag,1168162263,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Tactical_Mag,1168162263,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Tactical_Mag,1168162263,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Extended_Mag,1168162263,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Extended_Mag,1168162263,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Extended_Mag,1168162263,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Appended_Mag,1168162263,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Appended_Mag,1168162263,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Appended_Mag,1168162263,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Tactical_Mag,Field_Prep,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Tactical_Mag,Field_Prep,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Tactical_Mag,Field_Prep,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Extended_Mag,Field_Prep,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Extended_Mag,Field_Prep,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Extended_Mag,Field_Prep,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Appended_Mag,Field_Prep,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Appended_Mag,Field_Prep,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Appended_Mag,Field_Prep,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Tactical_Mag,3124871000,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Tactical_Mag,3124871000,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Tactical_Mag,3124871000,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Extended_Mag,3124871000,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Extended_Mag,3124871000,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Extended_Mag,3124871000,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Appended_Mag,3124871000,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Appended_Mag,3124871000,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Appended_Mag,3124871000,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Tactical_Mag,Overflow,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Tactical_Mag,Overflow,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Tactical_Mag,Overflow,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Extended_Mag,Overflow,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Extended_Mag,Overflow,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Extended_Mag,Overflow,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Appended_Mag,Overflow,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Appended_Mag,Overflow,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Appended_Mag,Overflow,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Tactical_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Tactical_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Tactical_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Extended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Extended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Extended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Appended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Appended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Appended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Tactical_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Tactical_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Tactical_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Extended_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Extended_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Extended_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Appended_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Appended_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Appended_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Tactical_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Tactical_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Tactical_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Extended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Extended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Extended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Appended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Appended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Appended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Tactical_Mag,Overflow,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Tactical_Mag,Overflow,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Tactical_Mag,Overflow,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Extended_Mag,Overflow,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Extended_Mag,Overflow,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Extended_Mag,Overflow,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Appended_Mag,Overflow,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Appended_Mag,Overflow,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Appended_Mag,Overflow,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Tactical_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Tactical_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Tactical_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Extended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Extended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Extended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Appended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Appended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Appended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Tactical_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Tactical_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Tactical_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Extended_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Extended_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Extended_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Appended_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Appended_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Appended_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Tactical_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Tactical_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Tactical_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Extended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Extended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Extended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Appended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Appended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Appended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Tactical_Mag,Overflow,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Tactical_Mag,Overflow,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Tactical_Mag,Overflow,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Extended_Mag,Overflow,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Extended_Mag,Overflow,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Extended_Mag,Overflow,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Appended_Mag,Overflow,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Appended_Mag,Overflow,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Appended_Mag,Overflow,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Tactical_Mag,1168162263,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Tactical_Mag,1168162263,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Tactical_Mag,1168162263,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Extended_Mag,1168162263,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Extended_Mag,1168162263,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Extended_Mag,1168162263,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Appended_Mag,1168162263,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Appended_Mag,1168162263,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Appended_Mag,1168162263,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Tactical_Mag,Field_Prep,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Tactical_Mag,Field_Prep,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Tactical_Mag,Field_Prep,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Extended_Mag,Field_Prep,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Extended_Mag,Field_Prep,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Extended_Mag,Field_Prep,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Appended_Mag,Field_Prep,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Appended_Mag,Field_Prep,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Appended_Mag,Field_Prep,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Tactical_Mag,3124871000,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Tactical_Mag,3124871000,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Tactical_Mag,3124871000,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Extended_Mag,3124871000,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Extended_Mag,3124871000,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Extended_Mag,3124871000,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Appended_Mag,3124871000,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Appended_Mag,3124871000,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Appended_Mag,3124871000,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Tactical_Mag,Overflow,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Tactical_Mag,Overflow,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Tactical_Mag,Overflow,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Extended_Mag,Overflow,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Extended_Mag,Overflow,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Extended_Mag,Overflow,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Appended_Mag,Overflow,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Appended_Mag,Overflow,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Appended_Mag,Overflow,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Tactical_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Tactical_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Tactical_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Extended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Extended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Extended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Appended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Appended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Appended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Tactical_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Tactical_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Tactical_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Extended_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Extended_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Extended_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Appended_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Appended_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Appended_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Tactical_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Tactical_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Tactical_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Extended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Extended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Extended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Appended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Appended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Appended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Tactical_Mag,Overflow,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Tactical_Mag,Overflow,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Tactical_Mag,Overflow,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Extended_Mag,Overflow,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Extended_Mag,Overflow,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Extended_Mag,Overflow,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Appended_Mag,Overflow,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Appended_Mag,Overflow,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Appended_Mag,Overflow,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Tactical_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Tactical_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Tactical_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Extended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Extended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Extended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Appended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Appended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Appended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Tactical_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Tactical_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Tactical_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Extended_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Extended_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Extended_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Appended_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Appended_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Appended_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Tactical_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Tactical_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Tactical_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Extended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Extended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Extended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Appended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Appended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Appended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Tactical_Mag,Overflow,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Tactical_Mag,Overflow,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Tactical_Mag,Overflow,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Extended_Mag,Overflow,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Extended_Mag,Overflow,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Extended_Mag,Overflow,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Appended_Mag,Overflow,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Appended_Mag,Overflow,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Appended_Mag,Overflow,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Tactical_Mag,1168162263,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Tactical_Mag,1168162263,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Tactical_Mag,1168162263,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Extended_Mag,1168162263,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Extended_Mag,1168162263,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Extended_Mag,1168162263,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Appended_Mag,1168162263,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Appended_Mag,1168162263,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Appended_Mag,1168162263,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Tactical_Mag,Field_Prep,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Tactical_Mag,Field_Prep,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Tactical_Mag,Field_Prep,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Extended_Mag,Field_Prep,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Extended_Mag,Field_Prep,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Extended_Mag,Field_Prep,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Appended_Mag,Field_Prep,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Appended_Mag,Field_Prep,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Appended_Mag,Field_Prep,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Tactical_Mag,3124871000,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Tactical_Mag,3124871000,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Tactical_Mag,3124871000,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Extended_Mag,3124871000,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Extended_Mag,3124871000,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Extended_Mag,3124871000,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Fluted_Barrel,Appended_Mag,3124871000,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Smallbore,Appended_Mag,3124871000,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3287201781, Corkscrew_Rifling,Appended_Mag,3124871000,Triple_Tap)#notes:pandapaxxy Shadowkeep PvE
+
+//Dream Breaker (version 1)
+wishlist_entry(394810086, Fluted_Barrel,Liquid_Coils,Auto_Loading_Holster,Backup_Plan)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Corkscrew_Rifling,Liquid_Coils,Auto_Loading_Holster,Backup_Plan)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Fluted_Barrel,Enhanced_Battery,Auto_Loading_Holster,Backup_Plan)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Corkscrew_Rifling,Enhanced_Battery,Auto_Loading_Holster,Backup_Plan)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Fluted_Barrel,Accelerated_Coils,Auto_Loading_Holster,Backup_Plan)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Corkscrew_Rifling,Accelerated_Coils,Auto_Loading_Holster,Backup_Plan)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Fluted_Barrel,Liquid_Coils,Underdog,Backup_Plan)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Corkscrew_Rifling,Liquid_Coils,Underdog,Backup_Plan)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Fluted_Barrel,Enhanced_Battery,Underdog,Backup_Plan)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Corkscrew_Rifling,Enhanced_Battery,Underdog,Backup_Plan)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Fluted_Barrel,Accelerated_Coils,Underdog,Backup_Plan)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Corkscrew_Rifling,Accelerated_Coils,Underdog,Backup_Plan)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Fluted_Barrel,Liquid_Coils,Threat_Detector,Backup_Plan)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Corkscrew_Rifling,Liquid_Coils,Threat_Detector,Backup_Plan)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Fluted_Barrel,Enhanced_Battery,Threat_Detector,Backup_Plan)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Corkscrew_Rifling,Enhanced_Battery,Threat_Detector,Backup_Plan)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Fluted_Barrel,Accelerated_Coils,Threat_Detector,Backup_Plan)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Corkscrew_Rifling,Accelerated_Coils,Threat_Detector,Backup_Plan)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Fluted_Barrel,Liquid_Coils,Auto_Loading_Holster,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Corkscrew_Rifling,Liquid_Coils,Auto_Loading_Holster,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Fluted_Barrel,Enhanced_Battery,Auto_Loading_Holster,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Corkscrew_Rifling,Enhanced_Battery,Auto_Loading_Holster,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Fluted_Barrel,Accelerated_Coils,Auto_Loading_Holster,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Corkscrew_Rifling,Accelerated_Coils,Auto_Loading_Holster,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Fluted_Barrel,Liquid_Coils,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Corkscrew_Rifling,Liquid_Coils,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Fluted_Barrel,Enhanced_Battery,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Corkscrew_Rifling,Enhanced_Battery,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Fluted_Barrel,Accelerated_Coils,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Corkscrew_Rifling,Accelerated_Coils,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Fluted_Barrel,Liquid_Coils,Threat_Detector,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Corkscrew_Rifling,Liquid_Coils,Threat_Detector,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Fluted_Barrel,Enhanced_Battery,Threat_Detector,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Corkscrew_Rifling,Enhanced_Battery,Threat_Detector,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Fluted_Barrel,Accelerated_Coils,Threat_Detector,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Corkscrew_Rifling,Accelerated_Coils,Threat_Detector,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Fluted_Barrel,Liquid_Coils,Auto_Loading_Holster,1683379515)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Corkscrew_Rifling,Liquid_Coils,Auto_Loading_Holster,1683379515)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Fluted_Barrel,Enhanced_Battery,Auto_Loading_Holster,1683379515)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Corkscrew_Rifling,Enhanced_Battery,Auto_Loading_Holster,1683379515)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Fluted_Barrel,Accelerated_Coils,Auto_Loading_Holster,1683379515)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Corkscrew_Rifling,Accelerated_Coils,Auto_Loading_Holster,1683379515)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Fluted_Barrel,Liquid_Coils,Underdog,1683379515)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Corkscrew_Rifling,Liquid_Coils,Underdog,1683379515)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Fluted_Barrel,Enhanced_Battery,Underdog,1683379515)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Corkscrew_Rifling,Enhanced_Battery,Underdog,1683379515)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Fluted_Barrel,Accelerated_Coils,Underdog,1683379515)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Corkscrew_Rifling,Accelerated_Coils,Underdog,1683379515)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Fluted_Barrel,Liquid_Coils,Threat_Detector,1683379515)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Corkscrew_Rifling,Liquid_Coils,Threat_Detector,1683379515)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Fluted_Barrel,Enhanced_Battery,Threat_Detector,1683379515)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Corkscrew_Rifling,Enhanced_Battery,Threat_Detector,1683379515)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Fluted_Barrel,Accelerated_Coils,Threat_Detector,1683379515)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Corkscrew_Rifling,Accelerated_Coils,Threat_Detector,1683379515)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Fluted_Barrel,Liquid_Coils,Auto_Loading_Holster,3871884143)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Corkscrew_Rifling,Liquid_Coils,Auto_Loading_Holster,3871884143)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Fluted_Barrel,Enhanced_Battery,Auto_Loading_Holster,3871884143)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Corkscrew_Rifling,Enhanced_Battery,Auto_Loading_Holster,3871884143)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Fluted_Barrel,Accelerated_Coils,Auto_Loading_Holster,3871884143)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Corkscrew_Rifling,Accelerated_Coils,Auto_Loading_Holster,3871884143)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Fluted_Barrel,Liquid_Coils,Underdog,3871884143)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Corkscrew_Rifling,Liquid_Coils,Underdog,3871884143)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Fluted_Barrel,Enhanced_Battery,Underdog,3871884143)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Corkscrew_Rifling,Enhanced_Battery,Underdog,3871884143)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Fluted_Barrel,Accelerated_Coils,Underdog,3871884143)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Corkscrew_Rifling,Accelerated_Coils,Underdog,3871884143)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Fluted_Barrel,Liquid_Coils,Threat_Detector,3871884143)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Corkscrew_Rifling,Liquid_Coils,Threat_Detector,3871884143)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Fluted_Barrel,Enhanced_Battery,Threat_Detector,3871884143)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Corkscrew_Rifling,Enhanced_Battery,Threat_Detector,3871884143)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Fluted_Barrel,Accelerated_Coils,Threat_Detector,3871884143)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Corkscrew_Rifling,Accelerated_Coils,Threat_Detector,3871884143)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Fluted_Barrel,Liquid_Coils,Auto_Loading_Holster,Backup_Plan)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Corkscrew_Rifling,Liquid_Coils,Auto_Loading_Holster,Backup_Plan)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Fluted_Barrel,Enhanced_Battery,Auto_Loading_Holster,Backup_Plan)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Corkscrew_Rifling,Enhanced_Battery,Auto_Loading_Holster,Backup_Plan)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Fluted_Barrel,Accelerated_Coils,Auto_Loading_Holster,Backup_Plan)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Corkscrew_Rifling,Accelerated_Coils,Auto_Loading_Holster,Backup_Plan)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Fluted_Barrel,Liquid_Coils,Underdog,Backup_Plan)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Corkscrew_Rifling,Liquid_Coils,Underdog,Backup_Plan)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Fluted_Barrel,Enhanced_Battery,Underdog,Backup_Plan)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Corkscrew_Rifling,Enhanced_Battery,Underdog,Backup_Plan)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Fluted_Barrel,Accelerated_Coils,Underdog,Backup_Plan)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Corkscrew_Rifling,Accelerated_Coils,Underdog,Backup_Plan)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Fluted_Barrel,Liquid_Coils,Threat_Detector,Backup_Plan)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Corkscrew_Rifling,Liquid_Coils,Threat_Detector,Backup_Plan)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Fluted_Barrel,Enhanced_Battery,Threat_Detector,Backup_Plan)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Corkscrew_Rifling,Enhanced_Battery,Threat_Detector,Backup_Plan)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Fluted_Barrel,Accelerated_Coils,Threat_Detector,Backup_Plan)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Corkscrew_Rifling,Accelerated_Coils,Threat_Detector,Backup_Plan)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Fluted_Barrel,Liquid_Coils,Auto_Loading_Holster,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Corkscrew_Rifling,Liquid_Coils,Auto_Loading_Holster,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Fluted_Barrel,Enhanced_Battery,Auto_Loading_Holster,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Corkscrew_Rifling,Enhanced_Battery,Auto_Loading_Holster,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Fluted_Barrel,Accelerated_Coils,Auto_Loading_Holster,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Corkscrew_Rifling,Accelerated_Coils,Auto_Loading_Holster,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Fluted_Barrel,Liquid_Coils,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Corkscrew_Rifling,Liquid_Coils,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Fluted_Barrel,Enhanced_Battery,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Corkscrew_Rifling,Enhanced_Battery,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Fluted_Barrel,Accelerated_Coils,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Corkscrew_Rifling,Accelerated_Coils,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Fluted_Barrel,Liquid_Coils,Threat_Detector,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Corkscrew_Rifling,Liquid_Coils,Threat_Detector,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Fluted_Barrel,Enhanced_Battery,Threat_Detector,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Corkscrew_Rifling,Enhanced_Battery,Threat_Detector,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Fluted_Barrel,Accelerated_Coils,Threat_Detector,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Corkscrew_Rifling,Accelerated_Coils,Threat_Detector,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Fluted_Barrel,Liquid_Coils,Auto_Loading_Holster,1683379515)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Corkscrew_Rifling,Liquid_Coils,Auto_Loading_Holster,1683379515)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Fluted_Barrel,Enhanced_Battery,Auto_Loading_Holster,1683379515)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Corkscrew_Rifling,Enhanced_Battery,Auto_Loading_Holster,1683379515)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Fluted_Barrel,Accelerated_Coils,Auto_Loading_Holster,1683379515)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Corkscrew_Rifling,Accelerated_Coils,Auto_Loading_Holster,1683379515)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Fluted_Barrel,Liquid_Coils,Underdog,1683379515)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Corkscrew_Rifling,Liquid_Coils,Underdog,1683379515)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Fluted_Barrel,Enhanced_Battery,Underdog,1683379515)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Corkscrew_Rifling,Enhanced_Battery,Underdog,1683379515)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Fluted_Barrel,Accelerated_Coils,Underdog,1683379515)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Corkscrew_Rifling,Accelerated_Coils,Underdog,1683379515)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Fluted_Barrel,Liquid_Coils,Threat_Detector,1683379515)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Corkscrew_Rifling,Liquid_Coils,Threat_Detector,1683379515)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Fluted_Barrel,Enhanced_Battery,Threat_Detector,1683379515)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Corkscrew_Rifling,Enhanced_Battery,Threat_Detector,1683379515)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Fluted_Barrel,Accelerated_Coils,Threat_Detector,1683379515)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Corkscrew_Rifling,Accelerated_Coils,Threat_Detector,1683379515)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Fluted_Barrel,Liquid_Coils,Auto_Loading_Holster,3871884143)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Corkscrew_Rifling,Liquid_Coils,Auto_Loading_Holster,3871884143)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Fluted_Barrel,Enhanced_Battery,Auto_Loading_Holster,3871884143)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Corkscrew_Rifling,Enhanced_Battery,Auto_Loading_Holster,3871884143)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Fluted_Barrel,Accelerated_Coils,Auto_Loading_Holster,3871884143)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Corkscrew_Rifling,Accelerated_Coils,Auto_Loading_Holster,3871884143)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Fluted_Barrel,Liquid_Coils,Underdog,3871884143)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Corkscrew_Rifling,Liquid_Coils,Underdog,3871884143)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Fluted_Barrel,Enhanced_Battery,Underdog,3871884143)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Corkscrew_Rifling,Enhanced_Battery,Underdog,3871884143)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Fluted_Barrel,Accelerated_Coils,Underdog,3871884143)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Corkscrew_Rifling,Accelerated_Coils,Underdog,3871884143)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Fluted_Barrel,Liquid_Coils,Threat_Detector,3871884143)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Corkscrew_Rifling,Liquid_Coils,Threat_Detector,3871884143)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Fluted_Barrel,Enhanced_Battery,Threat_Detector,3871884143)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Corkscrew_Rifling,Enhanced_Battery,Threat_Detector,3871884143)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Fluted_Barrel,Accelerated_Coils,Threat_Detector,3871884143)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(394810086, Corkscrew_Rifling,Accelerated_Coils,Threat_Detector,3871884143)#notes:pandapaxxy Shadowkeep PvE
+
+//Dream Breaker (version 2)
+Dream_Breaker(Fluted_Barrel,Liquid_Coils,Auto_Loading_Holster,Backup_Plan)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Corkscrew_Rifling,Liquid_Coils,Auto_Loading_Holster,Backup_Plan)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Fluted_Barrel,Enhanced_Battery,Auto_Loading_Holster,Backup_Plan)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Corkscrew_Rifling,Enhanced_Battery,Auto_Loading_Holster,Backup_Plan)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Fluted_Barrel,Accelerated_Coils,Auto_Loading_Holster,Backup_Plan)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Corkscrew_Rifling,Accelerated_Coils,Auto_Loading_Holster,Backup_Plan)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Fluted_Barrel,Liquid_Coils,Underdog,Backup_Plan)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Corkscrew_Rifling,Liquid_Coils,Underdog,Backup_Plan)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Fluted_Barrel,Enhanced_Battery,Underdog,Backup_Plan)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Corkscrew_Rifling,Enhanced_Battery,Underdog,Backup_Plan)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Fluted_Barrel,Accelerated_Coils,Underdog,Backup_Plan)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Corkscrew_Rifling,Accelerated_Coils,Underdog,Backup_Plan)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Fluted_Barrel,Liquid_Coils,Threat_Detector,Backup_Plan)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Corkscrew_Rifling,Liquid_Coils,Threat_Detector,Backup_Plan)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Fluted_Barrel,Enhanced_Battery,Threat_Detector,Backup_Plan)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Corkscrew_Rifling,Enhanced_Battery,Threat_Detector,Backup_Plan)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Fluted_Barrel,Accelerated_Coils,Threat_Detector,Backup_Plan)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Corkscrew_Rifling,Accelerated_Coils,Threat_Detector,Backup_Plan)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Fluted_Barrel,Liquid_Coils,Auto_Loading_Holster,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Corkscrew_Rifling,Liquid_Coils,Auto_Loading_Holster,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Fluted_Barrel,Enhanced_Battery,Auto_Loading_Holster,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Corkscrew_Rifling,Enhanced_Battery,Auto_Loading_Holster,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Fluted_Barrel,Accelerated_Coils,Auto_Loading_Holster,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Corkscrew_Rifling,Accelerated_Coils,Auto_Loading_Holster,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Fluted_Barrel,Liquid_Coils,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Corkscrew_Rifling,Liquid_Coils,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Fluted_Barrel,Enhanced_Battery,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Corkscrew_Rifling,Enhanced_Battery,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Fluted_Barrel,Accelerated_Coils,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Corkscrew_Rifling,Accelerated_Coils,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Fluted_Barrel,Liquid_Coils,Threat_Detector,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Corkscrew_Rifling,Liquid_Coils,Threat_Detector,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Fluted_Barrel,Enhanced_Battery,Threat_Detector,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Corkscrew_Rifling,Enhanced_Battery,Threat_Detector,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Fluted_Barrel,Accelerated_Coils,Threat_Detector,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Corkscrew_Rifling,Accelerated_Coils,Threat_Detector,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Fluted_Barrel,Liquid_Coils,Auto_Loading_Holster,1683379515)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Corkscrew_Rifling,Liquid_Coils,Auto_Loading_Holster,1683379515)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Fluted_Barrel,Enhanced_Battery,Auto_Loading_Holster,1683379515)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Corkscrew_Rifling,Enhanced_Battery,Auto_Loading_Holster,1683379515)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Fluted_Barrel,Accelerated_Coils,Auto_Loading_Holster,1683379515)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Corkscrew_Rifling,Accelerated_Coils,Auto_Loading_Holster,1683379515)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Fluted_Barrel,Liquid_Coils,Underdog,1683379515)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Corkscrew_Rifling,Liquid_Coils,Underdog,1683379515)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Fluted_Barrel,Enhanced_Battery,Underdog,1683379515)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Corkscrew_Rifling,Enhanced_Battery,Underdog,1683379515)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Fluted_Barrel,Accelerated_Coils,Underdog,1683379515)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Corkscrew_Rifling,Accelerated_Coils,Underdog,1683379515)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Fluted_Barrel,Liquid_Coils,Threat_Detector,1683379515)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Corkscrew_Rifling,Liquid_Coils,Threat_Detector,1683379515)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Fluted_Barrel,Enhanced_Battery,Threat_Detector,1683379515)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Corkscrew_Rifling,Enhanced_Battery,Threat_Detector,1683379515)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Fluted_Barrel,Accelerated_Coils,Threat_Detector,1683379515)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Corkscrew_Rifling,Accelerated_Coils,Threat_Detector,1683379515)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Fluted_Barrel,Liquid_Coils,Auto_Loading_Holster,3871884143)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Corkscrew_Rifling,Liquid_Coils,Auto_Loading_Holster,3871884143)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Fluted_Barrel,Enhanced_Battery,Auto_Loading_Holster,3871884143)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Corkscrew_Rifling,Enhanced_Battery,Auto_Loading_Holster,3871884143)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Fluted_Barrel,Accelerated_Coils,Auto_Loading_Holster,3871884143)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Corkscrew_Rifling,Accelerated_Coils,Auto_Loading_Holster,3871884143)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Fluted_Barrel,Liquid_Coils,Underdog,3871884143)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Corkscrew_Rifling,Liquid_Coils,Underdog,3871884143)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Fluted_Barrel,Enhanced_Battery,Underdog,3871884143)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Corkscrew_Rifling,Enhanced_Battery,Underdog,3871884143)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Fluted_Barrel,Accelerated_Coils,Underdog,3871884143)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Corkscrew_Rifling,Accelerated_Coils,Underdog,3871884143)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Fluted_Barrel,Liquid_Coils,Threat_Detector,3871884143)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Corkscrew_Rifling,Liquid_Coils,Threat_Detector,3871884143)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Fluted_Barrel,Enhanced_Battery,Threat_Detector,3871884143)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Corkscrew_Rifling,Enhanced_Battery,Threat_Detector,3871884143)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Fluted_Barrel,Accelerated_Coils,Threat_Detector,3871884143)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Corkscrew_Rifling,Accelerated_Coils,Threat_Detector,3871884143)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Fluted_Barrel,Liquid_Coils,Auto_Loading_Holster,Backup_Plan)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Corkscrew_Rifling,Liquid_Coils,Auto_Loading_Holster,Backup_Plan)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Fluted_Barrel,Enhanced_Battery,Auto_Loading_Holster,Backup_Plan)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Corkscrew_Rifling,Enhanced_Battery,Auto_Loading_Holster,Backup_Plan)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Fluted_Barrel,Accelerated_Coils,Auto_Loading_Holster,Backup_Plan)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Corkscrew_Rifling,Accelerated_Coils,Auto_Loading_Holster,Backup_Plan)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Fluted_Barrel,Liquid_Coils,Underdog,Backup_Plan)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Corkscrew_Rifling,Liquid_Coils,Underdog,Backup_Plan)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Fluted_Barrel,Enhanced_Battery,Underdog,Backup_Plan)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Corkscrew_Rifling,Enhanced_Battery,Underdog,Backup_Plan)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Fluted_Barrel,Accelerated_Coils,Underdog,Backup_Plan)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Corkscrew_Rifling,Accelerated_Coils,Underdog,Backup_Plan)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Fluted_Barrel,Liquid_Coils,Threat_Detector,Backup_Plan)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Corkscrew_Rifling,Liquid_Coils,Threat_Detector,Backup_Plan)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Fluted_Barrel,Enhanced_Battery,Threat_Detector,Backup_Plan)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Corkscrew_Rifling,Enhanced_Battery,Threat_Detector,Backup_Plan)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Fluted_Barrel,Accelerated_Coils,Threat_Detector,Backup_Plan)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Corkscrew_Rifling,Accelerated_Coils,Threat_Detector,Backup_Plan)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Fluted_Barrel,Liquid_Coils,Auto_Loading_Holster,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Corkscrew_Rifling,Liquid_Coils,Auto_Loading_Holster,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Fluted_Barrel,Enhanced_Battery,Auto_Loading_Holster,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Corkscrew_Rifling,Enhanced_Battery,Auto_Loading_Holster,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Fluted_Barrel,Accelerated_Coils,Auto_Loading_Holster,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Corkscrew_Rifling,Accelerated_Coils,Auto_Loading_Holster,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Fluted_Barrel,Liquid_Coils,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Corkscrew_Rifling,Liquid_Coils,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Fluted_Barrel,Enhanced_Battery,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Corkscrew_Rifling,Enhanced_Battery,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Fluted_Barrel,Accelerated_Coils,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Corkscrew_Rifling,Accelerated_Coils,Underdog,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Fluted_Barrel,Liquid_Coils,Threat_Detector,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Corkscrew_Rifling,Liquid_Coils,Threat_Detector,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Fluted_Barrel,Enhanced_Battery,Threat_Detector,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Corkscrew_Rifling,Enhanced_Battery,Threat_Detector,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Fluted_Barrel,Accelerated_Coils,Threat_Detector,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Corkscrew_Rifling,Accelerated_Coils,Threat_Detector,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Fluted_Barrel,Liquid_Coils,Auto_Loading_Holster,1683379515)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Corkscrew_Rifling,Liquid_Coils,Auto_Loading_Holster,1683379515)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Fluted_Barrel,Enhanced_Battery,Auto_Loading_Holster,1683379515)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Corkscrew_Rifling,Enhanced_Battery,Auto_Loading_Holster,1683379515)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Fluted_Barrel,Accelerated_Coils,Auto_Loading_Holster,1683379515)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Corkscrew_Rifling,Accelerated_Coils,Auto_Loading_Holster,1683379515)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Fluted_Barrel,Liquid_Coils,Underdog,1683379515)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Corkscrew_Rifling,Liquid_Coils,Underdog,1683379515)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Fluted_Barrel,Enhanced_Battery,Underdog,1683379515)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Corkscrew_Rifling,Enhanced_Battery,Underdog,1683379515)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Fluted_Barrel,Accelerated_Coils,Underdog,1683379515)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Corkscrew_Rifling,Accelerated_Coils,Underdog,1683379515)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Fluted_Barrel,Liquid_Coils,Threat_Detector,1683379515)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Corkscrew_Rifling,Liquid_Coils,Threat_Detector,1683379515)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Fluted_Barrel,Enhanced_Battery,Threat_Detector,1683379515)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Corkscrew_Rifling,Enhanced_Battery,Threat_Detector,1683379515)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Fluted_Barrel,Accelerated_Coils,Threat_Detector,1683379515)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Corkscrew_Rifling,Accelerated_Coils,Threat_Detector,1683379515)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Fluted_Barrel,Liquid_Coils,Auto_Loading_Holster,3871884143)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Corkscrew_Rifling,Liquid_Coils,Auto_Loading_Holster,3871884143)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Fluted_Barrel,Enhanced_Battery,Auto_Loading_Holster,3871884143)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Corkscrew_Rifling,Enhanced_Battery,Auto_Loading_Holster,3871884143)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Fluted_Barrel,Accelerated_Coils,Auto_Loading_Holster,3871884143)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Corkscrew_Rifling,Accelerated_Coils,Auto_Loading_Holster,3871884143)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Fluted_Barrel,Liquid_Coils,Underdog,3871884143)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Corkscrew_Rifling,Liquid_Coils,Underdog,3871884143)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Fluted_Barrel,Enhanced_Battery,Underdog,3871884143)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Corkscrew_Rifling,Enhanced_Battery,Underdog,3871884143)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Fluted_Barrel,Accelerated_Coils,Underdog,3871884143)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Corkscrew_Rifling,Accelerated_Coils,Underdog,3871884143)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Fluted_Barrel,Liquid_Coils,Threat_Detector,3871884143)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Corkscrew_Rifling,Liquid_Coils,Threat_Detector,3871884143)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Fluted_Barrel,Enhanced_Battery,Threat_Detector,3871884143)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Corkscrew_Rifling,Enhanced_Battery,Threat_Detector,3871884143)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Fluted_Barrel,Accelerated_Coils,Threat_Detector,3871884143)#notes:pandapaxxy Shadowkeep PvE
+Dream_Breaker(Corkscrew_Rifling,Accelerated_Coils,Threat_Detector,3871884143)#notes:pandapaxxy Shadowkeep PvE
+
+//Every Waking Moment (version 1)
+wishlist_entry(4008494330, Fluted_Barrel,Extended_Mag,1168162263,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Arrowhead_Brake,Extended_Mag,1168162263,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, 3661387068,Extended_Mag,1168162263,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Fluted_Barrel,High_Caliber_Rounds,1168162263,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Arrowhead_Brake,High_Caliber_Rounds,1168162263,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, 3661387068,High_Caliber_Rounds,1168162263,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Fluted_Barrel,Extended_Mag,Slideways,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Arrowhead_Brake,Extended_Mag,Slideways,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, 3661387068,Extended_Mag,Slideways,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Fluted_Barrel,High_Caliber_Rounds,Slideways,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Arrowhead_Brake,High_Caliber_Rounds,Slideways,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, 3661387068,High_Caliber_Rounds,Slideways,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Fluted_Barrel,Extended_Mag,Zen_Moment,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Arrowhead_Brake,Extended_Mag,Zen_Moment,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, 3661387068,Extended_Mag,Zen_Moment,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Fluted_Barrel,High_Caliber_Rounds,Zen_Moment,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Arrowhead_Brake,High_Caliber_Rounds,Zen_Moment,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, 3661387068,High_Caliber_Rounds,Zen_Moment,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Fluted_Barrel,Extended_Mag,3124871000,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Arrowhead_Brake,Extended_Mag,3124871000,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, 3661387068,Extended_Mag,3124871000,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Fluted_Barrel,High_Caliber_Rounds,3124871000,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Arrowhead_Brake,High_Caliber_Rounds,3124871000,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, 3661387068,High_Caliber_Rounds,3124871000,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Fluted_Barrel,Extended_Mag,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Arrowhead_Brake,Extended_Mag,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, 3661387068,Extended_Mag,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Fluted_Barrel,High_Caliber_Rounds,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Arrowhead_Brake,High_Caliber_Rounds,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, 3661387068,High_Caliber_Rounds,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Fluted_Barrel,Extended_Mag,Slideways,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Arrowhead_Brake,Extended_Mag,Slideways,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, 3661387068,Extended_Mag,Slideways,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Fluted_Barrel,High_Caliber_Rounds,Slideways,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Arrowhead_Brake,High_Caliber_Rounds,Slideways,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, 3661387068,High_Caliber_Rounds,Slideways,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Fluted_Barrel,Extended_Mag,Zen_Moment,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Arrowhead_Brake,Extended_Mag,Zen_Moment,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, 3661387068,Extended_Mag,Zen_Moment,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Fluted_Barrel,High_Caliber_Rounds,Zen_Moment,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Arrowhead_Brake,High_Caliber_Rounds,Zen_Moment,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, 3661387068,High_Caliber_Rounds,Zen_Moment,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Fluted_Barrel,Extended_Mag,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Arrowhead_Brake,Extended_Mag,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, 3661387068,Extended_Mag,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Fluted_Barrel,High_Caliber_Rounds,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Arrowhead_Brake,High_Caliber_Rounds,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, 3661387068,High_Caliber_Rounds,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Fluted_Barrel,Extended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Arrowhead_Brake,Extended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, 3661387068,Extended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Fluted_Barrel,High_Caliber_Rounds,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Arrowhead_Brake,High_Caliber_Rounds,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, 3661387068,High_Caliber_Rounds,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Fluted_Barrel,Extended_Mag,Slideways,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Arrowhead_Brake,Extended_Mag,Slideways,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, 3661387068,Extended_Mag,Slideways,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Fluted_Barrel,High_Caliber_Rounds,Slideways,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Arrowhead_Brake,High_Caliber_Rounds,Slideways,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, 3661387068,High_Caliber_Rounds,Slideways,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Fluted_Barrel,Extended_Mag,Zen_Moment,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Arrowhead_Brake,Extended_Mag,Zen_Moment,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, 3661387068,Extended_Mag,Zen_Moment,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Fluted_Barrel,High_Caliber_Rounds,Zen_Moment,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Arrowhead_Brake,High_Caliber_Rounds,Zen_Moment,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, 3661387068,High_Caliber_Rounds,Zen_Moment,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Fluted_Barrel,Extended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Arrowhead_Brake,Extended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, 3661387068,Extended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Fluted_Barrel,High_Caliber_Rounds,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Arrowhead_Brake,High_Caliber_Rounds,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, 3661387068,High_Caliber_Rounds,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Fluted_Barrel,Extended_Mag,1168162263,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Arrowhead_Brake,Extended_Mag,1168162263,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, 3661387068,Extended_Mag,1168162263,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Fluted_Barrel,High_Caliber_Rounds,1168162263,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Arrowhead_Brake,High_Caliber_Rounds,1168162263,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, 3661387068,High_Caliber_Rounds,1168162263,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Fluted_Barrel,Extended_Mag,Slideways,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Arrowhead_Brake,Extended_Mag,Slideways,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, 3661387068,Extended_Mag,Slideways,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Fluted_Barrel,High_Caliber_Rounds,Slideways,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Arrowhead_Brake,High_Caliber_Rounds,Slideways,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, 3661387068,High_Caliber_Rounds,Slideways,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Fluted_Barrel,Extended_Mag,Zen_Moment,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Arrowhead_Brake,Extended_Mag,Zen_Moment,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, 3661387068,Extended_Mag,Zen_Moment,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Fluted_Barrel,High_Caliber_Rounds,Zen_Moment,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Arrowhead_Brake,High_Caliber_Rounds,Zen_Moment,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, 3661387068,High_Caliber_Rounds,Zen_Moment,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Fluted_Barrel,Extended_Mag,3124871000,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Arrowhead_Brake,Extended_Mag,3124871000,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, 3661387068,Extended_Mag,3124871000,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Fluted_Barrel,High_Caliber_Rounds,3124871000,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Arrowhead_Brake,High_Caliber_Rounds,3124871000,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, 3661387068,High_Caliber_Rounds,3124871000,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Fluted_Barrel,Extended_Mag,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Arrowhead_Brake,Extended_Mag,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, 3661387068,Extended_Mag,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Fluted_Barrel,High_Caliber_Rounds,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Arrowhead_Brake,High_Caliber_Rounds,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, 3661387068,High_Caliber_Rounds,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Fluted_Barrel,Extended_Mag,Slideways,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Arrowhead_Brake,Extended_Mag,Slideways,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, 3661387068,Extended_Mag,Slideways,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Fluted_Barrel,High_Caliber_Rounds,Slideways,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Arrowhead_Brake,High_Caliber_Rounds,Slideways,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, 3661387068,High_Caliber_Rounds,Slideways,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Fluted_Barrel,Extended_Mag,Zen_Moment,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Arrowhead_Brake,Extended_Mag,Zen_Moment,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, 3661387068,Extended_Mag,Zen_Moment,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Fluted_Barrel,High_Caliber_Rounds,Zen_Moment,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Arrowhead_Brake,High_Caliber_Rounds,Zen_Moment,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, 3661387068,High_Caliber_Rounds,Zen_Moment,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Fluted_Barrel,Extended_Mag,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Arrowhead_Brake,Extended_Mag,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, 3661387068,Extended_Mag,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Fluted_Barrel,High_Caliber_Rounds,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Arrowhead_Brake,High_Caliber_Rounds,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, 3661387068,High_Caliber_Rounds,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Fluted_Barrel,Extended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Arrowhead_Brake,Extended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, 3661387068,Extended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Fluted_Barrel,High_Caliber_Rounds,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Arrowhead_Brake,High_Caliber_Rounds,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, 3661387068,High_Caliber_Rounds,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Fluted_Barrel,Extended_Mag,Slideways,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Arrowhead_Brake,Extended_Mag,Slideways,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, 3661387068,Extended_Mag,Slideways,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Fluted_Barrel,High_Caliber_Rounds,Slideways,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Arrowhead_Brake,High_Caliber_Rounds,Slideways,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, 3661387068,High_Caliber_Rounds,Slideways,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Fluted_Barrel,Extended_Mag,Zen_Moment,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Arrowhead_Brake,Extended_Mag,Zen_Moment,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, 3661387068,Extended_Mag,Zen_Moment,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Fluted_Barrel,High_Caliber_Rounds,Zen_Moment,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Arrowhead_Brake,High_Caliber_Rounds,Zen_Moment,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, 3661387068,High_Caliber_Rounds,Zen_Moment,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Fluted_Barrel,Extended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Arrowhead_Brake,Extended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, 3661387068,Extended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Fluted_Barrel,High_Caliber_Rounds,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, Arrowhead_Brake,High_Caliber_Rounds,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4008494330, 3661387068,High_Caliber_Rounds,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+
+//Every Waking Moment (version 2)
+Every_Waking_Moment(Fluted_Barrel,Extended_Mag,1168162263,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Arrowhead_Brake,Extended_Mag,1168162263,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(3661387068,Extended_Mag,1168162263,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Fluted_Barrel,High_Caliber_Rounds,1168162263,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Arrowhead_Brake,High_Caliber_Rounds,1168162263,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(3661387068,High_Caliber_Rounds,1168162263,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Fluted_Barrel,Extended_Mag,Slideways,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Arrowhead_Brake,Extended_Mag,Slideways,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(3661387068,Extended_Mag,Slideways,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Fluted_Barrel,High_Caliber_Rounds,Slideways,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Arrowhead_Brake,High_Caliber_Rounds,Slideways,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(3661387068,High_Caliber_Rounds,Slideways,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Fluted_Barrel,Extended_Mag,Zen_Moment,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Arrowhead_Brake,Extended_Mag,Zen_Moment,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(3661387068,Extended_Mag,Zen_Moment,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Fluted_Barrel,High_Caliber_Rounds,Zen_Moment,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Arrowhead_Brake,High_Caliber_Rounds,Zen_Moment,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(3661387068,High_Caliber_Rounds,Zen_Moment,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Fluted_Barrel,Extended_Mag,3124871000,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Arrowhead_Brake,Extended_Mag,3124871000,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(3661387068,Extended_Mag,3124871000,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Fluted_Barrel,High_Caliber_Rounds,3124871000,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Arrowhead_Brake,High_Caliber_Rounds,3124871000,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(3661387068,High_Caliber_Rounds,3124871000,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Fluted_Barrel,Extended_Mag,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Arrowhead_Brake,Extended_Mag,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(3661387068,Extended_Mag,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Fluted_Barrel,High_Caliber_Rounds,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Arrowhead_Brake,High_Caliber_Rounds,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(3661387068,High_Caliber_Rounds,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Fluted_Barrel,Extended_Mag,Slideways,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Arrowhead_Brake,Extended_Mag,Slideways,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(3661387068,Extended_Mag,Slideways,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Fluted_Barrel,High_Caliber_Rounds,Slideways,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Arrowhead_Brake,High_Caliber_Rounds,Slideways,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(3661387068,High_Caliber_Rounds,Slideways,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Fluted_Barrel,Extended_Mag,Zen_Moment,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Arrowhead_Brake,Extended_Mag,Zen_Moment,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(3661387068,Extended_Mag,Zen_Moment,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Fluted_Barrel,High_Caliber_Rounds,Zen_Moment,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Arrowhead_Brake,High_Caliber_Rounds,Zen_Moment,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(3661387068,High_Caliber_Rounds,Zen_Moment,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Fluted_Barrel,Extended_Mag,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Arrowhead_Brake,Extended_Mag,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(3661387068,Extended_Mag,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Fluted_Barrel,High_Caliber_Rounds,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Arrowhead_Brake,High_Caliber_Rounds,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(3661387068,High_Caliber_Rounds,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Fluted_Barrel,Extended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Arrowhead_Brake,Extended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(3661387068,Extended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Fluted_Barrel,High_Caliber_Rounds,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Arrowhead_Brake,High_Caliber_Rounds,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(3661387068,High_Caliber_Rounds,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Fluted_Barrel,Extended_Mag,Slideways,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Arrowhead_Brake,Extended_Mag,Slideways,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(3661387068,Extended_Mag,Slideways,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Fluted_Barrel,High_Caliber_Rounds,Slideways,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Arrowhead_Brake,High_Caliber_Rounds,Slideways,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(3661387068,High_Caliber_Rounds,Slideways,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Fluted_Barrel,Extended_Mag,Zen_Moment,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Arrowhead_Brake,Extended_Mag,Zen_Moment,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(3661387068,Extended_Mag,Zen_Moment,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Fluted_Barrel,High_Caliber_Rounds,Zen_Moment,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Arrowhead_Brake,High_Caliber_Rounds,Zen_Moment,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(3661387068,High_Caliber_Rounds,Zen_Moment,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Fluted_Barrel,Extended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Arrowhead_Brake,Extended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(3661387068,Extended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Fluted_Barrel,High_Caliber_Rounds,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Arrowhead_Brake,High_Caliber_Rounds,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(3661387068,High_Caliber_Rounds,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Fluted_Barrel,Extended_Mag,1168162263,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Arrowhead_Brake,Extended_Mag,1168162263,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(3661387068,Extended_Mag,1168162263,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Fluted_Barrel,High_Caliber_Rounds,1168162263,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Arrowhead_Brake,High_Caliber_Rounds,1168162263,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(3661387068,High_Caliber_Rounds,1168162263,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Fluted_Barrel,Extended_Mag,Slideways,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Arrowhead_Brake,Extended_Mag,Slideways,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(3661387068,Extended_Mag,Slideways,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Fluted_Barrel,High_Caliber_Rounds,Slideways,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Arrowhead_Brake,High_Caliber_Rounds,Slideways,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(3661387068,High_Caliber_Rounds,Slideways,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Fluted_Barrel,Extended_Mag,Zen_Moment,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Arrowhead_Brake,Extended_Mag,Zen_Moment,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(3661387068,Extended_Mag,Zen_Moment,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Fluted_Barrel,High_Caliber_Rounds,Zen_Moment,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Arrowhead_Brake,High_Caliber_Rounds,Zen_Moment,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(3661387068,High_Caliber_Rounds,Zen_Moment,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Fluted_Barrel,Extended_Mag,3124871000,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Arrowhead_Brake,Extended_Mag,3124871000,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(3661387068,Extended_Mag,3124871000,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Fluted_Barrel,High_Caliber_Rounds,3124871000,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Arrowhead_Brake,High_Caliber_Rounds,3124871000,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(3661387068,High_Caliber_Rounds,3124871000,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Fluted_Barrel,Extended_Mag,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Arrowhead_Brake,Extended_Mag,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(3661387068,Extended_Mag,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Fluted_Barrel,High_Caliber_Rounds,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Arrowhead_Brake,High_Caliber_Rounds,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(3661387068,High_Caliber_Rounds,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Fluted_Barrel,Extended_Mag,Slideways,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Arrowhead_Brake,Extended_Mag,Slideways,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(3661387068,Extended_Mag,Slideways,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Fluted_Barrel,High_Caliber_Rounds,Slideways,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Arrowhead_Brake,High_Caliber_Rounds,Slideways,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(3661387068,High_Caliber_Rounds,Slideways,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Fluted_Barrel,Extended_Mag,Zen_Moment,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Arrowhead_Brake,Extended_Mag,Zen_Moment,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(3661387068,Extended_Mag,Zen_Moment,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Fluted_Barrel,High_Caliber_Rounds,Zen_Moment,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Arrowhead_Brake,High_Caliber_Rounds,Zen_Moment,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(3661387068,High_Caliber_Rounds,Zen_Moment,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Fluted_Barrel,Extended_Mag,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Arrowhead_Brake,Extended_Mag,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(3661387068,Extended_Mag,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Fluted_Barrel,High_Caliber_Rounds,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Arrowhead_Brake,High_Caliber_Rounds,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(3661387068,High_Caliber_Rounds,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Fluted_Barrel,Extended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Arrowhead_Brake,Extended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(3661387068,Extended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Fluted_Barrel,High_Caliber_Rounds,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Arrowhead_Brake,High_Caliber_Rounds,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(3661387068,High_Caliber_Rounds,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Fluted_Barrel,Extended_Mag,Slideways,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Arrowhead_Brake,Extended_Mag,Slideways,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(3661387068,Extended_Mag,Slideways,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Fluted_Barrel,High_Caliber_Rounds,Slideways,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Arrowhead_Brake,High_Caliber_Rounds,Slideways,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(3661387068,High_Caliber_Rounds,Slideways,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Fluted_Barrel,Extended_Mag,Zen_Moment,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Arrowhead_Brake,Extended_Mag,Zen_Moment,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(3661387068,Extended_Mag,Zen_Moment,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Fluted_Barrel,High_Caliber_Rounds,Zen_Moment,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Arrowhead_Brake,High_Caliber_Rounds,Zen_Moment,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(3661387068,High_Caliber_Rounds,Zen_Moment,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Fluted_Barrel,Extended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Arrowhead_Brake,Extended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(3661387068,Extended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Fluted_Barrel,High_Caliber_Rounds,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(Arrowhead_Brake,High_Caliber_Rounds,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Every_Waking_Moment(3661387068,High_Caliber_Rounds,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+
+//Optative
+Optative(Fluted_Barrel,Tactical_Mag,Rapid_Hit,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Optative(Corkscrew_Rifling,Tactical_Mag,Rapid_Hit,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Optative(Hammer_Forged_Rifling,Tactical_Mag,Rapid_Hit,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Optative(Fluted_Barrel,Extended_Mag,Rapid_Hit,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Optative(Corkscrew_Rifling,Extended_Mag,Rapid_Hit,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Optative(Hammer_Forged_Rifling,Extended_Mag,Rapid_Hit,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Optative(Fluted_Barrel,Appended_Mag,Rapid_Hit,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Optative(Corkscrew_Rifling,Appended_Mag,Rapid_Hit,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Optative(Hammer_Forged_Rifling,Appended_Mag,Rapid_Hit,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Optative(Fluted_Barrel,Tactical_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Optative(Corkscrew_Rifling,Tactical_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Optative(Hammer_Forged_Rifling,Tactical_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Optative(Fluted_Barrel,Extended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Optative(Corkscrew_Rifling,Extended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Optative(Hammer_Forged_Rifling,Extended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Optative(Fluted_Barrel,Appended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Optative(Corkscrew_Rifling,Appended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Optative(Hammer_Forged_Rifling,Appended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Optative(Fluted_Barrel,Tactical_Mag,Fourth_Time_s_the_Charm,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Optative(Corkscrew_Rifling,Tactical_Mag,Fourth_Time_s_the_Charm,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Optative(Hammer_Forged_Rifling,Tactical_Mag,Fourth_Time_s_the_Charm,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Optative(Fluted_Barrel,Extended_Mag,Fourth_Time_s_the_Charm,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Optative(Corkscrew_Rifling,Extended_Mag,Fourth_Time_s_the_Charm,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Optative(Hammer_Forged_Rifling,Extended_Mag,Fourth_Time_s_the_Charm,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Optative(Fluted_Barrel,Appended_Mag,Fourth_Time_s_the_Charm,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Optative(Corkscrew_Rifling,Appended_Mag,Fourth_Time_s_the_Charm,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Optative(Hammer_Forged_Rifling,Appended_Mag,Fourth_Time_s_the_Charm,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Optative(Fluted_Barrel,Tactical_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Optative(Corkscrew_Rifling,Tactical_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Optative(Hammer_Forged_Rifling,Tactical_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Optative(Fluted_Barrel,Extended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Optative(Corkscrew_Rifling,Extended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Optative(Hammer_Forged_Rifling,Extended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Optative(Fluted_Barrel,Appended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Optative(Corkscrew_Rifling,Appended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Optative(Hammer_Forged_Rifling,Appended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Optative(Fluted_Barrel,Tactical_Mag,Rapid_Hit,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Optative(Corkscrew_Rifling,Tactical_Mag,Rapid_Hit,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Optative(Hammer_Forged_Rifling,Tactical_Mag,Rapid_Hit,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Optative(Fluted_Barrel,Extended_Mag,Rapid_Hit,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Optative(Corkscrew_Rifling,Extended_Mag,Rapid_Hit,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Optative(Hammer_Forged_Rifling,Extended_Mag,Rapid_Hit,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Optative(Fluted_Barrel,Appended_Mag,Rapid_Hit,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Optative(Corkscrew_Rifling,Appended_Mag,Rapid_Hit,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Optative(Hammer_Forged_Rifling,Appended_Mag,Rapid_Hit,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Optative(Fluted_Barrel,Tactical_Mag,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Optative(Corkscrew_Rifling,Tactical_Mag,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Optative(Hammer_Forged_Rifling,Tactical_Mag,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Optative(Fluted_Barrel,Extended_Mag,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Optative(Corkscrew_Rifling,Extended_Mag,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Optative(Hammer_Forged_Rifling,Extended_Mag,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Optative(Fluted_Barrel,Appended_Mag,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Optative(Corkscrew_Rifling,Appended_Mag,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Optative(Hammer_Forged_Rifling,Appended_Mag,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Optative(Fluted_Barrel,Tactical_Mag,Fourth_Time_s_the_Charm,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Optative(Corkscrew_Rifling,Tactical_Mag,Fourth_Time_s_the_Charm,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Optative(Hammer_Forged_Rifling,Tactical_Mag,Fourth_Time_s_the_Charm,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Optative(Fluted_Barrel,Extended_Mag,Fourth_Time_s_the_Charm,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Optative(Corkscrew_Rifling,Extended_Mag,Fourth_Time_s_the_Charm,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Optative(Hammer_Forged_Rifling,Extended_Mag,Fourth_Time_s_the_Charm,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Optative(Fluted_Barrel,Appended_Mag,Fourth_Time_s_the_Charm,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Optative(Corkscrew_Rifling,Appended_Mag,Fourth_Time_s_the_Charm,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Optative(Hammer_Forged_Rifling,Appended_Mag,Fourth_Time_s_the_Charm,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Optative(Fluted_Barrel,Tactical_Mag,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Optative(Corkscrew_Rifling,Tactical_Mag,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Optative(Hammer_Forged_Rifling,Tactical_Mag,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Optative(Fluted_Barrel,Extended_Mag,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Optative(Corkscrew_Rifling,Extended_Mag,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Optative(Hammer_Forged_Rifling,Extended_Mag,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Optative(Fluted_Barrel,Appended_Mag,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Optative(Corkscrew_Rifling,Appended_Mag,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Optative(Hammer_Forged_Rifling,Appended_Mag,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Optative(Fluted_Barrel,Tactical_Mag,Rapid_Hit,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Optative(Corkscrew_Rifling,Tactical_Mag,Rapid_Hit,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Optative(Hammer_Forged_Rifling,Tactical_Mag,Rapid_Hit,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Optative(Fluted_Barrel,Extended_Mag,Rapid_Hit,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Optative(Corkscrew_Rifling,Extended_Mag,Rapid_Hit,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Optative(Hammer_Forged_Rifling,Extended_Mag,Rapid_Hit,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Optative(Fluted_Barrel,Appended_Mag,Rapid_Hit,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Optative(Corkscrew_Rifling,Appended_Mag,Rapid_Hit,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Optative(Hammer_Forged_Rifling,Appended_Mag,Rapid_Hit,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Optative(Fluted_Barrel,Tactical_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Optative(Corkscrew_Rifling,Tactical_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Optative(Hammer_Forged_Rifling,Tactical_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Optative(Fluted_Barrel,Extended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Optative(Corkscrew_Rifling,Extended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Optative(Hammer_Forged_Rifling,Extended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Optative(Fluted_Barrel,Appended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Optative(Corkscrew_Rifling,Appended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Optative(Hammer_Forged_Rifling,Appended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Optative(Fluted_Barrel,Tactical_Mag,Fourth_Time_s_the_Charm,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Optative(Corkscrew_Rifling,Tactical_Mag,Fourth_Time_s_the_Charm,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Optative(Hammer_Forged_Rifling,Tactical_Mag,Fourth_Time_s_the_Charm,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Optative(Fluted_Barrel,Extended_Mag,Fourth_Time_s_the_Charm,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Optative(Corkscrew_Rifling,Extended_Mag,Fourth_Time_s_the_Charm,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Optative(Hammer_Forged_Rifling,Extended_Mag,Fourth_Time_s_the_Charm,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Optative(Fluted_Barrel,Appended_Mag,Fourth_Time_s_the_Charm,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Optative(Corkscrew_Rifling,Appended_Mag,Fourth_Time_s_the_Charm,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Optative(Hammer_Forged_Rifling,Appended_Mag,Fourth_Time_s_the_Charm,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Optative(Fluted_Barrel,Tactical_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Optative(Corkscrew_Rifling,Tactical_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Optative(Hammer_Forged_Rifling,Tactical_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Optative(Fluted_Barrel,Extended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Optative(Corkscrew_Rifling,Extended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Optative(Hammer_Forged_Rifling,Extended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Optative(Fluted_Barrel,Appended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Optative(Corkscrew_Rifling,Appended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Optative(Hammer_Forged_Rifling,Appended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Optative(Fluted_Barrel,Tactical_Mag,Rapid_Hit,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Optative(Corkscrew_Rifling,Tactical_Mag,Rapid_Hit,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Optative(Hammer_Forged_Rifling,Tactical_Mag,Rapid_Hit,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Optative(Fluted_Barrel,Extended_Mag,Rapid_Hit,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Optative(Corkscrew_Rifling,Extended_Mag,Rapid_Hit,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Optative(Hammer_Forged_Rifling,Extended_Mag,Rapid_Hit,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Optative(Fluted_Barrel,Appended_Mag,Rapid_Hit,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Optative(Corkscrew_Rifling,Appended_Mag,Rapid_Hit,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Optative(Hammer_Forged_Rifling,Appended_Mag,Rapid_Hit,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Optative(Fluted_Barrel,Tactical_Mag,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Optative(Corkscrew_Rifling,Tactical_Mag,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Optative(Hammer_Forged_Rifling,Tactical_Mag,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Optative(Fluted_Barrel,Extended_Mag,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Optative(Corkscrew_Rifling,Extended_Mag,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Optative(Hammer_Forged_Rifling,Extended_Mag,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Optative(Fluted_Barrel,Appended_Mag,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Optative(Corkscrew_Rifling,Appended_Mag,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Optative(Hammer_Forged_Rifling,Appended_Mag,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Optative(Fluted_Barrel,Tactical_Mag,Fourth_Time_s_the_Charm,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Optative(Corkscrew_Rifling,Tactical_Mag,Fourth_Time_s_the_Charm,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Optative(Hammer_Forged_Rifling,Tactical_Mag,Fourth_Time_s_the_Charm,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Optative(Fluted_Barrel,Extended_Mag,Fourth_Time_s_the_Charm,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Optative(Corkscrew_Rifling,Extended_Mag,Fourth_Time_s_the_Charm,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Optative(Hammer_Forged_Rifling,Extended_Mag,Fourth_Time_s_the_Charm,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Optative(Fluted_Barrel,Appended_Mag,Fourth_Time_s_the_Charm,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Optative(Corkscrew_Rifling,Appended_Mag,Fourth_Time_s_the_Charm,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Optative(Hammer_Forged_Rifling,Appended_Mag,Fourth_Time_s_the_Charm,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Optative(Fluted_Barrel,Tactical_Mag,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Optative(Corkscrew_Rifling,Tactical_Mag,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Optative(Hammer_Forged_Rifling,Tactical_Mag,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Optative(Fluted_Barrel,Extended_Mag,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Optative(Corkscrew_Rifling,Extended_Mag,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Optative(Hammer_Forged_Rifling,Extended_Mag,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Optative(Fluted_Barrel,Appended_Mag,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Optative(Corkscrew_Rifling,Appended_Mag,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Optative(Hammer_Forged_Rifling,Appended_Mag,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+
+//Premonition (version 1)
+Premonition(Arrowhead_Brake,High_Caliber_Rounds,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Fluted_Barrel,High_Caliber_Rounds,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Arrowhead_Brake,Appended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Fluted_Barrel,Appended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Arrowhead_Brake,High_Caliber_Rounds,Firmly_Planted,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Fluted_Barrel,High_Caliber_Rounds,Firmly_Planted,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Arrowhead_Brake,Appended_Mag,Firmly_Planted,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Fluted_Barrel,Appended_Mag,Firmly_Planted,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Arrowhead_Brake,High_Caliber_Rounds,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Fluted_Barrel,High_Caliber_Rounds,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Arrowhead_Brake,Appended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Fluted_Barrel,Appended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Arrowhead_Brake,High_Caliber_Rounds,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Fluted_Barrel,High_Caliber_Rounds,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Arrowhead_Brake,Appended_Mag,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Fluted_Barrel,Appended_Mag,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Arrowhead_Brake,High_Caliber_Rounds,Firmly_Planted,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Fluted_Barrel,High_Caliber_Rounds,Firmly_Planted,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Arrowhead_Brake,Appended_Mag,Firmly_Planted,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Fluted_Barrel,Appended_Mag,Firmly_Planted,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Arrowhead_Brake,High_Caliber_Rounds,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Fluted_Barrel,High_Caliber_Rounds,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Arrowhead_Brake,Appended_Mag,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Fluted_Barrel,Appended_Mag,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Arrowhead_Brake,High_Caliber_Rounds,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Fluted_Barrel,High_Caliber_Rounds,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Arrowhead_Brake,Appended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Fluted_Barrel,Appended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Arrowhead_Brake,High_Caliber_Rounds,Firmly_Planted,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Fluted_Barrel,High_Caliber_Rounds,Firmly_Planted,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Arrowhead_Brake,Appended_Mag,Firmly_Planted,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Fluted_Barrel,Appended_Mag,Firmly_Planted,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Arrowhead_Brake,High_Caliber_Rounds,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Fluted_Barrel,High_Caliber_Rounds,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Arrowhead_Brake,Appended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Fluted_Barrel,Appended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Arrowhead_Brake,High_Caliber_Rounds,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Fluted_Barrel,High_Caliber_Rounds,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Arrowhead_Brake,Appended_Mag,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Fluted_Barrel,Appended_Mag,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Arrowhead_Brake,High_Caliber_Rounds,Firmly_Planted,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Fluted_Barrel,High_Caliber_Rounds,Firmly_Planted,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Arrowhead_Brake,Appended_Mag,Firmly_Planted,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Fluted_Barrel,Appended_Mag,Firmly_Planted,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Arrowhead_Brake,High_Caliber_Rounds,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Fluted_Barrel,High_Caliber_Rounds,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Arrowhead_Brake,Appended_Mag,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Fluted_Barrel,Appended_Mag,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Arrowhead_Brake,High_Caliber_Rounds,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Fluted_Barrel,High_Caliber_Rounds,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Arrowhead_Brake,Appended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Fluted_Barrel,Appended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Arrowhead_Brake,High_Caliber_Rounds,Firmly_Planted,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Fluted_Barrel,High_Caliber_Rounds,Firmly_Planted,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Arrowhead_Brake,Appended_Mag,Firmly_Planted,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Fluted_Barrel,Appended_Mag,Firmly_Planted,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Arrowhead_Brake,High_Caliber_Rounds,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Fluted_Barrel,High_Caliber_Rounds,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Arrowhead_Brake,Appended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Fluted_Barrel,Appended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Arrowhead_Brake,High_Caliber_Rounds,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Fluted_Barrel,High_Caliber_Rounds,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Arrowhead_Brake,Appended_Mag,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Fluted_Barrel,Appended_Mag,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Arrowhead_Brake,High_Caliber_Rounds,Firmly_Planted,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Fluted_Barrel,High_Caliber_Rounds,Firmly_Planted,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Arrowhead_Brake,Appended_Mag,Firmly_Planted,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Fluted_Barrel,Appended_Mag,Firmly_Planted,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Arrowhead_Brake,High_Caliber_Rounds,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Fluted_Barrel,High_Caliber_Rounds,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Arrowhead_Brake,Appended_Mag,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Fluted_Barrel,Appended_Mag,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Arrowhead_Brake,High_Caliber_Rounds,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Fluted_Barrel,High_Caliber_Rounds,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Arrowhead_Brake,Appended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Fluted_Barrel,Appended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Arrowhead_Brake,High_Caliber_Rounds,Firmly_Planted,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Fluted_Barrel,High_Caliber_Rounds,Firmly_Planted,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Arrowhead_Brake,Appended_Mag,Firmly_Planted,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Fluted_Barrel,Appended_Mag,Firmly_Planted,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Arrowhead_Brake,High_Caliber_Rounds,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Fluted_Barrel,High_Caliber_Rounds,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Arrowhead_Brake,Appended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Fluted_Barrel,Appended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Arrowhead_Brake,High_Caliber_Rounds,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Fluted_Barrel,High_Caliber_Rounds,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Arrowhead_Brake,Appended_Mag,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Fluted_Barrel,Appended_Mag,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Arrowhead_Brake,High_Caliber_Rounds,Firmly_Planted,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Fluted_Barrel,High_Caliber_Rounds,Firmly_Planted,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Arrowhead_Brake,Appended_Mag,Firmly_Planted,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Fluted_Barrel,Appended_Mag,Firmly_Planted,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Arrowhead_Brake,High_Caliber_Rounds,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Fluted_Barrel,High_Caliber_Rounds,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Arrowhead_Brake,Appended_Mag,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Premonition(Fluted_Barrel,Appended_Mag,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+
+//Premonition (version 2)
+wishlist_entry(4123554961, Arrowhead_Brake,High_Caliber_Rounds,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Fluted_Barrel,High_Caliber_Rounds,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Arrowhead_Brake,Appended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Fluted_Barrel,Appended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Arrowhead_Brake,High_Caliber_Rounds,Firmly_Planted,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Fluted_Barrel,High_Caliber_Rounds,Firmly_Planted,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Arrowhead_Brake,Appended_Mag,Firmly_Planted,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Fluted_Barrel,Appended_Mag,Firmly_Planted,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Arrowhead_Brake,High_Caliber_Rounds,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Fluted_Barrel,High_Caliber_Rounds,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Arrowhead_Brake,Appended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Fluted_Barrel,Appended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Arrowhead_Brake,High_Caliber_Rounds,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Fluted_Barrel,High_Caliber_Rounds,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Arrowhead_Brake,Appended_Mag,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Fluted_Barrel,Appended_Mag,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Arrowhead_Brake,High_Caliber_Rounds,Firmly_Planted,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Fluted_Barrel,High_Caliber_Rounds,Firmly_Planted,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Arrowhead_Brake,Appended_Mag,Firmly_Planted,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Fluted_Barrel,Appended_Mag,Firmly_Planted,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Arrowhead_Brake,High_Caliber_Rounds,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Fluted_Barrel,High_Caliber_Rounds,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Arrowhead_Brake,Appended_Mag,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Fluted_Barrel,Appended_Mag,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Arrowhead_Brake,High_Caliber_Rounds,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Fluted_Barrel,High_Caliber_Rounds,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Arrowhead_Brake,Appended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Fluted_Barrel,Appended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Arrowhead_Brake,High_Caliber_Rounds,Firmly_Planted,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Fluted_Barrel,High_Caliber_Rounds,Firmly_Planted,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Arrowhead_Brake,Appended_Mag,Firmly_Planted,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Fluted_Barrel,Appended_Mag,Firmly_Planted,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Arrowhead_Brake,High_Caliber_Rounds,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Fluted_Barrel,High_Caliber_Rounds,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Arrowhead_Brake,Appended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Fluted_Barrel,Appended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Arrowhead_Brake,High_Caliber_Rounds,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Fluted_Barrel,High_Caliber_Rounds,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Arrowhead_Brake,Appended_Mag,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Fluted_Barrel,Appended_Mag,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Arrowhead_Brake,High_Caliber_Rounds,Firmly_Planted,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Fluted_Barrel,High_Caliber_Rounds,Firmly_Planted,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Arrowhead_Brake,Appended_Mag,Firmly_Planted,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Fluted_Barrel,Appended_Mag,Firmly_Planted,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Arrowhead_Brake,High_Caliber_Rounds,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Fluted_Barrel,High_Caliber_Rounds,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Arrowhead_Brake,Appended_Mag,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Fluted_Barrel,Appended_Mag,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Arrowhead_Brake,High_Caliber_Rounds,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Fluted_Barrel,High_Caliber_Rounds,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Arrowhead_Brake,Appended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Fluted_Barrel,Appended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Arrowhead_Brake,High_Caliber_Rounds,Firmly_Planted,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Fluted_Barrel,High_Caliber_Rounds,Firmly_Planted,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Arrowhead_Brake,Appended_Mag,Firmly_Planted,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Fluted_Barrel,Appended_Mag,Firmly_Planted,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Arrowhead_Brake,High_Caliber_Rounds,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Fluted_Barrel,High_Caliber_Rounds,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Arrowhead_Brake,Appended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Fluted_Barrel,Appended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Arrowhead_Brake,High_Caliber_Rounds,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Fluted_Barrel,High_Caliber_Rounds,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Arrowhead_Brake,Appended_Mag,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Fluted_Barrel,Appended_Mag,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Arrowhead_Brake,High_Caliber_Rounds,Firmly_Planted,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Fluted_Barrel,High_Caliber_Rounds,Firmly_Planted,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Arrowhead_Brake,Appended_Mag,Firmly_Planted,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Fluted_Barrel,Appended_Mag,Firmly_Planted,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Arrowhead_Brake,High_Caliber_Rounds,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Fluted_Barrel,High_Caliber_Rounds,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Arrowhead_Brake,Appended_Mag,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Fluted_Barrel,Appended_Mag,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Arrowhead_Brake,High_Caliber_Rounds,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Fluted_Barrel,High_Caliber_Rounds,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Arrowhead_Brake,Appended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Fluted_Barrel,Appended_Mag,1168162263,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Arrowhead_Brake,High_Caliber_Rounds,Firmly_Planted,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Fluted_Barrel,High_Caliber_Rounds,Firmly_Planted,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Arrowhead_Brake,Appended_Mag,Firmly_Planted,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Fluted_Barrel,Appended_Mag,Firmly_Planted,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Arrowhead_Brake,High_Caliber_Rounds,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Fluted_Barrel,High_Caliber_Rounds,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Arrowhead_Brake,Appended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Fluted_Barrel,Appended_Mag,3124871000,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Arrowhead_Brake,High_Caliber_Rounds,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Fluted_Barrel,High_Caliber_Rounds,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Arrowhead_Brake,Appended_Mag,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Fluted_Barrel,Appended_Mag,1168162263,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Arrowhead_Brake,High_Caliber_Rounds,Firmly_Planted,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Fluted_Barrel,High_Caliber_Rounds,Firmly_Planted,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Arrowhead_Brake,Appended_Mag,Firmly_Planted,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Fluted_Barrel,Appended_Mag,Firmly_Planted,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Arrowhead_Brake,High_Caliber_Rounds,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Fluted_Barrel,High_Caliber_Rounds,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Arrowhead_Brake,Appended_Mag,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(4123554961, Fluted_Barrel,Appended_Mag,3124871000,Kill_Clip)#notes:pandapaxxy Shadowkeep PvE
+
+//Subjunctive
+Subjunctive(Fluted_Barrel,Ricochet_Rounds,1168162263,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Corkscrew_Rifling,Ricochet_Rounds,1168162263,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Smallbore,Ricochet_Rounds,1168162263,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Fluted_Barrel,Appended_Mag,1168162263,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Corkscrew_Rifling,Appended_Mag,1168162263,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Smallbore,Appended_Mag,1168162263,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Fluted_Barrel,Ricochet_Rounds,Quickdraw,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Corkscrew_Rifling,Ricochet_Rounds,Quickdraw,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Smallbore,Ricochet_Rounds,Quickdraw,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Fluted_Barrel,Appended_Mag,Quickdraw,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Corkscrew_Rifling,Appended_Mag,Quickdraw,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Smallbore,Appended_Mag,Quickdraw,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Fluted_Barrel,Ricochet_Rounds,3124871000,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Corkscrew_Rifling,Ricochet_Rounds,3124871000,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Smallbore,Ricochet_Rounds,3124871000,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Fluted_Barrel,Appended_Mag,3124871000,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Corkscrew_Rifling,Appended_Mag,3124871000,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Smallbore,Appended_Mag,3124871000,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Fluted_Barrel,Ricochet_Rounds,1168162263,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Corkscrew_Rifling,Ricochet_Rounds,1168162263,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Smallbore,Ricochet_Rounds,1168162263,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Fluted_Barrel,Appended_Mag,1168162263,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Corkscrew_Rifling,Appended_Mag,1168162263,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Smallbore,Appended_Mag,1168162263,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Fluted_Barrel,Ricochet_Rounds,Quickdraw,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Corkscrew_Rifling,Ricochet_Rounds,Quickdraw,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Smallbore,Ricochet_Rounds,Quickdraw,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Fluted_Barrel,Appended_Mag,Quickdraw,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Corkscrew_Rifling,Appended_Mag,Quickdraw,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Smallbore,Appended_Mag,Quickdraw,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Fluted_Barrel,Ricochet_Rounds,3124871000,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Corkscrew_Rifling,Ricochet_Rounds,3124871000,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Smallbore,Ricochet_Rounds,3124871000,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Fluted_Barrel,Appended_Mag,3124871000,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Corkscrew_Rifling,Appended_Mag,3124871000,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Smallbore,Appended_Mag,3124871000,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Fluted_Barrel,Ricochet_Rounds,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Corkscrew_Rifling,Ricochet_Rounds,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Smallbore,Ricochet_Rounds,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Fluted_Barrel,Appended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Corkscrew_Rifling,Appended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Smallbore,Appended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Fluted_Barrel,Ricochet_Rounds,Quickdraw,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Corkscrew_Rifling,Ricochet_Rounds,Quickdraw,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Smallbore,Ricochet_Rounds,Quickdraw,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Fluted_Barrel,Appended_Mag,Quickdraw,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Corkscrew_Rifling,Appended_Mag,Quickdraw,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Smallbore,Appended_Mag,Quickdraw,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Fluted_Barrel,Ricochet_Rounds,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Corkscrew_Rifling,Ricochet_Rounds,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Smallbore,Ricochet_Rounds,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Fluted_Barrel,Appended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Corkscrew_Rifling,Appended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Smallbore,Appended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Fluted_Barrel,Ricochet_Rounds,1168162263,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Corkscrew_Rifling,Ricochet_Rounds,1168162263,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Smallbore,Ricochet_Rounds,1168162263,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Fluted_Barrel,Appended_Mag,1168162263,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Corkscrew_Rifling,Appended_Mag,1168162263,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Smallbore,Appended_Mag,1168162263,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Fluted_Barrel,Ricochet_Rounds,Quickdraw,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Corkscrew_Rifling,Ricochet_Rounds,Quickdraw,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Smallbore,Ricochet_Rounds,Quickdraw,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Fluted_Barrel,Appended_Mag,Quickdraw,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Corkscrew_Rifling,Appended_Mag,Quickdraw,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Smallbore,Appended_Mag,Quickdraw,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Fluted_Barrel,Ricochet_Rounds,3124871000,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Corkscrew_Rifling,Ricochet_Rounds,3124871000,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Smallbore,Ricochet_Rounds,3124871000,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Fluted_Barrel,Appended_Mag,3124871000,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Corkscrew_Rifling,Appended_Mag,3124871000,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Smallbore,Appended_Mag,3124871000,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Fluted_Barrel,Ricochet_Rounds,1168162263,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Corkscrew_Rifling,Ricochet_Rounds,1168162263,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Smallbore,Ricochet_Rounds,1168162263,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Fluted_Barrel,Appended_Mag,1168162263,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Corkscrew_Rifling,Appended_Mag,1168162263,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Smallbore,Appended_Mag,1168162263,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Fluted_Barrel,Ricochet_Rounds,Quickdraw,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Corkscrew_Rifling,Ricochet_Rounds,Quickdraw,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Smallbore,Ricochet_Rounds,Quickdraw,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Fluted_Barrel,Appended_Mag,Quickdraw,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Corkscrew_Rifling,Appended_Mag,Quickdraw,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Smallbore,Appended_Mag,Quickdraw,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Fluted_Barrel,Ricochet_Rounds,3124871000,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Corkscrew_Rifling,Ricochet_Rounds,3124871000,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Smallbore,Ricochet_Rounds,3124871000,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Fluted_Barrel,Appended_Mag,3124871000,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Corkscrew_Rifling,Appended_Mag,3124871000,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Smallbore,Appended_Mag,3124871000,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Fluted_Barrel,Ricochet_Rounds,1168162263,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Corkscrew_Rifling,Ricochet_Rounds,1168162263,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Smallbore,Ricochet_Rounds,1168162263,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Fluted_Barrel,Appended_Mag,1168162263,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Corkscrew_Rifling,Appended_Mag,1168162263,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Smallbore,Appended_Mag,1168162263,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Fluted_Barrel,Ricochet_Rounds,Quickdraw,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Corkscrew_Rifling,Ricochet_Rounds,Quickdraw,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Smallbore,Ricochet_Rounds,Quickdraw,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Fluted_Barrel,Appended_Mag,Quickdraw,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Corkscrew_Rifling,Appended_Mag,Quickdraw,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Smallbore,Appended_Mag,Quickdraw,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Fluted_Barrel,Ricochet_Rounds,3124871000,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Corkscrew_Rifling,Ricochet_Rounds,3124871000,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Smallbore,Ricochet_Rounds,3124871000,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Fluted_Barrel,Appended_Mag,3124871000,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Corkscrew_Rifling,Appended_Mag,3124871000,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Smallbore,Appended_Mag,3124871000,Swashbuckler)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Fluted_Barrel,Ricochet_Rounds,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Corkscrew_Rifling,Ricochet_Rounds,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Smallbore,Ricochet_Rounds,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Fluted_Barrel,Appended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Corkscrew_Rifling,Appended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Smallbore,Appended_Mag,1168162263,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Fluted_Barrel,Ricochet_Rounds,Quickdraw,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Corkscrew_Rifling,Ricochet_Rounds,Quickdraw,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Smallbore,Ricochet_Rounds,Quickdraw,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Fluted_Barrel,Appended_Mag,Quickdraw,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Corkscrew_Rifling,Appended_Mag,Quickdraw,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Smallbore,Appended_Mag,Quickdraw,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Fluted_Barrel,Ricochet_Rounds,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Corkscrew_Rifling,Ricochet_Rounds,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Smallbore,Ricochet_Rounds,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Fluted_Barrel,Appended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Corkscrew_Rifling,Appended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Smallbore,Appended_Mag,3124871000,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Fluted_Barrel,Ricochet_Rounds,1168162263,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Corkscrew_Rifling,Ricochet_Rounds,1168162263,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Smallbore,Ricochet_Rounds,1168162263,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Fluted_Barrel,Appended_Mag,1168162263,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Corkscrew_Rifling,Appended_Mag,1168162263,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Smallbore,Appended_Mag,1168162263,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Fluted_Barrel,Ricochet_Rounds,Quickdraw,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Corkscrew_Rifling,Ricochet_Rounds,Quickdraw,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Smallbore,Ricochet_Rounds,Quickdraw,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Fluted_Barrel,Appended_Mag,Quickdraw,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Corkscrew_Rifling,Appended_Mag,Quickdraw,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Smallbore,Appended_Mag,Quickdraw,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Fluted_Barrel,Ricochet_Rounds,3124871000,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Corkscrew_Rifling,Ricochet_Rounds,3124871000,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Smallbore,Ricochet_Rounds,3124871000,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Fluted_Barrel,Appended_Mag,3124871000,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Corkscrew_Rifling,Appended_Mag,3124871000,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+Subjunctive(Smallbore,Appended_Mag,3124871000,Multikill_Clip)#notes:pandapaxxy Shadowkeep PvE
+
+//A Fine Memorial (version 1)
+wishlist_entry(1220931350, Fluted_Barrel,High_Caliber_Rounds,Quickdraw,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1220931350, Arrowhead_Brake,High_Caliber_Rounds,Quickdraw,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1220931350, Corkscrew_Rifling,High_Caliber_Rounds,Quickdraw,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1220931350, Fluted_Barrel,Appended_Mag,Quickdraw,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1220931350, Arrowhead_Brake,Appended_Mag,Quickdraw,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1220931350, Corkscrew_Rifling,Appended_Mag,Quickdraw,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1220931350, Fluted_Barrel,Flared_Magwell,Quickdraw,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1220931350, Arrowhead_Brake,Flared_Magwell,Quickdraw,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1220931350, Corkscrew_Rifling,Flared_Magwell,Quickdraw,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1220931350, Fluted_Barrel,High_Caliber_Rounds,Pulse_Monitor,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1220931350, Arrowhead_Brake,High_Caliber_Rounds,Pulse_Monitor,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1220931350, Corkscrew_Rifling,High_Caliber_Rounds,Pulse_Monitor,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1220931350, Fluted_Barrel,Appended_Mag,Pulse_Monitor,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1220931350, Arrowhead_Brake,Appended_Mag,Pulse_Monitor,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1220931350, Corkscrew_Rifling,Appended_Mag,Pulse_Monitor,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1220931350, Fluted_Barrel,Flared_Magwell,Pulse_Monitor,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1220931350, Arrowhead_Brake,Flared_Magwell,Pulse_Monitor,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1220931350, Corkscrew_Rifling,Flared_Magwell,Pulse_Monitor,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1220931350, Fluted_Barrel,High_Caliber_Rounds,Quickdraw,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1220931350, Arrowhead_Brake,High_Caliber_Rounds,Quickdraw,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1220931350, Corkscrew_Rifling,High_Caliber_Rounds,Quickdraw,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1220931350, Fluted_Barrel,Appended_Mag,Quickdraw,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1220931350, Arrowhead_Brake,Appended_Mag,Quickdraw,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1220931350, Corkscrew_Rifling,Appended_Mag,Quickdraw,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1220931350, Fluted_Barrel,Flared_Magwell,Quickdraw,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1220931350, Arrowhead_Brake,Flared_Magwell,Quickdraw,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1220931350, Corkscrew_Rifling,Flared_Magwell,Quickdraw,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1220931350, Fluted_Barrel,High_Caliber_Rounds,Pulse_Monitor,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1220931350, Arrowhead_Brake,High_Caliber_Rounds,Pulse_Monitor,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1220931350, Corkscrew_Rifling,High_Caliber_Rounds,Pulse_Monitor,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1220931350, Fluted_Barrel,Appended_Mag,Pulse_Monitor,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1220931350, Arrowhead_Brake,Appended_Mag,Pulse_Monitor,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1220931350, Corkscrew_Rifling,Appended_Mag,Pulse_Monitor,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1220931350, Fluted_Barrel,Flared_Magwell,Pulse_Monitor,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1220931350, Arrowhead_Brake,Flared_Magwell,Pulse_Monitor,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1220931350, Corkscrew_Rifling,Flared_Magwell,Pulse_Monitor,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1220931350, Fluted_Barrel,High_Caliber_Rounds,Quickdraw,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1220931350, Arrowhead_Brake,High_Caliber_Rounds,Quickdraw,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1220931350, Corkscrew_Rifling,High_Caliber_Rounds,Quickdraw,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1220931350, Fluted_Barrel,Appended_Mag,Quickdraw,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1220931350, Arrowhead_Brake,Appended_Mag,Quickdraw,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1220931350, Corkscrew_Rifling,Appended_Mag,Quickdraw,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1220931350, Fluted_Barrel,Flared_Magwell,Quickdraw,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1220931350, Arrowhead_Brake,Flared_Magwell,Quickdraw,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1220931350, Corkscrew_Rifling,Flared_Magwell,Quickdraw,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1220931350, Fluted_Barrel,High_Caliber_Rounds,Pulse_Monitor,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1220931350, Arrowhead_Brake,High_Caliber_Rounds,Pulse_Monitor,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1220931350, Corkscrew_Rifling,High_Caliber_Rounds,Pulse_Monitor,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1220931350, Fluted_Barrel,Appended_Mag,Pulse_Monitor,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1220931350, Arrowhead_Brake,Appended_Mag,Pulse_Monitor,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1220931350, Corkscrew_Rifling,Appended_Mag,Pulse_Monitor,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1220931350, Fluted_Barrel,Flared_Magwell,Pulse_Monitor,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1220931350, Arrowhead_Brake,Flared_Magwell,Pulse_Monitor,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1220931350, Corkscrew_Rifling,Flared_Magwell,Pulse_Monitor,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1220931350, Fluted_Barrel,High_Caliber_Rounds,Quickdraw,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1220931350, Arrowhead_Brake,High_Caliber_Rounds,Quickdraw,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1220931350, Corkscrew_Rifling,High_Caliber_Rounds,Quickdraw,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1220931350, Fluted_Barrel,Appended_Mag,Quickdraw,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1220931350, Arrowhead_Brake,Appended_Mag,Quickdraw,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1220931350, Corkscrew_Rifling,Appended_Mag,Quickdraw,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1220931350, Fluted_Barrel,Flared_Magwell,Quickdraw,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1220931350, Arrowhead_Brake,Flared_Magwell,Quickdraw,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1220931350, Corkscrew_Rifling,Flared_Magwell,Quickdraw,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1220931350, Fluted_Barrel,High_Caliber_Rounds,Pulse_Monitor,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1220931350, Arrowhead_Brake,High_Caliber_Rounds,Pulse_Monitor,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1220931350, Corkscrew_Rifling,High_Caliber_Rounds,Pulse_Monitor,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1220931350, Fluted_Barrel,Appended_Mag,Pulse_Monitor,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1220931350, Arrowhead_Brake,Appended_Mag,Pulse_Monitor,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1220931350, Corkscrew_Rifling,Appended_Mag,Pulse_Monitor,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1220931350, Fluted_Barrel,Flared_Magwell,Pulse_Monitor,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1220931350, Arrowhead_Brake,Flared_Magwell,Pulse_Monitor,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1220931350, Corkscrew_Rifling,Flared_Magwell,Pulse_Monitor,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+
+//A Fine Memorial (version 2)
+A_Fine_Memorial(Fluted_Barrel,High_Caliber_Rounds,Quickdraw,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+A_Fine_Memorial(Arrowhead_Brake,High_Caliber_Rounds,Quickdraw,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+A_Fine_Memorial(Corkscrew_Rifling,High_Caliber_Rounds,Quickdraw,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+A_Fine_Memorial(Fluted_Barrel,Appended_Mag,Quickdraw,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+A_Fine_Memorial(Arrowhead_Brake,Appended_Mag,Quickdraw,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+A_Fine_Memorial(Corkscrew_Rifling,Appended_Mag,Quickdraw,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+A_Fine_Memorial(Fluted_Barrel,Flared_Magwell,Quickdraw,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+A_Fine_Memorial(Arrowhead_Brake,Flared_Magwell,Quickdraw,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+A_Fine_Memorial(Corkscrew_Rifling,Flared_Magwell,Quickdraw,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+A_Fine_Memorial(Fluted_Barrel,High_Caliber_Rounds,Pulse_Monitor,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+A_Fine_Memorial(Arrowhead_Brake,High_Caliber_Rounds,Pulse_Monitor,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+A_Fine_Memorial(Corkscrew_Rifling,High_Caliber_Rounds,Pulse_Monitor,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+A_Fine_Memorial(Fluted_Barrel,Appended_Mag,Pulse_Monitor,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+A_Fine_Memorial(Arrowhead_Brake,Appended_Mag,Pulse_Monitor,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+A_Fine_Memorial(Corkscrew_Rifling,Appended_Mag,Pulse_Monitor,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+A_Fine_Memorial(Fluted_Barrel,Flared_Magwell,Pulse_Monitor,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+A_Fine_Memorial(Arrowhead_Brake,Flared_Magwell,Pulse_Monitor,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+A_Fine_Memorial(Corkscrew_Rifling,Flared_Magwell,Pulse_Monitor,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+A_Fine_Memorial(Fluted_Barrel,High_Caliber_Rounds,Quickdraw,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+A_Fine_Memorial(Arrowhead_Brake,High_Caliber_Rounds,Quickdraw,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+A_Fine_Memorial(Corkscrew_Rifling,High_Caliber_Rounds,Quickdraw,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+A_Fine_Memorial(Fluted_Barrel,Appended_Mag,Quickdraw,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+A_Fine_Memorial(Arrowhead_Brake,Appended_Mag,Quickdraw,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+A_Fine_Memorial(Corkscrew_Rifling,Appended_Mag,Quickdraw,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+A_Fine_Memorial(Fluted_Barrel,Flared_Magwell,Quickdraw,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+A_Fine_Memorial(Arrowhead_Brake,Flared_Magwell,Quickdraw,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+A_Fine_Memorial(Corkscrew_Rifling,Flared_Magwell,Quickdraw,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+A_Fine_Memorial(Fluted_Barrel,High_Caliber_Rounds,Pulse_Monitor,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+A_Fine_Memorial(Arrowhead_Brake,High_Caliber_Rounds,Pulse_Monitor,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+A_Fine_Memorial(Corkscrew_Rifling,High_Caliber_Rounds,Pulse_Monitor,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+A_Fine_Memorial(Fluted_Barrel,Appended_Mag,Pulse_Monitor,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+A_Fine_Memorial(Arrowhead_Brake,Appended_Mag,Pulse_Monitor,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+A_Fine_Memorial(Corkscrew_Rifling,Appended_Mag,Pulse_Monitor,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+A_Fine_Memorial(Fluted_Barrel,Flared_Magwell,Pulse_Monitor,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+A_Fine_Memorial(Arrowhead_Brake,Flared_Magwell,Pulse_Monitor,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+A_Fine_Memorial(Corkscrew_Rifling,Flared_Magwell,Pulse_Monitor,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+A_Fine_Memorial(Fluted_Barrel,High_Caliber_Rounds,Quickdraw,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+A_Fine_Memorial(Arrowhead_Brake,High_Caliber_Rounds,Quickdraw,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+A_Fine_Memorial(Corkscrew_Rifling,High_Caliber_Rounds,Quickdraw,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+A_Fine_Memorial(Fluted_Barrel,Appended_Mag,Quickdraw,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+A_Fine_Memorial(Arrowhead_Brake,Appended_Mag,Quickdraw,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+A_Fine_Memorial(Corkscrew_Rifling,Appended_Mag,Quickdraw,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+A_Fine_Memorial(Fluted_Barrel,Flared_Magwell,Quickdraw,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+A_Fine_Memorial(Arrowhead_Brake,Flared_Magwell,Quickdraw,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+A_Fine_Memorial(Corkscrew_Rifling,Flared_Magwell,Quickdraw,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+A_Fine_Memorial(Fluted_Barrel,High_Caliber_Rounds,Pulse_Monitor,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+A_Fine_Memorial(Arrowhead_Brake,High_Caliber_Rounds,Pulse_Monitor,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+A_Fine_Memorial(Corkscrew_Rifling,High_Caliber_Rounds,Pulse_Monitor,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+A_Fine_Memorial(Fluted_Barrel,Appended_Mag,Pulse_Monitor,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+A_Fine_Memorial(Arrowhead_Brake,Appended_Mag,Pulse_Monitor,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+A_Fine_Memorial(Corkscrew_Rifling,Appended_Mag,Pulse_Monitor,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+A_Fine_Memorial(Fluted_Barrel,Flared_Magwell,Pulse_Monitor,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+A_Fine_Memorial(Arrowhead_Brake,Flared_Magwell,Pulse_Monitor,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+A_Fine_Memorial(Corkscrew_Rifling,Flared_Magwell,Pulse_Monitor,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+A_Fine_Memorial(Fluted_Barrel,High_Caliber_Rounds,Quickdraw,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+A_Fine_Memorial(Arrowhead_Brake,High_Caliber_Rounds,Quickdraw,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+A_Fine_Memorial(Corkscrew_Rifling,High_Caliber_Rounds,Quickdraw,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+A_Fine_Memorial(Fluted_Barrel,Appended_Mag,Quickdraw,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+A_Fine_Memorial(Arrowhead_Brake,Appended_Mag,Quickdraw,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+A_Fine_Memorial(Corkscrew_Rifling,Appended_Mag,Quickdraw,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+A_Fine_Memorial(Fluted_Barrel,Flared_Magwell,Quickdraw,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+A_Fine_Memorial(Arrowhead_Brake,Flared_Magwell,Quickdraw,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+A_Fine_Memorial(Corkscrew_Rifling,Flared_Magwell,Quickdraw,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+A_Fine_Memorial(Fluted_Barrel,High_Caliber_Rounds,Pulse_Monitor,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+A_Fine_Memorial(Arrowhead_Brake,High_Caliber_Rounds,Pulse_Monitor,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+A_Fine_Memorial(Corkscrew_Rifling,High_Caliber_Rounds,Pulse_Monitor,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+A_Fine_Memorial(Fluted_Barrel,Appended_Mag,Pulse_Monitor,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+A_Fine_Memorial(Arrowhead_Brake,Appended_Mag,Pulse_Monitor,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+A_Fine_Memorial(Corkscrew_Rifling,Appended_Mag,Pulse_Monitor,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+A_Fine_Memorial(Fluted_Barrel,Flared_Magwell,Pulse_Monitor,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+A_Fine_Memorial(Arrowhead_Brake,Flared_Magwell,Pulse_Monitor,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+A_Fine_Memorial(Corkscrew_Rifling,Flared_Magwell,Pulse_Monitor,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+
+//Edgewise
+wishlist_entry(847329160, Polygonal_Rifling,Light_Mag,Feeding_Frenzy,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(847329160, Polygonal_Rifling,Light_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(847329160, Polygonal_Rifling,Light_Mag,Feeding_Frenzy,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(847329160, Polygonal_Rifling,Light_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(847329160, Polygonal_Rifling,Light_Mag,Feeding_Frenzy,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(847329160, Polygonal_Rifling,Light_Mag,Field_Prep,3425386926)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(847329160, Polygonal_Rifling,Light_Mag,Feeding_Frenzy,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(847329160, Polygonal_Rifling,Light_Mag,Field_Prep,Demolitionist)#notes:pandapaxxy Shadowkeep PvE
+
+//Love and Death (version 1)
+wishlist_entry(1341880512, 332773068,Spike_Grenades,Field_Prep,Quickdraw)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1341880512, Hard_Launch,Spike_Grenades,Field_Prep,Quickdraw)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1341880512, 1478423395,Spike_Grenades,Field_Prep,Quickdraw)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1341880512, 332773068,Augmented_Drum,Field_Prep,Quickdraw)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1341880512, Hard_Launch,Augmented_Drum,Field_Prep,Quickdraw)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1341880512, 1478423395,Augmented_Drum,Field_Prep,Quickdraw)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1341880512, 332773068,Mini_Frags,Field_Prep,Quickdraw)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1341880512, Hard_Launch,Mini_Frags,Field_Prep,Quickdraw)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1341880512, 1478423395,Mini_Frags,Field_Prep,Quickdraw)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1341880512, 332773068,Spike_Grenades,Threat_Detector,Quickdraw)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1341880512, Hard_Launch,Spike_Grenades,Threat_Detector,Quickdraw)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1341880512, 1478423395,Spike_Grenades,Threat_Detector,Quickdraw)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1341880512, 332773068,Augmented_Drum,Threat_Detector,Quickdraw)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1341880512, Hard_Launch,Augmented_Drum,Threat_Detector,Quickdraw)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1341880512, 1478423395,Augmented_Drum,Threat_Detector,Quickdraw)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1341880512, 332773068,Mini_Frags,Threat_Detector,Quickdraw)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1341880512, Hard_Launch,Mini_Frags,Threat_Detector,Quickdraw)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1341880512, 1478423395,Mini_Frags,Threat_Detector,Quickdraw)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1341880512, 332773068,Spike_Grenades,Field_Prep,Full_Court)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1341880512, Hard_Launch,Spike_Grenades,Field_Prep,Full_Court)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1341880512, 1478423395,Spike_Grenades,Field_Prep,Full_Court)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1341880512, 332773068,Augmented_Drum,Field_Prep,Full_Court)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1341880512, Hard_Launch,Augmented_Drum,Field_Prep,Full_Court)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1341880512, 1478423395,Augmented_Drum,Field_Prep,Full_Court)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1341880512, 332773068,Mini_Frags,Field_Prep,Full_Court)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1341880512, Hard_Launch,Mini_Frags,Field_Prep,Full_Court)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1341880512, 1478423395,Mini_Frags,Field_Prep,Full_Court)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1341880512, 332773068,Spike_Grenades,Threat_Detector,Full_Court)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1341880512, Hard_Launch,Spike_Grenades,Threat_Detector,Full_Court)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1341880512, 1478423395,Spike_Grenades,Threat_Detector,Full_Court)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1341880512, 332773068,Augmented_Drum,Threat_Detector,Full_Court)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1341880512, Hard_Launch,Augmented_Drum,Threat_Detector,Full_Court)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1341880512, 1478423395,Augmented_Drum,Threat_Detector,Full_Court)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1341880512, 332773068,Mini_Frags,Threat_Detector,Full_Court)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1341880512, Hard_Launch,Mini_Frags,Threat_Detector,Full_Court)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1341880512, 1478423395,Mini_Frags,Threat_Detector,Full_Court)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1341880512, 332773068,Spike_Grenades,Field_Prep,Quickdraw)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1341880512, Hard_Launch,Spike_Grenades,Field_Prep,Quickdraw)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1341880512, 1478423395,Spike_Grenades,Field_Prep,Quickdraw)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1341880512, 332773068,Augmented_Drum,Field_Prep,Quickdraw)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1341880512, Hard_Launch,Augmented_Drum,Field_Prep,Quickdraw)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1341880512, 1478423395,Augmented_Drum,Field_Prep,Quickdraw)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1341880512, 332773068,Mini_Frags,Field_Prep,Quickdraw)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1341880512, Hard_Launch,Mini_Frags,Field_Prep,Quickdraw)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1341880512, 1478423395,Mini_Frags,Field_Prep,Quickdraw)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1341880512, 332773068,Spike_Grenades,Threat_Detector,Quickdraw)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1341880512, Hard_Launch,Spike_Grenades,Threat_Detector,Quickdraw)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1341880512, 1478423395,Spike_Grenades,Threat_Detector,Quickdraw)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1341880512, 332773068,Augmented_Drum,Threat_Detector,Quickdraw)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1341880512, Hard_Launch,Augmented_Drum,Threat_Detector,Quickdraw)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1341880512, 1478423395,Augmented_Drum,Threat_Detector,Quickdraw)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1341880512, 332773068,Mini_Frags,Threat_Detector,Quickdraw)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1341880512, Hard_Launch,Mini_Frags,Threat_Detector,Quickdraw)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1341880512, 1478423395,Mini_Frags,Threat_Detector,Quickdraw)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1341880512, 332773068,Spike_Grenades,Field_Prep,Full_Court)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1341880512, Hard_Launch,Spike_Grenades,Field_Prep,Full_Court)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1341880512, 1478423395,Spike_Grenades,Field_Prep,Full_Court)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1341880512, 332773068,Augmented_Drum,Field_Prep,Full_Court)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1341880512, Hard_Launch,Augmented_Drum,Field_Prep,Full_Court)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1341880512, 1478423395,Augmented_Drum,Field_Prep,Full_Court)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1341880512, 332773068,Mini_Frags,Field_Prep,Full_Court)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1341880512, Hard_Launch,Mini_Frags,Field_Prep,Full_Court)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1341880512, 1478423395,Mini_Frags,Field_Prep,Full_Court)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1341880512, 332773068,Spike_Grenades,Threat_Detector,Full_Court)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1341880512, Hard_Launch,Spike_Grenades,Threat_Detector,Full_Court)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1341880512, 1478423395,Spike_Grenades,Threat_Detector,Full_Court)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1341880512, 332773068,Augmented_Drum,Threat_Detector,Full_Court)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1341880512, Hard_Launch,Augmented_Drum,Threat_Detector,Full_Court)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1341880512, 1478423395,Augmented_Drum,Threat_Detector,Full_Court)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1341880512, 332773068,Mini_Frags,Threat_Detector,Full_Court)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1341880512, Hard_Launch,Mini_Frags,Threat_Detector,Full_Court)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(1341880512, 1478423395,Mini_Frags,Threat_Detector,Full_Court)#notes:pandapaxxy Shadowkeep PvE
+
+//Love and Death (version 2)
+Love_and_Death(332773068,Spike_Grenades,Field_Prep,Quickdraw)#notes:pandapaxxy Shadowkeep PvE
+Love_and_Death(Hard_Launch,Spike_Grenades,Field_Prep,Quickdraw)#notes:pandapaxxy Shadowkeep PvE
+Love_and_Death(1478423395,Spike_Grenades,Field_Prep,Quickdraw)#notes:pandapaxxy Shadowkeep PvE
+Love_and_Death(332773068,Augmented_Drum,Field_Prep,Quickdraw)#notes:pandapaxxy Shadowkeep PvE
+Love_and_Death(Hard_Launch,Augmented_Drum,Field_Prep,Quickdraw)#notes:pandapaxxy Shadowkeep PvE
+Love_and_Death(1478423395,Augmented_Drum,Field_Prep,Quickdraw)#notes:pandapaxxy Shadowkeep PvE
+Love_and_Death(332773068,Mini_Frags,Field_Prep,Quickdraw)#notes:pandapaxxy Shadowkeep PvE
+Love_and_Death(Hard_Launch,Mini_Frags,Field_Prep,Quickdraw)#notes:pandapaxxy Shadowkeep PvE
+Love_and_Death(1478423395,Mini_Frags,Field_Prep,Quickdraw)#notes:pandapaxxy Shadowkeep PvE
+Love_and_Death(332773068,Spike_Grenades,Threat_Detector,Quickdraw)#notes:pandapaxxy Shadowkeep PvE
+Love_and_Death(Hard_Launch,Spike_Grenades,Threat_Detector,Quickdraw)#notes:pandapaxxy Shadowkeep PvE
+Love_and_Death(1478423395,Spike_Grenades,Threat_Detector,Quickdraw)#notes:pandapaxxy Shadowkeep PvE
+Love_and_Death(332773068,Augmented_Drum,Threat_Detector,Quickdraw)#notes:pandapaxxy Shadowkeep PvE
+Love_and_Death(Hard_Launch,Augmented_Drum,Threat_Detector,Quickdraw)#notes:pandapaxxy Shadowkeep PvE
+Love_and_Death(1478423395,Augmented_Drum,Threat_Detector,Quickdraw)#notes:pandapaxxy Shadowkeep PvE
+Love_and_Death(332773068,Mini_Frags,Threat_Detector,Quickdraw)#notes:pandapaxxy Shadowkeep PvE
+Love_and_Death(Hard_Launch,Mini_Frags,Threat_Detector,Quickdraw)#notes:pandapaxxy Shadowkeep PvE
+Love_and_Death(1478423395,Mini_Frags,Threat_Detector,Quickdraw)#notes:pandapaxxy Shadowkeep PvE
+Love_and_Death(332773068,Spike_Grenades,Field_Prep,Full_Court)#notes:pandapaxxy Shadowkeep PvE
+Love_and_Death(Hard_Launch,Spike_Grenades,Field_Prep,Full_Court)#notes:pandapaxxy Shadowkeep PvE
+Love_and_Death(1478423395,Spike_Grenades,Field_Prep,Full_Court)#notes:pandapaxxy Shadowkeep PvE
+Love_and_Death(332773068,Augmented_Drum,Field_Prep,Full_Court)#notes:pandapaxxy Shadowkeep PvE
+Love_and_Death(Hard_Launch,Augmented_Drum,Field_Prep,Full_Court)#notes:pandapaxxy Shadowkeep PvE
+Love_and_Death(1478423395,Augmented_Drum,Field_Prep,Full_Court)#notes:pandapaxxy Shadowkeep PvE
+Love_and_Death(332773068,Mini_Frags,Field_Prep,Full_Court)#notes:pandapaxxy Shadowkeep PvE
+Love_and_Death(Hard_Launch,Mini_Frags,Field_Prep,Full_Court)#notes:pandapaxxy Shadowkeep PvE
+Love_and_Death(1478423395,Mini_Frags,Field_Prep,Full_Court)#notes:pandapaxxy Shadowkeep PvE
+Love_and_Death(332773068,Spike_Grenades,Threat_Detector,Full_Court)#notes:pandapaxxy Shadowkeep PvE
+Love_and_Death(Hard_Launch,Spike_Grenades,Threat_Detector,Full_Court)#notes:pandapaxxy Shadowkeep PvE
+Love_and_Death(1478423395,Spike_Grenades,Threat_Detector,Full_Court)#notes:pandapaxxy Shadowkeep PvE
+Love_and_Death(332773068,Augmented_Drum,Threat_Detector,Full_Court)#notes:pandapaxxy Shadowkeep PvE
+Love_and_Death(Hard_Launch,Augmented_Drum,Threat_Detector,Full_Court)#notes:pandapaxxy Shadowkeep PvE
+Love_and_Death(1478423395,Augmented_Drum,Threat_Detector,Full_Court)#notes:pandapaxxy Shadowkeep PvE
+Love_and_Death(332773068,Mini_Frags,Threat_Detector,Full_Court)#notes:pandapaxxy Shadowkeep PvE
+Love_and_Death(Hard_Launch,Mini_Frags,Threat_Detector,Full_Court)#notes:pandapaxxy Shadowkeep PvE
+Love_and_Death(1478423395,Mini_Frags,Threat_Detector,Full_Court)#notes:pandapaxxy Shadowkeep PvE
+Love_and_Death(332773068,Spike_Grenades,Field_Prep,Quickdraw)#notes:pandapaxxy Shadowkeep PvE
+Love_and_Death(Hard_Launch,Spike_Grenades,Field_Prep,Quickdraw)#notes:pandapaxxy Shadowkeep PvE
+Love_and_Death(1478423395,Spike_Grenades,Field_Prep,Quickdraw)#notes:pandapaxxy Shadowkeep PvE
+Love_and_Death(332773068,Augmented_Drum,Field_Prep,Quickdraw)#notes:pandapaxxy Shadowkeep PvE
+Love_and_Death(Hard_Launch,Augmented_Drum,Field_Prep,Quickdraw)#notes:pandapaxxy Shadowkeep PvE
+Love_and_Death(1478423395,Augmented_Drum,Field_Prep,Quickdraw)#notes:pandapaxxy Shadowkeep PvE
+Love_and_Death(332773068,Mini_Frags,Field_Prep,Quickdraw)#notes:pandapaxxy Shadowkeep PvE
+Love_and_Death(Hard_Launch,Mini_Frags,Field_Prep,Quickdraw)#notes:pandapaxxy Shadowkeep PvE
+Love_and_Death(1478423395,Mini_Frags,Field_Prep,Quickdraw)#notes:pandapaxxy Shadowkeep PvE
+Love_and_Death(332773068,Spike_Grenades,Threat_Detector,Quickdraw)#notes:pandapaxxy Shadowkeep PvE
+Love_and_Death(Hard_Launch,Spike_Grenades,Threat_Detector,Quickdraw)#notes:pandapaxxy Shadowkeep PvE
+Love_and_Death(1478423395,Spike_Grenades,Threat_Detector,Quickdraw)#notes:pandapaxxy Shadowkeep PvE
+Love_and_Death(332773068,Augmented_Drum,Threat_Detector,Quickdraw)#notes:pandapaxxy Shadowkeep PvE
+Love_and_Death(Hard_Launch,Augmented_Drum,Threat_Detector,Quickdraw)#notes:pandapaxxy Shadowkeep PvE
+Love_and_Death(1478423395,Augmented_Drum,Threat_Detector,Quickdraw)#notes:pandapaxxy Shadowkeep PvE
+Love_and_Death(332773068,Mini_Frags,Threat_Detector,Quickdraw)#notes:pandapaxxy Shadowkeep PvE
+Love_and_Death(Hard_Launch,Mini_Frags,Threat_Detector,Quickdraw)#notes:pandapaxxy Shadowkeep PvE
+Love_and_Death(1478423395,Mini_Frags,Threat_Detector,Quickdraw)#notes:pandapaxxy Shadowkeep PvE
+Love_and_Death(332773068,Spike_Grenades,Field_Prep,Full_Court)#notes:pandapaxxy Shadowkeep PvE
+Love_and_Death(Hard_Launch,Spike_Grenades,Field_Prep,Full_Court)#notes:pandapaxxy Shadowkeep PvE
+Love_and_Death(1478423395,Spike_Grenades,Field_Prep,Full_Court)#notes:pandapaxxy Shadowkeep PvE
+Love_and_Death(332773068,Augmented_Drum,Field_Prep,Full_Court)#notes:pandapaxxy Shadowkeep PvE
+Love_and_Death(Hard_Launch,Augmented_Drum,Field_Prep,Full_Court)#notes:pandapaxxy Shadowkeep PvE
+Love_and_Death(1478423395,Augmented_Drum,Field_Prep,Full_Court)#notes:pandapaxxy Shadowkeep PvE
+Love_and_Death(332773068,Mini_Frags,Field_Prep,Full_Court)#notes:pandapaxxy Shadowkeep PvE
+Love_and_Death(Hard_Launch,Mini_Frags,Field_Prep,Full_Court)#notes:pandapaxxy Shadowkeep PvE
+Love_and_Death(1478423395,Mini_Frags,Field_Prep,Full_Court)#notes:pandapaxxy Shadowkeep PvE
+Love_and_Death(332773068,Spike_Grenades,Threat_Detector,Full_Court)#notes:pandapaxxy Shadowkeep PvE
+Love_and_Death(Hard_Launch,Spike_Grenades,Threat_Detector,Full_Court)#notes:pandapaxxy Shadowkeep PvE
+Love_and_Death(1478423395,Spike_Grenades,Threat_Detector,Full_Court)#notes:pandapaxxy Shadowkeep PvE
+Love_and_Death(332773068,Augmented_Drum,Threat_Detector,Full_Court)#notes:pandapaxxy Shadowkeep PvE
+Love_and_Death(Hard_Launch,Augmented_Drum,Threat_Detector,Full_Court)#notes:pandapaxxy Shadowkeep PvE
+Love_and_Death(1478423395,Augmented_Drum,Threat_Detector,Full_Court)#notes:pandapaxxy Shadowkeep PvE
+Love_and_Death(332773068,Mini_Frags,Threat_Detector,Full_Court)#notes:pandapaxxy Shadowkeep PvE
+Love_and_Death(Hard_Launch,Mini_Frags,Threat_Detector,Full_Court)#notes:pandapaxxy Shadowkeep PvE
+Love_and_Death(1478423395,Mini_Frags,Threat_Detector,Full_Court)#notes:pandapaxxy Shadowkeep PvE
+
+//Night Terror (version 1)
+wishlist_entry(3273345532, Jagged_Edge,Heavy_Guard,Relentless_Strikes,Whirlwind_Blade)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3273345532, 2827049491,Heavy_Guard,Relentless_Strikes,Whirlwind_Blade)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3273345532, Tempered_Edge,Heavy_Guard,Relentless_Strikes,Whirlwind_Blade)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3273345532, Jagged_Edge,Heavy_Guard,Tireless_Blade,Whirlwind_Blade)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3273345532, 2827049491,Heavy_Guard,Tireless_Blade,Whirlwind_Blade)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3273345532, Tempered_Edge,Heavy_Guard,Tireless_Blade,Whirlwind_Blade)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3273345532, Jagged_Edge,Heavy_Guard,Relentless_Strikes,Whirlwind_Blade)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3273345532, 2827049491,Heavy_Guard,Relentless_Strikes,Whirlwind_Blade)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3273345532, Tempered_Edge,Heavy_Guard,Relentless_Strikes,Whirlwind_Blade)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3273345532, Jagged_Edge,Heavy_Guard,Tireless_Blade,Whirlwind_Blade)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3273345532, 2827049491,Heavy_Guard,Tireless_Blade,Whirlwind_Blade)#notes:pandapaxxy Shadowkeep PvE
+wishlist_entry(3273345532, Tempered_Edge,Heavy_Guard,Tireless_Blade,Whirlwind_Blade)#notes:pandapaxxy Shadowkeep PvE
+
+//Night Terror (version 2)
+Night_Terror(Jagged_Edge,Heavy_Guard,Relentless_Strikes,Whirlwind_Blade)#notes:pandapaxxy Shadowkeep PvE
+Night_Terror(2827049491,Heavy_Guard,Relentless_Strikes,Whirlwind_Blade)#notes:pandapaxxy Shadowkeep PvE
+Night_Terror(Tempered_Edge,Heavy_Guard,Relentless_Strikes,Whirlwind_Blade)#notes:pandapaxxy Shadowkeep PvE
+Night_Terror(Jagged_Edge,Heavy_Guard,Tireless_Blade,Whirlwind_Blade)#notes:pandapaxxy Shadowkeep PvE
+Night_Terror(2827049491,Heavy_Guard,Tireless_Blade,Whirlwind_Blade)#notes:pandapaxxy Shadowkeep PvE
+Night_Terror(Tempered_Edge,Heavy_Guard,Tireless_Blade,Whirlwind_Blade)#notes:pandapaxxy Shadowkeep PvE
+Night_Terror(Jagged_Edge,Heavy_Guard,Relentless_Strikes,Whirlwind_Blade)#notes:pandapaxxy Shadowkeep PvE
+Night_Terror(2827049491,Heavy_Guard,Relentless_Strikes,Whirlwind_Blade)#notes:pandapaxxy Shadowkeep PvE
+Night_Terror(Tempered_Edge,Heavy_Guard,Relentless_Strikes,Whirlwind_Blade)#notes:pandapaxxy Shadowkeep PvE
+Night_Terror(Jagged_Edge,Heavy_Guard,Tireless_Blade,Whirlwind_Blade)#notes:pandapaxxy Shadowkeep PvE
+Night_Terror(2827049491,Heavy_Guard,Tireless_Blade,Whirlwind_Blade)#notes:pandapaxxy Shadowkeep PvE
+Night_Terror(Tempered_Edge,Heavy_Guard,Tireless_Blade,Whirlwind_Blade)#notes:pandapaxxy Shadowkeep PvE
+
+//Temporal Clause
+Temporal_Clause(Fluted_Barrel,High_Caliber_Rounds,Quickdraw,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+Temporal_Clause(Arrowhead_Brake,High_Caliber_Rounds,Quickdraw,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+Temporal_Clause(Corkscrew_Rifling,High_Caliber_Rounds,Quickdraw,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+Temporal_Clause(Fluted_Barrel,Appended_Mag,Quickdraw,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+Temporal_Clause(Arrowhead_Brake,Appended_Mag,Quickdraw,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+Temporal_Clause(Corkscrew_Rifling,Appended_Mag,Quickdraw,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+Temporal_Clause(Fluted_Barrel,Flared_Magwell,Quickdraw,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+Temporal_Clause(Arrowhead_Brake,Flared_Magwell,Quickdraw,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+Temporal_Clause(Corkscrew_Rifling,Flared_Magwell,Quickdraw,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+Temporal_Clause(Fluted_Barrel,High_Caliber_Rounds,Mechanized_Autoloader,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+Temporal_Clause(Arrowhead_Brake,High_Caliber_Rounds,Mechanized_Autoloader,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+Temporal_Clause(Corkscrew_Rifling,High_Caliber_Rounds,Mechanized_Autoloader,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+Temporal_Clause(Fluted_Barrel,Appended_Mag,Mechanized_Autoloader,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+Temporal_Clause(Arrowhead_Brake,Appended_Mag,Mechanized_Autoloader,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+Temporal_Clause(Corkscrew_Rifling,Appended_Mag,Mechanized_Autoloader,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+Temporal_Clause(Fluted_Barrel,Flared_Magwell,Mechanized_Autoloader,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+Temporal_Clause(Arrowhead_Brake,Flared_Magwell,Mechanized_Autoloader,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+Temporal_Clause(Corkscrew_Rifling,Flared_Magwell,Mechanized_Autoloader,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+Temporal_Clause(Fluted_Barrel,High_Caliber_Rounds,Quickdraw,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Temporal_Clause(Arrowhead_Brake,High_Caliber_Rounds,Quickdraw,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Temporal_Clause(Corkscrew_Rifling,High_Caliber_Rounds,Quickdraw,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Temporal_Clause(Fluted_Barrel,Appended_Mag,Quickdraw,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Temporal_Clause(Arrowhead_Brake,Appended_Mag,Quickdraw,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Temporal_Clause(Corkscrew_Rifling,Appended_Mag,Quickdraw,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Temporal_Clause(Fluted_Barrel,Flared_Magwell,Quickdraw,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Temporal_Clause(Arrowhead_Brake,Flared_Magwell,Quickdraw,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Temporal_Clause(Corkscrew_Rifling,Flared_Magwell,Quickdraw,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Temporal_Clause(Fluted_Barrel,High_Caliber_Rounds,Mechanized_Autoloader,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Temporal_Clause(Arrowhead_Brake,High_Caliber_Rounds,Mechanized_Autoloader,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Temporal_Clause(Corkscrew_Rifling,High_Caliber_Rounds,Mechanized_Autoloader,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Temporal_Clause(Fluted_Barrel,Appended_Mag,Mechanized_Autoloader,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Temporal_Clause(Arrowhead_Brake,Appended_Mag,Mechanized_Autoloader,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Temporal_Clause(Corkscrew_Rifling,Appended_Mag,Mechanized_Autoloader,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Temporal_Clause(Fluted_Barrel,Flared_Magwell,Mechanized_Autoloader,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Temporal_Clause(Arrowhead_Brake,Flared_Magwell,Mechanized_Autoloader,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Temporal_Clause(Corkscrew_Rifling,Flared_Magwell,Mechanized_Autoloader,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Temporal_Clause(Fluted_Barrel,High_Caliber_Rounds,Quickdraw,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+Temporal_Clause(Arrowhead_Brake,High_Caliber_Rounds,Quickdraw,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+Temporal_Clause(Corkscrew_Rifling,High_Caliber_Rounds,Quickdraw,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+Temporal_Clause(Fluted_Barrel,Appended_Mag,Quickdraw,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+Temporal_Clause(Arrowhead_Brake,Appended_Mag,Quickdraw,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+Temporal_Clause(Corkscrew_Rifling,Appended_Mag,Quickdraw,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+Temporal_Clause(Fluted_Barrel,Flared_Magwell,Quickdraw,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+Temporal_Clause(Arrowhead_Brake,Flared_Magwell,Quickdraw,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+Temporal_Clause(Corkscrew_Rifling,Flared_Magwell,Quickdraw,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+Temporal_Clause(Fluted_Barrel,High_Caliber_Rounds,Mechanized_Autoloader,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+Temporal_Clause(Arrowhead_Brake,High_Caliber_Rounds,Mechanized_Autoloader,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+Temporal_Clause(Corkscrew_Rifling,High_Caliber_Rounds,Mechanized_Autoloader,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+Temporal_Clause(Fluted_Barrel,Appended_Mag,Mechanized_Autoloader,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+Temporal_Clause(Arrowhead_Brake,Appended_Mag,Mechanized_Autoloader,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+Temporal_Clause(Corkscrew_Rifling,Appended_Mag,Mechanized_Autoloader,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+Temporal_Clause(Fluted_Barrel,Flared_Magwell,Mechanized_Autoloader,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+Temporal_Clause(Arrowhead_Brake,Flared_Magwell,Mechanized_Autoloader,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+Temporal_Clause(Corkscrew_Rifling,Flared_Magwell,Mechanized_Autoloader,Surrounded)#notes:pandapaxxy Shadowkeep PvE
+Temporal_Clause(Fluted_Barrel,High_Caliber_Rounds,Quickdraw,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Temporal_Clause(Arrowhead_Brake,High_Caliber_Rounds,Quickdraw,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Temporal_Clause(Corkscrew_Rifling,High_Caliber_Rounds,Quickdraw,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Temporal_Clause(Fluted_Barrel,Appended_Mag,Quickdraw,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Temporal_Clause(Arrowhead_Brake,Appended_Mag,Quickdraw,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Temporal_Clause(Corkscrew_Rifling,Appended_Mag,Quickdraw,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Temporal_Clause(Fluted_Barrel,Flared_Magwell,Quickdraw,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Temporal_Clause(Arrowhead_Brake,Flared_Magwell,Quickdraw,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Temporal_Clause(Corkscrew_Rifling,Flared_Magwell,Quickdraw,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Temporal_Clause(Fluted_Barrel,High_Caliber_Rounds,Mechanized_Autoloader,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Temporal_Clause(Arrowhead_Brake,High_Caliber_Rounds,Mechanized_Autoloader,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Temporal_Clause(Corkscrew_Rifling,High_Caliber_Rounds,Mechanized_Autoloader,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Temporal_Clause(Fluted_Barrel,Appended_Mag,Mechanized_Autoloader,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Temporal_Clause(Arrowhead_Brake,Appended_Mag,Mechanized_Autoloader,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Temporal_Clause(Corkscrew_Rifling,Appended_Mag,Mechanized_Autoloader,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Temporal_Clause(Fluted_Barrel,Flared_Magwell,Mechanized_Autoloader,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Temporal_Clause(Arrowhead_Brake,Flared_Magwell,Mechanized_Autoloader,3425386926)#notes:pandapaxxy Shadowkeep PvE
+Temporal_Clause(Corkscrew_Rifling,Flared_Magwell,Mechanized_Autoloader,3425386926)#notes:pandapaxxy Shadowkeep PvE
