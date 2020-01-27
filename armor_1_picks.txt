@@ -56,18 +56,18 @@ dimwishlist:item=45&perks=942541111,901125364
 
 notes:Impact Induction or Enhanced Impact Induction and all of the Scavengers except sword
 dimwishlist:item=46&perks=3938115510,790090923
-dimwishlist:item=46&perks=1463486301,790090923
 dimwishlist:item=46&perks=3938115510,2600330634
-dimwishlist:item=46&perks=1463486301,2600330634
 dimwishlist:item=46&perks=3938115510,1066067378
-dimwishlist:item=46&perks=1463486301,1066067378
 dimwishlist:item=46&perks=3938115510,4245438319
-dimwishlist:item=46&perks=1463486301,4245438319
 dimwishlist:item=46&perks=3938115510,127731051
-dimwishlist:item=46&perks=1463486301,127731051
 dimwishlist:item=46&perks=3938115510,866518141
-dimwishlist:item=46&perks=1463486301,866518141
 dimwishlist:item=46&perks=3938115510,3054567270
+dimwishlist:item=46&perks=1463486301,790090923
+dimwishlist:item=46&perks=1463486301,2600330634
+dimwishlist:item=46&perks=1463486301,1066067378
+dimwishlist:item=46&perks=1463486301,4245438319
+dimwishlist:item=46&perks=1463486301,127731051
+dimwishlist:item=46&perks=1463486301,866518141
 dimwishlist:item=46&perks=1463486301,3054567270
 
 
