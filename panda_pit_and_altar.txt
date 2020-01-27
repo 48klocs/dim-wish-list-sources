@@ -1,4 +1,7 @@
-title:u/pandapaxxy's Altars of Sorrow / Pit of Heresy weapons breakdown
+//NOTE: SPLIT INTO PVP/PVE
+
+
+title:u/pandapaxxy's Altars of Sorrow / Pit of Heresy weapons breakdown 
 description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/eaz9v6/pit_of_heresy_altar_of_sorrow_weapons/
 
 // Blasphemer (PvE)
@@ -86,7 +89,7 @@ dimwishlist:item=2782847179&perks=3661387068,1087426260,3124871000,3425386926
 dimwishlist:item=2782847179&perks=1482024992,1087426260,3124871000,3425386926
 
 // Blasphemer (curated)
-//notes:pandapaxxy (curated): "The legendary Chaperone everyone asked for. [...] And the Curated version is just too amazing." Recommended MW - Reload.
+//notes:pandapaxxy (PvE): "The legendary Chaperone everyone asked for. [...] And the Curated version is just too amazing." Recommended MW - Reload.
 dimwishlist:item=2782847179&perks=3250034553,3142289711,706527188,47981717
 dimwishlist:item=2782847179&perks=3250034553,1561002382,706527188,47981717
 

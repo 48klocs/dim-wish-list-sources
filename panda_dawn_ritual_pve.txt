@@ -1,0 +1,20 @@
+title:u/pandapaxxy's Season of the Dawn Ritual Weapons breakdown PvE
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/eaza6n/season_of_the_dawn_ritual_weapons/
+
+// Buzzard
+//notes:pandapaxxy (BOTH): "One of my favorite archetypes of sidearms Buzzard is certainly gonna see some playtime in my hands. [...] Swashbuckler is also really nice on primary weapons for PvE damage uptime and constant cycling of high damage. [...] Please send clips of you wiping an entire team with 4ttc. I want to see it." Recommended MW - Stability.
+dimwishlist:item=805677041&perks=1467527085,1431678320,1168162263,1774574192
+dimwishlist:item=805677041&perks=1467527085,1431678320,1354429876,1774574192
+dimwishlist:item=805677041&perks=1467527085,1431678320,3124871000,1774574192
+dimwishlist:item=805677041&perks=1467527085,1431678320,1168162263,4082225868
+dimwishlist:item=805677041&perks=1467527085,1431678320,1354429876,4082225868
+dimwishlist:item=805677041&perks=1467527085,1431678320,3124871000,4082225868
+
+// Python
+//notes:pandapaxxy (PvE): "Paired with Overflow or Feeding Frenzy (dealer’s choice) will mean for strikes and Gambit especially this shotgun will exceed expectations. [...] In PvP you’ll be let down with this shotgun, low RPM, low handling, no real range boosts mean at most a 6m kill." Recommended MW - Reload.
+dimwishlist:item=838556752&perks=1482024992,2420895100,3643424744,3275789089
+dimwishlist:item=838556752&perks=1482024992,2420895100,2779035018,3275789089
+dimwishlist:item=838556752&perks=1482024992,2420895100,3643424744,2679249093
+dimwishlist:item=838556752&perks=1482024992,2420895100,2779035018,2679249093
+
+

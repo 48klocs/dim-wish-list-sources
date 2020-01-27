@@ -1,3 +1,5 @@
+// NOTE: SPLIT INTO _PVP/_PVE
+
 title:u/pandapaxxy's Season of the Dawn Ritual Weapons breakdown
 description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/eaza6n/season_of_the_dawn_ritual_weapons/
 

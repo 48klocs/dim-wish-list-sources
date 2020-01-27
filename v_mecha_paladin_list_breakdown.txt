@@ -1,0 +1,125 @@
+genericVoltron: &voltron
+    title: This is a compiled collection of god/recommended rolls from top community minds.
+    description: Thanks to u/Mercules904, u/pandapaxxy, u/HavocsCall, and @chrisfried for their contributions. Ping u/48klocs / @48klocs with any issues. pandaSource holds the master lists of both PvP/PvE; Shadowkeep master list holds multiple copies of the same roll and differing API numbers for weapons. The partioned files have the fixes.
+definitions:
+    pandaPvP:
+        - panda_forsaken_pvp_rolls.txt  
+        - panda_black_armory_pvp_picks.txt
+        - panda_season_drifter_pvp.txt  
+        - panda_penumbra_pvp.txt       
+        - panda_shadowkeep_pvp.txt   
+        - panda_pit_and_altar_pvp.txt
+        - panda_salvation_pvp.txt
+        - panda_dawn_ritual_pvp.txt
+    pandaPvP_MKB:
+        - panda_returning_dawn_mkb_pvp.txt
+        - panda_dawning_mkb_pvp.txt
+        - panda_sundial_mkb_pvp.txt
+    pandaPvP_Controller:
+        - panda_returning_dawn_controller_pvp.txt
+        - panda_dawning_controller_pvp.txt
+        - panda_sundial_controller_pvp.txt
+    pandaPvE:
+        - panda_forsaken_pve_rolls.txt
+        - panda_black_armory_pve_picks.txt
+        - panda_season_drifter_pve.txt
+        - panda_penumbra_pve.txt
+        - panda_shadowkeep_pve.txt
+        - panda_pit_and_altar_pve.txt
+        - panda_salvation_pve.txt
+        - panda_dawn_ritual_pve.txt
+    pandaPvE_MKB:
+        - panda_returning_dawn_mkb_pve.txt
+        - panda_dawning_mkb_pve.txt
+        - panda_sundial_mkb_pve.txt
+    pandaPvE_Controller:
+        - panda_returning_dawn_controller_pve.txt
+        - panda_dawning_controller_pve.txt
+        - panda_sundial_controller_pve.txt
+    pandaCrudeWorklists:
+        - panda_black_armory_picks.txt
+        - panda_pit_and_altar.txt
+        - panda_dawn_ritual.txt
+    pandaCrude_MKB:
+        - panda_returning_dawn_mkb.txt 
+        - panda_dawning_mkb.txt
+        - panda_sundial_mkb.txt
+    pandaCrude_Controller:
+        - panda_returning_dawn_contoller.txt 
+        - panda_dawning_controller.txt
+        - panda_sundial_controller.txt
+    mercules:
+        - mercules_iron_banner.txt
+        - mercules_iron_banner_bonus.txt
+        - mercules_erentil_and_opulence_iron_banner.txt
+        - mercules_gambit_rolls.txt
+        - mercules_dreaming_city_breakdown_rolls.txt
+        - mercules_last_wish_rolls.txt
+        - mercules_black_armory_pulse_bow.txt
+        - mercules_black_armory_and_sotp_rolls.txt
+        - mercules_menagerie.txt
+        - mercules_crown_of_sorrow.txt
+        - mercules_undying_season_pass_picks.txt
+        - mercules_vex_offensive_breakdown.txt
+        - mercules_altar_of_sorrow.txt
+        - mercules_garden_of_salvation.txt
+        - mercules_osiris_redux.txt
+        - mercules_season_of_dawn_season_pass_breakdown. 
+    trash_lists:
+        - trash_rolls.txt
+        
+outputFiles:
+    v_mecha_mkb:
+        <<: *voltron
+        fileGroups:
+            - pandaPvP
+            - PandaPvP_MKB
+            - pandaPvE
+            - pandaPvE_MKB
+    v_mecha_controller:
+        <<: *voltron
+        fileGroups:
+            - pandaPvP
+            - PandaPvP_controller
+            - pandaPvE
+            - pandaPvE_controller
+    v_paladin_mkb_pvp:
+        <<: *voltron
+        fileGroups:
+            - pandaPvP
+            - PandaPvP_MKB
+    v_paladin_mkb_pve:
+        <<: *voltron
+        fileGroups:
+            - pandaPvE
+            - PandaPvE_MKB
+    v_paladin_controller_pvp:
+        <<: *voltron
+        fileGroups:
+            - pandaPvP
+            - PandaPvP_controller
+    v_paladin_controller_pve:
+        <<: *voltron
+        fileGroups:
+            - pandaPvE
+            - PandaPvE_controller
+    voltron_mkb_choosy:
+        <<: *voltron
+        fileGroups:
+            - pandaPvE
+            - pandaGeneric
+            - mercules
+            - pandaPvP
+            - pandaMKB
+            - trash_lists
+    voltron_controller_choosy:
+        <<: *voltron
+        fileGroups:
+            - pandaPvE
+            - pandaGeneric
+            - mercules
+            - pandaPvP
+            - pandaController
+            - trash_lists
+
+

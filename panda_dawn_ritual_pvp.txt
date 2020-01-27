@@ -1,0 +1,20 @@
+title:u/pandapaxxy's Season of the Dawn Ritual Weapons breakdown PvP
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/eaza6n/season_of_the_dawn_ritual_weapons/
+
+// Buzzard
+//notes:pandapaxxy  (Both): "One of my favorite archetypes of sidearms Buzzard is certainly gonna see some playtime in my hands. [...] Swashbuckler is also really nice on primary weapons for PvE damage uptime and constant cycling of high damage. [...] Please send clips of you wiping an entire team with 4ttc. I want to see it." Recommended MW - Stability.
+dimwishlist:item=805677041&perks=1467527085,1431678320,1168162263,1774574192
+dimwishlist:item=805677041&perks=1467527085,1431678320,1354429876,1774574192
+dimwishlist:item=805677041&perks=1467527085,1431678320,3124871000,1774574192
+dimwishlist:item=805677041&perks=1467527085,1431678320,1168162263,4082225868
+dimwishlist:item=805677041&perks=1467527085,1431678320,1354429876,4082225868
+dimwishlist:item=805677041&perks=1467527085,1431678320,3124871000,4082225868
+
+
+// Komodo-4FR
+//notes:pandapaxxy (PvP): "Komodo doesn’t bring anything to PvE that Line in the Sand doesn’t immediately blow out of the water [...] In PvP is where I see this having any sort of viability, a good amount of aim assist though Moving Target and Eye of the Storm." Recommended MW - Charge Time.
+dimwishlist:item=2697058914&perks=1392496348,689005463,2866798147,699525795
+dimwishlist:item=2697058914&perks=1392496348,689005463,588594999,699525795
+dimwishlist:item=2697058914&perks=1392496348,689005463,2866798147,2551157718
+dimwishlist:item=2697058914&perks=1392496348,689005463,588594999,2551157718
+
