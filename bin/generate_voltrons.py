@@ -1,5 +1,6 @@
 from __future__ import print_function
 from builtins import object
+from collections import OrderedDict
 import yaml
 
 DEFINITION_FILE = "voltron_list.yaml"
@@ -7,7 +8,7 @@ DEFINITION_FILE = "voltron_list.yaml"
 
 def main():
     with open(DEFINITION_FILE) as f:
-        ymlRaw = yaml.load(f)
+        ymlRaw = yaml.load(f, Loader=yaml.SafeLoader)
 
     fileGroupsRaw = ymlRaw["definitions"]
     fileGroups = {}
@@ -44,7 +45,7 @@ class OutputFile(object):
 class FileGroup(object):
     def __init__(self, groupName, fileList):
         self.name = groupName
-        self.files = {}
+        self.files = OrderedDict()
         for fileName in fileList:
             self.files[fileName] = WishlistInputFile(fileName)
     def getLines(self):
