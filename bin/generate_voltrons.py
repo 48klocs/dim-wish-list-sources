@@ -7,7 +7,7 @@ DEFINITION_FILE = "voltron_list.yaml"
 
 
 def main():
-    with open(DEFINITION_FILE) as f:
+    with open(DEFINITION_FILE, encoding="utf-8") as f:
         ymlRaw = yaml.load(f, Loader=yaml.SafeLoader)
 
     fileGroupsRaw = ymlRaw["definitions"]
@@ -38,7 +38,7 @@ class OutputFile(object):
     def getString(self):
         return "\n".join(self.getLines())
     def printFile(self):
-        with open("{}.txt".format(self.fileName), 'w') as f:
+        with open("{}.txt".format(self.fileName), 'w', encoding="utf-8") as f:
             f.write(self.getString())
 
 
@@ -64,7 +64,7 @@ class WishlistInputFile(object):
 
     def readFile(self):
         if not len(self.lines):
-            with open(self.fileName) as f:
+            with open(self.fileName, encoding="utf-8") as f:
                 lines = f.readlines()
             self.lines = [x.strip() for x in lines]
         return self.lines
