@@ -1,0 +1,15 @@
+{
+  "name": "wishlist-node-scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "checkrolls": "tsc && node ./out/validate-rolls.js"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "@types/node": "^13.7.7",
+    "destiny2-manifest": "^1.0.4"
+  }
+}
