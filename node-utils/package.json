@@ -10,6 +10,7 @@
   "license": "UNLICENSED",
   "devDependencies": {
     "@types/node": "^13.7.7",
+    "bungie-api-ts": "^2.4.0",
     "destiny2-manifest": "^1.0.4"
   }
 }
