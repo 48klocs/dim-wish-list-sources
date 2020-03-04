@@ -3,6 +3,7 @@ import { WishListRoll } from "./lib/types";
 import fs from "fs";
 import { toWishList } from "./lib/wishlist-file";
 import { DestinyInventoryItemDefinition } from "bungie-api-ts/destiny2";
+
 const manifest = new D2Manifest("asdf");
 const verboseMain = true;
 const placesToLookForValidPerks: (
@@ -54,18 +55,23 @@ function getInvalidWishlistRolls(rolls: WishListRoll[], verbose = false) {
       );
       return;
     }
+
     const perksThisGunCanActuallyHave = (rollItem.sockets.socketEntries
-      .flatMap(se => {
-        const hashesInPlugsets = placesToLookForValidPerks.flatMap(key =>
-          getPlugSet(se[key] ?? -99999999)?.reusablePlugItems?.map(
-            p => p.plugItemHash
-          )
+      .reduce((acc, se) => {
+        const hashesInPlugsets = placesToLookForValidPerks.reduce(
+          (inneracc, key) =>
+            inneracc.concat(
+              getPlugSet(se[key] ?? -99999999)?.reusablePlugItems?.map(
+                p => p.plugItemHash
+              )
+            ),
+          [] as (number | undefined)[]
         );
         const reusablePlugItemHashes = se.reusablePlugItems.map(
           pi => pi.plugItemHash
         );
-        return [...hashesInPlugsets, ...reusablePlugItemHashes];
-      })
+        return acc.concat([...hashesInPlugsets, ...reusablePlugItemHashes]);
+      }, [] as (number | undefined)[])
       .filter(Boolean) ?? []) as number[];
     const allPerksAreValid = perksOnThisRoll.every(p =>
       perksThisGunCanActuallyHave.includes(p)

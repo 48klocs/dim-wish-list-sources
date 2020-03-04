@@ -1,8 +1,8 @@
 {
   "compilerOptions": {
-    "target": "ES2018",
+    "target": "es2018",
     "lib": [
-      "ESNext"
+      "ES2018"
     ],
     "esModuleInterop": true,
     "allowSyntheticDefaultImports": true,
