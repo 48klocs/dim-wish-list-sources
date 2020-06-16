@@ -28621,6 +28621,110 @@ dimwishlist:item=2582755344&perks=1840239774,1561002382,3300816228,3513791699
 dimwishlist:item=2582755344&perks=839105230,1561002382,3300816228,3513791699
 dimwishlist:item=2582755344&perks=1482024992,1561002382,3300816228,3513791699
 
+title:u/Mercules904's Pyramid-focused Umbral primary weapons breakdown
+description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/h9n8us/massive_breakdown_of_the_pyramid_focused_umbral/
+
+// False Promises
+//notes: (PvP / M+KB): Mercules904 (pretty good PvP/M+KB) - "What a great gun! I've been waiting for a Legendary High-Impact AR that felt like SUROS Regime with Dual Speed Receiver, and I think we've finally found one. Stat-wise it suffers from most of the same drawbacks that the other high impacts do, poor stability, low aim assist and handling, but for some reason the return to center speed of the reticle is much faster than I'm used to on the others guns in the archetype (like Halfdan) and so the low stability doesn't seem to have much of an effect of the usability of the weapon."|tags:pvp,mkb
+dimwishlist:item=3143732432&perks=3661387068,1885400500,1359896290,3425386926
+dimwishlist:item=3143732432&perks=3250034553,1885400500,1359896290,3425386926
+dimwishlist:item=3143732432&perks=3661387068,1885400500,1359896290,4082225868
+dimwishlist:item=3143732432&perks=3250034553,1885400500,1359896290,4082225868
+dimwishlist:item=3143732432&perks=3661387068,1885400500,1359896290,699525795
+dimwishlist:item=3143732432&perks=3250034553,1885400500,1359896290,699525795
+
+// False Promises
+//notes: (PvP / Controller): Mercules904 (pretty good PvP/controller) - "What a great gun! I've been waiting for a Legendary High-Impact AR that felt like SUROS Regime with Dual Speed Receiver, and I think we've finally found one. Stat-wise it suffers from most of the same drawbacks that the other high impacts do, poor stability, low aim assist and handling, but for some reason the return to center speed of the reticle is much faster than I'm used to on the others guns in the archetype (like Halfdan) and so the low stability doesn't seem to have much of an effect of the usability of the weapon."|tags:pvp,controller
+dimwishlist:item=3143732432&perks=3661387068,1885400500,1359896290,3425386926
+dimwishlist:item=3143732432&perks=1392496348,1885400500,1359896290,3425386926
+dimwishlist:item=3143732432&perks=3661387068,1885400500,1359896290,4082225868
+dimwishlist:item=3143732432&perks=1392496348,1885400500,1359896290,4082225868
+dimwishlist:item=3143732432&perks=3661387068,1885400500,1359896290,699525795
+dimwishlist:item=3143732432&perks=1392496348,1885400500,1359896290,699525795
+
+// False Promises
+//notes: (PvE): Mercules904 (pretty good PvE) - "What a great gun! I've been waiting for a Legendary High-Impact AR that felt like SUROS Regime with Dual Speed Receiver, and I think we've finally found one. Stat-wise it suffers from most of the same drawbacks that the other high impacts do, poor stability, low aim assist and handling, but for some reason the return to center speed of the reticle is much faster than I'm used to on the others guns in the archetype (like Halfdan) and so the low stability doesn't seem to have much of an effect of the usability of the weapon."|tags:pve
+dimwishlist:item=3143732432&perks=3661387068,3230963543,1820235745,3425386926
+dimwishlist:item=3143732432&perks=1392496348,3230963543,1820235745,3425386926
+dimwishlist:item=3143732432&perks=3661387068,1087426260,1820235745,3425386926
+dimwishlist:item=3143732432&perks=1392496348,1087426260,1820235745,3425386926
+dimwishlist:item=3143732432&perks=3661387068,3230963543,2779035018,3425386926
+dimwishlist:item=3143732432&perks=1392496348,3230963543,2779035018,3425386926
+dimwishlist:item=3143732432&perks=3661387068,1087426260,2779035018,3425386926
+dimwishlist:item=3143732432&perks=1392496348,1087426260,2779035018,3425386926
+dimwishlist:item=3143732432&perks=3661387068,3230963543,3643424744,3425386926
+dimwishlist:item=3143732432&perks=1392496348,3230963543,3643424744,3425386926
+dimwishlist:item=3143732432&perks=3661387068,1087426260,3643424744,3425386926
+dimwishlist:item=3143732432&perks=1392496348,1087426260,3643424744,3425386926
+dimwishlist:item=3143732432&perks=3661387068,3230963543,1820235745,4082225868
+dimwishlist:item=3143732432&perks=1392496348,3230963543,1820235745,4082225868
+dimwishlist:item=3143732432&perks=3661387068,1087426260,1820235745,4082225868
+dimwishlist:item=3143732432&perks=1392496348,1087426260,1820235745,4082225868
+dimwishlist:item=3143732432&perks=3661387068,3230963543,2779035018,4082225868
+dimwishlist:item=3143732432&perks=1392496348,3230963543,2779035018,4082225868
+dimwishlist:item=3143732432&perks=3661387068,1087426260,2779035018,4082225868
+dimwishlist:item=3143732432&perks=1392496348,1087426260,2779035018,4082225868
+dimwishlist:item=3143732432&perks=3661387068,3230963543,3643424744,4082225868
+dimwishlist:item=3143732432&perks=1392496348,3230963543,3643424744,4082225868
+dimwishlist:item=3143732432&perks=3661387068,1087426260,3643424744,4082225868
+dimwishlist:item=3143732432&perks=1392496348,1087426260,3643424744,4082225868
+dimwishlist:item=3143732432&perks=3661387068,3230963543,1820235745,3108830275
+dimwishlist:item=3143732432&perks=1392496348,3230963543,1820235745,3108830275
+dimwishlist:item=3143732432&perks=3661387068,1087426260,1820235745,3108830275
+dimwishlist:item=3143732432&perks=1392496348,1087426260,1820235745,3108830275
+dimwishlist:item=3143732432&perks=3661387068,3230963543,2779035018,3108830275
+dimwishlist:item=3143732432&perks=1392496348,3230963543,2779035018,3108830275
+dimwishlist:item=3143732432&perks=3661387068,1087426260,2779035018,3108830275
+dimwishlist:item=3143732432&perks=1392496348,1087426260,2779035018,3108830275
+dimwishlist:item=3143732432&perks=3661387068,3230963543,3643424744,3108830275
+dimwishlist:item=3143732432&perks=1392496348,3230963543,3643424744,3108830275
+dimwishlist:item=3143732432&perks=3661387068,1087426260,3643424744,3108830275
+dimwishlist:item=3143732432&perks=1392496348,1087426260,3643424744,3108830275
+dimwishlist:item=3143732432&perks=3661387068,3230963543,1820235745,3708227201
+dimwishlist:item=3143732432&perks=1392496348,3230963543,1820235745,3708227201
+dimwishlist:item=3143732432&perks=3661387068,1087426260,1820235745,3708227201
+dimwishlist:item=3143732432&perks=1392496348,1087426260,1820235745,3708227201
+dimwishlist:item=3143732432&perks=3661387068,3230963543,2779035018,3708227201
+dimwishlist:item=3143732432&perks=1392496348,3230963543,2779035018,3708227201
+dimwishlist:item=3143732432&perks=3661387068,1087426260,2779035018,3708227201
+dimwishlist:item=3143732432&perks=1392496348,1087426260,2779035018,3708227201
+dimwishlist:item=3143732432&perks=3661387068,3230963543,3643424744,3708227201
+dimwishlist:item=3143732432&perks=1392496348,3230963543,3643424744,3708227201
+dimwishlist:item=3143732432&perks=3661387068,1087426260,3643424744,3708227201
+dimwishlist:item=3143732432&perks=1392496348,1087426260,3643424744,3708227201
+
+// Cold Denial
+//notes: (PvP): Mercules904 (pretty good PvP) - "Interestingly the second kinetic High-Impact weapon we can get out of the Pyramid focused engrams, this one part of the recently buffed pulse rifle archetype. [...] I'd argue that in the right hands they're one of the most rewarding weapons in the game, in terms of TtK."|tags:pvp
+dimwishlist:item=1216130969&perks=3661387068,1885400500,2779035018,2458213969
+dimwishlist:item=1216130969&perks=3661387068,1885400500,2450788523,2458213969
+dimwishlist:item=1216130969&perks=3661387068,1885400500,972757866,2458213969
+dimwishlist:item=1216130969&perks=3661387068,1885400500,2387244414,2458213969
+dimwishlist:item=1216130969&perks=3661387068,1885400500,2779035018,699525795
+dimwishlist:item=1216130969&perks=3661387068,1885400500,2450788523,699525795
+dimwishlist:item=1216130969&perks=3661387068,1885400500,972757866,699525795
+dimwishlist:item=1216130969&perks=3661387068,1885400500,2387244414,699525795
+
+// Cold Denial
+//notes: (PvE): Mercules904 (pretty good PvE) - "Interestingly the second kinetic High-Impact weapon we can get out of the Pyramid focused engrams, this one part of the recently buffed pulse rifle archetype. [...] I'd argue that in the right hands they're one of the most rewarding weapons in the game, in terms of TtK."|tags:pve
+dimwishlist:item=1216130969&perks=3661387068,3230963543,2779035018,4082225868
+dimwishlist:item=1216130969&perks=3661387068,1087426260,2779035018,4082225868
+dimwishlist:item=1216130969&perks=3661387068,3230963543,2779035018,2458213969
+dimwishlist:item=1216130969&perks=3661387068,1087426260,2779035018,2458213969
+dimwishlist:item=1216130969&perks=3661387068,3230963543,2779035018,3108830275
+dimwishlist:item=1216130969&perks=3661387068,1087426260,2779035018,3108830275
+
+// Whispering Slab
+//notes: (PvP): Mercules904 (OK PvP) - "A slightly faster draw time does not make up for how much less damage they do, which makes them harder to use in both PvP and PvE (even with the 10% damage buff to red bars from the most recent sandbox patch). They're less likely to kill injured enemies in PvP, and their accuracy (which is basically the range stat for bows) is really atrocious which means you're a lot more likely to find enemies outside of your optimal engagement range than if you use a Precision bow, Trinity Ghoul, or Le Monarque. That being said, they do have some benefits to them statistically, like high aim assist within their optimal range and a snappy feeling thanks to quick reload speed and handling."|tags:pvp
+dimwishlist:item=211938782&perks=852209214,3429800428,201365942,47981717
+
+
+// Whispering Slab
+//notes: (PvE): Mercules904 (OK PvE) - "A slightly faster draw time does not make up for how much less damage they do, which makes them harder to use in both PvP and PvE (even with the 10% damage buff to red bars from the most recent sandbox patch). They're less likely to kill injured enemies in PvP, and their accuracy (which is basically the range stat for bows) is really atrocious which means you're a lot more likely to find enemies outside of your optimal engagement range than if you use a Precision bow, Trinity Ghoul, or Le Monarque. That being said, they do have some benefits to them statistically, like high aim assist within their optimal range and a snappy feeling thanks to quick reload speed and handling."|tags:pve
+dimwishlist:item=211938782&perks=2801223209,3429800428,201365942,4082225868
+dimwishlist:item=211938782&perks=2801223209,3429800428,201365942,3108830275
+dimwishlist:item=211938782&perks=2801223209,3429800428,201365942,3350417888
+dimwishlist:item=211938782&perks=2801223209,3429800428,201365942,1546637391
+dimwishlist:item=211938782&perks=2801223209,3429800428,201365942,3523296417
 
 
 
