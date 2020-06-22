@@ -121,7 +121,7 @@ function toBansheeWishListRoll(bansheeTextLine: string): WishListRoll | null {
 }
 
 const textLineRegex = /^dimwishlist:item=(?<itemHash>-?\d+)(?:&perks=)?(?<itemPerks>[\d|,]*)?(?:#notes:)?(?<wishListNotes>.*)?/;
-function toDimWishListRoll(textLine: string): WishListRoll | null {
+export function toDimWishListRoll(textLine: string): WishListRoll | null {
   if (!textLine || textLine.length === 0) {
     return null;
   }

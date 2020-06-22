@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "checkrolls": "tsc && node ./out/validate-rolls.js"
+    "checkrolls": "tsc && node ./out/validate-rolls.js",
+    "cleanrolls": "tsc && node ./out/clean-rolls.js"
   },
   "author": "",
   "license": "UNLICENSED",
