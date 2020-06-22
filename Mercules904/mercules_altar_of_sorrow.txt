@@ -3,10 +3,8 @@ description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments
 
 // Apostate (PvP)
 //notes:Mercules904 (must have PvP) - "Definitely rate this gun as a must have for PvP snipers."
-dimwishlist:item=2164448701&perks=3250034553,3142289711,706527188,47981717
-dimwishlist:item=2164448701&perks=3250034553,791862061,706527188,47981717
-dimwishlist:item=2164448701&perks=3250034553,3142289711,706527188,4082225868
-dimwishlist:item=2164448701&perks=3250034553,791862061,706527188,4082225868
+dimwishlist:item=2164448701&perks=1840239774,3142289711,588594999,706527188
+dimwishlist:item=2164448701&perks=1840239774,3142289711,588594999,957782887
 
 // Apostate (PvP) [curated]
 //notes:Mercules904 (must have PvP/curated) - "Definitely rate this gun as a must have for PvP snipers."
