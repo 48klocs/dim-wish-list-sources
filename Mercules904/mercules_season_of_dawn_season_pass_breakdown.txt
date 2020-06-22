@@ -11,7 +11,6 @@ dimwishlist:item=4166221755&perks=839105230,1087426260,3400784728,1546637391
 
 // Pyroclastic Flow (okay PvP)
 //notes:Mercules904 (okay PvP) - "Fact of the matter is, if you're using a Rocket Launcher in PvP it should be Truth, Wardcliff, or one of the High-Impacts like Sleepless or Roar of the Bear. Using the lite-tracking offered by Pyroclastic is a gimmick better suited for Gambit (for the most part)."
-dimwishlist:item=1289324202&perks=332773068,1996142143,706527188,1275731761
 dimwishlist:item=1289324202&perks=1478423395,1996142143,706527188,1275731761
 
 // Pyroclastic Flow (okay PvE)

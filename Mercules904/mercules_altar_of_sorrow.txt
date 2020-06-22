@@ -19,7 +19,6 @@ dimwishlist:item=2782847179&perks=3250034553,791862061,706527188,4082225868
 
 // Heretic (PvP)
 //notes:Mercules904 (PVP; pretty good PvE) - "Honestly a weapon with great possibilities if the heavy weapon classes ever get reworked."
-dimwishlist:item=3067821200&perks=332773068,1996142143,2846385770,1275731761
 dimwishlist:item=3067821200&perks=1478423395,1996142143,2846385770,1275731761
 
 // Heretic (PvE)

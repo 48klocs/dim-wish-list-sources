@@ -10,21 +10,9 @@ dimwishlist:item=1289997971&perks=3661387068,106909392,1866048759,3425386926
 
 // Breachlight
 //notes:Mercules904 (pretty good) - "A decent, easy to use sidearm that's very comparable stat-wise (almost across the board) to Smuggler's Word. I personally like to try to max out stability on these sidearms, being that I'm a console player and it's one of the archetypes defining weakness."
-dimwishlist:item=1485925872&perks=3661387068,106909392,1866048759,706527188
-dimwishlist:item=1485925872&perks=3661387068,106909392,1866048759,1546637391
-dimwishlist:item=1485925872&perks=3661387068,106909392,1866048759,2458213969
-dimwishlist:item=1485925872&perks=3661387068,106909392,1866048759,3425386926
 
 // Steelfeather Repeater (PvP)
 //notes:Mercules904 (okay PvP) - "I have to say, the gun feels good (I think it has one of the best sight pictures of any AR in the game), but I'm just not a huge fan of the 720s in the grand scheme of the PvP meta."
-dimwishlist:item=159303539&perks=839105230,1885400500,280464955,4082225868
-dimwishlist:item=159303539&perks=3661387068,1885400500,280464955,4082225868
-dimwishlist:item=159303539&perks=839105230,1885400500,2039302152,4082225868
-dimwishlist:item=159303539&perks=3661387068,1885400500,2039302152,4082225868
-dimwishlist:item=159303539&perks=839105230,1885400500,280464955,2458213969
-dimwishlist:item=159303539&perks=3661387068,1885400500,280464955,2458213969
-dimwishlist:item=159303539&perks=839105230,1885400500,2039302152,2458213969
-dimwishlist:item=159303539&perks=3661387068,1885400500,2039302152,2458213969
 
 // Steelfeather Repeater (PvP)
 //notes:Mercules904 (okay PvP) - "I have to say, the gun feels good (I think it has one of the best sight pictures of any AR in the game), but I'm just not a huge fan of the 720s in the grand scheme of the PvP meta."
@@ -84,48 +72,6 @@ dimwishlist:item=1251729046&perks=3250034553,3230963543,1820235745,2458213969
 
 // Steelfeather Repeater (PvE)
 //notes:Mercules904 (okay PvE) - "If you do want to use this gun in PvE instead of the Crucible (which I think is the way to go) [...] this might help convince some players to try to bring ARs back to prevalence a little bit in PvE."
-dimwishlist:item=159303539&perks=839105230,3230963543,1631667848,4082225868
-dimwishlist:item=159303539&perks=3661387068,3230963543,1631667848,4082225868
-dimwishlist:item=159303539&perks=1392496348,3230963543,1631667848,4082225868
-dimwishlist:item=159303539&perks=1482024992,3230963543,1631667848,4082225868
-dimwishlist:item=159303539&perks=4090651448,3230963543,1631667848,4082225868
-dimwishlist:item=159303539&perks=1840239774,3230963543,1631667848,4082225868
-dimwishlist:item=159303539&perks=3250034553,3230963543,1631667848,4082225868
-dimwishlist:item=159303539&perks=839105230,3230963543,2779035018,4082225868
-dimwishlist:item=159303539&perks=3661387068,3230963543,2779035018,4082225868
-dimwishlist:item=159303539&perks=1392496348,3230963543,2779035018,4082225868
-dimwishlist:item=159303539&perks=1482024992,3230963543,2779035018,4082225868
-dimwishlist:item=159303539&perks=4090651448,3230963543,2779035018,4082225868
-dimwishlist:item=159303539&perks=1840239774,3230963543,2779035018,4082225868
-dimwishlist:item=159303539&perks=3250034553,3230963543,2779035018,4082225868
-dimwishlist:item=159303539&perks=839105230,3230963543,1820235745,4082225868
-dimwishlist:item=159303539&perks=3661387068,3230963543,1820235745,4082225868
-dimwishlist:item=159303539&perks=1392496348,3230963543,1820235745,4082225868
-dimwishlist:item=159303539&perks=1482024992,3230963543,1820235745,4082225868
-dimwishlist:item=159303539&perks=4090651448,3230963543,1820235745,4082225868
-dimwishlist:item=159303539&perks=1840239774,3230963543,1820235745,4082225868
-dimwishlist:item=159303539&perks=3250034553,3230963543,1820235745,4082225868
-dimwishlist:item=159303539&perks=839105230,3230963543,1631667848,2458213969
-dimwishlist:item=159303539&perks=3661387068,3230963543,1631667848,2458213969
-dimwishlist:item=159303539&perks=1392496348,3230963543,1631667848,2458213969
-dimwishlist:item=159303539&perks=1482024992,3230963543,1631667848,2458213969
-dimwishlist:item=159303539&perks=4090651448,3230963543,1631667848,2458213969
-dimwishlist:item=159303539&perks=1840239774,3230963543,1631667848,2458213969
-dimwishlist:item=159303539&perks=3250034553,3230963543,1631667848,2458213969
-dimwishlist:item=159303539&perks=839105230,3230963543,2779035018,2458213969
-dimwishlist:item=159303539&perks=3661387068,3230963543,2779035018,2458213969
-dimwishlist:item=159303539&perks=1392496348,3230963543,2779035018,2458213969
-dimwishlist:item=159303539&perks=1482024992,3230963543,2779035018,2458213969
-dimwishlist:item=159303539&perks=4090651448,3230963543,2779035018,2458213969
-dimwishlist:item=159303539&perks=1840239774,3230963543,2779035018,2458213969
-dimwishlist:item=159303539&perks=3250034553,3230963543,2779035018,2458213969
-dimwishlist:item=159303539&perks=839105230,3230963543,1820235745,2458213969
-dimwishlist:item=159303539&perks=3661387068,3230963543,1820235745,2458213969
-dimwishlist:item=159303539&perks=1392496348,3230963543,1820235745,2458213969
-dimwishlist:item=159303539&perks=1482024992,3230963543,1820235745,2458213969
-dimwishlist:item=159303539&perks=4090651448,3230963543,1820235745,2458213969
-dimwishlist:item=159303539&perks=1840239774,3230963543,1820235745,2458213969
-dimwishlist:item=159303539&perks=3250034553,3230963543,1820235745,2458213969
 
 // Patron of Lost Causes
 //notes:Mercules904 (pretty good) - "On the majority of maps you won't ever really get outside their optimal engagement distances, which is why I'm okay with it, and getting enough stability makes them into lasers."
@@ -135,16 +81,9 @@ dimwishlist:item=2723241847&perks=3661387068,3230963543,247725512,3038247973
 
 // Patron of Lost Causes
 //notes:Mercules904 (pretty good) - "On the majority of maps you won't ever really get outside their optimal engagement distances, which is why I'm okay with it, and getting enough stability makes them into lasers."
-dimwishlist:item=4278237608&perks=3661387068,106909392,247725512,3038247973
-dimwishlist:item=4278237608&perks=3661387068,3177308360,247725512,3038247973
-dimwishlist:item=4278237608&perks=3661387068,3230963543,247725512,3038247973
 
 // Gallant Charge (PvP)
 //notes:Mercules904 (not great PvP) - "This is a high-impact fusion rifle, but it's not Erentil! Pass."
-dimwishlist:item=1531593968&perks=1392496348,3868766766,1866048759,1890422124
-dimwishlist:item=1531593968&perks=3661387068,3868766766,1866048759,1890422124
-dimwishlist:item=1531593968&perks=1392496348,1687452232,1866048759,1890422124
-dimwishlist:item=1531593968&perks=3661387068,1687452232,1866048759,1890422124
 
 // Gallant Charge (PvP)
 //notes:Mercules904 (not great PvP) - "This is a high-impact fusion rifle, but it's not Erentil! Pass."
@@ -162,15 +101,9 @@ dimwishlist:item=1706206669&perks=3661387068,1687452232,1631667848,4082225868
 
 // Gallant Charge (PvE)
 //notes:Mercules904 (not great PvE) - "In PvE, unfortunately, this gun seems like almost every perk on it is pushing it in the "add clear" direction, and high-impacts just don't excel there. You'd be better off using something with faster charge time and higher inventory to wipe out the red bars [...]"
-dimwishlist:item=1531593968&perks=1392496348,1687452232,3300816228,4082225868
-dimwishlist:item=1531593968&perks=3661387068,1687452232,3300816228,4082225868
-dimwishlist:item=1531593968&perks=1392496348,1687452232,1631667848,4082225868
-dimwishlist:item=1531593968&perks=3661387068,1687452232,1631667848,4082225868
 
 // Martyr's Retribution
 //notes:Mercules904 (pretty good) - "I personally find Martyr's Retribution to be a little bit like using a Sunbreaker's Thermite grenade, and I kinda like the utility of it. Seems like it has a forgiving hit box, and I didn't have much issue hitting people, even when they were slightly behind cover."
-dimwishlist:item=1121344506&perks=3525010810,2822142346,3300816228,2846385770
-dimwishlist:item=1121344506&perks=3525010810,2822142346,2869569095,2846385770
 
 // Martyr's Retribution
 //notes:Mercules904 (pretty good) - "I personally find Marty's Retribution to be a little bit like using a Sunbreaker's Thermite grenade, and I kinda like the utility of it. Seems like it has a forgiving hit box, and I didn't have much issue hitting people, even when they were slightly behind cover."
@@ -194,27 +127,9 @@ dimwishlist:item=946443267&perks=4090651448,2969185026,588594999,1600092898
 
 // Line in the Sand (PvP)
 //notes:Mercules904 (not great PvP) - "Line in the Sand is unfortunately nothing special for PvP, but if you really want to us it I'd try to max range for the greater aim assist at longer distances, since stability seems to have no purpose at all, with handling would be my secondary option."
-dimwishlist:item=3310039832&perks=202670084,689005463,588594999,1600092898
-dimwishlist:item=3310039832&perks=3250034553,689005463,588594999,1600092898
-dimwishlist:item=3310039832&perks=1840239774,689005463,588594999,1600092898
-dimwishlist:item=3310039832&perks=839105230,689005463,588594999,1600092898
-dimwishlist:item=3310039832&perks=1482024992,689005463,588594999,1600092898
-dimwishlist:item=3310039832&perks=4090651448,689005463,588594999,1600092898
-dimwishlist:item=3310039832&perks=202670084,2969185026,588594999,1600092898
-dimwishlist:item=3310039832&perks=3250034553,2969185026,588594999,1600092898
-dimwishlist:item=3310039832&perks=1840239774,2969185026,588594999,1600092898
-dimwishlist:item=3310039832&perks=839105230,2969185026,588594999,1600092898
-dimwishlist:item=3310039832&perks=1482024992,2969185026,588594999,1600092898
-dimwishlist:item=3310039832&perks=4090651448,2969185026,588594999,1600092898
 
 // Line in the Sand (PvE)
 //notes:Mercules904 (pretty good PvE) - "For PvE is really where I'm excited about this gun. [...] It will put out a decent amount of damage, and if LFRs as a whole ever get buffed would be top tier."
-dimwishlist:item=3310039832&perks=1840239774,1483536627,247725512,1771339417
-dimwishlist:item=3310039832&perks=839105230,1483536627,247725512,1771339417
-dimwishlist:item=3310039832&perks=4090651448,1483536627,247725512,1771339417
-dimwishlist:item=3310039832&perks=1840239774,1687452232,247725512,1771339417
-dimwishlist:item=3310039832&perks=839105230,1687452232,247725512,1771339417
-dimwishlist:item=3310039832&perks=4090651448,1687452232,247725512,1771339417
 
 // Line in the Sand (PvE)
 //notes:Mercules904 (pretty good PvE) - "For PvE is really where I'm excited about this gun. [...] It will put out a decent amount of damage, and if LFRs as a whole ever get buffed would be top tier."

@@ -5,15 +5,11 @@ description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments
 //notes:Mercules904 (must-have MKB) - "This is definitely my favorite primary in the game, and has been since Forsaken. The archetype by default has an incredibly easy to hit optimal TtK and it's super forgiving of missed crits, stat-wise it is flat out great, and the perk combinations on it are second to none."
 dimwishlist:item=2712244741&perks=1467527085,1561002382,1015611457,1168162263
 dimwishlist:item=2712244741&perks=3250034553,1561002382,1015611457,1168162263
-dimwishlist:item=2712244741&perks=1467527085,1561002382,1015611457,3124871000
-dimwishlist:item=2712244741&perks=3250034553,1561002382,1015611457,3124871000
 
 // Bygones (controller)
 //notes:Mercules904 (must-have controller) - "This is definitely my favorite primary in the game, and has been since Forsaken. The archetype by default has an incredibly easy to hit optimal TtK and it's super forgiving of missed crits, stat-wise it is flat out great, and the perk combinations on it are second to none."
 dimwishlist:item=2712244741&perks=1482024992,1885400500,1015611457,1168162263
 dimwishlist:item=2712244741&perks=3661387068,1885400500,1015611457,1168162263
-dimwishlist:item=2712244741&perks=1482024992,1885400500,1015611457,3124871000
-dimwishlist:item=2712244741&perks=3661387068,1885400500,1015611457,3124871000
 
 // Last Perdition (M/KB)
 //notes:Mercules904 (pretty good M/KB) - "[...] Last Perdition is basically Bygones but Void, with sights instead of barrels! [...] slightly better stability, and slightly worse range and recoil direction."
@@ -26,15 +22,6 @@ dimwishlist:item=188882152&perks=3151536503,4134353779,1168162263,1015611457
 dimwishlist:item=188882152&perks=3151536500,3230963543,1168162263,1015611457
 dimwishlist:item=188882152&perks=3151536501,3230963543,1168162263,1015611457
 dimwishlist:item=188882152&perks=3151536503,3230963543,1168162263,1015611457
-dimwishlist:item=188882152&perks=3151536500,3142289711,3124871000,1015611457
-dimwishlist:item=188882152&perks=3151536501,3142289711,3124871000,1015611457
-dimwishlist:item=188882152&perks=3151536503,3142289711,3124871000,1015611457
-dimwishlist:item=188882152&perks=3151536500,4134353779,3124871000,1015611457
-dimwishlist:item=188882152&perks=3151536501,4134353779,3124871000,1015611457
-dimwishlist:item=188882152&perks=3151536503,4134353779,3124871000,1015611457
-dimwishlist:item=188882152&perks=3151536500,3230963543,3124871000,1015611457
-dimwishlist:item=188882152&perks=3151536501,3230963543,3124871000,1015611457
-dimwishlist:item=188882152&perks=3151536503,3230963543,3124871000,1015611457
 
 // Last Perdition (controller)
 //notes:Mercules904 (pretty good controller) - "[...] Last Perdition is basically Bygones but Void, with sights instead of barrels! [...] slightly better stability, and slightly worse range and recoil direction."
@@ -44,12 +31,6 @@ dimwishlist:item=188882152&perks=3151536503,3177308360,1168162263,1015611457
 dimwishlist:item=188882152&perks=3151536500,106909392,1168162263,1015611457
 dimwishlist:item=188882152&perks=3151536501,106909392,1168162263,1015611457
 dimwishlist:item=188882152&perks=3151536503,106909392,1168162263,1015611457
-dimwishlist:item=188882152&perks=3151536500,3177308360,3124871000,1015611457
-dimwishlist:item=188882152&perks=3151536501,3177308360,3124871000,1015611457
-dimwishlist:item=188882152&perks=3151536503,3177308360,3124871000,1015611457
-dimwishlist:item=188882152&perks=3151536500,106909392,3124871000,1015611457
-dimwishlist:item=188882152&perks=3151536501,106909392,3124871000,1015611457
-dimwishlist:item=188882152&perks=3151536503,106909392,3124871000,1015611457
 
 // Black Scorpion-4sr (M/KB)
 //notes:Mercules904 (pretty good M/KB) - "Outside of Bygones, this is actually my favorite primary weapon."
