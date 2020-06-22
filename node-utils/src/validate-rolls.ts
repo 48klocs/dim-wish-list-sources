@@ -18,9 +18,7 @@ const placesToLookForValidPerks: (
     fs.readdirSync("../" + dirName).forEach(fileName => {
       verboseMain && console.log(`\nloading ${fileName}`);
       const rolls = toWishList(
-        fs.readFileSync("../" + dirName + "/" + fileName, {
-          encoding: "UTF-8"
-        })
+        fs.readFileSync("../" + dirName + "/" + fileName, 'utf-8')
       ).wishListRolls;
       const badIndexes = getInvalidWishlistRolls(rolls, verboseMain);
       const badRolls = badIndexes.filter(i => i !== false).length;
