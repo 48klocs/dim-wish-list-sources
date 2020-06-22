@@ -16,7 +16,7 @@ const placesToLookForValidPerks: (
 (async () => {
   let counter = 0;
   await manifest.load();
-  ["Mercules904", "PandaPaxxy", "" /*, "misc"*/].forEach(dirName => {
+  ["Mercules904", "PandaPaxxy" /*, "misc"*/].forEach(dirName => {
     fs.readdirSync("../" + dirName).forEach(async fileName => {
       if (!fileName.includes('.txt') || fileName.includes('-clean.txt')) {
         return;
