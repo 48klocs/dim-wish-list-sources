@@ -36,14 +36,13 @@ const placesToLookForValidPerks: (
     
       for await (const line of rl) {
         // Each line in input.txt will be successively available here as `line`.
-        console.log(`Line from file: ${line}`);
         if (line.includes('dimwishlist:')) {
             const dimWishListRoll = toDimWishListRoll(line);
             if (isValidWishListRoll(dimWishListRoll)) {
-                cleanFileStream.write('\n' + line);
+                cleanFileStream.write(line + '\n');
             }
         } else {
-            cleanFileStream.write('\n' + line);
+            cleanFileStream.write(line + '\n');
         }
       }
 
