@@ -16,13 +16,18 @@ const placesToLookForValidPerks: (
 (async () => {
   let counter = 0;
   await manifest.load();
-  ["Mercules904", "PandaPaxxy" /*, "misc"*/].forEach(dirName => {
+  ["Mercules904", "PandaPaxxy", "" /*, "misc"*/].forEach(dirName => {
     fs.readdirSync("../" + dirName).forEach(async fileName => {
+      if (!fileName.includes('.txt') || fileName.includes('-clean.txt')) {
+        return;
+      }
+
       verboseMain && console.log(`\nloading ${fileName}`);
 
-      const fileStream = fs.createReadStream("../" + dirName + "/" + fileName);
+      const sourceFileName = "../" + dirName + "/" + fileName;
+      const fileStream = fs.createReadStream(sourceFileName);
 
-      const cleanFileName = fileName.replace('.txt', '-clean.txt');
+      const cleanFileName = sourceFileName.replace('.txt', '-clean.txt');
       const cleanFileStream = fs.createWriteStream("../" + dirName + "/" + cleanFileName, {
           flags: 'a'
       });
@@ -46,7 +51,12 @@ const placesToLookForValidPerks: (
         }
       }
 
+      fileStream.destroy();
       cleanFileStream.end();
+
+      fs.rename(cleanFileName, sourceFileName, (err) => {
+        if (err) throw err;
+      });
 
     //   const rolls = toWishList(
     //     fs.readFileSync("../" + dirName + "/" + fileName, 'utf-8')
