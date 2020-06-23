@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "checkrolls": "tsc && node ./out/validate-rolls.js",
     "cleanrolls": "tsc && node ./out/clean-rolls.js"
@@ -11,7 +12,7 @@
   "license": "UNLICENSED",
   "devDependencies": {
     "@types/node": "^13.7.7",
-    "bungie-api-ts": "^2.4.0",
-    "destiny2-manifest": "^1.0.4"
+    "bungie-api-ts": "^4.2.0",
+    "destiny2-manifest": "^2.4.0"
   }
 }
