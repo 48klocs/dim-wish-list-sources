@@ -1,10 +1,9 @@
-import D2Manifest from "destiny2-manifest";
-import { WishListRoll } from "./lib/types";
+import d2manifest from "destiny2-manifest/node/index.js";
+import { WishListRoll } from "./lib/types.js";
 import fs from "fs";
-import { toWishList } from "./lib/wishlist-file";
+import { toWishList } from "./lib/wishlist-file.js";
 import { DestinyInventoryItemDefinition } from "bungie-api-ts/destiny2";
 
-const manifest = new D2Manifest("asdf");
 const verboseMain = true;
 const placesToLookForValidPerks: (
   | "randomizedPlugSetHash"
@@ -13,7 +12,7 @@ const placesToLookForValidPerks: (
 
 (async () => {
   let counter = 0;
-  await manifest.load();
+  await d2manifest.load();
   ["Mercules904", "PandaPaxxy" /*, "misc"*/].forEach(dirName => {
     fs.readdirSync("../" + dirName).forEach(fileName => {
       verboseMain && console.log(`\nloading ${fileName}`);
@@ -109,8 +108,8 @@ function isDummy(item: DestinyInventoryItemDefinition) {
   return item?.itemCategoryHashes?.includes(3109687656);
 }
 function getItem(hash: number) {
-  return manifest.get("DestinyInventoryItemDefinition", hash);
+  return d2manifest.get("DestinyInventoryItemDefinition", hash);
 }
 function getPlugSet(hash: number) {
-  return manifest.get("DestinyPlugSetDefinition", hash);
+  return d2manifest.get("DestinyPlugSetDefinition", hash);
 }

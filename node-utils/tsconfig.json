@@ -1,13 +1,13 @@
 {
   "compilerOptions": {
-    "target": "es2018",
+    "target": "ES2020",
     "lib": [
       "ES2018"
     ],
     "esModuleInterop": true,
     "allowSyntheticDefaultImports": true,
     "strict": true,
-    "module": "commonjs",
+    "module": "ES2020",
     "moduleResolution": "node",
     "resolveJsonModule": true,
     "isolatedModules": true,
