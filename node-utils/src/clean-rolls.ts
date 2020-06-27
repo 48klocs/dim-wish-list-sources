@@ -59,16 +59,6 @@ const placesToLookForValidPerks: (
       fs.rename(cleanFileName, sourceFileName, (err) => {
         if (err) throw err;
       });
-
-      //   const rolls = toWishList(
-      //     fs.readFileSync("../" + dirName + "/" + fileName, 'utf-8')
-      //   ).wishListRolls;
-      //   const badIndexes = getInvalidWishlistRolls(rolls, verboseMain);
-      //   const badRolls = badIndexes.filter(i => i !== false).length;
-      //   verboseMain &&
-      //     console.log(`ran ${badIndexes.length} rolls -- ${badRolls} bad rolls`);
-      //   counter += badRolls;
-      //   verboseMain && console.log(`bad wishlist lines so far: ${counter}`);
     });
   });
 })();
