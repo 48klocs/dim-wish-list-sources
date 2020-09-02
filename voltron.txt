@@ -1,5 +1,5 @@
 title:This is a compiled collection of god/recommended rolls from top community minds.
-description:Thanks to u/Mercules904, u/pandapaxxy, u/HavocsCall, and @chrisfried for their contributions. Ping u/48klocs / @48klocs with any issues.
+description:Thanks to u/Mercules904, u/pandapaxxy, and @chrisfried for their contributions. Ping u/48klocs / @48klocs with any issues.
 
 title:u/Mercules904's Massive Breakdown of the (Season of Arrivals) Iron Banner Auto Rifle and Sidearm
 description:Originally found at https://www.reddit.com/r/DestinyTheGame/comments/hjcfew/massive_breakdown_of_the_iron_banner_auto_rifle/
