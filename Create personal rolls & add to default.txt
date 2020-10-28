@@ -1,0 +1,28 @@
+Making Custom Rolls
+1. The default DIM WL is voltron &/or choosy voltron. 
+		- (choosy has Thumbs-Down "Bad" Rolls added for fun, but is otherwise is the same so use that)
+2. To make your own, make a text file & add the url of the weapon perk. 
+		- Make then Copy URL from trackingnetwork.com->D2->Database->Weapons-><Select and customize weapon>
+3. You can then add as many variations on that weapon as you want. 
+		- Just paste all the URLs on separate lines.
+4. You've saved PvP & PvE Rolls separately.
+		- Use "//" followed by the notes to add text explantions or whatever in DIM.
+5. You can upload them through DIM now... But DIM will overwrite the default lists with yours. 
+		- This loses the more than 22k rolls already made. Including weapons & Armour.
+		
+How to add My Personal Rolls to the Default Database
+How to Keep it Backed up AND Up to Date with the Original
+6. The default is hosted on Github here: https://github.com/48klocs/dim-wish-list-sources
+7. Using Github Desktop Manager:
+		- Cloned into folder ../Dropbox/Tools/Gaming/Destiny Item Manager/dim-wish-list-sources
+8. In order to backup my own changes I made a fork of the original that I can push and pull from.
+		- In GDM in Bottom-Left click prompt to fork next to "commit to master" button
+		- With fork made, click dropdown "current branch" and select "master", then leave and hit "Fetch origin" button on right.
+		- Drop down previous and there should be a second "upstream" branch.
+9. To pull changes from the upstream:
+		- Drop down current branch->select "choose a branch to merge with master"-> select upstream option.
+10. Remember to push changes to your own fork whenever you make them to keep them safe and the origin up to date
+11. Note that all the Rolls from the Mercule & Panda files are already added to the voltrons
+12. Now make your own by copying choosy then pasting your adds to the bottom.
+
+		
