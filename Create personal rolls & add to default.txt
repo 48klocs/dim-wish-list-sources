@@ -1,4 +1,5 @@
-Making Custom Rolls
+**MAKING CUSTOM ROLLS:**
+
 1. The default DIM WL is voltron &/or choosy voltron. 
 		- (choosy has Thumbs-Down "Bad" Rolls added for fun, but is otherwise is the same so use that)
 2. To make your own, make a text file & add the url of the weapon perk. 
@@ -10,7 +11,9 @@ Making Custom Rolls
 5. You can upload them through DIM now... But DIM will overwrite the default lists with yours. 
 		- This loses the more than 22k rolls already made. Including weapons & Armour.
 		
-How to add My Personal Rolls to the Default Database
+		
+**HOW TO ADD MY PERSONAL ROLLS TO THE DEFAULT DATABASE:**
+
 How to Keep it Backed up AND Up to Date with the Original
 6. The default is hosted on Github here: https://github.com/48klocs/dim-wish-list-sources
 7. Using Github Desktop Manager:
@@ -29,5 +32,25 @@ How to Keep it Backed up AND Up to Date with the Original
 		- Paste/Replace Wishlist Source URL on DIM.
 		- Update Wish List Source.
 14. Done!
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+**NOTES ON FORMATTING AND PROCESS:**
+
+Notes:
+	If you want to add searchable notes, end the line with #notes:Here are some notes.
+
+
+Block Notes: 
+	-> //notes:"text"|tags:pvp or pve
+	You can add notes to a block of rolls. To open block notes, enter a line that looks like //notes:These are notes 
+	that will apply to everything that immediately follows. The notes (everything after the colon) will apply to 
+	everything that follows them. The first line that isn't recognized as a valid item (or a new block note) closes 
+	the block notes. If block notes are open and an individual item has notes on it, the item's notes will be used 
+	instead of the block notes.
+	
+
+	
+
 
 		
