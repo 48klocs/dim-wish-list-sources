@@ -24,5 +24,10 @@ How to Keep it Backed up AND Up to Date with the Original
 10. Remember to push changes to your own fork whenever you make them to keep them safe and the origin up to date
 11. Note that all the Rolls from the Mercule & Panda files are already added to the voltrons
 12. Now make your own by copying choosy then pasting your adds to the bottom.
+13. Commit & push to fork. 
+		- Find+Copy Custom List Github URL (Raw Form).
+		- Paste/Replace Wishlist Source URL on DIM.
+		- Update Wish List Source.
+14. Done!
 
 		
