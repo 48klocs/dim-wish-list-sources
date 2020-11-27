@@ -12,7 +12,10 @@
   "license": "UNLICENSED",
   "devDependencies": {
     "@types/node": "^13.7.7",
-    "bungie-api-ts": "^4.2.0",
-    "destiny2-manifest": "^2.4.0"
+    "bungie-api-ts": "^4.2.0"
+  },
+  "dependencies": {
+    "@d2api/manifest": "^1.0.1",
+    "cross-fetch": "^3.0.6"
   }
 }

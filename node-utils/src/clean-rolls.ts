@@ -1,4 +1,4 @@
-import d2manifest from "destiny2-manifest/node/index.js";
+import d2manifest from "@d2api/manifest";
 import { WishListRoll } from "./lib/types.js";
 import { toDimWishListRoll } from "./lib/wishlist-file.js";
 import fs from "fs";
@@ -83,7 +83,7 @@ function isValidWishListRoll(roll: WishListRoll | null, verbose = false) {
     return false;
   }
 
-  const perksThisGunCanActuallyHave = (rollItem.sockets.socketEntries
+  const perksThisGunCanActuallyHave = (rollItem.sockets?.socketEntries
     .reduce((acc, se) => {
       const hashesInPlugsets = placesToLookForValidPerks.reduce(
         (inneracc, key) =>
