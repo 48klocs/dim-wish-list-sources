@@ -1,4 +1,4 @@
-import d2manifest from "destiny2-manifest/node/index.js";
+import d2manifest from "@d2api/manifest";
 import { WishListRoll } from "./lib/types.js";
 import fs from "fs";
 import { toWishList } from "./lib/wishlist-file.js";
@@ -13,7 +13,7 @@ const placesToLookForValidPerks: (
 (async () => {
   let counter = 0;
   await d2manifest.load();
-  ["Mercules904", "PandaPaxxy" /*, "misc"*/].forEach(dirName => {
+  ["Mercules904", "PandaPaxxy", "AyyItsChevy" /*, "misc"*/].forEach(dirName => {
     fs.readdirSync("../" + dirName).forEach(fileName => {
       verboseMain && console.log(`\nloading ${fileName}`);
       const rolls = toWishList(
@@ -53,7 +53,7 @@ function getInvalidWishlistRolls(rolls: WishListRoll[], verbose = false) {
       return;
     }
 
-    const perksThisGunCanActuallyHave = (rollItem.sockets.socketEntries
+    const perksThisGunCanActuallyHave = (rollItem.sockets?.socketEntries
       .reduce((acc, se) => {
         const hashesInPlugsets = placesToLookForValidPerks.reduce(
           (inneracc, key) =>
