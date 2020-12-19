@@ -1,5 +1,1391 @@
 title:This is a compiled collection of god/recommended rolls from top community minds.
-description:Thanks to u/Mercules904, u/pandapaxxy, and @chrisfried for their contributions. Ping u/48klocs / @48klocs with any issues.
+description:Thanks to u/Mercules904, u/pandapaxxy, @AyyItsChevy, and @chrisfried for their contributions. Ping u/48klocs / @48klocs with any issues.
+
+title:@AyyItsChevy's Super Pog PvE Loot List
+
+dimwishlist:item=3037520408&perks=1840239774,1087426260,4071163871,2213355989#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload
+dimwishlist:item=3037520408&perks=1482024992,1087426260,4071163871,2213355989#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload
+dimwishlist:item=3037520408&perks=1840239774,106909392,4071163871,2213355989#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload
+dimwishlist:item=3037520408&perks=1482024992,106909392,4071163871,2213355989#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload
+dimwishlist:item=3037520408&perks=1840239774,1087426260,2010801679,2213355989#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload
+dimwishlist:item=3037520408&perks=1482024992,1087426260,2010801679,2213355989#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload
+dimwishlist:item=3037520408&perks=1840239774,106909392,2010801679,2213355989#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload
+dimwishlist:item=3037520408&perks=1482024992,106909392,2010801679,2213355989#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload
+dimwishlist:item=3037520408&perks=1840239774,1087426260,1354429876,2213355989#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload
+dimwishlist:item=3037520408&perks=1482024992,1087426260,1354429876,2213355989#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload
+dimwishlist:item=3037520408&perks=1840239774,106909392,1354429876,2213355989#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload
+dimwishlist:item=3037520408&perks=1482024992,106909392,1354429876,2213355989#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload
+dimwishlist:item=3037520408&perks=1840239774,1087426260,4071163871,2458213969#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload
+dimwishlist:item=3037520408&perks=1482024992,1087426260,4071163871,2458213969#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload
+dimwishlist:item=3037520408&perks=1840239774,106909392,4071163871,2458213969#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload
+dimwishlist:item=3037520408&perks=1482024992,106909392,4071163871,2458213969#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload
+dimwishlist:item=3037520408&perks=1840239774,1087426260,2010801679,2458213969#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload
+dimwishlist:item=3037520408&perks=1482024992,1087426260,2010801679,2458213969#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload
+dimwishlist:item=3037520408&perks=1840239774,106909392,2010801679,2458213969#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload
+dimwishlist:item=3037520408&perks=1482024992,106909392,2010801679,2458213969#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload
+dimwishlist:item=3037520408&perks=1840239774,1087426260,1354429876,2458213969#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload
+dimwishlist:item=3037520408&perks=1482024992,1087426260,1354429876,2458213969#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload
+dimwishlist:item=3037520408&perks=1840239774,106909392,1354429876,2458213969#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload
+dimwishlist:item=3037520408&perks=1482024992,106909392,1354429876,2458213969#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload
+
+
+
+dimwishlist:item=1561006927&perks=1467527085,1561002382,1354429876,4082225868#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload
+dimwishlist:item=1561006927&perks=839105230,1561002382,1354429876,4082225868#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload
+dimwishlist:item=1561006927&perks=1467527085,1968497646,1354429876,4082225868#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload
+dimwishlist:item=1561006927&perks=839105230,1968497646,1354429876,4082225868#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload
+dimwishlist:item=1561006927&perks=1467527085,1087426260,1354429876,4082225868#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload
+dimwishlist:item=1561006927&perks=839105230,1087426260,1354429876,4082225868#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload
+dimwishlist:item=1561006927&perks=1467527085,1561002382,3300816228,4082225868#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload
+dimwishlist:item=1561006927&perks=839105230,1561002382,3300816228,4082225868#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload
+dimwishlist:item=1561006927&perks=1467527085,1968497646,3300816228,4082225868#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload
+dimwishlist:item=1561006927&perks=839105230,1968497646,3300816228,4082225868#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload
+dimwishlist:item=1561006927&perks=1467527085,1087426260,3300816228,4082225868#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload
+dimwishlist:item=1561006927&perks=839105230,1087426260,3300816228,4082225868#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload
+dimwishlist:item=1561006927&perks=1467527085,1561002382,1354429876,3425386926#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload
+dimwishlist:item=1561006927&perks=839105230,1561002382,1354429876,3425386926#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload
+dimwishlist:item=1561006927&perks=1467527085,1968497646,1354429876,3425386926#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload
+dimwishlist:item=1561006927&perks=839105230,1968497646,1354429876,3425386926#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload
+dimwishlist:item=1561006927&perks=1467527085,1087426260,1354429876,3425386926#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload
+dimwishlist:item=1561006927&perks=839105230,1087426260,1354429876,3425386926#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload
+dimwishlist:item=1561006927&perks=1467527085,1561002382,3300816228,3425386926#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload
+dimwishlist:item=1561006927&perks=839105230,1561002382,3300816228,3425386926#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload
+dimwishlist:item=1561006927&perks=1467527085,1968497646,3300816228,3425386926#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload
+dimwishlist:item=1561006927&perks=839105230,1968497646,3300816228,3425386926#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload
+dimwishlist:item=1561006927&perks=1467527085,1087426260,3300816228,3425386926#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload
+dimwishlist:item=1561006927&perks=839105230,1087426260,3300816228,3425386926#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload
+
+
+
+dimwishlist:item=766323545&perks=1840239774,106909392,1354429876,2848615171#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling/Reload
+dimwishlist:item=766323545&perks=1482024992,106909392,1354429876,2848615171#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling/Reload
+dimwishlist:item=766323545&perks=1392496348,106909392,1354429876,2848615171#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling/Reload
+dimwishlist:item=766323545&perks=1840239774,1087426260,1354429876,2848615171#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling/Reload
+dimwishlist:item=766323545&perks=1482024992,1087426260,1354429876,2848615171#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling/Reload
+dimwishlist:item=766323545&perks=1392496348,1087426260,1354429876,2848615171#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling/Reload
+dimwishlist:item=766323545&perks=1840239774,106909392,2010801679,2848615171#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling/Reload
+dimwishlist:item=766323545&perks=1482024992,106909392,2010801679,2848615171#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling/Reload
+dimwishlist:item=766323545&perks=1392496348,106909392,2010801679,2848615171#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling/Reload
+dimwishlist:item=766323545&perks=1840239774,1087426260,2010801679,2848615171#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling/Reload
+dimwishlist:item=766323545&perks=1482024992,1087426260,2010801679,2848615171#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling/Reload
+dimwishlist:item=766323545&perks=1392496348,1087426260,2010801679,2848615171#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling/Reload
+dimwishlist:item=766323545&perks=1840239774,106909392,1354429876,2779035018#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling/Reload
+dimwishlist:item=766323545&perks=1482024992,106909392,1354429876,2779035018#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling/Reload
+dimwishlist:item=766323545&perks=1392496348,106909392,1354429876,2779035018#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling/Reload
+dimwishlist:item=766323545&perks=1840239774,1087426260,1354429876,2779035018#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling/Reload
+dimwishlist:item=766323545&perks=1482024992,1087426260,1354429876,2779035018#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling/Reload
+dimwishlist:item=766323545&perks=1392496348,1087426260,1354429876,2779035018#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling/Reload
+dimwishlist:item=766323545&perks=1840239774,106909392,2010801679,2779035018#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling/Reload
+dimwishlist:item=766323545&perks=1482024992,106909392,2010801679,2779035018#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling/Reload
+dimwishlist:item=766323545&perks=1392496348,106909392,2010801679,2779035018#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling/Reload
+dimwishlist:item=766323545&perks=1840239774,1087426260,2010801679,2779035018#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling/Reload
+dimwishlist:item=766323545&perks=1482024992,1087426260,2010801679,2779035018#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling/Reload
+dimwishlist:item=766323545&perks=1392496348,1087426260,2010801679,2779035018#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling/Reload
+
+
+
+dimwishlist:item=3937866388&perks=1840239774,106909392,3523296417,2848615171#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload/Handing
+dimwishlist:item=3937866388&perks=839105230,106909392,3523296417,2848615171#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload/Handing
+dimwishlist:item=3937866388&perks=1840239774,1087426260,3523296417,2848615171#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload/Handing
+dimwishlist:item=3937866388&perks=839105230,1087426260,3523296417,2848615171#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload/Handing
+dimwishlist:item=3937866388&perks=1840239774,106909392,4071163871,2848615171#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload/Handing
+dimwishlist:item=3937866388&perks=839105230,106909392,4071163871,2848615171#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload/Handing
+dimwishlist:item=3937866388&perks=1840239774,1087426260,4071163871,2848615171#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload/Handing
+dimwishlist:item=3937866388&perks=839105230,1087426260,4071163871,2848615171#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload/Handing
+dimwishlist:item=3937866388&perks=1840239774,106909392,3300816228,2848615171#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload/Handing
+dimwishlist:item=3937866388&perks=839105230,106909392,3300816228,2848615171#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload/Handing
+dimwishlist:item=3937866388&perks=1840239774,1087426260,3300816228,2848615171#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload/Handing
+dimwishlist:item=3937866388&perks=839105230,1087426260,3300816228,2848615171#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload/Handing
+dimwishlist:item=3937866388&perks=1840239774,106909392,3523296417,3708227201#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload/Handing
+dimwishlist:item=3937866388&perks=839105230,106909392,3523296417,3708227201#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload/Handing
+dimwishlist:item=3937866388&perks=1840239774,1087426260,3523296417,3708227201#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload/Handing
+dimwishlist:item=3937866388&perks=839105230,1087426260,3523296417,3708227201#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload/Handing
+dimwishlist:item=3937866388&perks=1840239774,106909392,4071163871,3708227201#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload/Handing
+dimwishlist:item=3937866388&perks=839105230,106909392,4071163871,3708227201#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload/Handing
+dimwishlist:item=3937866388&perks=1840239774,1087426260,4071163871,3708227201#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload/Handing
+dimwishlist:item=3937866388&perks=839105230,1087426260,4071163871,3708227201#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload/Handing
+dimwishlist:item=3937866388&perks=1840239774,106909392,3300816228,3708227201#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload/Handing
+dimwishlist:item=3937866388&perks=839105230,106909392,3300816228,3708227201#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload/Handing
+dimwishlist:item=3937866388&perks=1840239774,1087426260,3300816228,3708227201#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload/Handing
+dimwishlist:item=3937866388&perks=839105230,1087426260,3300816228,3708227201#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload/Handing
+
+
+
+dimwishlist:item=1821724780&perks=1482024992,791862061,3161816588,1546637391#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling
+dimwishlist:item=1821724780&perks=4090651448,791862061,3161816588,1546637391#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling
+dimwishlist:item=1821724780&perks=1482024992,106909392,3161816588,1546637391#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling
+dimwishlist:item=1821724780&perks=4090651448,106909392,3161816588,1546637391#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling
+dimwishlist:item=1821724780&perks=1482024992,791862061,3300816228,1546637391#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling
+dimwishlist:item=1821724780&perks=4090651448,791862061,3300816228,1546637391#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling
+dimwishlist:item=1821724780&perks=1482024992,106909392,3300816228,1546637391#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling
+dimwishlist:item=1821724780&perks=4090651448,106909392,3300816228,1546637391#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling
+dimwishlist:item=1821724780&perks=1482024992,791862061,3161816588,2360754333#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling
+dimwishlist:item=1821724780&perks=4090651448,791862061,3161816588,2360754333#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling
+dimwishlist:item=1821724780&perks=1482024992,106909392,3161816588,2360754333#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling
+dimwishlist:item=1821724780&perks=4090651448,106909392,3161816588,2360754333#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling
+dimwishlist:item=1821724780&perks=1482024992,791862061,3300816228,2360754333#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling
+dimwishlist:item=1821724780&perks=4090651448,791862061,3300816228,2360754333#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling
+dimwishlist:item=1821724780&perks=1482024992,106909392,3300816228,2360754333#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling
+dimwishlist:item=1821724780&perks=4090651448,106909392,3300816228,2360754333#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling
+
+
+
+dimwishlist:item=2582755344&perks=839105230,1087426260,2284787283,1546637391#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling
+dimwishlist:item=2582755344&perks=1840239774,1087426260,2284787283,1546637391#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling
+dimwishlist:item=2582755344&perks=839105230,1561002382,2284787283,1546637391#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling
+dimwishlist:item=2582755344&perks=1840239774,1561002382,2284787283,1546637391#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling
+dimwishlist:item=2582755344&perks=839105230,1968497646,2284787283,1546637391#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling
+dimwishlist:item=2582755344&perks=1840239774,1968497646,2284787283,1546637391#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling
+dimwishlist:item=2582755344&perks=839105230,1087426260,3300816228,1546637391#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling
+dimwishlist:item=2582755344&perks=1840239774,1087426260,3300816228,1546637391#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling
+dimwishlist:item=2582755344&perks=839105230,1561002382,3300816228,1546637391#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling
+dimwishlist:item=2582755344&perks=1840239774,1561002382,3300816228,1546637391#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling
+dimwishlist:item=2582755344&perks=839105230,1968497646,3300816228,1546637391#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling
+dimwishlist:item=2582755344&perks=1840239774,1968497646,3300816228,1546637391#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling
+dimwishlist:item=2582755344&perks=839105230,1087426260,2284787283,1771339417#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling
+dimwishlist:item=2582755344&perks=1840239774,1087426260,2284787283,1771339417#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling
+dimwishlist:item=2582755344&perks=839105230,1561002382,2284787283,1771339417#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling
+dimwishlist:item=2582755344&perks=1840239774,1561002382,2284787283,1771339417#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling
+dimwishlist:item=2582755344&perks=839105230,1968497646,2284787283,1771339417#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling
+dimwishlist:item=2582755344&perks=1840239774,1968497646,2284787283,1771339417#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling
+dimwishlist:item=2582755344&perks=839105230,1087426260,3300816228,1771339417#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling
+dimwishlist:item=2582755344&perks=1840239774,1087426260,3300816228,1771339417#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling
+dimwishlist:item=2582755344&perks=839105230,1561002382,3300816228,1771339417#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling
+dimwishlist:item=2582755344&perks=1840239774,1561002382,3300816228,1771339417#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling
+dimwishlist:item=2582755344&perks=839105230,1968497646,3300816228,1771339417#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling
+dimwishlist:item=2582755344&perks=1840239774,1968497646,3300816228,1771339417#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling
+
+
+
+dimwishlist:item=3143732432&perks=1840239774,1561002382,3643424744,3425386926#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Handling
+dimwishlist:item=3143732432&perks=1392496348,1561002382,3643424744,3425386926#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Handling
+dimwishlist:item=3143732432&perks=1840239774,1561002382,2779035018,3425386926#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Handling
+dimwishlist:item=3143732432&perks=1392496348,1561002382,2779035018,3425386926#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Handling
+dimwishlist:item=3143732432&perks=1840239774,1561002382,3643424744,4082225868#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Handling
+dimwishlist:item=3143732432&perks=1392496348,1561002382,3643424744,4082225868#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Handling
+dimwishlist:item=3143732432&perks=1840239774,1561002382,2779035018,4082225868#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Handling
+dimwishlist:item=3143732432&perks=1392496348,1561002382,2779035018,4082225868#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Handling
+
+
+
+dimwishlist:item=1216130969&perks=1840239774,1885400500,2779035018,4082225868#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Handling
+dimwishlist:item=1216130969&perks=1482024992,1885400500,2779035018,4082225868#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Handling
+dimwishlist:item=1216130969&perks=1840239774,679225683,2779035018,4082225868#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Handling
+dimwishlist:item=1216130969&perks=1482024992,679225683,2779035018,4082225868#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Handling
+dimwishlist:item=1216130969&perks=1840239774,1561002382,2779035018,4082225868#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Handling
+dimwishlist:item=1216130969&perks=1482024992,1561002382,2779035018,4082225868#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Handling
+dimwishlist:item=1216130969&perks=1840239774,1885400500,2779035018,2458213969#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Handling
+dimwishlist:item=1216130969&perks=1482024992,1885400500,2779035018,2458213969#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Handling
+dimwishlist:item=1216130969&perks=1840239774,679225683,2779035018,2458213969#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Handling
+dimwishlist:item=1216130969&perks=1482024992,679225683,2779035018,2458213969#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Handling
+dimwishlist:item=1216130969&perks=1840239774,1561002382,2779035018,2458213969#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Handling
+dimwishlist:item=1216130969&perks=1482024992,1561002382,2779035018,2458213969#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Handling
+
+
+
+dimwishlist:item=2742838701&perks=1926090094,1561002382,3643424744,4082225868#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Handling
+dimwishlist:item=2742838701&perks=1926090092,1561002382,3643424744,4082225868#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Handling
+dimwishlist:item=2742838701&perks=1926090094,1087426260,3643424744,4082225868#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Handling
+dimwishlist:item=2742838701&perks=1926090092,1087426260,3643424744,4082225868#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Handling
+
+
+
+dimwishlist:item=2742838700&perks=1926090094,106909392,3643424744,3523296417#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling/Reload
+dimwishlist:item=2742838700&perks=1926090092,106909392,3643424744,3523296417#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling/Reload
+dimwishlist:item=2742838700&perks=1926090094,1087426260,3643424744,3523296417#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling/Reload
+dimwishlist:item=2742838700&perks=1926090092,1087426260,3643424744,3523296417#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling/Reload
+dimwishlist:item=2742838700&perks=1926090094,106909392,2869569095,3523296417#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling/Reload
+dimwishlist:item=2742838700&perks=1926090092,106909392,2869569095,3523296417#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling/Reload
+dimwishlist:item=2742838700&perks=1926090094,1087426260,2869569095,3523296417#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling/Reload
+dimwishlist:item=2742838700&perks=1926090092,1087426260,2869569095,3523296417#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling/Reload
+dimwishlist:item=2742838700&perks=1926090094,106909392,3643424744,3425386926#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling/Reload
+dimwishlist:item=2742838700&perks=1926090092,106909392,3643424744,3425386926#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling/Reload
+dimwishlist:item=2742838700&perks=1926090094,1087426260,3643424744,3425386926#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling/Reload
+dimwishlist:item=2742838700&perks=1926090092,1087426260,3643424744,3425386926#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling/Reload
+dimwishlist:item=2742838700&perks=1926090094,106909392,2869569095,3425386926#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling/Reload
+dimwishlist:item=2742838700&perks=1926090092,106909392,2869569095,3425386926#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling/Reload
+dimwishlist:item=2742838700&perks=1926090094,1087426260,2869569095,3425386926#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling/Reload
+dimwishlist:item=2742838700&perks=1926090092,1087426260,2869569095,3425386926#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling/Reload
+
+
+
+dimwishlist:item=1786797708&perks=106909392,3643424744,3708227201#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling/Reload
+dimwishlist:item=1786797708&perks=1087426260,3643424744,3708227201#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling/Reload
+dimwishlist:item=1786797708&perks=106909392,4071163871,3708227201#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling/Reload
+dimwishlist:item=1786797708&perks=1087426260,4071163871,3708227201#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling/Reload
+
+
+
+dimwishlist:item=3745990145&perks=893526895,1087426260,2869569095,3400784728#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling /Reload
+dimwishlist:item=3745990145&perks=893526895,2420895100,2869569095,3400784728#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling /Reload
+dimwishlist:item=3745990145&perks=893526895,1087426260,247725512,3400784728#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling /Reload
+dimwishlist:item=3745990145&perks=893526895,2420895100,247725512,3400784728#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling /Reload
+
+
+
+dimwishlist:item=3622137132&perks=445755707,1561002382,2779035018,2458213969#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Reload
+dimwishlist:item=3622137132&perks=445755706,1561002382,2779035018,2458213969#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Reload
+dimwishlist:item=3622137132&perks=445755707,1885400500,2779035018,2458213969#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Reload
+dimwishlist:item=3622137132&perks=445755706,1885400500,2779035018,2458213969#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Reload
+dimwishlist:item=3622137132&perks=445755707,1561002382,2779035018,2848615171#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Reload
+dimwishlist:item=3622137132&perks=445755706,1561002382,2779035018,2848615171#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Reload
+dimwishlist:item=3622137132&perks=445755707,1885400500,2779035018,2848615171#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Reload
+dimwishlist:item=3622137132&perks=445755706,1885400500,2779035018,2848615171#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Reload
+dimwishlist:item=3622137132&perks=445755707,1561002382,2779035018,3425386926#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Reload
+dimwishlist:item=3622137132&perks=445755706,1561002382,2779035018,3425386926#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Reload
+dimwishlist:item=3622137132&perks=445755707,1885400500,2779035018,3425386926#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Reload
+dimwishlist:item=3622137132&perks=445755706,1885400500,2779035018,3425386926#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Reload
+
+
+
+dimwishlist:item=821154603&perks=1840239774,106909392,1820235745,3523296417#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Handling
+dimwishlist:item=821154603&perks=4090651448,106909392,1820235745,3523296417#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Handling
+dimwishlist:item=821154603&perks=1840239774,1087426260,1820235745,3523296417#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Handling
+dimwishlist:item=821154603&perks=4090651448,1087426260,1820235745,3523296417#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Handling
+dimwishlist:item=821154603&perks=1840239774,106909392,2869569095,3523296417#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Handling
+dimwishlist:item=821154603&perks=4090651448,106909392,2869569095,3523296417#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Handling
+dimwishlist:item=821154603&perks=1840239774,1087426260,2869569095,3523296417#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Handling
+dimwishlist:item=821154603&perks=4090651448,1087426260,2869569095,3523296417#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Handling
+dimwishlist:item=821154603&perks=1840239774,106909392,3300816228,3523296417#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Handling
+dimwishlist:item=821154603&perks=4090651448,106909392,3300816228,3523296417#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Handling
+dimwishlist:item=821154603&perks=1840239774,1087426260,3300816228,3523296417#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Handling
+dimwishlist:item=821154603&perks=4090651448,1087426260,3300816228,3523296417#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Handling
+dimwishlist:item=821154603&perks=1840239774,106909392,1820235745,3425386926#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Handling
+dimwishlist:item=821154603&perks=4090651448,106909392,1820235745,3425386926#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Handling
+dimwishlist:item=821154603&perks=1840239774,1087426260,1820235745,3425386926#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Handling
+dimwishlist:item=821154603&perks=4090651448,1087426260,1820235745,3425386926#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Handling
+dimwishlist:item=821154603&perks=1840239774,106909392,2869569095,3425386926#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Handling
+dimwishlist:item=821154603&perks=4090651448,106909392,2869569095,3425386926#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Handling
+dimwishlist:item=821154603&perks=1840239774,1087426260,2869569095,3425386926#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Handling
+dimwishlist:item=821154603&perks=4090651448,1087426260,2869569095,3425386926#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Handling
+dimwishlist:item=821154603&perks=1840239774,106909392,3300816228,3425386926#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Handling
+dimwishlist:item=821154603&perks=4090651448,106909392,3300816228,3425386926#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Handling
+dimwishlist:item=821154603&perks=1840239774,1087426260,3300816228,3425386926#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Handling
+dimwishlist:item=821154603&perks=4090651448,1087426260,3300816228,3425386926#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Handling
+dimwishlist:item=821154603&perks=1840239774,106909392,1820235745,2458213969#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Handling
+dimwishlist:item=821154603&perks=4090651448,106909392,1820235745,2458213969#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Handling
+dimwishlist:item=821154603&perks=1840239774,1087426260,1820235745,2458213969#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Handling
+dimwishlist:item=821154603&perks=4090651448,1087426260,1820235745,2458213969#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Handling
+dimwishlist:item=821154603&perks=1840239774,106909392,2869569095,2458213969#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Handling
+dimwishlist:item=821154603&perks=4090651448,106909392,2869569095,2458213969#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Handling
+dimwishlist:item=821154603&perks=1840239774,1087426260,2869569095,2458213969#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Handling
+dimwishlist:item=821154603&perks=4090651448,1087426260,2869569095,2458213969#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Handling
+dimwishlist:item=821154603&perks=1840239774,106909392,3300816228,2458213969#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Handling
+dimwishlist:item=821154603&perks=4090651448,106909392,3300816228,2458213969#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Handling
+dimwishlist:item=821154603&perks=1840239774,1087426260,3300816228,2458213969#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Handling
+dimwishlist:item=821154603&perks=4090651448,1087426260,3300816228,2458213969#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Handling
+dimwishlist:item=821154603&perks=1840239774,106909392,1820235745,4082225868#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Handling
+dimwishlist:item=821154603&perks=4090651448,106909392,1820235745,4082225868#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Handling
+dimwishlist:item=821154603&perks=1840239774,1087426260,1820235745,4082225868#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Handling
+dimwishlist:item=821154603&perks=4090651448,1087426260,1820235745,4082225868#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Handling
+dimwishlist:item=821154603&perks=1840239774,106909392,2869569095,4082225868#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Handling
+dimwishlist:item=821154603&perks=4090651448,106909392,2869569095,4082225868#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Handling
+dimwishlist:item=821154603&perks=1840239774,1087426260,2869569095,4082225868#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Handling
+dimwishlist:item=821154603&perks=4090651448,1087426260,2869569095,4082225868#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Handling
+dimwishlist:item=821154603&perks=1840239774,106909392,3300816228,4082225868#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Handling
+dimwishlist:item=821154603&perks=4090651448,106909392,3300816228,4082225868#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Handling
+dimwishlist:item=821154603&perks=1840239774,1087426260,3300816228,4082225868#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Handling
+dimwishlist:item=821154603&perks=4090651448,1087426260,3300816228,4082225868#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range/Handling
+
+
+
+dimwishlist:item=2222560548&perks=1392496348,106909392,4071163871,3708227201#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range
+dimwishlist:item=2222560548&perks=202670084,106909392,4071163871,3708227201#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range
+dimwishlist:item=2222560548&perks=1392496348,1140096971,4071163871,3708227201#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range
+dimwishlist:item=2222560548&perks=202670084,1140096971,4071163871,3708227201#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range
+dimwishlist:item=2222560548&perks=1392496348,106909392,4071163871,3523296417#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range
+dimwishlist:item=2222560548&perks=202670084,106909392,4071163871,3523296417#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range
+dimwishlist:item=2222560548&perks=1392496348,1140096971,4071163871,3523296417#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range
+dimwishlist:item=2222560548&perks=202670084,1140096971,4071163871,3523296417#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range
+dimwishlist:item=2222560548&perks=1392496348,106909392,4071163871,1683379515#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range
+dimwishlist:item=2222560548&perks=202670084,106909392,4071163871,1683379515#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range
+dimwishlist:item=2222560548&perks=1392496348,1140096971,4071163871,1683379515#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range
+dimwishlist:item=2222560548&perks=202670084,1140096971,4071163871,1683379515#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Range
+
+
+
+dimwishlist:item=1253087083&perks=1840239774,106909392,1354429876,2213355989#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling
+dimwishlist:item=1253087083&perks=1840239774,106909392,3400784728,2213355989#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling
+
+
+
+dimwishlist:item=1946491241&perks=1441682018,3032599245,3300816228,3523296417#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+dimwishlist:item=1946491241&perks=3525010810,3032599245,3300816228,3523296417#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+dimwishlist:item=1946491241&perks=1441682018,3301904089,3300816228,3523296417#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+dimwishlist:item=1946491241&perks=3525010810,3301904089,3300816228,3523296417#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+dimwishlist:item=1946491241&perks=1441682018,3032599245,2869569095,3523296417#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+dimwishlist:item=1946491241&perks=3525010810,3032599245,2869569095,3523296417#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+dimwishlist:item=1946491241&perks=1441682018,3301904089,2869569095,3523296417#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+dimwishlist:item=1946491241&perks=3525010810,3301904089,2869569095,3523296417#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+dimwishlist:item=1946491241&perks=1441682018,3032599245,2779035018,3523296417#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+dimwishlist:item=1946491241&perks=3525010810,3032599245,2779035018,3523296417#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+dimwishlist:item=1946491241&perks=1441682018,3301904089,2779035018,3523296417#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+dimwishlist:item=1946491241&perks=3525010810,3301904089,2779035018,3523296417#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+dimwishlist:item=1946491241&perks=1441682018,3032599245,3300816228,1683379515#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+dimwishlist:item=1946491241&perks=3525010810,3032599245,3300816228,1683379515#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+dimwishlist:item=1946491241&perks=1441682018,3301904089,3300816228,1683379515#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+dimwishlist:item=1946491241&perks=3525010810,3301904089,3300816228,1683379515#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+dimwishlist:item=1946491241&perks=1441682018,3032599245,2869569095,1683379515#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+dimwishlist:item=1946491241&perks=3525010810,3032599245,2869569095,1683379515#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+dimwishlist:item=1946491241&perks=1441682018,3301904089,2869569095,1683379515#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+dimwishlist:item=1946491241&perks=3525010810,3301904089,2869569095,1683379515#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+dimwishlist:item=1946491241&perks=1441682018,3032599245,2779035018,1683379515#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+dimwishlist:item=1946491241&perks=3525010810,3032599245,2779035018,1683379515#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+dimwishlist:item=1946491241&perks=1441682018,3301904089,2779035018,1683379515#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+dimwishlist:item=1946491241&perks=3525010810,3301904089,2779035018,1683379515#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+dimwishlist:item=1946491241&perks=1441682018,3032599245,3300816228,2458213969#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+dimwishlist:item=1946491241&perks=3525010810,3032599245,3300816228,2458213969#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+dimwishlist:item=1946491241&perks=1441682018,3301904089,3300816228,2458213969#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+dimwishlist:item=1946491241&perks=3525010810,3301904089,3300816228,2458213969#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+dimwishlist:item=1946491241&perks=1441682018,3032599245,2869569095,2458213969#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+dimwishlist:item=1946491241&perks=3525010810,3032599245,2869569095,2458213969#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+dimwishlist:item=1946491241&perks=1441682018,3301904089,2869569095,2458213969#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+dimwishlist:item=1946491241&perks=3525010810,3301904089,2869569095,2458213969#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+dimwishlist:item=1946491241&perks=1441682018,3032599245,2779035018,2458213969#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+dimwishlist:item=1946491241&perks=3525010810,3032599245,2779035018,2458213969#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+dimwishlist:item=1946491241&perks=1441682018,3301904089,2779035018,2458213969#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+dimwishlist:item=1946491241&perks=3525010810,3301904089,2779035018,2458213969#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+dimwishlist:item=1946491241&perks=1441682018,3032599245,3300816228,4082225868#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+dimwishlist:item=1946491241&perks=3525010810,3032599245,3300816228,4082225868#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+dimwishlist:item=1946491241&perks=1441682018,3301904089,3300816228,4082225868#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+dimwishlist:item=1946491241&perks=3525010810,3301904089,3300816228,4082225868#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+dimwishlist:item=1946491241&perks=1441682018,3032599245,2869569095,4082225868#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+dimwishlist:item=1946491241&perks=3525010810,3032599245,2869569095,4082225868#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+dimwishlist:item=1946491241&perks=1441682018,3301904089,2869569095,4082225868#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+dimwishlist:item=1946491241&perks=3525010810,3301904089,2869569095,4082225868#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+dimwishlist:item=1946491241&perks=1441682018,3032599245,2779035018,4082225868#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+dimwishlist:item=1946491241&perks=3525010810,3032599245,2779035018,4082225868#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+dimwishlist:item=1946491241&perks=1441682018,3301904089,2779035018,4082225868#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+dimwishlist:item=1946491241&perks=3525010810,3301904089,2779035018,4082225868#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+dimwishlist:item=1946491241&perks=1441682018,3032599245,3300816228,706527188#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+dimwishlist:item=1946491241&perks=3525010810,3032599245,3300816228,706527188#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+dimwishlist:item=1946491241&perks=1441682018,3301904089,3300816228,706527188#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+dimwishlist:item=1946491241&perks=3525010810,3301904089,3300816228,706527188#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+dimwishlist:item=1946491241&perks=1441682018,3032599245,2869569095,706527188#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+dimwishlist:item=1946491241&perks=3525010810,3032599245,2869569095,706527188#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+dimwishlist:item=1946491241&perks=1441682018,3301904089,2869569095,706527188#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+dimwishlist:item=1946491241&perks=3525010810,3301904089,2869569095,706527188#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+dimwishlist:item=1946491241&perks=1441682018,3032599245,2779035018,706527188#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+dimwishlist:item=1946491241&perks=3525010810,3032599245,2779035018,706527188#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+dimwishlist:item=1946491241&perks=1441682018,3301904089,2779035018,706527188#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+dimwishlist:item=1946491241&perks=3525010810,3301904089,2779035018,706527188#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Velocity
+
+
+
+dimwishlist:item=3616586446&perks=1840239774,791862061,3300816228,3523296417#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling
+dimwishlist:item=3616586446&perks=839105230,791862061,3300816228,3523296417#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling
+dimwishlist:item=3616586446&perks=1840239774,791862061,3300816228,1546637391#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling
+dimwishlist:item=3616586446&perks=839105230,791862061,3300816228,1546637391#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling
+dimwishlist:item=3616586446&perks=1840239774,791862061,3300816228,3708227201#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling
+dimwishlist:item=3616586446&perks=839105230,791862061,3300816228,3708227201#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Handling
+
+
+
+dimwishlist:item=2807687156&perks=1840239774,106909392,2284787283,1771339417#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload
+dimwishlist:item=2807687156&perks=1840239774,1087426260,2284787283,1771339417#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload
+dimwishlist:item=2807687156&perks=1840239774,2420895100,2284787283,1771339417#notes:Chevy's Super Pog PvE Loot List. Recommended MW -  Reload
+
+
+
+dimwishlist:item=35794111&perks=3666208348,269888150,1749209109,1546637391#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Impact
+dimwishlist:item=35794111&perks=3666208348,269888150,1749209109,3708227201#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Impact
+
+
+
+dimwishlist:item=1972985595&perks=981914802,3301904089,3300816228#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Velocity
+
+
+
+dimwishlist:item=2257180473&perks=981914802,3301904089,3300816228#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Velocity
+
+
+
+dimwishlist:item=4146702548&perks=981914802,3301904089,3300816228#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Velocity
+
+
+
+dimwishlist:item=407621213&perks=981914802,3301904089,3300816228#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Velocity
+
+
+
+dimwishlist:item=2870169846&perks=839105230,1561002382,1168162263,3523296417#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
+dimwishlist:item=2870169846&perks=1840239774,1561002382,1168162263,3523296417#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
+dimwishlist:item=2870169846&perks=839105230,1968497646,1168162263,3523296417#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
+dimwishlist:item=2870169846&perks=1840239774,1968497646,1168162263,3523296417#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
+dimwishlist:item=2870169846&perks=839105230,1561002382,1168162263,3592538738#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
+dimwishlist:item=2870169846&perks=1840239774,1561002382,1168162263,3592538738#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
+dimwishlist:item=2870169846&perks=839105230,1968497646,1168162263,3592538738#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
+dimwishlist:item=2870169846&perks=1840239774,1968497646,1168162263,3592538738#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
+
+
+
+dimwishlist:item=1197486957&perks=4090651448,106909392,4071163871,3592538738#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Reload
+dimwishlist:item=1197486957&perks=1840239774,106909392,4071163871,3592538738#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Reload
+dimwishlist:item=1197486957&perks=4090651448,1087426260,4071163871,3592538738#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Reload
+dimwishlist:item=1197486957&perks=1840239774,1087426260,4071163871,3592538738#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Reload
+dimwishlist:item=1197486957&perks=4090651448,106909392,2010801679,3592538738#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Reload
+dimwishlist:item=1197486957&perks=1840239774,106909392,2010801679,3592538738#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Reload
+dimwishlist:item=1197486957&perks=4090651448,1087426260,2010801679,3592538738#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Reload
+dimwishlist:item=1197486957&perks=1840239774,1087426260,2010801679,3592538738#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Reload
+dimwishlist:item=1197486957&perks=4090651448,106909392,4071163871,3523296417#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Reload
+dimwishlist:item=1197486957&perks=1840239774,106909392,4071163871,3523296417#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Reload
+dimwishlist:item=1197486957&perks=4090651448,1087426260,4071163871,3523296417#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Reload
+dimwishlist:item=1197486957&perks=1840239774,1087426260,4071163871,3523296417#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Reload
+dimwishlist:item=1197486957&perks=4090651448,106909392,2010801679,3523296417#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Reload
+dimwishlist:item=1197486957&perks=1840239774,106909392,2010801679,3523296417#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Reload
+dimwishlist:item=1197486957&perks=4090651448,1087426260,2010801679,3523296417#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Reload
+dimwishlist:item=1197486957&perks=1840239774,1087426260,2010801679,3523296417#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Reload
+dimwishlist:item=1197486957&perks=4090651448,106909392,4071163871,2213355989#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Reload
+dimwishlist:item=1197486957&perks=1840239774,106909392,4071163871,2213355989#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Reload
+dimwishlist:item=1197486957&perks=4090651448,1087426260,4071163871,2213355989#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Reload
+dimwishlist:item=1197486957&perks=1840239774,1087426260,4071163871,2213355989#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Reload
+dimwishlist:item=1197486957&perks=4090651448,106909392,2010801679,2213355989#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Reload
+dimwishlist:item=1197486957&perks=1840239774,106909392,2010801679,2213355989#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Reload
+dimwishlist:item=1197486957&perks=4090651448,1087426260,2010801679,2213355989#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Reload
+dimwishlist:item=1197486957&perks=1840239774,1087426260,2010801679,2213355989#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Reload
+
+
+
+dimwishlist:item=20935540&perks=839105230,106909392,1168162263,2726471870#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range/Reload 
+dimwishlist:item=20935540&perks=1840239774,106909392,1168162263,2726471870#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range/Reload 
+dimwishlist:item=20935540&perks=839105230,1087426260,1168162263,2726471870#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range/Reload 
+dimwishlist:item=20935540&perks=1840239774,1087426260,1168162263,2726471870#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range/Reload 
+dimwishlist:item=20935540&perks=839105230,106909392,3400784728,2726471870#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range/Reload 
+dimwishlist:item=20935540&perks=1840239774,106909392,3400784728,2726471870#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range/Reload 
+dimwishlist:item=20935540&perks=839105230,1087426260,3400784728,2726471870#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range/Reload 
+dimwishlist:item=20935540&perks=1840239774,1087426260,3400784728,2726471870#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range/Reload 
+dimwishlist:item=20935540&perks=839105230,106909392,1168162263,2848615171#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range/Reload 
+dimwishlist:item=20935540&perks=1840239774,106909392,1168162263,2848615171#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range/Reload 
+dimwishlist:item=20935540&perks=839105230,1087426260,1168162263,2848615171#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range/Reload 
+dimwishlist:item=20935540&perks=1840239774,1087426260,1168162263,2848615171#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range/Reload 
+dimwishlist:item=20935540&perks=839105230,106909392,3400784728,2848615171#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range/Reload 
+dimwishlist:item=20935540&perks=1840239774,106909392,3400784728,2848615171#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range/Reload 
+dimwishlist:item=20935540&perks=839105230,1087426260,3400784728,2848615171#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range/Reload 
+dimwishlist:item=20935540&perks=1840239774,1087426260,3400784728,2848615171#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range/Reload 
+
+
+
+dimwishlist:item=4037745684&perks=1840239774,791862061,3400784728,3523296417#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
+dimwishlist:item=4037745684&perks=1840239774,791862061,3400784728,4049631843#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
+dimwishlist:item=4037745684&perks=1840239774,791862061,3400784728,4071163871#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
+
+
+
+dimwishlist:item=1766088024&perks=839105230,1561002382,2869569095,3523296417#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
+dimwishlist:item=1766088024&perks=1840239774,1561002382,2869569095,3523296417#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
+dimwishlist:item=1766088024&perks=839105230,1885400500,2869569095,3523296417#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
+dimwishlist:item=1766088024&perks=1840239774,1885400500,2869569095,3523296417#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
+dimwishlist:item=1766088024&perks=839105230,1087426260,2869569095,3523296417#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
+dimwishlist:item=1766088024&perks=1840239774,1087426260,2869569095,3523296417#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
+dimwishlist:item=1766088024&perks=839105230,1561002382,2869569095,2848615171#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
+dimwishlist:item=1766088024&perks=1840239774,1561002382,2869569095,2848615171#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
+dimwishlist:item=1766088024&perks=839105230,1885400500,2869569095,2848615171#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
+dimwishlist:item=1766088024&perks=1840239774,1885400500,2869569095,2848615171#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
+dimwishlist:item=1766088024&perks=839105230,1087426260,2869569095,2848615171#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
+dimwishlist:item=1766088024&perks=1840239774,1087426260,2869569095,2848615171#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
+dimwishlist:item=1766088024&perks=839105230,1561002382,2869569095,3592538738#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
+dimwishlist:item=1766088024&perks=1840239774,1561002382,2869569095,3592538738#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
+dimwishlist:item=1766088024&perks=839105230,1885400500,2869569095,3592538738#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
+dimwishlist:item=1766088024&perks=1840239774,1885400500,2869569095,3592538738#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
+dimwishlist:item=1766088024&perks=839105230,1087426260,2869569095,3592538738#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
+dimwishlist:item=1766088024&perks=1840239774,1087426260,2869569095,3592538738#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
+
+
+
+dimwishlist:item=42351395&perks=3525010810,3796465595,2010801679,1275731761#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload Speed/Blast Radius
+dimwishlist:item=42351395&perks=3525010810,3796465595,2010801679,2396489472#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload Speed/Blast Radius
+dimwishlist:item=42351395&perks=3525010810,3796465595,2010801679,2726471870#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload Speed/Blast Radius
+
+
+
+dimwishlist:item=4248569242&perks=1840239774,791862061,1523832109,2726471870#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
+dimwishlist:item=4248569242&perks=839105230,791862061,1523832109,2726471870#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
+dimwishlist:item=4248569242&perks=1840239774,791862061,3300816228,2726471870#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
+dimwishlist:item=4248569242&perks=839105230,791862061,3300816228,2726471870#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
+dimwishlist:item=4248569242&perks=1840239774,791862061,1523832109,469285294#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
+dimwishlist:item=4248569242&perks=839105230,791862061,1523832109,469285294#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
+dimwishlist:item=4248569242&perks=1840239774,791862061,3300816228,469285294#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
+dimwishlist:item=4248569242&perks=839105230,791862061,3300816228,469285294#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
+
+
+
+dimwishlist:item=2990047042&perks=1840239774,106909392,1523832109,469285294#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling
+dimwishlist:item=2990047042&perks=1840239774,2420895100,1523832109,469285294#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling
+dimwishlist:item=2990047042&perks=1840239774,106909392,1523832109,1546637391#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling
+dimwishlist:item=2990047042&perks=1840239774,2420895100,1523832109,1546637391#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling
+
+
+
+dimwishlist:item=3281285075&perks=4090651448,106909392,247725512,3523296417#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
+dimwishlist:item=3281285075&perks=839105230,106909392,247725512,3523296417#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
+dimwishlist:item=3281285075&perks=4090651448,1087426260,247725512,3523296417#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
+dimwishlist:item=3281285075&perks=839105230,1087426260,247725512,3523296417#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
+dimwishlist:item=3281285075&perks=4090651448,106909392,1354429876,3523296417#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
+dimwishlist:item=3281285075&perks=839105230,106909392,1354429876,3523296417#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
+dimwishlist:item=3281285075&perks=4090651448,1087426260,1354429876,3523296417#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
+dimwishlist:item=3281285075&perks=839105230,1087426260,1354429876,3523296417#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
+dimwishlist:item=3281285075&perks=4090651448,106909392,1523832109,3523296417#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
+dimwishlist:item=3281285075&perks=839105230,106909392,1523832109,3523296417#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
+dimwishlist:item=3281285075&perks=4090651448,1087426260,1523832109,3523296417#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
+dimwishlist:item=3281285075&perks=839105230,1087426260,1523832109,3523296417#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
+dimwishlist:item=3281285075&perks=4090651448,106909392,247725512,3425386926#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
+dimwishlist:item=3281285075&perks=839105230,106909392,247725512,3425386926#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
+dimwishlist:item=3281285075&perks=4090651448,1087426260,247725512,3425386926#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
+dimwishlist:item=3281285075&perks=839105230,1087426260,247725512,3425386926#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
+dimwishlist:item=3281285075&perks=4090651448,106909392,1354429876,3425386926#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
+dimwishlist:item=3281285075&perks=839105230,106909392,1354429876,3425386926#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
+dimwishlist:item=3281285075&perks=4090651448,1087426260,1354429876,3425386926#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
+dimwishlist:item=3281285075&perks=839105230,1087426260,1354429876,3425386926#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
+dimwishlist:item=3281285075&perks=4090651448,106909392,1523832109,3425386926#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
+dimwishlist:item=3281285075&perks=839105230,106909392,1523832109,3425386926#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
+dimwishlist:item=3281285075&perks=4090651448,1087426260,1523832109,3425386926#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
+dimwishlist:item=3281285075&perks=839105230,1087426260,1523832109,3425386926#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
+dimwishlist:item=3281285075&perks=4090651448,106909392,247725512,3201496230#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
+dimwishlist:item=3281285075&perks=839105230,106909392,247725512,3201496230#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
+dimwishlist:item=3281285075&perks=4090651448,1087426260,247725512,3201496230#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
+dimwishlist:item=3281285075&perks=839105230,1087426260,247725512,3201496230#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
+dimwishlist:item=3281285075&perks=4090651448,106909392,1354429876,3201496230#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
+dimwishlist:item=3281285075&perks=839105230,106909392,1354429876,3201496230#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
+dimwishlist:item=3281285075&perks=4090651448,1087426260,1354429876,3201496230#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
+dimwishlist:item=3281285075&perks=839105230,1087426260,1354429876,3201496230#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
+dimwishlist:item=3281285075&perks=4090651448,106909392,1523832109,3201496230#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
+dimwishlist:item=3281285075&perks=839105230,106909392,1523832109,3201496230#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
+dimwishlist:item=3281285075&perks=4090651448,1087426260,1523832109,3201496230#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
+dimwishlist:item=3281285075&perks=839105230,1087426260,1523832109,3201496230#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
+dimwishlist:item=3281285075&perks=4090651448,106909392,247725512,4049631843#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
+dimwishlist:item=3281285075&perks=839105230,106909392,247725512,4049631843#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
+dimwishlist:item=3281285075&perks=4090651448,1087426260,247725512,4049631843#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
+dimwishlist:item=3281285075&perks=839105230,1087426260,247725512,4049631843#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
+dimwishlist:item=3281285075&perks=4090651448,106909392,1354429876,4049631843#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
+dimwishlist:item=3281285075&perks=839105230,106909392,1354429876,4049631843#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
+dimwishlist:item=3281285075&perks=4090651448,1087426260,1354429876,4049631843#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
+dimwishlist:item=3281285075&perks=839105230,1087426260,1354429876,4049631843#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
+dimwishlist:item=3281285075&perks=4090651448,106909392,1523832109,4049631843#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
+dimwishlist:item=3281285075&perks=839105230,106909392,1523832109,4049631843#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
+dimwishlist:item=3281285075&perks=4090651448,1087426260,1523832109,4049631843#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
+dimwishlist:item=3281285075&perks=839105230,1087426260,1523832109,4049631843#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
+
+
+
+dimwishlist:item=1392919471&perks=4090651448,106909392,1523832109,3201496230#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range
+dimwishlist:item=1392919471&perks=839105230,106909392,1523832109,3201496230#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range
+dimwishlist:item=1392919471&perks=4090651448,1087426260,1523832109,3201496230#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range
+dimwishlist:item=1392919471&perks=839105230,1087426260,1523832109,3201496230#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range
+dimwishlist:item=1392919471&perks=4090651448,106909392,1168162263,3201496230#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range
+dimwishlist:item=1392919471&perks=839105230,106909392,1168162263,3201496230#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range
+dimwishlist:item=1392919471&perks=4090651448,1087426260,1168162263,3201496230#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range
+dimwishlist:item=1392919471&perks=839105230,1087426260,1168162263,3201496230#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range
+dimwishlist:item=1392919471&perks=4090651448,106909392,1523832109,2213355989#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range
+dimwishlist:item=1392919471&perks=839105230,106909392,1523832109,2213355989#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range
+dimwishlist:item=1392919471&perks=4090651448,1087426260,1523832109,2213355989#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range
+dimwishlist:item=1392919471&perks=839105230,1087426260,1523832109,2213355989#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range
+dimwishlist:item=1392919471&perks=4090651448,106909392,1168162263,2213355989#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range
+dimwishlist:item=1392919471&perks=839105230,106909392,1168162263,2213355989#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range
+dimwishlist:item=1392919471&perks=4090651448,1087426260,1168162263,2213355989#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range
+dimwishlist:item=1392919471&perks=839105230,1087426260,1168162263,2213355989#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range
+dimwishlist:item=1392919471&perks=4090651448,106909392,1523832109,3592538738#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range
+dimwishlist:item=1392919471&perks=839105230,106909392,1523832109,3592538738#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range
+dimwishlist:item=1392919471&perks=4090651448,1087426260,1523832109,3592538738#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range
+dimwishlist:item=1392919471&perks=839105230,1087426260,1523832109,3592538738#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range
+dimwishlist:item=1392919471&perks=4090651448,106909392,1168162263,3592538738#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range
+dimwishlist:item=1392919471&perks=839105230,106909392,1168162263,3592538738#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range
+dimwishlist:item=1392919471&perks=4090651448,1087426260,1168162263,3592538738#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range
+dimwishlist:item=1392919471&perks=839105230,1087426260,1168162263,3592538738#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Range
+
+
+
+dimwishlist:item=4230965989&perks=4090651448,106909392,1523832109,3425386926#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Reload
+dimwishlist:item=4230965989&perks=839105230,106909392,1523832109,3425386926#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Reload
+dimwishlist:item=4230965989&perks=4090651448,1087426260,1523832109,3425386926#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Reload
+dimwishlist:item=4230965989&perks=839105230,1087426260,1523832109,3425386926#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Reload
+dimwishlist:item=4230965989&perks=4090651448,106909392,1523832109,2848615171#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Reload
+dimwishlist:item=4230965989&perks=839105230,106909392,1523832109,2848615171#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Reload
+dimwishlist:item=4230965989&perks=4090651448,1087426260,1523832109,2848615171#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Reload
+dimwishlist:item=4230965989&perks=839105230,1087426260,1523832109,2848615171#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Reload
+
+
+
+dimwishlist:item=1513993763&perks=1840239774,106909392,4071163871,3425386926#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling
+dimwishlist:item=1513993763&perks=1840239774,1087426260,4071163871,3425386926#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling
+dimwishlist:item=1513993763&perks=1840239774,106909392,4071163871,3592538738#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling
+dimwishlist:item=1513993763&perks=1840239774,1087426260,4071163871,3592538738#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling
+
+
+
+dimwishlist:item=981718087&perks=1441682018,2822142346,1556840489,3425386926#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Reload
+dimwishlist:item=981718087&perks=3525010810,2822142346,1556840489,3425386926#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Reload
+dimwishlist:item=981718087&perks=1441682018,2822142346,2010801679,3425386926#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Reload
+dimwishlist:item=981718087&perks=3525010810,2822142346,2010801679,3425386926#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Reload
+dimwishlist:item=981718087&perks=1441682018,2822142346,1556840489,3592538738#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Reload
+dimwishlist:item=981718087&perks=3525010810,2822142346,1556840489,3592538738#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Reload
+dimwishlist:item=981718087&perks=1441682018,2822142346,2010801679,3592538738#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Reload
+dimwishlist:item=981718087&perks=3525010810,2822142346,2010801679,3592538738#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Reload
+dimwishlist:item=981718087&perks=1441682018,2822142346,1556840489,3300816228#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Reload
+dimwishlist:item=981718087&perks=3525010810,2822142346,1556840489,3300816228#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Reload
+dimwishlist:item=981718087&perks=1441682018,2822142346,2010801679,3300816228#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Reload
+dimwishlist:item=981718087&perks=3525010810,2822142346,2010801679,3300816228#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Reload
+
+
+
+dimwishlist:item=2714022207&perks=3250034553,1687452232,1168162263,2213355989#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Reload
+
+
+
+dimwishlist:item=2050789284&perks=3250034553,106909392,1168162263,1015611457#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
+dimwishlist:item=2050789284&perks=1392496348,106909392,1168162263,1015611457#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
+dimwishlist:item=2050789284&perks=3250034553,1087426260,1168162263,1015611457#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
+dimwishlist:item=2050789284&perks=1392496348,1087426260,1168162263,1015611457#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
+dimwishlist:item=2050789284&perks=3250034553,106909392,2869569095,1015611457#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
+dimwishlist:item=2050789284&perks=1392496348,106909392,2869569095,1015611457#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
+dimwishlist:item=2050789284&perks=3250034553,1087426260,2869569095,1015611457#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
+dimwishlist:item=2050789284&perks=1392496348,1087426260,2869569095,1015611457#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
+dimwishlist:item=2050789284&perks=3250034553,106909392,1168162263,3523296417#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
+dimwishlist:item=2050789284&perks=1392496348,106909392,1168162263,3523296417#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
+dimwishlist:item=2050789284&perks=3250034553,1087426260,1168162263,3523296417#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
+dimwishlist:item=2050789284&perks=1392496348,1087426260,1168162263,3523296417#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
+dimwishlist:item=2050789284&perks=3250034553,106909392,2869569095,3523296417#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
+dimwishlist:item=2050789284&perks=1392496348,106909392,2869569095,3523296417#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
+dimwishlist:item=2050789284&perks=3250034553,1087426260,2869569095,3523296417#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
+dimwishlist:item=2050789284&perks=1392496348,1087426260,2869569095,3523296417#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
+dimwishlist:item=2050789284&perks=3250034553,106909392,1168162263,2848615171#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
+dimwishlist:item=2050789284&perks=1392496348,106909392,1168162263,2848615171#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
+dimwishlist:item=2050789284&perks=3250034553,1087426260,1168162263,2848615171#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
+dimwishlist:item=2050789284&perks=1392496348,1087426260,1168162263,2848615171#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
+dimwishlist:item=2050789284&perks=3250034553,106909392,2869569095,2848615171#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
+dimwishlist:item=2050789284&perks=1392496348,106909392,2869569095,2848615171#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
+dimwishlist:item=2050789284&perks=3250034553,1087426260,2869569095,2848615171#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
+dimwishlist:item=2050789284&perks=1392496348,1087426260,2869569095,2848615171#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
+dimwishlist:item=2050789284&perks=3250034553,106909392,1168162263,2726471870#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
+dimwishlist:item=2050789284&perks=1392496348,106909392,1168162263,2726471870#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
+dimwishlist:item=2050789284&perks=3250034553,1087426260,1168162263,2726471870#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
+dimwishlist:item=2050789284&perks=1392496348,1087426260,1168162263,2726471870#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
+dimwishlist:item=2050789284&perks=3250034553,106909392,2869569095,2726471870#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
+dimwishlist:item=2050789284&perks=1392496348,106909392,2869569095,2726471870#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
+dimwishlist:item=2050789284&perks=3250034553,1087426260,2869569095,2726471870#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
+dimwishlist:item=2050789284&perks=1392496348,1087426260,2869569095,2726471870#notes:Chevy's Super Pog PvE Loot List.  Recommended MW -  Handling/Range
+
+
+title:u/pandapaxxy's Dawning + Hawkmoon MKB Breakdown
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/kdpgnq/dawning_breakdown_and_hawkmoon_thoughts_mnk/
+
+// Cold Front
+//notes:pandapaxxy (PvE / M+KB): "For a kinetic SMG it has some relatively steep competition namely the warmind weapons in the energy slot. I don’t really think the perk pool leans itself towards PvE or PvP specifically but there are some decent combos. I’d recommend trying to grab yourself a One for All roll as it doesn’t roll on any SMGs this season." Recommended MW: Reload.|tags:pve,mkb
+dimwishlist:item=1506719573&perks=1840239774,106909392,3436462433,3425386926
+dimwishlist:item=1506719573&perks=3250034553,106909392,3436462433,3425386926
+dimwishlist:item=1506719573&perks=1482024992,106909392,3436462433,3425386926
+dimwishlist:item=1506719573&perks=1840239774,1087426260,3436462433,3425386926
+dimwishlist:item=1506719573&perks=3250034553,1087426260,3436462433,3425386926
+dimwishlist:item=1506719573&perks=1482024992,1087426260,3436462433,3425386926
+dimwishlist:item=1506719573&perks=1840239774,2420895100,3436462433,3425386926
+dimwishlist:item=1506719573&perks=3250034553,2420895100,3436462433,3425386926
+dimwishlist:item=1506719573&perks=1482024992,2420895100,3436462433,3425386926
+dimwishlist:item=1506719573&perks=1840239774,106909392,706527188,3425386926
+dimwishlist:item=1506719573&perks=3250034553,106909392,706527188,3425386926
+dimwishlist:item=1506719573&perks=1482024992,106909392,706527188,3425386926
+dimwishlist:item=1506719573&perks=1840239774,1087426260,706527188,3425386926
+dimwishlist:item=1506719573&perks=3250034553,1087426260,706527188,3425386926
+dimwishlist:item=1506719573&perks=1482024992,1087426260,706527188,3425386926
+dimwishlist:item=1506719573&perks=1840239774,2420895100,706527188,3425386926
+dimwishlist:item=1506719573&perks=3250034553,2420895100,706527188,3425386926
+dimwishlist:item=1506719573&perks=1482024992,2420895100,706527188,3425386926
+dimwishlist:item=1506719573&perks=1840239774,106909392,3436462433,4049631843
+dimwishlist:item=1506719573&perks=3250034553,106909392,3436462433,4049631843
+dimwishlist:item=1506719573&perks=1482024992,106909392,3436462433,4049631843
+dimwishlist:item=1506719573&perks=1840239774,1087426260,3436462433,4049631843
+dimwishlist:item=1506719573&perks=3250034553,1087426260,3436462433,4049631843
+dimwishlist:item=1506719573&perks=1482024992,1087426260,3436462433,4049631843
+dimwishlist:item=1506719573&perks=1840239774,2420895100,3436462433,4049631843
+dimwishlist:item=1506719573&perks=3250034553,2420895100,3436462433,4049631843
+dimwishlist:item=1506719573&perks=1482024992,2420895100,3436462433,4049631843
+dimwishlist:item=1506719573&perks=1840239774,106909392,706527188,4049631843
+dimwishlist:item=1506719573&perks=3250034553,106909392,706527188,4049631843
+dimwishlist:item=1506719573&perks=1482024992,106909392,706527188,4049631843
+dimwishlist:item=1506719573&perks=1840239774,1087426260,706527188,4049631843
+dimwishlist:item=1506719573&perks=3250034553,1087426260,706527188,4049631843
+dimwishlist:item=1506719573&perks=1482024992,1087426260,706527188,4049631843
+dimwishlist:item=1506719573&perks=1840239774,2420895100,706527188,4049631843
+dimwishlist:item=1506719573&perks=3250034553,2420895100,706527188,4049631843
+dimwishlist:item=1506719573&perks=1482024992,2420895100,706527188,4049631843
+dimwishlist:item=1506719573&perks=1840239774,106909392,3436462433,2848615171
+dimwishlist:item=1506719573&perks=3250034553,106909392,3436462433,2848615171
+dimwishlist:item=1506719573&perks=1482024992,106909392,3436462433,2848615171
+dimwishlist:item=1506719573&perks=1840239774,1087426260,3436462433,2848615171
+dimwishlist:item=1506719573&perks=3250034553,1087426260,3436462433,2848615171
+dimwishlist:item=1506719573&perks=1482024992,1087426260,3436462433,2848615171
+dimwishlist:item=1506719573&perks=1840239774,2420895100,3436462433,2848615171
+dimwishlist:item=1506719573&perks=3250034553,2420895100,3436462433,2848615171
+dimwishlist:item=1506719573&perks=1482024992,2420895100,3436462433,2848615171
+dimwishlist:item=1506719573&perks=1840239774,106909392,706527188,2848615171
+dimwishlist:item=1506719573&perks=3250034553,106909392,706527188,2848615171
+dimwishlist:item=1506719573&perks=1482024992,106909392,706527188,2848615171
+dimwishlist:item=1506719573&perks=1840239774,1087426260,706527188,2848615171
+dimwishlist:item=1506719573&perks=3250034553,1087426260,706527188,2848615171
+dimwishlist:item=1506719573&perks=1482024992,1087426260,706527188,2848615171
+dimwishlist:item=1506719573&perks=1840239774,2420895100,706527188,2848615171
+dimwishlist:item=1506719573&perks=3250034553,2420895100,706527188,2848615171
+dimwishlist:item=1506719573&perks=1482024992,2420895100,706527188,2848615171
+
+// Cold Front
+//notes:pandapaxxy (PvP / M+KB): "For PvP it’s a 750 with bad perks. You can get Quickdraw or Dynamic Sway Reduction but not having any really good perk combos in that last slot really hurt it versus the Ikelos SMG." Recommended MW: Range.|tags:pvp,mkb
+dimwishlist:item=1506719573&perks=3250034553,3142289711,706527188,3425386926
+dimwishlist:item=1506719573&perks=1467527085,3142289711,706527188,3425386926
+dimwishlist:item=1506719573&perks=1482024992,3142289711,706527188,3425386926
+dimwishlist:item=1506719573&perks=3250034553,106909392,706527188,3425386926
+dimwishlist:item=1506719573&perks=1467527085,106909392,706527188,3425386926
+dimwishlist:item=1506719573&perks=1482024992,106909392,706527188,3425386926
+dimwishlist:item=1506719573&perks=3250034553,3142289711,1359896290,3425386926
+dimwishlist:item=1506719573&perks=1467527085,3142289711,1359896290,3425386926
+dimwishlist:item=1506719573&perks=1482024992,3142289711,1359896290,3425386926
+dimwishlist:item=1506719573&perks=3250034553,106909392,1359896290,3425386926
+dimwishlist:item=1506719573&perks=1467527085,106909392,1359896290,3425386926
+dimwishlist:item=1506719573&perks=1482024992,106909392,1359896290,3425386926
+
+
+// Glacioclasm
+//notes:pandapaxxy (PvE / M+KB): "It might not be an Erentil replacement but it does look hecking cool. For PvE Surplus combined with Demolitionist can make for some neat synergy. Or really any damage perk could work here too. Fusions aren’t entirely meta in higher-end PvE content but are certainly a fun option" Recommended MW: Reload.|tags:pve,mkb
+dimwishlist:item=1030895163&perks=1840239774,1483536627,3436462433,4082225868
+dimwishlist:item=1030895163&perks=1482024992,1483536627,3436462433,4082225868
+dimwishlist:item=1030895163&perks=1840239774,2680121939,3436462433,4082225868
+dimwishlist:item=1030895163&perks=1482024992,2680121939,3436462433,4082225868
+dimwishlist:item=1030895163&perks=1840239774,1687452232,3436462433,4082225868
+dimwishlist:item=1030895163&perks=1482024992,1687452232,3436462433,4082225868
+dimwishlist:item=1030895163&perks=1840239774,1483536627,2450788523,4082225868
+dimwishlist:item=1030895163&perks=1482024992,1483536627,2450788523,4082225868
+dimwishlist:item=1030895163&perks=1840239774,2680121939,2450788523,4082225868
+dimwishlist:item=1030895163&perks=1482024992,2680121939,2450788523,4082225868
+dimwishlist:item=1030895163&perks=1840239774,1687452232,2450788523,4082225868
+dimwishlist:item=1030895163&perks=1482024992,1687452232,2450788523,4082225868
+dimwishlist:item=1030895163&perks=1840239774,1483536627,2869569095,4082225868
+dimwishlist:item=1030895163&perks=1482024992,1483536627,2869569095,4082225868
+dimwishlist:item=1030895163&perks=1840239774,2680121939,2869569095,4082225868
+dimwishlist:item=1030895163&perks=1482024992,2680121939,2869569095,4082225868
+dimwishlist:item=1030895163&perks=1840239774,1687452232,2869569095,4082225868
+dimwishlist:item=1030895163&perks=1482024992,1687452232,2869569095,4082225868
+dimwishlist:item=1030895163&perks=1840239774,1483536627,3436462433,3523296417
+dimwishlist:item=1030895163&perks=1482024992,1483536627,3436462433,3523296417
+dimwishlist:item=1030895163&perks=1840239774,2680121939,3436462433,3523296417
+dimwishlist:item=1030895163&perks=1482024992,2680121939,3436462433,3523296417
+dimwishlist:item=1030895163&perks=1840239774,1687452232,3436462433,3523296417
+dimwishlist:item=1030895163&perks=1482024992,1687452232,3436462433,3523296417
+dimwishlist:item=1030895163&perks=1840239774,1483536627,2450788523,3523296417
+dimwishlist:item=1030895163&perks=1482024992,1483536627,2450788523,3523296417
+dimwishlist:item=1030895163&perks=1840239774,2680121939,2450788523,3523296417
+dimwishlist:item=1030895163&perks=1482024992,2680121939,2450788523,3523296417
+dimwishlist:item=1030895163&perks=1840239774,1687452232,2450788523,3523296417
+dimwishlist:item=1030895163&perks=1482024992,1687452232,2450788523,3523296417
+dimwishlist:item=1030895163&perks=1840239774,1483536627,2869569095,3523296417
+dimwishlist:item=1030895163&perks=1482024992,1483536627,2869569095,3523296417
+dimwishlist:item=1030895163&perks=1840239774,2680121939,2869569095,3523296417
+dimwishlist:item=1030895163&perks=1482024992,2680121939,2869569095,3523296417
+dimwishlist:item=1030895163&perks=1840239774,1687452232,2869569095,3523296417
+dimwishlist:item=1030895163&perks=1482024992,1687452232,2869569095,3523296417
+dimwishlist:item=1030895163&perks=1840239774,1483536627,3436462433,2213355989
+dimwishlist:item=1030895163&perks=1482024992,1483536627,3436462433,2213355989
+dimwishlist:item=1030895163&perks=1840239774,2680121939,3436462433,2213355989
+dimwishlist:item=1030895163&perks=1482024992,2680121939,3436462433,2213355989
+dimwishlist:item=1030895163&perks=1840239774,1687452232,3436462433,2213355989
+dimwishlist:item=1030895163&perks=1482024992,1687452232,3436462433,2213355989
+dimwishlist:item=1030895163&perks=1840239774,1483536627,2450788523,2213355989
+dimwishlist:item=1030895163&perks=1482024992,1483536627,2450788523,2213355989
+dimwishlist:item=1030895163&perks=1840239774,2680121939,2450788523,2213355989
+dimwishlist:item=1030895163&perks=1482024992,2680121939,2450788523,2213355989
+dimwishlist:item=1030895163&perks=1840239774,1687452232,2450788523,2213355989
+dimwishlist:item=1030895163&perks=1482024992,1687452232,2450788523,2213355989
+dimwishlist:item=1030895163&perks=1840239774,1483536627,2869569095,2213355989
+dimwishlist:item=1030895163&perks=1482024992,1483536627,2869569095,2213355989
+dimwishlist:item=1030895163&perks=1840239774,2680121939,2869569095,2213355989
+dimwishlist:item=1030895163&perks=1482024992,2680121939,2869569095,2213355989
+dimwishlist:item=1030895163&perks=1840239774,1687452232,2869569095,2213355989
+dimwishlist:item=1030895163&perks=1482024992,1687452232,2869569095,2213355989
+dimwishlist:item=1030895163&perks=1840239774,1483536627,3436462433,3300816228
+dimwishlist:item=1030895163&perks=1482024992,1483536627,3436462433,3300816228
+dimwishlist:item=1030895163&perks=1840239774,2680121939,3436462433,3300816228
+dimwishlist:item=1030895163&perks=1482024992,2680121939,3436462433,3300816228
+dimwishlist:item=1030895163&perks=1840239774,1687452232,3436462433,3300816228
+dimwishlist:item=1030895163&perks=1482024992,1687452232,3436462433,3300816228
+dimwishlist:item=1030895163&perks=1840239774,1483536627,2450788523,3300816228
+dimwishlist:item=1030895163&perks=1482024992,1483536627,2450788523,3300816228
+dimwishlist:item=1030895163&perks=1840239774,2680121939,2450788523,3300816228
+dimwishlist:item=1030895163&perks=1482024992,2680121939,2450788523,3300816228
+dimwishlist:item=1030895163&perks=1840239774,1687452232,2450788523,3300816228
+dimwishlist:item=1030895163&perks=1482024992,1687452232,2450788523,3300816228
+dimwishlist:item=1030895163&perks=1840239774,1483536627,2869569095,3300816228
+dimwishlist:item=1030895163&perks=1482024992,1483536627,2869569095,3300816228
+dimwishlist:item=1030895163&perks=1840239774,2680121939,2869569095,3300816228
+dimwishlist:item=1030895163&perks=1482024992,2680121939,2869569095,3300816228
+dimwishlist:item=1030895163&perks=1840239774,1687452232,2869569095,3300816228
+dimwishlist:item=1030895163&perks=1482024992,1687452232,2869569095,3300816228
+
+
+// Glacioclasm
+//notes:pandapaxxy (PvP / M+KB): "For PvP maximizing consistency is going to make this feel better than Erentil. Without sights you’re going to want to push out the range, but you don’t want to sacrifice too much in your other stats. Killing Wind and either High-Impact Reserves or Demolitionist are good for running and vooping. While something like Slideshot can make a more aggressive voop. Swashbuckler can set up some nasty multi kills but it ultimately depends on how you play." Recommended MW: Range or Handling.|tags:pvp,mkb
+dimwishlist:item=1030895163&perks=1840239774,2969185026,2450788523,2213355989
+dimwishlist:item=1030895163&perks=839105230,2969185026,2450788523,2213355989
+dimwishlist:item=1030895163&perks=3250034553,2969185026,2450788523,2213355989
+dimwishlist:item=1030895163&perks=1840239774,1687452232,2450788523,2213355989
+dimwishlist:item=1030895163&perks=839105230,1687452232,2450788523,2213355989
+dimwishlist:item=1030895163&perks=3250034553,1687452232,2450788523,2213355989
+dimwishlist:item=1030895163&perks=1840239774,2969185026,3161816588,2213355989
+dimwishlist:item=1030895163&perks=839105230,2969185026,3161816588,2213355989
+dimwishlist:item=1030895163&perks=3250034553,2969185026,3161816588,2213355989
+dimwishlist:item=1030895163&perks=1840239774,1687452232,3161816588,2213355989
+dimwishlist:item=1030895163&perks=839105230,1687452232,3161816588,2213355989
+dimwishlist:item=1030895163&perks=3250034553,1687452232,3161816588,2213355989
+dimwishlist:item=1030895163&perks=1840239774,2969185026,3436462433,2213355989
+dimwishlist:item=1030895163&perks=839105230,2969185026,3436462433,2213355989
+dimwishlist:item=1030895163&perks=3250034553,2969185026,3436462433,2213355989
+dimwishlist:item=1030895163&perks=1840239774,1687452232,3436462433,2213355989
+dimwishlist:item=1030895163&perks=839105230,1687452232,3436462433,2213355989
+dimwishlist:item=1030895163&perks=3250034553,1687452232,3436462433,2213355989
+dimwishlist:item=1030895163&perks=1840239774,2969185026,2450788523,3523296417
+dimwishlist:item=1030895163&perks=839105230,2969185026,2450788523,3523296417
+dimwishlist:item=1030895163&perks=3250034553,2969185026,2450788523,3523296417
+dimwishlist:item=1030895163&perks=1840239774,1687452232,2450788523,3523296417
+dimwishlist:item=1030895163&perks=839105230,1687452232,2450788523,3523296417
+dimwishlist:item=1030895163&perks=3250034553,1687452232,2450788523,3523296417
+dimwishlist:item=1030895163&perks=1840239774,2969185026,3161816588,3523296417
+dimwishlist:item=1030895163&perks=839105230,2969185026,3161816588,3523296417
+dimwishlist:item=1030895163&perks=3250034553,2969185026,3161816588,3523296417
+dimwishlist:item=1030895163&perks=1840239774,1687452232,3161816588,3523296417
+dimwishlist:item=1030895163&perks=839105230,1687452232,3161816588,3523296417
+dimwishlist:item=1030895163&perks=3250034553,1687452232,3161816588,3523296417
+dimwishlist:item=1030895163&perks=1840239774,2969185026,3436462433,3523296417
+dimwishlist:item=1030895163&perks=839105230,2969185026,3436462433,3523296417
+dimwishlist:item=1030895163&perks=3250034553,2969185026,3436462433,3523296417
+dimwishlist:item=1030895163&perks=1840239774,1687452232,3436462433,3523296417
+dimwishlist:item=1030895163&perks=839105230,1687452232,3436462433,3523296417
+dimwishlist:item=1030895163&perks=3250034553,1687452232,3436462433,3523296417
+dimwishlist:item=1030895163&perks=1840239774,2969185026,2450788523,4082225868
+dimwishlist:item=1030895163&perks=839105230,2969185026,2450788523,4082225868
+dimwishlist:item=1030895163&perks=3250034553,2969185026,2450788523,4082225868
+dimwishlist:item=1030895163&perks=1840239774,1687452232,2450788523,4082225868
+dimwishlist:item=1030895163&perks=839105230,1687452232,2450788523,4082225868
+dimwishlist:item=1030895163&perks=3250034553,1687452232,2450788523,4082225868
+dimwishlist:item=1030895163&perks=1840239774,2969185026,3161816588,4082225868
+dimwishlist:item=1030895163&perks=839105230,2969185026,3161816588,4082225868
+dimwishlist:item=1030895163&perks=3250034553,2969185026,3161816588,4082225868
+dimwishlist:item=1030895163&perks=1840239774,1687452232,3161816588,4082225868
+dimwishlist:item=1030895163&perks=839105230,1687452232,3161816588,4082225868
+dimwishlist:item=1030895163&perks=3250034553,1687452232,3161816588,4082225868
+dimwishlist:item=1030895163&perks=1840239774,2969185026,3436462433,4082225868
+dimwishlist:item=1030895163&perks=839105230,2969185026,3436462433,4082225868
+dimwishlist:item=1030895163&perks=3250034553,2969185026,3436462433,4082225868
+dimwishlist:item=1030895163&perks=1840239774,1687452232,3436462433,4082225868
+dimwishlist:item=1030895163&perks=839105230,1687452232,3436462433,4082225868
+dimwishlist:item=1030895163&perks=3250034553,1687452232,3436462433,4082225868
+
+
+// Avalanche
+//notes:pandapaxxy (PvE / M+KB): "Avalanche came back and it’s worse than ever. My favorite sight on any SUROS weapon is the SPO-57 Front, offers some decent zoom and highlights targets making my life aiming just ever so easier. Bumping up the average 57 magazine in combination with Auto-Loading Holster will make reloading a thing of the past. Vorpal is definitely the easiest to use as most majors will trigger it, and you don’t have to think about it. Outlaw and Dragonfly pair together as do Grave Robber and Swashbuckler. Pick your poison." Recommended MW: Reload.|tags:pve,mkb
+dimwishlist:item=66875353&perks=3151536501,1087426260,3300816228,1546637391
+dimwishlist:item=66875353&perks=965619221,1087426260,3300816228,1546637391
+dimwishlist:item=66875353&perks=965619220,1087426260,3300816228,1546637391
+dimwishlist:item=66875353&perks=3151536501,1561002382,3300816228,1546637391
+dimwishlist:item=66875353&perks=965619221,1561002382,3300816228,1546637391
+dimwishlist:item=66875353&perks=965619220,1561002382,3300816228,1546637391
+dimwishlist:item=66875353&perks=3151536501,2420895100,3300816228,1546637391
+dimwishlist:item=66875353&perks=965619221,2420895100,3300816228,1546637391
+dimwishlist:item=66875353&perks=965619220,2420895100,3300816228,1546637391
+dimwishlist:item=66875353&perks=3151536501,1087426260,1168162263,1546637391
+dimwishlist:item=66875353&perks=965619221,1087426260,1168162263,1546637391
+dimwishlist:item=66875353&perks=965619220,1087426260,1168162263,1546637391
+dimwishlist:item=66875353&perks=3151536501,1561002382,1168162263,1546637391
+dimwishlist:item=66875353&perks=965619221,1561002382,1168162263,1546637391
+dimwishlist:item=66875353&perks=965619220,1561002382,1168162263,1546637391
+dimwishlist:item=66875353&perks=3151536501,2420895100,1168162263,1546637391
+dimwishlist:item=66875353&perks=965619221,2420895100,1168162263,1546637391
+dimwishlist:item=66875353&perks=965619220,2420895100,1168162263,1546637391
+dimwishlist:item=66875353&perks=3151536501,1087426260,1631667848,1546637391
+dimwishlist:item=66875353&perks=965619221,1087426260,1631667848,1546637391
+dimwishlist:item=66875353&perks=965619220,1087426260,1631667848,1546637391
+dimwishlist:item=66875353&perks=3151536501,1561002382,1631667848,1546637391
+dimwishlist:item=66875353&perks=965619221,1561002382,1631667848,1546637391
+dimwishlist:item=66875353&perks=965619220,1561002382,1631667848,1546637391
+dimwishlist:item=66875353&perks=3151536501,2420895100,1631667848,1546637391
+dimwishlist:item=66875353&perks=965619221,2420895100,1631667848,1546637391
+dimwishlist:item=66875353&perks=965619220,2420895100,1631667848,1546637391
+dimwishlist:item=66875353&perks=3151536501,1087426260,3300816228,2848615171
+dimwishlist:item=66875353&perks=965619221,1087426260,3300816228,2848615171
+dimwishlist:item=66875353&perks=965619220,1087426260,3300816228,2848615171
+dimwishlist:item=66875353&perks=3151536501,1561002382,3300816228,2848615171
+dimwishlist:item=66875353&perks=965619221,1561002382,3300816228,2848615171
+dimwishlist:item=66875353&perks=965619220,1561002382,3300816228,2848615171
+dimwishlist:item=66875353&perks=3151536501,2420895100,3300816228,2848615171
+dimwishlist:item=66875353&perks=965619221,2420895100,3300816228,2848615171
+dimwishlist:item=66875353&perks=965619220,2420895100,3300816228,2848615171
+dimwishlist:item=66875353&perks=3151536501,1087426260,1168162263,2848615171
+dimwishlist:item=66875353&perks=965619221,1087426260,1168162263,2848615171
+dimwishlist:item=66875353&perks=965619220,1087426260,1168162263,2848615171
+dimwishlist:item=66875353&perks=3151536501,1561002382,1168162263,2848615171
+dimwishlist:item=66875353&perks=965619221,1561002382,1168162263,2848615171
+dimwishlist:item=66875353&perks=965619220,1561002382,1168162263,2848615171
+dimwishlist:item=66875353&perks=3151536501,2420895100,1168162263,2848615171
+dimwishlist:item=66875353&perks=965619221,2420895100,1168162263,2848615171
+dimwishlist:item=66875353&perks=965619220,2420895100,1168162263,2848615171
+dimwishlist:item=66875353&perks=3151536501,1087426260,1631667848,2848615171
+dimwishlist:item=66875353&perks=965619221,1087426260,1631667848,2848615171
+dimwishlist:item=66875353&perks=965619220,1087426260,1631667848,2848615171
+dimwishlist:item=66875353&perks=3151536501,1561002382,1631667848,2848615171
+dimwishlist:item=66875353&perks=965619221,1561002382,1631667848,2848615171
+dimwishlist:item=66875353&perks=965619220,1561002382,1631667848,2848615171
+dimwishlist:item=66875353&perks=3151536501,2420895100,1631667848,2848615171
+dimwishlist:item=66875353&perks=965619221,2420895100,1631667848,2848615171
+dimwishlist:item=66875353&perks=965619220,2420895100,1631667848,2848615171
+dimwishlist:item=66875353&perks=3151536501,1087426260,3300816228,4082225868
+dimwishlist:item=66875353&perks=965619221,1087426260,3300816228,4082225868
+dimwishlist:item=66875353&perks=965619220,1087426260,3300816228,4082225868
+dimwishlist:item=66875353&perks=3151536501,1561002382,3300816228,4082225868
+dimwishlist:item=66875353&perks=965619221,1561002382,3300816228,4082225868
+dimwishlist:item=66875353&perks=965619220,1561002382,3300816228,4082225868
+dimwishlist:item=66875353&perks=3151536501,2420895100,3300816228,4082225868
+dimwishlist:item=66875353&perks=965619221,2420895100,3300816228,4082225868
+dimwishlist:item=66875353&perks=965619220,2420895100,3300816228,4082225868
+dimwishlist:item=66875353&perks=3151536501,1087426260,1168162263,4082225868
+dimwishlist:item=66875353&perks=965619221,1087426260,1168162263,4082225868
+dimwishlist:item=66875353&perks=965619220,1087426260,1168162263,4082225868
+dimwishlist:item=66875353&perks=3151536501,1561002382,1168162263,4082225868
+dimwishlist:item=66875353&perks=965619221,1561002382,1168162263,4082225868
+dimwishlist:item=66875353&perks=965619220,1561002382,1168162263,4082225868
+dimwishlist:item=66875353&perks=3151536501,2420895100,1168162263,4082225868
+dimwishlist:item=66875353&perks=965619221,2420895100,1168162263,4082225868
+dimwishlist:item=66875353&perks=965619220,2420895100,1168162263,4082225868
+dimwishlist:item=66875353&perks=3151536501,1087426260,1631667848,4082225868
+dimwishlist:item=66875353&perks=965619221,1087426260,1631667848,4082225868
+dimwishlist:item=66875353&perks=965619220,1087426260,1631667848,4082225868
+dimwishlist:item=66875353&perks=3151536501,1561002382,1631667848,4082225868
+dimwishlist:item=66875353&perks=965619221,1561002382,1631667848,4082225868
+dimwishlist:item=66875353&perks=965619220,1561002382,1631667848,4082225868
+dimwishlist:item=66875353&perks=3151536501,2420895100,1631667848,4082225868
+dimwishlist:item=66875353&perks=965619221,2420895100,1631667848,4082225868
+dimwishlist:item=66875353&perks=965619220,2420895100,1631667848,4082225868
+
+
+// Avalanche
+//notes:pandapaxxy (PvP / M+KB): "For PvP it might not beat Commemoration but dang-it Avalanche will try. One of the two categories you might win is the range category. With scopes over barrels you could out range Commemoration or Hammerhead, but with that comes a very bouncy gun. Tap the Trigger will mellow out the first few shots and help you get that blistering .53s ttk. Anything else to increase flinch or movement speed could also let you win those rare heavy vs heavy situations." Recommended MW: Range.|tags:pvp,mkb
+dimwishlist:item=66875353&perks=3151536501,1561002382,2450788523,1890422124
+dimwishlist:item=66875353&perks=3151536500,1561002382,2450788523,1890422124
+dimwishlist:item=66875353&perks=3151536501,1885400500,2450788523,1890422124
+dimwishlist:item=66875353&perks=3151536500,1885400500,2450788523,1890422124
+dimwishlist:item=66875353&perks=3151536501,679225683,2450788523,1890422124
+dimwishlist:item=66875353&perks=3151536500,679225683,2450788523,1890422124
+dimwishlist:item=66875353&perks=3151536501,1561002382,3436462433,1890422124
+dimwishlist:item=66875353&perks=3151536500,1561002382,3436462433,1890422124
+dimwishlist:item=66875353&perks=3151536501,1885400500,3436462433,1890422124
+dimwishlist:item=66875353&perks=3151536500,1885400500,3436462433,1890422124
+dimwishlist:item=66875353&perks=3151536501,679225683,3436462433,1890422124
+dimwishlist:item=66875353&perks=3151536500,679225683,3436462433,1890422124
+dimwishlist:item=66875353&perks=3151536501,1561002382,2450788523,4082225868
+dimwishlist:item=66875353&perks=3151536500,1561002382,2450788523,4082225868
+dimwishlist:item=66875353&perks=3151536501,1885400500,2450788523,4082225868
+dimwishlist:item=66875353&perks=3151536500,1885400500,2450788523,4082225868
+dimwishlist:item=66875353&perks=3151536501,679225683,2450788523,4082225868
+dimwishlist:item=66875353&perks=3151536500,679225683,2450788523,4082225868
+dimwishlist:item=66875353&perks=3151536501,1561002382,3436462433,4082225868
+dimwishlist:item=66875353&perks=3151536500,1561002382,3436462433,4082225868
+dimwishlist:item=66875353&perks=3151536501,1885400500,3436462433,4082225868
+dimwishlist:item=66875353&perks=3151536500,1885400500,3436462433,4082225868
+dimwishlist:item=66875353&perks=3151536501,679225683,3436462433,4082225868
+dimwishlist:item=66875353&perks=3151536500,679225683,3436462433,4082225868
+
+
+// Hawkmoon
+//notes:pandapaxxy (PvE / M+KB): "For PvE Surplus or Killing Wind will depend on your build. A higher ability build will appreciate Surplus, a more solo run-n-gun build will appreciate Killing Wind. You could definitely opt for some of the other perks here too as nothing really screams PvE."|tags:pve,mkb
+dimwishlist:item=3856705927&perks=3250034553,3436462433,862848869
+dimwishlist:item=3856705927&perks=1482024992,3436462433,862848869
+dimwishlist:item=3856705927&perks=1840239774,3436462433,862848869
+dimwishlist:item=3856705927&perks=3250034553,2450788523,862848869
+dimwishlist:item=3856705927&perks=1482024992,2450788523,862848869
+dimwishlist:item=3856705927&perks=1840239774,2450788523,862848869
+dimwishlist:item=3856705927&perks=3250034553,3436462433,3326204863
+dimwishlist:item=3856705927&perks=1482024992,3436462433,3326204863
+dimwishlist:item=3856705927&perks=1840239774,3436462433,3326204863
+dimwishlist:item=3856705927&perks=3250034553,2450788523,3326204863
+dimwishlist:item=3856705927&perks=1482024992,2450788523,3326204863
+dimwishlist:item=3856705927&perks=1840239774,2450788523,3326204863
+
+
+// Hawkmoon
+//notes:pandapaxxy (PvP / M+KB): "For PvP I really value Rangefinder. It would give it the competitive edge over guns like Thorn or Ace and increase Hawkmoon’s already stellar consistency. If you don’t like the increased Zoom then something like Snapshot Sights really makes Hawkmoon feel snappy. You also can’t go wrong with Eye of the Storm, Opening Shot, or Killing Wind."|tags:pvp,mkb
+dimwishlist:item=3856705927&perks=3250034553,2846385770,862848869
+dimwishlist:item=3856705927&perks=1482024992,2846385770,862848869
+dimwishlist:item=3856705927&perks=3250034553,957782887,862848869
+dimwishlist:item=3856705927&perks=1482024992,957782887,862848869
+dimwishlist:item=3856705927&perks=3250034553,2450788523,862848869
+dimwishlist:item=3856705927&perks=1482024992,2450788523,862848869
+dimwishlist:item=3856705927&perks=3250034553,2846385770,3326204863
+dimwishlist:item=3856705927&perks=1482024992,2846385770,3326204863
+dimwishlist:item=3856705927&perks=3250034553,957782887,3326204863
+dimwishlist:item=3856705927&perks=1482024992,957782887,3326204863
+dimwishlist:item=3856705927&perks=3250034553,2450788523,3326204863
+dimwishlist:item=3856705927&perks=1482024992,2450788523,3326204863
+
+
+
+title:u/pandapaxxy's Dawning + Hawkmoon Controller Breakdown
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/kdpgzy/dawning_breakdown_and_hawkmoon_thoughts_controller/
+
+// Cold Front
+//notes:pandapaxxy (PvE / Controller): "For a kinetic SMG it has some relatively steep competition namely the warmind weapons in the energy slot. I don’t really think the perk pool leans itself towards PvE or PvP specifically but there are some decent combos. I’d recommend trying to grab yourself a One for All roll as it doesn’t roll on any SMGs this season." Recommended MW: Stability.|tags:pve,controller
+dimwishlist:item=1506719573&perks=1392496348,106909392,3436462433,3425386926
+dimwishlist:item=1506719573&perks=1482024992,106909392,3436462433,3425386926
+dimwishlist:item=1506719573&perks=1840239774,106909392,3436462433,3425386926
+dimwishlist:item=1506719573&perks=1392496348,1087426260,3436462433,3425386926
+dimwishlist:item=1506719573&perks=1482024992,1087426260,3436462433,3425386926
+dimwishlist:item=1506719573&perks=1840239774,1087426260,3436462433,3425386926
+dimwishlist:item=1506719573&perks=1392496348,3230963543,3436462433,3425386926
+dimwishlist:item=1506719573&perks=1482024992,3230963543,3436462433,3425386926
+dimwishlist:item=1506719573&perks=1840239774,3230963543,3436462433,3425386926
+dimwishlist:item=1506719573&perks=1392496348,106909392,706527188,3425386926
+dimwishlist:item=1506719573&perks=1482024992,106909392,706527188,3425386926
+dimwishlist:item=1506719573&perks=1840239774,106909392,706527188,3425386926
+dimwishlist:item=1506719573&perks=1392496348,1087426260,706527188,3425386926
+dimwishlist:item=1506719573&perks=1482024992,1087426260,706527188,3425386926
+dimwishlist:item=1506719573&perks=1840239774,1087426260,706527188,3425386926
+dimwishlist:item=1506719573&perks=1392496348,3230963543,706527188,3425386926
+dimwishlist:item=1506719573&perks=1482024992,3230963543,706527188,3425386926
+dimwishlist:item=1506719573&perks=1840239774,3230963543,706527188,3425386926
+dimwishlist:item=1506719573&perks=1392496348,106909392,3436462433,4049631843
+dimwishlist:item=1506719573&perks=1482024992,106909392,3436462433,4049631843
+dimwishlist:item=1506719573&perks=1840239774,106909392,3436462433,4049631843
+dimwishlist:item=1506719573&perks=1392496348,1087426260,3436462433,4049631843
+dimwishlist:item=1506719573&perks=1482024992,1087426260,3436462433,4049631843
+dimwishlist:item=1506719573&perks=1840239774,1087426260,3436462433,4049631843
+dimwishlist:item=1506719573&perks=1392496348,3230963543,3436462433,4049631843
+dimwishlist:item=1506719573&perks=1482024992,3230963543,3436462433,4049631843
+dimwishlist:item=1506719573&perks=1840239774,3230963543,3436462433,4049631843
+dimwishlist:item=1506719573&perks=1392496348,106909392,706527188,4049631843
+dimwishlist:item=1506719573&perks=1482024992,106909392,706527188,4049631843
+dimwishlist:item=1506719573&perks=1840239774,106909392,706527188,4049631843
+dimwishlist:item=1506719573&perks=1392496348,1087426260,706527188,4049631843
+dimwishlist:item=1506719573&perks=1482024992,1087426260,706527188,4049631843
+dimwishlist:item=1506719573&perks=1840239774,1087426260,706527188,4049631843
+dimwishlist:item=1506719573&perks=1392496348,3230963543,706527188,4049631843
+dimwishlist:item=1506719573&perks=1482024992,3230963543,706527188,4049631843
+dimwishlist:item=1506719573&perks=1840239774,3230963543,706527188,4049631843
+dimwishlist:item=1506719573&perks=1392496348,106909392,3436462433,2848615171
+dimwishlist:item=1506719573&perks=1482024992,106909392,3436462433,2848615171
+dimwishlist:item=1506719573&perks=1840239774,106909392,3436462433,2848615171
+dimwishlist:item=1506719573&perks=1392496348,1087426260,3436462433,2848615171
+dimwishlist:item=1506719573&perks=1482024992,1087426260,3436462433,2848615171
+dimwishlist:item=1506719573&perks=1840239774,1087426260,3436462433,2848615171
+dimwishlist:item=1506719573&perks=1392496348,3230963543,3436462433,2848615171
+dimwishlist:item=1506719573&perks=1482024992,3230963543,3436462433,2848615171
+dimwishlist:item=1506719573&perks=1840239774,3230963543,3436462433,2848615171
+dimwishlist:item=1506719573&perks=1392496348,106909392,706527188,2848615171
+dimwishlist:item=1506719573&perks=1482024992,106909392,706527188,2848615171
+dimwishlist:item=1506719573&perks=1840239774,106909392,706527188,2848615171
+dimwishlist:item=1506719573&perks=1392496348,1087426260,706527188,2848615171
+dimwishlist:item=1506719573&perks=1482024992,1087426260,706527188,2848615171
+dimwishlist:item=1506719573&perks=1840239774,1087426260,706527188,2848615171
+dimwishlist:item=1506719573&perks=1392496348,3230963543,706527188,2848615171
+dimwishlist:item=1506719573&perks=1482024992,3230963543,706527188,2848615171
+dimwishlist:item=1506719573&perks=1840239774,3230963543,706527188,2848615171
+
+
+// Cold Front
+//notes:pandapaxxy (PvP / Controller): "For PvP if you really want to use this SMG you’re gonna need to bump up the stability. Bast 16 stability is way too low for anything fully automatic and even with max stability at 48 you could still have a rough time. Dynamic Sway Reduction is definitely the call even if you get a max stability roll." Recommended MW: Stability.|tags:pvp,controller
+dimwishlist:item=1506719573&perks=1392496348,3177308360,1359896290,3425386926
+dimwishlist:item=1506719573&perks=1482024992,3177308360,1359896290,3425386926
+dimwishlist:item=1506719573&perks=3661387068,3177308360,1359896290,3425386926
+dimwishlist:item=1506719573&perks=1392496348,106909392,1359896290,3425386926
+dimwishlist:item=1506719573&perks=1482024992,106909392,1359896290,3425386926
+dimwishlist:item=1506719573&perks=3661387068,106909392,1359896290,3425386926
+dimwishlist:item=1506719573&perks=1392496348,3230963543,1359896290,3425386926
+dimwishlist:item=1506719573&perks=1482024992,3230963543,1359896290,3425386926
+dimwishlist:item=1506719573&perks=3661387068,3230963543,1359896290,3425386926
+
+
+// Glacioclasm
+//notes:pandapaxxy (PvE / Controller): "For PvE you’re going to want some magazine booster as well as anything that promotes high damage. Swashbuckler 5x from a melee or High-Impact Reserves are both great options. Surplus and Demolitionist are a really neat pairing too for high ability builds." Recommended MW: Reload.|tags:pve,controller
+dimwishlist:item=1030895163&perks=1840239774,1483536627,3436462433,4082225868
+dimwishlist:item=1030895163&perks=839105230,1483536627,3436462433,4082225868
+dimwishlist:item=1030895163&perks=1482024992,1483536627,3436462433,4082225868
+dimwishlist:item=1030895163&perks=1840239774,2680121939,3436462433,4082225868
+dimwishlist:item=1030895163&perks=839105230,2680121939,3436462433,4082225868
+dimwishlist:item=1030895163&perks=1482024992,2680121939,3436462433,4082225868
+dimwishlist:item=1030895163&perks=1840239774,1687452232,3436462433,4082225868
+dimwishlist:item=1030895163&perks=839105230,1687452232,3436462433,4082225868
+dimwishlist:item=1030895163&perks=1482024992,1687452232,3436462433,4082225868
+dimwishlist:item=1030895163&perks=1840239774,1483536627,2869569095,4082225868
+dimwishlist:item=1030895163&perks=839105230,1483536627,2869569095,4082225868
+dimwishlist:item=1030895163&perks=1482024992,1483536627,2869569095,4082225868
+dimwishlist:item=1030895163&perks=1840239774,2680121939,2869569095,4082225868
+dimwishlist:item=1030895163&perks=839105230,2680121939,2869569095,4082225868
+dimwishlist:item=1030895163&perks=1482024992,2680121939,2869569095,4082225868
+dimwishlist:item=1030895163&perks=1840239774,1687452232,2869569095,4082225868
+dimwishlist:item=1030895163&perks=839105230,1687452232,2869569095,4082225868
+dimwishlist:item=1030895163&perks=1482024992,1687452232,2869569095,4082225868
+dimwishlist:item=1030895163&perks=1840239774,1483536627,3436462433,3523296417
+dimwishlist:item=1030895163&perks=839105230,1483536627,3436462433,3523296417
+dimwishlist:item=1030895163&perks=1482024992,1483536627,3436462433,3523296417
+dimwishlist:item=1030895163&perks=1840239774,2680121939,3436462433,3523296417
+dimwishlist:item=1030895163&perks=839105230,2680121939,3436462433,3523296417
+dimwishlist:item=1030895163&perks=1482024992,2680121939,3436462433,3523296417
+dimwishlist:item=1030895163&perks=1840239774,1687452232,3436462433,3523296417
+dimwishlist:item=1030895163&perks=839105230,1687452232,3436462433,3523296417
+dimwishlist:item=1030895163&perks=1482024992,1687452232,3436462433,3523296417
+dimwishlist:item=1030895163&perks=1840239774,1483536627,2869569095,3523296417
+dimwishlist:item=1030895163&perks=839105230,1483536627,2869569095,3523296417
+dimwishlist:item=1030895163&perks=1482024992,1483536627,2869569095,3523296417
+dimwishlist:item=1030895163&perks=1840239774,2680121939,2869569095,3523296417
+dimwishlist:item=1030895163&perks=839105230,2680121939,2869569095,3523296417
+dimwishlist:item=1030895163&perks=1482024992,2680121939,2869569095,3523296417
+dimwishlist:item=1030895163&perks=1840239774,1687452232,2869569095,3523296417
+dimwishlist:item=1030895163&perks=839105230,1687452232,2869569095,3523296417
+dimwishlist:item=1030895163&perks=1482024992,1687452232,2869569095,3523296417
+dimwishlist:item=1030895163&perks=1840239774,1483536627,3436462433,2213355989
+dimwishlist:item=1030895163&perks=839105230,1483536627,3436462433,2213355989
+dimwishlist:item=1030895163&perks=1482024992,1483536627,3436462433,2213355989
+dimwishlist:item=1030895163&perks=1840239774,2680121939,3436462433,2213355989
+dimwishlist:item=1030895163&perks=839105230,2680121939,3436462433,2213355989
+dimwishlist:item=1030895163&perks=1482024992,2680121939,3436462433,2213355989
+dimwishlist:item=1030895163&perks=1840239774,1687452232,3436462433,2213355989
+dimwishlist:item=1030895163&perks=839105230,1687452232,3436462433,2213355989
+dimwishlist:item=1030895163&perks=1482024992,1687452232,3436462433,2213355989
+dimwishlist:item=1030895163&perks=1840239774,1483536627,2869569095,2213355989
+dimwishlist:item=1030895163&perks=839105230,1483536627,2869569095,2213355989
+dimwishlist:item=1030895163&perks=1482024992,1483536627,2869569095,2213355989
+dimwishlist:item=1030895163&perks=1840239774,2680121939,2869569095,2213355989
+dimwishlist:item=1030895163&perks=839105230,2680121939,2869569095,2213355989
+dimwishlist:item=1030895163&perks=1482024992,2680121939,2869569095,2213355989
+dimwishlist:item=1030895163&perks=1840239774,1687452232,2869569095,2213355989
+dimwishlist:item=1030895163&perks=839105230,1687452232,2869569095,2213355989
+dimwishlist:item=1030895163&perks=1482024992,1687452232,2869569095,2213355989
+dimwishlist:item=1030895163&perks=1840239774,1483536627,3436462433,3300816228
+dimwishlist:item=1030895163&perks=839105230,1483536627,3436462433,3300816228
+dimwishlist:item=1030895163&perks=1482024992,1483536627,3436462433,3300816228
+dimwishlist:item=1030895163&perks=1840239774,2680121939,3436462433,3300816228
+dimwishlist:item=1030895163&perks=839105230,2680121939,3436462433,3300816228
+dimwishlist:item=1030895163&perks=1482024992,2680121939,3436462433,3300816228
+dimwishlist:item=1030895163&perks=1840239774,1687452232,3436462433,3300816228
+dimwishlist:item=1030895163&perks=839105230,1687452232,3436462433,3300816228
+dimwishlist:item=1030895163&perks=1482024992,1687452232,3436462433,3300816228
+dimwishlist:item=1030895163&perks=1840239774,1483536627,2869569095,3300816228
+dimwishlist:item=1030895163&perks=839105230,1483536627,2869569095,3300816228
+dimwishlist:item=1030895163&perks=1482024992,1483536627,2869569095,3300816228
+dimwishlist:item=1030895163&perks=1840239774,2680121939,2869569095,3300816228
+dimwishlist:item=1030895163&perks=839105230,2680121939,2869569095,3300816228
+dimwishlist:item=1030895163&perks=1482024992,2680121939,2869569095,3300816228
+dimwishlist:item=1030895163&perks=1840239774,1687452232,2869569095,3300816228
+dimwishlist:item=1030895163&perks=839105230,1687452232,2869569095,3300816228
+dimwishlist:item=1030895163&perks=1482024992,1687452232,2869569095,3300816228
+
+
+// Glacioclasm
+//notes:pandapaxxy (PvP / Controller): "For PvP consistency is the name of the game. High stability to land all of the burst at further ranges. Fluted Barrel for a faster handling weapon, both pulling out and stowing. Killing Wind to make your great escape. And High-Impact Reserves because if you're using a fusion rifle in PvP, you’re gonna die a lot /s." Recommended MW: Stability or Handling.|tags:pvp,controller
+dimwishlist:item=1030895163&perks=1840239774,3868766766,2450788523,2213355989
+dimwishlist:item=1030895163&perks=1482024992,3868766766,2450788523,2213355989
+dimwishlist:item=1030895163&perks=1392496348,3868766766,2450788523,2213355989
+dimwishlist:item=1030895163&perks=1840239774,2969185026,2450788523,2213355989
+dimwishlist:item=1030895163&perks=1482024992,2969185026,2450788523,2213355989
+dimwishlist:item=1030895163&perks=1392496348,2969185026,2450788523,2213355989
+dimwishlist:item=1030895163&perks=1840239774,3868766766,3161816588,2213355989
+dimwishlist:item=1030895163&perks=1482024992,3868766766,3161816588,2213355989
+dimwishlist:item=1030895163&perks=1392496348,3868766766,3161816588,2213355989
+dimwishlist:item=1030895163&perks=1840239774,2969185026,3161816588,2213355989
+dimwishlist:item=1030895163&perks=1482024992,2969185026,3161816588,2213355989
+dimwishlist:item=1030895163&perks=1392496348,2969185026,3161816588,2213355989
+dimwishlist:item=1030895163&perks=1840239774,3868766766,3436462433,2213355989
+dimwishlist:item=1030895163&perks=1482024992,3868766766,3436462433,2213355989
+dimwishlist:item=1030895163&perks=1392496348,3868766766,3436462433,2213355989
+dimwishlist:item=1030895163&perks=1840239774,2969185026,3436462433,2213355989
+dimwishlist:item=1030895163&perks=1482024992,2969185026,3436462433,2213355989
+dimwishlist:item=1030895163&perks=1392496348,2969185026,3436462433,2213355989
+dimwishlist:item=1030895163&perks=1840239774,3868766766,2450788523,3523296417
+dimwishlist:item=1030895163&perks=1482024992,3868766766,2450788523,3523296417
+dimwishlist:item=1030895163&perks=1392496348,3868766766,2450788523,3523296417
+dimwishlist:item=1030895163&perks=1840239774,2969185026,2450788523,3523296417
+dimwishlist:item=1030895163&perks=1482024992,2969185026,2450788523,3523296417
+dimwishlist:item=1030895163&perks=1392496348,2969185026,2450788523,3523296417
+dimwishlist:item=1030895163&perks=1840239774,3868766766,3161816588,3523296417
+dimwishlist:item=1030895163&perks=1482024992,3868766766,3161816588,3523296417
+dimwishlist:item=1030895163&perks=1392496348,3868766766,3161816588,3523296417
+dimwishlist:item=1030895163&perks=1840239774,2969185026,3161816588,3523296417
+dimwishlist:item=1030895163&perks=1482024992,2969185026,3161816588,3523296417
+dimwishlist:item=1030895163&perks=1392496348,2969185026,3161816588,3523296417
+dimwishlist:item=1030895163&perks=1840239774,3868766766,3436462433,3523296417
+dimwishlist:item=1030895163&perks=1482024992,3868766766,3436462433,3523296417
+dimwishlist:item=1030895163&perks=1392496348,3868766766,3436462433,3523296417
+dimwishlist:item=1030895163&perks=1840239774,2969185026,3436462433,3523296417
+dimwishlist:item=1030895163&perks=1482024992,2969185026,3436462433,3523296417
+dimwishlist:item=1030895163&perks=1392496348,2969185026,3436462433,3523296417
+dimwishlist:item=1030895163&perks=1840239774,3868766766,2450788523,4082225868
+dimwishlist:item=1030895163&perks=1482024992,3868766766,2450788523,4082225868
+dimwishlist:item=1030895163&perks=1392496348,3868766766,2450788523,4082225868
+dimwishlist:item=1030895163&perks=1840239774,2969185026,2450788523,4082225868
+dimwishlist:item=1030895163&perks=1482024992,2969185026,2450788523,4082225868
+dimwishlist:item=1030895163&perks=1392496348,2969185026,2450788523,4082225868
+dimwishlist:item=1030895163&perks=1840239774,3868766766,3161816588,4082225868
+dimwishlist:item=1030895163&perks=1482024992,3868766766,3161816588,4082225868
+dimwishlist:item=1030895163&perks=1392496348,3868766766,3161816588,4082225868
+dimwishlist:item=1030895163&perks=1840239774,2969185026,3161816588,4082225868
+dimwishlist:item=1030895163&perks=1482024992,2969185026,3161816588,4082225868
+dimwishlist:item=1030895163&perks=1392496348,2969185026,3161816588,4082225868
+dimwishlist:item=1030895163&perks=1840239774,3868766766,3436462433,4082225868
+dimwishlist:item=1030895163&perks=1482024992,3868766766,3436462433,4082225868
+dimwishlist:item=1030895163&perks=1392496348,3868766766,3436462433,4082225868
+dimwishlist:item=1030895163&perks=1840239774,2969185026,3436462433,4082225868
+dimwishlist:item=1030895163&perks=1482024992,2969185026,3436462433,4082225868
+dimwishlist:item=1030895163&perks=1392496348,2969185026,3436462433,4082225868
+
+
+// Avalanche
+//notes:pandapaxxy (PvE / Controller): "Avalanche came back and it’s worse than ever. My favorite sight on any SUROS weapon is the SPO-57 Front, offers some decent zoom and highlights targets making my life aiming just ever so easier. Bumping up the average 57 magazine in combination with Auto-Loading Holster will make reloading a thing of the past. Vorpal is definitely the easiest to use as most majors will trigger it, and you don’t have to think about it. Outlaw and Dragonfly pair together as do Grave Robber and Swashbuckler." Recommended MW: Reload.|tags:pve,controller
+dimwishlist:item=66875353&perks=3151536501,1087426260,3300816228,1546637391
+dimwishlist:item=66875353&perks=965619221,1087426260,3300816228,1546637391
+dimwishlist:item=66875353&perks=965619220,1087426260,3300816228,1546637391
+dimwishlist:item=66875353&perks=3151536501,1561002382,3300816228,1546637391
+dimwishlist:item=66875353&perks=965619221,1561002382,3300816228,1546637391
+dimwishlist:item=66875353&perks=965619220,1561002382,3300816228,1546637391
+dimwishlist:item=66875353&perks=3151536501,2420895100,3300816228,1546637391
+dimwishlist:item=66875353&perks=965619221,2420895100,3300816228,1546637391
+dimwishlist:item=66875353&perks=965619220,2420895100,3300816228,1546637391
+dimwishlist:item=66875353&perks=3151536501,1087426260,1168162263,1546637391
+dimwishlist:item=66875353&perks=965619221,1087426260,1168162263,1546637391
+dimwishlist:item=66875353&perks=965619220,1087426260,1168162263,1546637391
+dimwishlist:item=66875353&perks=3151536501,1561002382,1168162263,1546637391
+dimwishlist:item=66875353&perks=965619221,1561002382,1168162263,1546637391
+dimwishlist:item=66875353&perks=965619220,1561002382,1168162263,1546637391
+dimwishlist:item=66875353&perks=3151536501,2420895100,1168162263,1546637391
+dimwishlist:item=66875353&perks=965619221,2420895100,1168162263,1546637391
+dimwishlist:item=66875353&perks=965619220,2420895100,1168162263,1546637391
+dimwishlist:item=66875353&perks=3151536501,1087426260,1631667848,1546637391
+dimwishlist:item=66875353&perks=965619221,1087426260,1631667848,1546637391
+dimwishlist:item=66875353&perks=965619220,1087426260,1631667848,1546637391
+dimwishlist:item=66875353&perks=3151536501,1561002382,1631667848,1546637391
+dimwishlist:item=66875353&perks=965619221,1561002382,1631667848,1546637391
+dimwishlist:item=66875353&perks=965619220,1561002382,1631667848,1546637391
+dimwishlist:item=66875353&perks=3151536501,2420895100,1631667848,1546637391
+dimwishlist:item=66875353&perks=965619221,2420895100,1631667848,1546637391
+dimwishlist:item=66875353&perks=965619220,2420895100,1631667848,1546637391
+dimwishlist:item=66875353&perks=3151536501,1087426260,3300816228,2848615171
+dimwishlist:item=66875353&perks=965619221,1087426260,3300816228,2848615171
+dimwishlist:item=66875353&perks=965619220,1087426260,3300816228,2848615171
+dimwishlist:item=66875353&perks=3151536501,1561002382,3300816228,2848615171
+dimwishlist:item=66875353&perks=965619221,1561002382,3300816228,2848615171
+dimwishlist:item=66875353&perks=965619220,1561002382,3300816228,2848615171
+dimwishlist:item=66875353&perks=3151536501,2420895100,3300816228,2848615171
+dimwishlist:item=66875353&perks=965619221,2420895100,3300816228,2848615171
+dimwishlist:item=66875353&perks=965619220,2420895100,3300816228,2848615171
+dimwishlist:item=66875353&perks=3151536501,1087426260,1168162263,2848615171
+dimwishlist:item=66875353&perks=965619221,1087426260,1168162263,2848615171
+dimwishlist:item=66875353&perks=965619220,1087426260,1168162263,2848615171
+dimwishlist:item=66875353&perks=3151536501,1561002382,1168162263,2848615171
+dimwishlist:item=66875353&perks=965619221,1561002382,1168162263,2848615171
+dimwishlist:item=66875353&perks=965619220,1561002382,1168162263,2848615171
+dimwishlist:item=66875353&perks=3151536501,2420895100,1168162263,2848615171
+dimwishlist:item=66875353&perks=965619221,2420895100,1168162263,2848615171
+dimwishlist:item=66875353&perks=965619220,2420895100,1168162263,2848615171
+dimwishlist:item=66875353&perks=3151536501,1087426260,1631667848,2848615171
+dimwishlist:item=66875353&perks=965619221,1087426260,1631667848,2848615171
+dimwishlist:item=66875353&perks=965619220,1087426260,1631667848,2848615171
+dimwishlist:item=66875353&perks=3151536501,1561002382,1631667848,2848615171
+dimwishlist:item=66875353&perks=965619221,1561002382,1631667848,2848615171
+dimwishlist:item=66875353&perks=965619220,1561002382,1631667848,2848615171
+dimwishlist:item=66875353&perks=3151536501,2420895100,1631667848,2848615171
+dimwishlist:item=66875353&perks=965619221,2420895100,1631667848,2848615171
+dimwishlist:item=66875353&perks=965619220,2420895100,1631667848,2848615171
+dimwishlist:item=66875353&perks=3151536501,1087426260,3300816228,4082225868
+dimwishlist:item=66875353&perks=965619221,1087426260,3300816228,4082225868
+dimwishlist:item=66875353&perks=965619220,1087426260,3300816228,4082225868
+dimwishlist:item=66875353&perks=3151536501,1561002382,3300816228,4082225868
+dimwishlist:item=66875353&perks=965619221,1561002382,3300816228,4082225868
+dimwishlist:item=66875353&perks=965619220,1561002382,3300816228,4082225868
+dimwishlist:item=66875353&perks=3151536501,2420895100,3300816228,4082225868
+dimwishlist:item=66875353&perks=965619221,2420895100,3300816228,4082225868
+dimwishlist:item=66875353&perks=965619220,2420895100,3300816228,4082225868
+dimwishlist:item=66875353&perks=3151536501,1087426260,1168162263,4082225868
+dimwishlist:item=66875353&perks=965619221,1087426260,1168162263,4082225868
+dimwishlist:item=66875353&perks=965619220,1087426260,1168162263,4082225868
+dimwishlist:item=66875353&perks=3151536501,1561002382,1168162263,4082225868
+dimwishlist:item=66875353&perks=965619221,1561002382,1168162263,4082225868
+dimwishlist:item=66875353&perks=965619220,1561002382,1168162263,4082225868
+dimwishlist:item=66875353&perks=3151536501,2420895100,1168162263,4082225868
+dimwishlist:item=66875353&perks=965619221,2420895100,1168162263,4082225868
+dimwishlist:item=66875353&perks=965619220,2420895100,1168162263,4082225868
+dimwishlist:item=66875353&perks=3151536501,1087426260,1631667848,4082225868
+dimwishlist:item=66875353&perks=965619221,1087426260,1631667848,4082225868
+dimwishlist:item=66875353&perks=965619220,1087426260,1631667848,4082225868
+dimwishlist:item=66875353&perks=3151536501,1561002382,1631667848,4082225868
+dimwishlist:item=66875353&perks=965619221,1561002382,1631667848,4082225868
+dimwishlist:item=66875353&perks=965619220,1561002382,1631667848,4082225868
+dimwishlist:item=66875353&perks=3151536501,2420895100,1631667848,4082225868
+dimwishlist:item=66875353&perks=965619221,2420895100,1631667848,4082225868
+dimwishlist:item=66875353&perks=965619220,2420895100,1631667848,4082225868
+
+
+// Avalanche
+//notes:pandapaxxy (PvP / Controller): "For PvP it’s hard to pass this over Commemoration. A better sight or consistency will lead to an easier time but it doesn’t always translate on paper. Avalanche fire’s kinda weird and the best way to describe it is a double mule. Once you tame one the other bucks you off target. Zen Moment and Tap the Trigger are really the best in slots to make both mules a lot easier to control." Recommended MW: Stability.|tags:pvp,controller
+dimwishlist:item=66875353&perks=3151536501,1885400500,2387244414,1890422124
+dimwishlist:item=66875353&perks=3151536500,1885400500,2387244414,1890422124
+dimwishlist:item=66875353&perks=3151536501,1561002382,2387244414,1890422124
+dimwishlist:item=66875353&perks=3151536500,1561002382,2387244414,1890422124
+dimwishlist:item=66875353&perks=3151536501,3230963543,2387244414,1890422124
+dimwishlist:item=66875353&perks=3151536500,3230963543,2387244414,1890422124
+dimwishlist:item=66875353&perks=3151536501,1885400500,2450788523,1890422124
+dimwishlist:item=66875353&perks=3151536500,1885400500,2450788523,1890422124
+dimwishlist:item=66875353&perks=3151536501,1561002382,2450788523,1890422124
+dimwishlist:item=66875353&perks=3151536500,1561002382,2450788523,1890422124
+dimwishlist:item=66875353&perks=3151536501,3230963543,2450788523,1890422124
+dimwishlist:item=66875353&perks=3151536500,3230963543,2450788523,1890422124
+dimwishlist:item=66875353&perks=3151536501,1885400500,2387244414,4082225868
+dimwishlist:item=66875353&perks=3151536500,1885400500,2387244414,4082225868
+dimwishlist:item=66875353&perks=3151536501,1561002382,2387244414,4082225868
+dimwishlist:item=66875353&perks=3151536500,1561002382,2387244414,4082225868
+dimwishlist:item=66875353&perks=3151536501,3230963543,2387244414,4082225868
+dimwishlist:item=66875353&perks=3151536500,3230963543,2387244414,4082225868
+dimwishlist:item=66875353&perks=3151536501,1885400500,2450788523,4082225868
+dimwishlist:item=66875353&perks=3151536500,1885400500,2450788523,4082225868
+dimwishlist:item=66875353&perks=3151536501,1561002382,2450788523,4082225868
+dimwishlist:item=66875353&perks=3151536500,1561002382,2450788523,4082225868
+dimwishlist:item=66875353&perks=3151536501,3230963543,2450788523,4082225868
+dimwishlist:item=66875353&perks=3151536500,3230963543,2450788523,4082225868
+
+
+// Hawkmoon
+//notes:pandapaxxy (PvE / Controller): "For PvE Surplus or Killing Wind will depend on your build. A higher ability build will appreciate Surplus, a more solo run-n-gun build will appreciate Killing Wind. You could definitely opt for some of the other perks here too as nothing really screams PvE."|tags:pve,controller
+dimwishlist:item=3856705927&perks=1482024992,3436462433,1012699414
+dimwishlist:item=3856705927&perks=1840239774,3436462433,1012699414
+dimwishlist:item=3856705927&perks=4090651448,3436462433,1012699414
+dimwishlist:item=3856705927&perks=1482024992,2450788523,1012699414
+dimwishlist:item=3856705927&perks=1840239774,2450788523,1012699414
+dimwishlist:item=3856705927&perks=4090651448,2450788523,1012699414
+dimwishlist:item=3856705927&perks=1482024992,3436462433,3326204863
+dimwishlist:item=3856705927&perks=1840239774,3436462433,3326204863
+dimwishlist:item=3856705927&perks=4090651448,3436462433,3326204863
+dimwishlist:item=3856705927&perks=1482024992,2450788523,3326204863
+dimwishlist:item=3856705927&perks=1840239774,2450788523,3326204863
+dimwishlist:item=3856705927&perks=4090651448,2450788523,3326204863
+
+
+// Hawkmoon
+//notes:pandapaxxy (PvP / Controller): "For PvP I really value Rangefinder. It would give it the competitive edge over guns like Thorn or Ace and increase Hawkmoon’s already stellar consistency. If you don’t like the increased Zoom then something like Snapshot Sights really makes Hawkmoon feel snappy. You also can’t go wrong with Eye of the Storm, Opening Shot, or Killing Wind."|tags:pvp,controller
+dimwishlist:item=3856705927&perks=1482024992,2846385770,3326204863
+dimwishlist:item=3856705927&perks=3250034553,2846385770,3326204863
+dimwishlist:item=3856705927&perks=1482024992,957782887,3326204863
+dimwishlist:item=3856705927&perks=3250034553,957782887,3326204863
+dimwishlist:item=3856705927&perks=1482024992,699525795,3326204863
+dimwishlist:item=3856705927&perks=3250034553,699525795,3326204863
+dimwishlist:item=3856705927&perks=1482024992,2450788523,3326204863
+dimwishlist:item=3856705927&perks=3250034553,2450788523,3326204863
+dimwishlist:item=3856705927&perks=1482024992,2846385770,862848869
+dimwishlist:item=3856705927&perks=3250034553,2846385770,862848869
+dimwishlist:item=3856705927&perks=1482024992,957782887,862848869
+dimwishlist:item=3856705927&perks=3250034553,957782887,862848869
+dimwishlist:item=3856705927&perks=1482024992,699525795,862848869
+dimwishlist:item=3856705927&perks=3250034553,699525795,862848869
+dimwishlist:item=3856705927&perks=1482024992,2450788523,862848869
+dimwishlist:item=3856705927&perks=3250034553,2450788523,862848869
+dimwishlist:item=3856705927&perks=1482024992,2846385770,1012699414
+dimwishlist:item=3856705927&perks=3250034553,2846385770,1012699414
+dimwishlist:item=3856705927&perks=1482024992,957782887,1012699414
+dimwishlist:item=3856705927&perks=3250034553,957782887,1012699414
+dimwishlist:item=3856705927&perks=1482024992,699525795,1012699414
+dimwishlist:item=3856705927&perks=3250034553,699525795,1012699414
+dimwishlist:item=3856705927&perks=1482024992,2450788523,1012699414
+dimwishlist:item=3856705927&perks=3250034553,2450788523,1012699414
+
+
 
 title: u/pandapaxxy's Season (of the Hunt) Iron Banner recommendations, M+KB edition
 description: Originally found at https://www.reddit.com/r/sharditkeepit/comments/juwj91/iron_banner_and_trials_mnk/
