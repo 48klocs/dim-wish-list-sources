@@ -726,10 +726,6 @@ dimwishlist:item=2891672170&perks=1047830412,791862061,3300816228,1546637391#not
 dimwishlist:item=2891672170&perks=4090651448,791862061,3300816228,1546637391#notes:Chevy's S13 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Handling
 dimwishlist:item=2891672170&perks=1047830412,791862061,1556840489,1546637391#notes:Chevy's S13 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Handling
 dimwishlist:item=2891672170&perks=4090651448,791862061,1556840489,1546637391#notes:Chevy's S13 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Handling
-dimwishlist:item=2891672170&perks=1047830412,791862061,3300816228,806159697#notes:Chevy's S13 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Handling
-dimwishlist:item=2891672170&perks=4090651448,791862061,3300816228,806159697#notes:Chevy's S13 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Handling
-dimwishlist:item=2891672170&perks=1047830412,791862061,1556840489,806159697#notes:Chevy's S13 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Handling
-dimwishlist:item=2891672170&perks=4090651448,791862061,1556840489,806159697#notes:Chevy's S13 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Handling
 dimwishlist:item=2891672170&perks=1047830412,791862061,3300816228,3708227201#notes:Chevy's S13 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Handling
 dimwishlist:item=2891672170&perks=4090651448,791862061,3300816228,3708227201#notes:Chevy's S13 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Handling
 dimwishlist:item=2891672170&perks=1047830412,791862061,1556840489,3708227201#notes:Chevy's S13 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Handling
