@@ -1,4 +1,5 @@
 title:@AyyItsChevy's S13 Super Pog PvE Loot List
+description:Originally found at https://twitter.com/AyyItsChevy/status/1359565294709190658?s=20
 
 dimwishlist:item=3037520408&perks=1840239774,1087426260,4071163871,2213355989#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Reload
 dimwishlist:item=3037520408&perks=1482024992,1087426260,4071163871,2213355989#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Reload
