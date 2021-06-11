@@ -13,7 +13,7 @@ const placesToLookForValidPerks: (
 (async () => {
   let counter = 0;
   await d2manifest.load();
-  ["Mercules904", "PandaPaxxy", "AyyItsChevy" /*, "misc"*/].forEach(dirName => {
+  ["Mercules904", "PandaPaxxy", "AyyItsChevy", "blueberries-dot-gg" /*, "misc"*/].forEach(dirName => {
     fs.readdirSync("../" + dirName).forEach(fileName => {
       verboseMain && console.log(`\nloading ${fileName}`);
       const rolls = toWishList(
