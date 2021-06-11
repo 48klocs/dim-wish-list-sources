@@ -1,5 +1,8 @@
+TODO: Stochastic Variable (after fix).
+
+
 // Fatebringer
-//notes:light.gg (PvE): S-Tier. Recommended MW: Range.|tags:pve
+//notes:light.gg (PvE): S-Tier (Best). Recommended MW: Range.|tags:pve
 dimwishlist:item=2171478765&perks=4090651448,3142289711,3038247973,1561789734
 dimwishlist:item=2171478765&perks=202670084,3142289711,3038247973,1561789734
 dimwishlist:item=2171478765&perks=3250034553,3142289711,3038247973,1561789734
@@ -21,7 +24,7 @@ dimwishlist:item=2171478765&perks=3250034553,106909392,3038247973,3824105627
 
 
 // Fatebringer (Timelost)
-//notes:light.gg (PvE): S-Tier. Recommended MW: Range.|tags:pve
+//notes:light.gg (PvE): S-Tier (Best). Recommended MW: Range.|tags:pve
 dimwishlist:item=1216319404&perks=4090651448,3142289711,3038247973,1561789734
 dimwishlist:item=1216319404&perks=202670084,3142289711,3038247973,1561789734
 dimwishlist:item=1216319404&perks=3250034553,3142289711,3038247973,1561789734
@@ -43,7 +46,7 @@ dimwishlist:item=1216319404&perks=3250034553,106909392,3038247973,3824105627
 
 
 // Fatebringer
-//notes:light.gg (PvP): S-Tier. Recommended MW: Range.|tags:pvp
+//notes:light.gg (PvP): S-Tier (Best). Recommended MW: Range.|tags:pvp
 dimwishlist:item=2171478765&perks=4090651448,3142289711,3038247973,47981717
 dimwishlist:item=2171478765&perks=202670084,3142289711,3038247973,47981717
 dimwishlist:item=2171478765&perks=4090651448,3142289711,2946784966,47981717
@@ -55,7 +58,7 @@ dimwishlist:item=2171478765&perks=202670084,3142289711,2946784966,1015611457
 
 
 // Fatebringer (Timelost)
-//notes:light.gg (PvP): S-Tier. Recommended MW: Range.|tags:pvp
+//notes:light.gg (PvP): S-Tier (Best). Recommended MW: Range.|tags:pvp
 dimwishlist:item=1216319404&perks=4090651448,3142289711,3038247973,47981717
 dimwishlist:item=1216319404&perks=202670084,3142289711,3038247973,47981717
 dimwishlist:item=1216319404&perks=4090651448,3142289711,2946784966,47981717
@@ -67,7 +70,7 @@ dimwishlist:item=1216319404&perks=202670084,3142289711,2946784966,1015611457
 
 
 // Found Verdict
-//notes:Castle (PvP): S-Tier. Recommended MW: Range / Handling.|tags:pvp
+//notes:Castle (PvP): S-Tier (Best). Recommended MW: Range / Handling.|tags:pvp
 dimwishlist:item=3197270240&perks=1482024992,3142289711,47981717,1561789734
 dimwishlist:item=3197270240&perks=1047830412,3142289711,47981717,1561789734
 dimwishlist:item=3197270240&perks=1300023272,3142289711,47981717,1561789734
@@ -107,7 +110,7 @@ dimwishlist:item=3197270240&perks=1300023272,791862061,2450788523,3824105627
 
 
 // Found Verdict (Timelost)
-//notes:Castle (PvP): S-Tier. Recommended MW: Range / Handling.|tags:pvp
+//notes:Castle (PvP): S-Tier (Best). Recommended MW: Range / Handling.|tags:pvp
 dimwishlist:item=631439337&perks=1482024992,3142289711,47981717,1561789734
 dimwishlist:item=631439337&perks=1047830412,3142289711,47981717,1561789734
 dimwishlist:item=631439337&perks=1300023272,3142289711,47981717,1561789734
@@ -147,48 +150,48 @@ dimwishlist:item=631439337&perks=1300023272,791862061,2450788523,3824105627
 
 
 // Gridskipper
-//notes:Ascendant Nomad (PvE): A-Tier. Recommended MW: Reload.|tags:pve
+//notes:Ascendant Nomad (PvE): A-Tier (Strong). Recommended MW: Reload.|tags:pve
 dimwishlist:item=1621558458&perks=1840239774,3230963543,2946784966,2458213969
 
 
 // Gridskipper
-//notes:Ascendant Nomad (PvP): A-Tier. Recommended MW: Range.|tags:pvp
+//notes:Ascendant Nomad (PvP): A-Tier (Strong). Recommended MW: Range.|tags:pvp
 dimwishlist:item=1621558458&perks=839105230,1561002382,588594999,2458213969
 dimwishlist:item=1621558458&perks=839105230,1561002382,1570042021,2458213969
 
 
 // Ignition Code
-//notes:jarv (PvE): A-Tier. Recommended MW: Velocity.|tags:pve
+//notes:jarv (PvE): A-Tier (Strong). Recommended MW: Velocity.|tags:pve
 dimwishlist:item=304659313&perks=332773068,3301904089,2010801679,1546637391
 dimwishlist:item=304659313&perks=1478423395,3301904089,2010801679,1546637391
 
 
 // Ignition Code
-//notes:jarv (PvP): A-Tier. Recommended MW: Blast Radius.|tags:pvp
+//notes:jarv (PvP): A-Tier (Strong). Recommended MW: Blast Radius.|tags:pvp
 dimwishlist:item=304659313&perks=1844523823,3032599245,3161816588,4104185692
 
 
 // Shayura's Wrath
-//notes:Pattycakes (PvE): A-Tier. Recommended MW: Range.|tags:pve
+//notes:Pattycakes (PvE): A-Tier (Strong). Recommended MW: Range.|tags:pve
 dimwishlist:item=3682803680&perks=1482024992,3230963543,1570042021,1015611457
 
 // Shayura's Wrath (Adept)
-//notes:Pattycakes (PvE): A-Tier. Recommended MW: Range.|tags:pve
+//notes:Pattycakes (PvE): A-Tier (Strong). Recommended MW: Range.|tags:pve
 dimwishlist:item=4023807721&perks=1482024992,3230963543,1570042021,1015611457
 
 
 // Shayura's Wrath (Adept)
-//notes:Pattycakes (PvP): A-Tier. Recommended MW: Range.|tags:pvp
+//notes:Pattycakes (PvP): A-Tier (Strong). Recommended MW: Range.|tags:pvp
 dimwishlist:item=4023807721&perks=3250034553,3142289711,2946784966,1015611457
 
 
 // Shayura's Wrath
-//notes:Pattycakes (PvP): A-Tier. Recommended MW: Range.|tags:pvp
+//notes:Pattycakes (PvP): A-Tier (Strong). Recommended MW: Range.|tags:pvp
 dimwishlist:item=3682803680&perks=3250034553,3142289711,2946784966,1015611457
 
 
 // PLUG ONE.1
-//notes:Mercules904 (PvE): A-Tier. Recommended MW: Reload Speed.|tags:pve
+//notes:Mercules904 (PvE): A-Tier (Strong). Recommended MW: Reload Speed.|tags:pve
 dimwishlist:item=1289000550&perks=1840239774,689005463,4252909580,1427256713
 dimwishlist:item=1289000550&perks=839105230,689005463,4252909580,1427256713
 dimwishlist:item=1289000550&perks=1840239774,2680121939,4252909580,1427256713
@@ -216,7 +219,7 @@ dimwishlist:item=1289000550&perks=839105230,2680121939,2779035018,1754714824
 
 
 // PLUG ONE.1 (Adept)
-//notes:Mercules904 (PvE): A-Tier. Recommended MW: Reload Speed.|tags:pve
+//notes:Mercules904 (PvE): A-Tier (Strong). Recommended MW: Reload Speed.|tags:pve
 dimwishlist:item=534775659&perks=1840239774,689005463,4252909580,1427256713
 dimwishlist:item=534775659&perks=839105230,689005463,4252909580,1427256713
 dimwishlist:item=534775659&perks=1840239774,2680121939,4252909580,1427256713
@@ -244,7 +247,7 @@ dimwishlist:item=534775659&perks=839105230,2680121939,2779035018,1754714824
 
 
 // PLUG ONE.1
-//notes:Mercules904 (PvP): A-Tier. Recommended MW: Stability / Range.|tags:pvp
+//notes:Mercules904 (PvP): A-Tier (Strong). Recommended MW: Stability / Range.|tags:pvp
 dimwishlist:item=1289000550&perks=3661387068,1687452232,1570042021,1754714824
 dimwishlist:item=1289000550&perks=3661387068,1687452232,1645158859,1754714824
 dimwishlist:item=1289000550&perks=3661387068,1687452232,1570042021,2726471870
@@ -254,7 +257,7 @@ dimwishlist:item=1289000550&perks=3661387068,1687452232,1645158859,1427256713
 
 
 // PLUG ONE.1 (Adept)
-//notes:Mercules904 (PvP): A-Tier. Recommended MW: Stability / Range.|tags:pvp
+//notes:Mercules904 (PvP): A-Tier (Strong). Recommended MW: Stability / Range.|tags:pvp
 dimwishlist:item=534775659&perks=3661387068,1687452232,1570042021,1754714824
 dimwishlist:item=534775659&perks=3661387068,1687452232,1645158859,1754714824
 dimwishlist:item=534775659&perks=3661387068,1687452232,1570042021,2726471870
@@ -264,7 +267,7 @@ dimwishlist:item=534775659&perks=3661387068,1687452232,1645158859,1427256713
 
 
 // Chroma Rush
-//notes:Ekuegan (PvE): A-Tier. Recommended MW: Handling.|tags:pve
+//notes:Ekuegan (PvE): A-Tier (Strong). Recommended MW: Handling.|tags:pve
 dimwishlist:item=1119734784&perks=3250034553,106909392,1820235745,3425386926
 dimwishlist:item=1119734784&perks=1482024992,106909392,1820235745,3425386926
 dimwishlist:item=1119734784&perks=3250034553,106909392,2779035018,3425386926
@@ -276,7 +279,7 @@ dimwishlist:item=1119734784&perks=1482024992,106909392,2779035018,11612903
 
 
 // Chroma Rush
-//notes:Ekuegan (PvP): A-Tier. Recommended MW: Handling.|tags:pvp
+//notes:Ekuegan (PvP): A-Tier (Strong). Recommended MW: Handling.|tags:pvp
 dimwishlist:item=1119734784&perks=3250034553,3142289711,1570042021,3425386926
 dimwishlist:item=1119734784&perks=3250034553,3142289711,2779035018,3425386926
 dimwishlist:item=1119734784&perks=3250034553,3142289711,1570042021,1015611457
@@ -284,13 +287,94 @@ dimwishlist:item=1119734784&perks=3250034553,3142289711,2779035018,1015611457
 
 
 // Farewell
-//notes:jarv (PvE): A-Tier. Recommended MW: Range.|tags:pve
+//notes:jarv (PvE): A-Tier (Strong). Recommended MW: Range.|tags:pve
 dimwishlist:item=541188001&perks=839105230,3230963543,2117683199,4104185692
 dimwishlist:item=541188001&perks=839105230,3230963543,4267945040,4104185692
 
 
 // Farewell
-//notes:jarv (PvP): A-Tier. Recommended MW: Range.|tags:pvp
+//notes:jarv (PvP): A-Tier (Strong). Recommended MW: Range.|tags:pvp
 dimwishlist:item=541188001&perks=4090651448,3142289711,2846385770,1546637391
+
+
+// Riiswalker
+//notes:illPhysics (PvP): A-Tier (Strong). Recommended MW: Range / Handling.|tags:pvp
+dimwishlist:item=108221785&perks=1482024992,3142289711,706527188,591790007
+dimwishlist:item=108221785&perks=4090651448,3142289711,706527188,591790007
+dimwishlist:item=108221785&perks=1482024992,791862061,706527188,591790007
+dimwishlist:item=108221785&perks=4090651448,791862061,706527188,591790007
+dimwishlist:item=108221785&perks=1482024992,3142289711,2039302152,591790007
+dimwishlist:item=108221785&perks=4090651448,3142289711,2039302152,591790007
+dimwishlist:item=108221785&perks=1482024992,791862061,2039302152,591790007
+dimwishlist:item=108221785&perks=4090651448,791862061,2039302152,591790007
+dimwishlist:item=108221785&perks=1482024992,3142289711,706527188,2450788523
+dimwishlist:item=108221785&perks=4090651448,3142289711,706527188,2450788523
+dimwishlist:item=108221785&perks=1482024992,791862061,706527188,2450788523
+dimwishlist:item=108221785&perks=4090651448,791862061,706527188,2450788523
+dimwishlist:item=108221785&perks=1482024992,3142289711,2039302152,2450788523
+dimwishlist:item=108221785&perks=4090651448,3142289711,2039302152,2450788523
+dimwishlist:item=108221785&perks=1482024992,791862061,2039302152,2450788523
+dimwishlist:item=108221785&perks=4090651448,791862061,2039302152,2450788523
+
+
+// Empty Vessel
+//notes:demonjoefrance (PvE): A-Tier (Strong). Recommended MW: Blast Radius / Velocity.|tags:pve
+dimwishlist:item=4255586669&perks=332773068,3301904089,2010801679,2458213969
+dimwishlist:item=4255586669&perks=1478423395,3301904089,2010801679,2458213969
+dimwishlist:item=4255586669&perks=332773068,3301904089,2779035018,2458213969
+dimwishlist:item=4255586669&perks=1478423395,3301904089,2779035018,2458213969
+dimwishlist:item=4255586669&perks=332773068,3301904089,2010801679,4082225868
+dimwishlist:item=4255586669&perks=1478423395,3301904089,2010801679,4082225868
+dimwishlist:item=4255586669&perks=332773068,3301904089,2779035018,4082225868
+dimwishlist:item=4255586669&perks=1478423395,3301904089,2779035018,4082225868
+dimwishlist:item=4255586669&perks=332773068,3301904089,2010801679,1546637391
+dimwishlist:item=4255586669&perks=1478423395,3301904089,2010801679,1546637391
+dimwishlist:item=4255586669&perks=332773068,3301904089,2779035018,1546637391
+dimwishlist:item=4255586669&perks=1478423395,3301904089,2779035018,1546637391
+
+
+// Empty Vessel
+//notes:demonjoefrance (PvP): A-Tier (Strong). Recommended MW: Blast Radius / Velocity.|tags:pvp
+dimwishlist:item=4255586669&perks=332773068,3301904089,706527188,1546637391
+dimwishlist:item=4255586669&perks=1478423395,3301904089,706527188,1546637391
+dimwishlist:item=4255586669&perks=332773068,3301904089,706527188,2726471870
+dimwishlist:item=4255586669&perks=1478423395,3301904089,706527188,2726471870
+
+
+// Shattered Cipher
+//notes:Ascendant Nomad (PvE): A-Tier (Strong). Recommended MW: Stability.|tags:pve
+dimwishlist:item=2434225986&perks=4090651448,106909392,1570042021,3425386926
+
+
+// Shattered Cipher
+//notes:Ascendant Nomad (PvP): A-Tier (Strong). Recommended MW: Stability.|tags:pvp
+dimwishlist:item=2434225986&perks=839105230,3142289711,1570042021,957782887
+
+
+BUGBUG STOCHASTIC VARIABLE GOES HERE
+
+
+// The Vision
+//notes:AbbyHour (PvE): A-Tier (Strong). Recommended MW: Range / Reload.|tags:pve
+dimwishlist:item=2414141462&perks=445755706,1087426260,2010801679,4049631843
+dimwishlist:item=2414141462&perks=445755706,106909392,2010801679,4049631843
+dimwishlist:item=2414141462&perks=445755706,1087426260,2010801679,4082225868
+dimwishlist:item=2414141462&perks=445755706,106909392,2010801679,4082225868
+
+
+// The Vision
+//notes:AbbyHour (PvP): A-Tier (Strong). Recommended MW: Range / Reload.|tags:pvp
+dimwishlist:item=2414141462&perks=445755706,3142289711,3436462433,1015611457
+dimwishlist:item=2414141462&perks=445755710,3142289711,3436462433,1015611457
+dimwishlist:item=2414141462&perks=445755706,3142289711,2450788523,1015611457
+dimwishlist:item=2414141462&perks=445755710,3142289711,2450788523,1015611457
+
+
+// Occluded Finality
+//notes:Benjjjyy (PvP): B-Tier (Average). Recommended MW: Range / Handling.|tags:pvp
+dimwishlist:item=852551895&perks=3250034553,1885400500,957782887,47981717
+dimwishlist:item=852551895&perks=202670084,1885400500,957782887,47981717
+dimwishlist:item=852551895&perks=3250034553,1561002382,957782887,47981717
+dimwishlist:item=852551895&perks=202670084,1561002382,957782887,47981717
 
 
