@@ -1,5 +1,5 @@
-title:Chevy's S15 Super Pog PvE Loot List
-description:These are Chevy's personal preference Rolls, your preferred roll my be different.
+title:@AyyItsChevy's S15 Super Pog PvE Loot List
+description:Originally found at https://twitter.com/AyyItsChevy/status/1431303773817823234?s=20 . Cheers to @Deanosim for the conversion.
 
 // Annual Skate (MKB,PVE)
 //notes: Chevy's S15 Super Pog PvE Loot List. Recommended MW - Reload|tags:mkb,pve
