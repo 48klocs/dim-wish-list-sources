@@ -332,3 +332,44 @@ dimwishlist:item=1866778462&perks=3525010810,3796465595,2869569095,2284787283
 dimwishlist:item=1866778462&perks=3525010810,3796465595,3523296417,2284787283
 
 
+// Vulpecula
+//notes:Gleauxx (PvE): B-Tier (Average). Recommended MW: Reload.|tags:pve
+dimwishlist:item=1622998472&perks=106909392,3700496672,3038247973
+
+
+// Vulpecula
+//notes:Gleauxx (PvP): B-Tier (Average). Recommended MW: Range.|tags:pvp
+dimwishlist:item=1622998472&perks=3250034553,3142289711,2450788523,438098033
+dimwishlist:item=1622998472&perks=3250034553,3142289711,2450788523,124408337
+
+
+// Wolftone Draw
+//notes:Jarv (PvE): B-Tier (Average). Recommended MW: Reload.|tags:pve
+dimwishlist:item=3472875143&perks=2801223209,3827198035,951095735,438098033
+
+
+// Wolftone Draw
+//notes:Jarv (PvP): B-Tier (Average). Recommended MW: Reload.|tags:pvp
+dimwishlist:item=3472875143&perks=2801223209,3827198035,201365942,3673922083
+
+
+// The Long Walk
+//notes:BRAVExHERO (PvE): B-Tier (Average). Recommended MW: Reload.|tags:pve
+dimwishlist:item=3326850591&perks=839105230,1087426260,3643424744,1771339417
+
+
+// The Long Walk
+//notes:BRAVExHERO (PvP): B-Tier (Average). Recommended MW: Range.|tags:pvp
+dimwishlist:item=3326850591&perks=839105230,1087426260,2621346526,957782887
+dimwishlist:item=3326850591&perks=839105230,1087426260,3643424744,957782887
+
+
+// Forge's Pledge
+//notes:Ascendant Nomad (PvE): C-Tier (Weak). Recommended MW: Reload.|tags:pve
+dimwishlist:item=1076810832&perks=1840239774,3230963543,1570042021,3425386926
+
+
+// Forge's Pledge
+//notes:Ascendant Nomad (PvP): C-Tier (Weak). Recommended MW: Reload.|tags:pvp
+dimwishlist:item=1076810832&perks=839105230,3142289711,2946784966,2458213969
+
