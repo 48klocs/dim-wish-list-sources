@@ -2,12 +2,128 @@ title:Blueberries.gg's collected / tiered S15 weapon picks
 description:Originally found at https://www.blueberries.gg/weapons/destiny-2-seasonal-weapons/
 
 // A Sudden Death
-//notes:CoolCheese101 (PvE): S-Tier (Best).  Recommended MW: Handling.|tags:pve
+//notes:CoolCheese (PvE): S-Tier (Best). Recommended MW: Handling.|tags:pve
 dimwishlist:item=2855157553&perks=1047830412,791862061,1631667848,2679249093
 
 // A Sudden Death
-//notes:CoolCheese101 (PvP): S-Tier (Best).  Recommended MW: Range.|tags:pvp
+//notes:CoolCheese (PvP): S-Tier (Best). Recommended MW: Range.|tags:pvp
 dimwishlist:item=2855157553&perks=1047830412,3142289711,4071163871,3511092054
 dimwishlist:item=2855157553&perks=1047830412,791862061,4071163871,3511092054
+
+
+// Fractethyst
+//notes:Pattycakes (PvE): S-Tier (Best). Recommended MW: Reload.|tags:pve
+dimwishlist:item=3184681056&perks=791862061,2621346526,806159697
+dimwishlist:item=3184681056&perks=791862061,2621346526,2360754333
+
+
+// Fractethyst
+//notes:Pattycakes (PvP): S-Tier (Best). Recommended MW: Range.|tags:pvp
+dimwishlist:item=3184681056&perks=1047830412,3142289711,706527188,47981717
+dimwishlist:item=3184681056&perks=1047830412,791862061,706527188,47981717
+
+
+// Annual Skate
+//notes:Ekuegan (PvE): S-Tier (Best). Recommended MW: Range.|tags:pve
+dimwishlist:item=6857689&perks=1926090094,3230963543,1168162263,2458213969
+dimwishlist:item=6857689&perks=1926090094,3230963543,3124871000,2458213969
+dimwishlist:item=6857689&perks=1926090094,3230963543,1168162263,1954620775
+dimwishlist:item=6857689&perks=1926090094,3230963543,3124871000,1954620775
+
+
+// Annual Skate
+//notes:Ekuegan (PvP): S-Tier (Best). Recommended MW: Reload.|tags:pvp
+dimwishlist:item=6857689&perks=1926090094,3142289711,2946784966,1954620775
+dimwishlist:item=6857689&perks=1926090094,3142289711,3161816588,1954620775
+dimwishlist:item=6857689&perks=1926090094,3142289711,2946784966,47981717
+dimwishlist:item=6857689&perks=1926090094,3142289711,3161816588,47981717
+
+
+// Ascendancy
+//notes:Apathettic (PvE / PvP): A-Tier (Strong). Recommended MW: Handling.|tags:pve,pvp
+dimwishlist:item=725408022&perks=3525010810,3796465595,2010801679,3194351027
+
+
+// Canis Major
+//notes:Ekuegan (PvE): A-Tier (Strong). Recommended MW: Velocity.|tags:pve
+dimwishlist:item=2066434718&perks=981914802,3301904089,951095735,1546637391
+dimwishlist:item=2066434718&perks=3525010810,3301904089,951095735,1546637391
+
+// Canis Major
+//notes:Ekuegan (PvP): A-Tier (Strong). Recommended MW: Velocity.|tags:pvp
+dimwishlist:item=2066434718&perks=981914802,409831596,3425386926,1546637391
+dimwishlist:item=2066434718&perks=3525010810,409831596,3425386926,1546637391
+dimwishlist:item=2066434718&perks=981914802,409831596,1546637391,1546637391
+dimwishlist:item=2066434718&perks=3525010810,409831596,1546637391,1546637391
+
+
+// Darkest Before
+//notes:Jarv (PvE): A-Tier (Strong). Recommended MW: Reload.|tags:pve
+dimwishlist:item=2481758391&perks=1840239774,1561002382,3643424744,3425386926
+dimwishlist:item=2481758391&perks=1840239774,1885400500,3643424744,3425386926
+
+
+// Darkest Before
+//notes:Jarv (PvP): A-Tier (Strong). Recommended MW: Stability.|tags:pvp
+dimwishlist:item=2481758391&perks=839105230,1968497646,1820235745,3425386926
+
+
+// Iota Draconis
+//notes:Mercules904 (PvE): A-Tier (Strong). Recommended MW: Reload.|tags:pve
+dimwishlist:item=3044460004&perks=1840239774,2680121939,2779035018,1799762209
+dimwishlist:item=3044460004&perks=1840239774,2680121939,2779035018,4104185692
+dimwishlist:item=3044460004&perks=1840239774,2680121939,2779035018,438098033
+dimwishlist:item=3044460004&perks=1840239774,2680121939,2779035018,1754714824
+
+
+// Iota Draconis
+//notes:Mercules904 (PvP): A-Tier (Strong). Recommended MW: Stability / Range.|tags:pvp
+dimwishlist:item=3044460004&perks=3661387068,1687452232,1645158859,2213355989
+dimwishlist:item=3044460004&perks=1467527085,1687452232,1645158859,2213355989
+dimwishlist:item=3044460004&perks=2420895100,1687452232,1645158859,2213355989
+
+
+// Legal Action II
+//notes:Beenlab (PvE): A-Tier (Strong). Recommended MW: Handling.|tags:pve
+dimwishlist:item=3409645497&perks=839105230,3177308360,588594999,3425386926
+dimwishlist:item=3409645497&perks=1840239774,3177308360,588594999,3425386926
+dimwishlist:item=3409645497&perks=839105230,3230963543,588594999,3425386926
+dimwishlist:item=3409645497&perks=1840239774,3230963543,588594999,3425386926
+dimwishlist:item=3409645497&perks=839105230,3177308360,1570042021,3425386926
+dimwishlist:item=3409645497&perks=1840239774,3177308360,1570042021,3425386926
+dimwishlist:item=3409645497&perks=839105230,3230963543,1570042021,3425386926
+dimwishlist:item=3409645497&perks=1840239774,3230963543,1570042021,3425386926
+
+
+// Legal Action II
+//notes:Beenlab (PvP): A-Tier (Strong). Recommended MW: Reload.|tags:pvp
+dimwishlist:item=3409645497&perks=839105230,106909392,3436462433,4104185692
+dimwishlist:item=3409645497&perks=1840239774,106909392,3436462433,4104185692
+dimwishlist:item=3409645497&perks=839105230,3230963543,3436462433,4104185692
+dimwishlist:item=3409645497&perks=1840239774,3230963543,3436462433,4104185692
+
+// Reed's Regret
+//notes:Ascendant Nomad (PvE): A-Tier (Strong). Recommended MW: Reload.|tags:pve
+dimwishlist:item=1399243961&perks=1840239774,2680121939,3400784728,1546637391
+
+
+// Reed's Regret (Adept)
+//notes:Ascendant Nomad (PvE): A-Tier (Strong). Recommended MW: Reload.|tags:pve
+dimwishlist:item=2475355656&perks=1840239774,2680121939,3400784728,1546637391
+
+// Reed's Regret
+//notes:Ascendant Nomad (PvP): A-Tier (Strong). Recommended MW: Reload.|tags:pvp
+dimwishlist:item=1399243961&perks=839105230,3868766766,706527188,1546637391
+dimwishlist:item=1399243961&perks=839105230,2969185026,706527188,1546637391
+dimwishlist:item=1399243961&perks=839105230,3868766766,706527188,3425386926
+dimwishlist:item=1399243961&perks=839105230,2969185026,706527188,3425386926
+
+
+// Reed's Regret (Adept)
+//notes:Ascendant Nomad (PvP): A-Tier (Strong). Recommended MW: Reload.|tags:pvp
+dimwishlist:item=2475355656&perks=839105230,3868766766,706527188,1546637391
+dimwishlist:item=2475355656&perks=839105230,2969185026,706527188,1546637391
+dimwishlist:item=2475355656&perks=839105230,3868766766,706527188,3425386926
+dimwishlist:item=2475355656&perks=839105230,2969185026,706527188,3425386926
 
 
