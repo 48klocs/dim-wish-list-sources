@@ -1,0 +1,13 @@
+title:Blueberries.gg's collected / tiered S15 weapon picks
+description:Originally found at https://www.blueberries.gg/weapons/destiny-2-seasonal-weapons/
+
+// A Sudden Death
+//notes:CoolCheese101 (PvE): S-Tier (Best).  Recommended MW: Handling.|tags:pve
+dimwishlist:item=2855157553&perks=1047830412,791862061,1631667848,2679249093
+
+// A Sudden Death
+//notes:CoolCheese101 (PvP): S-Tier (Best).  Recommended MW: Range.|tags:pvp
+dimwishlist:item=2855157553&perks=1047830412,3142289711,4071163871,3511092054
+dimwishlist:item=2855157553&perks=1047830412,791862061,4071163871,3511092054
+
+
