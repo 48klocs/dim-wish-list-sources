@@ -1,21 +1,23 @@
 {
   "name": "wishlist-node-scripts",
   "version": "1.0.0",
+  "private": true,
   "description": "",
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "checkvoltron": "tsc && node ./out/validate-voltron.js",
     "checkrolls": "tsc && node ./out/validate-rolls.js",
     "cleanrolls": "tsc && node ./out/clean-rolls.js"
   },
   "author": "",
   "license": "UNLICENSED",
   "devDependencies": {
-    "@types/node": "^13.7.7",
-    "bungie-api-ts": "^4.2.0"
+    "@types/node": "^16.10.3",
+    "bungie-api-ts": "^4.11.0"
   },
   "dependencies": {
-    "@d2api/manifest": "^1.0.1",
-    "cross-fetch": "^3.0.6"
+    "@d2api/manifest-node": "^0.0.4",
+    "cross-fetch": "^3.1.4"
   }
 }
