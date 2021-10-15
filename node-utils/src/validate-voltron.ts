@@ -1,10 +1,8 @@
-import d2manifest from "@d2api/manifest-node";
 import fs from "fs";
 import { toWishList } from "./lib/wishlist-file.js";
 import { isInvalidRoll } from "./utils.js";
 
 let counter = 0;
-await d2manifest.load();
 
 const fileName = "voltron.txt";
 let thisFileOutput = fileName;
