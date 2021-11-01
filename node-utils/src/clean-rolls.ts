@@ -1,9 +1,8 @@
-import d2manifest from "@d2api/manifest";
+import d2manifest from "@d2api/manifest-node";
 import { WishListRoll } from "./lib/types.js";
 import { toDimWishListRoll } from "./lib/wishlist-file.js";
 import fs from "fs";
 import readline from "readline";
-import { toWishList } from "./lib/wishlist-file.js";
 import { DestinyInventoryItemDefinition } from "bungie-api-ts/destiny2";
 
 const verboseMain = true;
@@ -13,9 +12,14 @@ const placesToLookForValidPerks: (
 )[] = ["randomizedPlugSetHash", "reusablePlugSetHash"];
 
 (async () => {
-  let counter = 0;
   await d2manifest.load();
-  ["Mercules904", "PandaPaxxy", "AyyItsChevy", "blueberries-dot-gg", "YeezyGT" /*, "misc"*/].forEach((dirName) => {
+  [
+    "Mercules904",
+    "PandaPaxxy",
+    "AyyItsChevy",
+    "blueberries-dot-gg",
+    "YeezyGT" /*, "misc"*/,
+  ].forEach((dirName) => {
     fs.readdirSync("../" + dirName).forEach(async (fileName) => {
       if (!fileName.includes(".txt") || fileName.includes("-clean.txt")) {
         return;

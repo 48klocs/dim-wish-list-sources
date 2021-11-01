@@ -1,13 +1,11 @@
 {
   "compilerOptions": {
     "target": "ES2020",
-    "lib": [
-      "ES2018"
-    ],
+    "lib": ["ES2020"],
     "esModuleInterop": true,
     "allowSyntheticDefaultImports": true,
     "strict": true,
-    "module": "ES2020",
+    "module": "esnext",
     "moduleResolution": "node",
     "resolveJsonModule": true,
     "isolatedModules": true,

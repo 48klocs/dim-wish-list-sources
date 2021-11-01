@@ -1,4 +1,4 @@
-import { WishListRoll, DimWishList, WishListAndInfo } from './types';
+import { WishListRoll, DimWishList, WishListAndInfo } from "./types.js";
 
 const EMPTY_NUMBER_SET = new Set<number>();
 let _blockNotes: string | undefined;
@@ -13,7 +13,7 @@ export function toWishList(fileText: string): WishListAndInfo {
   return {
     wishListRolls: toWishListRolls(fileText),
     title: getTitle(fileText),
-    description: getDescription(fileText)
+    description: getDescription(fileText),
   };
 }
 
@@ -37,7 +37,7 @@ function getPerks(matchResults: RegExpMatchArray): Set<number> {
     return EMPTY_NUMBER_SET;
   }
 
-  const split = matchResults[2].split(',');
+  const split = matchResults[2].split(",");
 
   const s = new Set<number>();
   for (const perkHash of split) {
@@ -62,13 +62,14 @@ function getItemHash(matchResults: RegExpMatchArray): number {
   return Number(matchResults.groups.itemHash);
 }
 
-const dtrTextLineRegex = /^https:\/\/destinytracker\.com\/destiny-2\/db\/items\/(?<itemHash>\d+)(?:.*)?perks=(?<itemPerks>[\d,]*)(?:#notes:)?(?<wishListNotes>.*)?/;
+const dtrTextLineRegex =
+  /^https:\/\/destinytracker\.com\/destiny-2\/db\/items\/(?<itemHash>\d+)(?:.*)?perks=(?<itemPerks>[\d,]*)(?:#notes:)?(?<wishListNotes>.*)?/;
 function toDtrWishListRoll(dtrTextLine: string): WishListRoll | null {
   if (!dtrTextLine || dtrTextLine.length === 0) {
     return null;
   }
 
-  if (dtrTextLine.startsWith('//')) {
+  if (dtrTextLine.startsWith("//")) {
     return null;
   }
 
@@ -86,11 +87,12 @@ function toDtrWishListRoll(dtrTextLine: string): WishListRoll | null {
     itemHash,
     recommendedPerks,
     isExpertMode: false,
-    notes
+    notes,
   };
 }
 
-const bansheeTextLineRegex = /^https:\/\/banshee-44\.com\/\?weapon=(?<itemHash>\d.+)&socketEntries=(?<itemPerks>[\d,]*)(?:#notes:)?(?<wishListNotes>.*)?/;
+const bansheeTextLineRegex =
+  /^https:\/\/banshee-44\.com\/\?weapon=(?<itemHash>\d.+)&socketEntries=(?<itemPerks>[\d,]*)(?:#notes:)?(?<wishListNotes>.*)?/;
 
 /** Translate a single banshee-44.com URL -> WishListRoll. */
 function toBansheeWishListRoll(bansheeTextLine: string): WishListRoll | null {
@@ -98,7 +100,7 @@ function toBansheeWishListRoll(bansheeTextLine: string): WishListRoll | null {
     return null;
   }
 
-  if (bansheeTextLine.startsWith('//')) {
+  if (bansheeTextLine.startsWith("//")) {
     return null;
   }
 
@@ -116,17 +118,18 @@ function toBansheeWishListRoll(bansheeTextLine: string): WishListRoll | null {
     itemHash,
     recommendedPerks,
     isExpertMode: false,
-    notes
+    notes,
   };
 }
 
-const textLineRegex = /^dimwishlist:item=(?<itemHash>-?\d+)(?:&perks=)?(?<itemPerks>[\d|,]*)?(?:#notes:)?(?<wishListNotes>.*)?/;
+const textLineRegex =
+  /^dimwishlist:item=(?<itemHash>-?\d+)(?:&perks=)?(?<itemPerks>[\d|,]*)?(?:#notes:)?(?<wishListNotes>.*)?/;
 export function toDimWishListRoll(textLine: string): WishListRoll | null {
   if (!textLine || textLine.length === 0) {
     return null;
   }
 
-  if (textLine.startsWith('//')) {
+  if (textLine.startsWith("//")) {
     return null;
   }
 
@@ -150,7 +153,7 @@ export function toDimWishListRoll(textLine: string): WishListRoll | null {
     recommendedPerks,
     isExpertMode: true,
     notes,
-    isUndesirable
+    isUndesirable,
   };
 }
 
@@ -160,7 +163,7 @@ function sortedSetToString(set: Set<number>): string {
 
 /** Newline-separated banshee-44.com text -> WishListRolls. */
 function toWishListRolls(fileText: string): WishListRoll[] {
-  const textArray = fileText.split('\n');
+  const textArray = fileText.split("\n");
 
   const rolls: WishListRoll[] = [];
   for (const line of textArray) {
@@ -190,7 +193,10 @@ function toWishListRolls(fileText: string): WishListRoll[] {
   return ret;
 }
 
-function findMatch(sourceFileLine: string, regExToMatch: RegExp): string | undefined {
+function findMatch(
+  sourceFileLine: string,
+  regExToMatch: RegExp
+): string | undefined {
   if (!sourceFileLine || !sourceFileLine.length) {
     return undefined;
   }
@@ -225,7 +231,7 @@ function getTitle(sourceFileText: string): string | undefined {
     return undefined;
   }
 
-  const sourceFileLineArray = sourceFileText.split('\n').slice(0, 20);
+  const sourceFileLineArray = sourceFileText.split("\n").slice(0, 20);
 
   return sourceFileLineArray.map(findTitle).find((s) => s);
 }
@@ -243,7 +249,7 @@ function getDescription(sourceFileText: string): string | undefined {
     return undefined;
   }
 
-  const sourceFileLineArray = sourceFileText.split('\n').slice(0, 20);
+  const sourceFileLineArray = sourceFileText.split("\n").slice(0, 20);
 
   return sourceFileLineArray.map(findDescription).find(Boolean);
 }
