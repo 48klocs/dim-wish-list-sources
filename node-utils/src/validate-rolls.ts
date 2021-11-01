@@ -26,33 +26,31 @@ const remoteTxts = [
   "https://raw.githubusercontent.com/Butlins12/destiny-rolls/main/S15-IB-new-rolls-DMB-ep230.txt",
 ];
 
-(async () => {
-  for (const path of [...txtFilePaths, ...remoteTxts]) {
-    const plainText = path.startsWith("http")
-      ? await (await fetch(path)).text()
-      : fs.readFileSync(path, "utf-8");
+for (const path of [...txtFilePaths, ...remoteTxts]) {
+  const plainText = path.startsWith("http")
+    ? await (await fetch(path)).text()
+    : fs.readFileSync(path, "utf-8");
 
-    let thisFileOutput = path.split("/").slice(-1)[0];
+  let thisFileOutput = path.split("/").slice(-1)[0];
 
-    const rolls = toWishList(plainText).wishListRolls;
-    thisFileOutput = ` (${rolls.length}) `.padStart(8) + thisFileOutput;
-    let thisFileBadCount = 0;
-    const uniqueErrors = new Set<string>();
-    for (const roll of rolls) {
-      const rollError = isInvalidRoll(roll);
-      if (rollError) {
-        thisFileBadCount++;
-        uniqueErrors.add(rollError);
-      }
+  const rolls = toWishList(plainText).wishListRolls;
+  thisFileOutput = ` (${rolls.length}) `.padStart(8) + thisFileOutput;
+  let thisFileBadCount = 0;
+  const uniqueErrors = new Set<string>();
+  for (const roll of rolls) {
+    const rollError = isInvalidRoll(roll);
+    if (rollError) {
+      thisFileBadCount++;
+      uniqueErrors.add(rollError);
     }
-    counter += thisFileBadCount;
-
-    thisFileOutput = `${thisFileBadCount ? "✘" : "✓"} ` + thisFileOutput;
-    if (uniqueErrors.size)
-      thisFileOutput += ("\n" + [...uniqueErrors].join("\n")).replace(
-        /\n/g,
-        "\n          "
-      );
-    console.log(thisFileOutput);
   }
-})();
+  counter += thisFileBadCount;
+
+  thisFileOutput = `${thisFileBadCount ? "✘" : "✓"} ` + thisFileOutput;
+  if (uniqueErrors.size)
+    thisFileOutput += ("\n" + [...uniqueErrors].join("\n")).replace(
+      /\n/g,
+      "\n          "
+    );
+  console.log(thisFileOutput);
+}
