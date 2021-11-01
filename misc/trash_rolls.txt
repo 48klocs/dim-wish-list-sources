@@ -1,109 +1,122 @@
 title:@chrisfried coming through with a trash list
 description:A must-not-keep list of gear, originally found in top secret group chats.
 
-//notes:🤢🤢🤢
-
 // sidearms (so trash your pal 48klocs can't even be bothered to look them all up)
-dimwishlist:item=-14#notes: Sidearms really warrant the 🤢🤢🤢est of 🤢🤢🤢s.
-dimwishlist:item=-3222518097#notes:Anonymous Aupuke 🤢🤢🤢 (does anyone really use sidearms?)
+dimwishlist:item=-3222518097
 
 // aggressive hand cannons
-dimwishlist:item=-2824241403#notes:Bad Pukes XF4354 🤢🤢🤢 (Duke is best in stats and perks for PvE, Loud Lullaby has some newer perks, Warden's Law has Feeding Frenzy, Thin Line is uniquely energy & can do decent perks)
-dimwishlist:item=-4292849692#notes:Crimil's Dapuke 🤢🤢🤢 (Duke is best in stats and perks for PvE, Loud Lullaby has some newer perks, Warden's Law has Feeding Frenzy, Thin Line is uniquely energy & can do decent perks)
-dimwishlist:item=-4211534763#notes:Pukebina-D 🤢🤢🤢 (Duke is best in stats and perks for PvE, Loud Lullaby has some newer perks, Warden's Law has Feeding Frenzy, Thin Line is uniquely energy & can do decent perks)
+//notes:Duke is best in stats and perks for PvE, Loud Lullaby has some newer perks, Warden's Law has Feeding Frenzy, Thin Line is uniquely energy & can do decent perks
+dimwishlist:item=-2824241403
+dimwishlist:item=-4292849692
+dimwishlist:item=-4211534763
 
 // adaptive hand cannons
-dimwishlist:item=-2112909415#notes:Ten Pukes 🤢🤢🤢 (Kill Clip or Explosive Payload on Better Devils are notably better than Rampage on these two. Ancient Gospel is nearly on this list but Rapid Hit and being Solar keep it off)
-dimwishlist:item=-2429822977#notes: Auspuker 🤢🤢🤢 (Kill Clip or Explosive Payload on Better Devils are notably better than Rampage on these two. Ancient Gospel is nearly on this list but Rapid Hit and being Solar keep it off)
+//notes:Kill Clip or Explosive Payload on Better Devils are notably better than Rampage on these two. Ancient Gospel is nearly on this list but Rapid Hit and being Solar keep it off
+dimwishlist:item=-2112909415
+dimwishlist:item=-2429822977
 
 // precision SMGs
-dimwishlist:item=-2422664927#notes:Atapukea-D XG1992 🤢🤢🤢 (Antiope is identical to Atalanta in perks with better stats, Moment has much better perks than Bad Reputation)
-dimwishlist:item=-2105827099#notes:Bad Repuketation 🤢🤢🤢 (Antiope is identical to Atalanta in perks with better stats, Moment has much better perks than Bad Reputation)
+//notes:Antiope is identical to Atalanta in perks with better stats, Moment has much better perks than Bad Reputation
+dimwishlist:item=-2422664927
+dimwishlist:item=-2105827099
 
 // adaptive SMGs
-dimwishlist:item=-4227181568#notes:Exit Pukegy 🤢🤢🤢 (Beaten by Trackless Waste and Bug-Out Bag (and many lightweights))
-dimwishlist:item=-1865351684#notes:The Hero's Pukeden 🤢🤢🤢 (Beaten by Trackless Waste and Bug-Out Bag (and many lightweights))
-dimwishlist:item=-2909905776#notes:The Hero's Pukeden 🤢🤢🤢 (Beaten by Trackless Waste and Bug-Out Bag (and many lightweights))
+//notes:Beaten by Trackless Waste and Bug-Out Bag (and many lightweights)
+dimwishlist:item=-4227181568
+dimwishlist:item=-1865351684
+dimwishlist:item=-2909905776
  
 // lightweight SMGs
-dimwishlist:item=-174192097#notes:CALUS Mini-Puke 🤢🤢🤢 (Garbage perks, very strong competition)
+dimwishlist:item=-174192097#notes:Garbage perks, very strong competition
 
 // high-impact scout rifle
-dimwishlist:item=-2278995296#notes:Does Not Compuke 🤢🤢🤢 (Imperative or Calusea do PvE better, Talons does PvP better, and Transfiguration does both pretty well)
-dimwishlist:item=-3957603605#notes:Wrong Side of Puke 🤢🤢🤢 (Imperative or Calusea do PvE better, Talons does PvP better, and Transfiguration does both pretty well)
-dimwishlist:item=-3501969491#notes:The Pike and Run 🤢🤢🤢 (Imperative or Calusea do PvE better, Talons does PvP better, and Transfiguration does both pretty well)
+//notes:Imperative or Calusea do PvE better, Talons does PvP better, and Transfiguration does both pretty well
+dimwishlist:item=-2278995296
+dimwishlist:item=-3957603605
+dimwishlist:item=-3501969491
 
 // precision scout rifle
-dimwishlist:item=-1960218487#notes:Nameless Pukenight 🤢🤢🤢 (no reason to use over lightweights, Relation & Tango are same element as Oxygen SR3)
-dimwishlist:item=-3040742682#notes:Nameless Pukenight 🤢🤢🤢 (no reason to use over lightweights, Relation & Tango are same element as Oxygen SR3)
-dimwishlist:item=-20025671#notes:Pukego-45 XK5094 🤢🤢🤢 (no reason to use over lightweights, Relation & Tango are same element as Oxygen SR3)
-dimwishlist:item=-2034817450#notes:Distant Repuketion 🤢🤢🤢 (no reason to use over lightweights, Relation & Tango are same element as Oxygen SR3)
+//notes:no reason to use over lightweights, Relation & Tango are same element as Oxygen SR3
+dimwishlist:item=-1960218487
+dimwishlist:item=-3040742682
+dimwishlist:item=-20025671
+dimwishlist:item=-2034817450
  
 //lightweight scout rifle
-dimwishlist:item=-3242168339#notes:Vouchpuke 🤢🤢🤢 (bad perks but it *is* unique in slot)
+dimwishlist:item=-3242168339#notes:bad perks but it *is* unique in slot
  
 //lightweight pulse rifle
-dimwishlist:item=-339163900#notes:Nightpuke 🤢🤢🤢 (Chattering Bone is just better, weak archetype)
-dimwishlist:item=-792755504#notes:Nightpuke 🤢🤢🤢 (Chattering Bone is just better, weak archetype)
+//notes:Chattering Bone is just better, weak archetype
+dimwishlist:item=-339163900
+dimwishlist:item=-792755504
 
 // high-impact auto rifle
-dimwishlist:item=-1952163498#notes:Plupukefect 🤢🤢🤢 (all-around worse stats and perks than Halfdan or Gahlran's Right Hand)
+dimwishlist:item=-1952163498#notes:all-around worse stats and perks than Halfdan or Gahlran's Right Hand
  
 // precision auto rifle
-dimwishlist:item=-528834068#notes:BrayTech Pukewolf 🤢🤢🤢 (just a bad archetype)
-dimwishlist:item=-3645283765#notes:BrayTech Pukewolf 🤢🤢🤢 (just a bad archetype)
-dimwishlist:item=-640114618#notes:Tigerpuke 🤢🤢🤢 (just a bad archetype)
-dimwishlist:item=-1789347249#notes:Hazard of the Puke 🤢🤢🤢 (just a bad archetype)
-dimwishlist:item=-3829285960#notes:Horror Pukey 🤢🤢🤢 (just a bad archetype)
+//notes:just a bad archetype
+dimwishlist:item=-528834068
+dimwishlist:item=-3645283765
+dimwishlist:item=-640114618
+dimwishlist:item=-1789347249
+dimwishlist:item=-3829285960
 
 // aggressive shotgun
-dimwishlist:item=-2957367743#notes:Toil and Trouble and Puke 🤢🤢🤢 (Can't beat Imperial Decree in any category, Opening Shot/12P justifies Last Man Standing)
+dimwishlist:item=-2957367743#notes:Can't beat Imperial Decree in any category, Opening Shot/12P justifies Last Man Standing
 
 // aggressive sniper
-dimwishlist:item=-3100452337#notes:Dreaded Puketure 🤢🤢🤢 (Revoker is obviously good, BotF can get Opening Shot over on Revoker, and Tatara can do genesis (arc) & unique in slot. Show of Force can roll good but archetype isn't worth it compared to Tranquility/Long Shadow.)
-dimwishlist:item=-4148143418#notes:Show of Puke XF4865 🤢🤢🤢 (Revoker is obviously good, BotF can get Opening Shot over on Revoker, and Tatara can do genesis (arc) & unique in slot. Show of Force can roll good but archetype isn't worth it compared to Tranquility/Long Shadow.)
+//notes:Revoker is obviously good, BotF can get Opening Shot over on Revoker, and Tatara can do genesis (arc) & unique in slot. Show of Force can roll good but archetype isn't worth it compared to Tranquility/Long Shadow.
+dimwishlist:item=-3100452337#notes
+dimwishlist:item=-4148143418#notes
 
 // adaptive sniper
-dimwishlist:item=-2154059444#notes:The Long Goodpuke 🤢🤢🤢 (Fate Cries Foul & Elegy-49 are equivalents w/ Genesis (void), Tranquility and Sole Survivor have Firing Line, Long Shadow has field prep/triple tap for longevity, Beloved has good perks)
+dimwishlist:item=-2154059444#notes:Fate Cries Foul & Elegy-49 are equivalents w/ Genesis (void), Tranquility and Sole Survivor have Firing Line, Long Shadow has field prep/triple tap for longevity, Beloved has good perks
 
 // high-impact fusion rifle
-dimwishlist:item=-930590127#notes:The Wizened Repuke 🤢🤢🤢 (unless you absolutely must have Demolitionist, Loaded Question or Erentil are much better)
-dimwishlist:item=-2961807684#notes:The Wizened Repuke 🤢🤢🤢 (unless you absolutely must have Demolitionist, Loaded Question or Erentil are much better)
+//notes:unless you absolutely must have Demolitionist, Loaded Question or Erentil are much better
+dimwishlist:item=-930590127
+dimwishlist:item=-2961807684
 
 // precision fusion rifle
-dimwishlist:item=-253196586#notes:Main Inpukeient 🤢🤢🤢 (Epicurean is stacked with the best PvE perks on a fusion, save for Loaded Question)
-dimwishlist:item=-3445437901#notes:Main Inpukeient 🤢🤢🤢 (Epicurean is stacked with the best PvE perks on a fusion, save for Loaded Question)
-dimwishlist:item=-2753269585#notes:Tempered Dynapuke 🤢🤢🤢 (Epicurean is stacked with the best PvE perks on a fusion, save for Loaded Question)
+//notes:Epicurean is stacked with the best PvE perks on a fusion, save for Loaded Question
+dimwishlist:item=-253196586
+dimwishlist:item=-3445437901
+dimwishlist:item=-2753269585
 
 // adaptive fusion rifle
-dimwishlist:item=-394810086#notes:Dream Puker 🤢🤢🤢 (can't beat Techeun Force)
-dimwishlist:item=-2931957300#notes:Dream Puker 🤢🤢🤢 (can't beat Techeun Force)
+//notes:can't beat Techeun Force
+dimwishlist:item=-394810086
+dimwishlist:item=-2931957300
 
 // lightweight grenade launcher
-dimwishlist:item=-3745974521#notes:The Militia's Pukeright 🤢🤢🤢 (it's not Mountaintop and it can't even get Demolitionist like Orewing's can)
+dimwishlist:item=-3745974521#notes:it's not Mountaintop and it can't even get Demolitionist like Orewing's can
 
 // adaptive grenade launcher
-dimwishlist:item=-195440257#notes:Puke of the Game 🤢🤢🤢 (can't match Doomsday perks which is already weak compared to Wendigo and Aggressives)
-dimwishlist:item=-2621637518#notes:Puke of the Game 🤢🤢🤢 (can't match Doomsday perks which is already weak compared to Wendigo and Aggressives)
-dimwishlist:item=-218335759#notes:Puke Transit 🤢🤢🤢 (can't match Doomsday perks which is already weak compared to Wendigo and Aggressives)
-dimwishlist:item=-301362381#notes:Through Puke and Puke 🤢🤢🤢 (can't match Doomsday perks which is already weak compared to Wendigo and Aggressives)
+//notes:can't match Doomsday perks which is already weak compared to Wendigo and Aggressives
+dimwishlist:item=-195440257
+dimwishlist:item=-2621637518
+dimwishlist:item=-218335759
+dimwishlist:item=-301362381
 
 // aggressive grenade launcher
-dimwishlist:item=-1757129747#notes:Acanthpukea-D XK8434 🤢🤢🤢 (no full court, and redundant elements to Love and Death or Wendigo)
-dimwishlist:item=-4146702548 #notes:Pukerageous Fortune 🤢🤢🤢 (no full court, and redundant elements to Love and Death or Wendigo)
-dimwishlist:item=-301362380#notes:Terran Puke 🤢🤢🤢 (no full court, and redundant elements to Love and Death or Wendigo)
+//notes:no full court, and redundant elements to Love and Death or Wendigo
+dimwishlist:item=-1757129747
+dimwishlist:item=-4146702548
+dimwishlist:item=-301362380
 
 // rocket launcher
-// dimwishlist:item=-13#notes:Rocket launchers in general 🤢🤢🤢 ( don't care about these. Sleepless is good, curated Bad Omens is good, Demolitionist Cluster Heretic is good)
+// dimwishlist:item=-13#notes:Rocket launchers in general 🙁 (don't care about these. Sleepless is good, curated Bad Omens is good, Demolitionist Cluster Heretic is good)
 
 // high-impact machine gun
-dimwishlist:item=-1642384931#notes:Fixed Pukes 🤢🤢🤢 (Weak archetype but curated Bane is pretty good)
-dimwishlist:item=-1496419775 #notes:Puke of Sorrow 🤢🤢🤢 (Weak archetype but curated Bane is pretty good)
+//notes:Weak archetype but curated Bane is pretty good
+dimwishlist:item=-1642384931
+dimwishlist:item=-1496419775
 
 // adaptive machine gun
-dimwishlist:item=-66875353#notes:Pukalanche 🤢🤢🤢 (Memorial is pretty garbage even compared to Avalanche, both are outclassed severely by Delirium and Edgewise anyways)
-dimwishlist:item=-1220931350#notes:A Puke Memorial 🤢🤢🤢 (Memorial is pretty garbage even compared to Avalanche, both are outclassed severely by Delirium and Edgewise anyways)
-dimwishlist:item=-3325778512#notes:A Puke Memorial 🤢🤢🤢 (Memorial is pretty garbage even compared to Avalanche, both are outclassed severely by Delirium and Edgewise anyways)
+//notes:Memorial is pretty garbage even compared to Avalanche, both are outclassed severely by Delirium and Edgewise anyways
+dimwishlist:item=-66875353
+dimwishlist:item=-1220931350
+dimwishlist:item=-3325778512
  
 // rapid-fire machine gun
-dimwishlist:item=-3369545945#notes:Tempukal Clause 🤢🤢🤢 (Unless you *really* hate Hammerhead or Bane of Sorrow, this is redundant vs. better guns)
+dimwishlist:item=-3369545945#notes:Unless you *really* hate Hammerhead or Bane of Sorrow, this is redundant vs. better guns
