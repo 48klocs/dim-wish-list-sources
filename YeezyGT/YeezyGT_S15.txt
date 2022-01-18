@@ -756,34 +756,6 @@ dimwishlist:item=2448907086&perks=981914802,2822142346,3300816228,3927722942
 dimwishlist:item=2448907086&perks=981914802,2822142346,3300816228,3523296417
 
 
-// Reed's Regret (Adept) - [YeezyGT's S15] (PvE): (god-pve)
-//notes: [YeezyGT's S15] (PvE): [MW: Stability / Reload Speed] "After spending a bit of time with this thing, while its worse than Threaded Needle on paper due to; accessibility, recoil direction, the awkward Stasis element for high-level content... The Adept version having Adept Big Ones allows it a slight short-burst damage advantage for GMs, as a trade-off for not being able to break shields in Match Game. Flex factor aside, this thing just feels good. Would still recommend an Auto-Loading Threaded Needle for most fights in the game, but Clown Cartridge makes this a great workhorse, and Triple Tap can even out-perform that, in the event that you can hit every crit. It's unfortunate to say this, but, you have to get the Adept version to have a reason to use this in PvE over Threaded Needle.|tags:god-pve
-dimwishlist:item=2475355656&perks=839105230,1687452232,2284787283,1546637391
-dimwishlist:item=2475355656&perks=839105230,1687452232,2284787283,1771339417
-dimwishlist:item=2475355656&perks=839105230,1687452232,3400784728,1546637391
-dimwishlist:item=2475355656&perks=839105230,1687452232,3400784728,1771339417
-dimwishlist:item=2475355656&perks=839105230,2680121939,2284787283,1546637391
-dimwishlist:item=2475355656&perks=839105230,2680121939,2284787283,1771339417
-dimwishlist:item=2475355656&perks=839105230,2680121939,3400784728,1546637391
-dimwishlist:item=2475355656&perks=839105230,2680121939,3400784728,1771339417
-dimwishlist:item=2475355656&perks=4090651448,1687452232,2284787283,1546637391
-dimwishlist:item=2475355656&perks=4090651448,1687452232,2284787283,1771339417
-dimwishlist:item=2475355656&perks=4090651448,1687452232,3400784728,1546637391
-dimwishlist:item=2475355656&perks=4090651448,1687452232,3400784728,1771339417
-dimwishlist:item=2475355656&perks=4090651448,2680121939,2284787283,1546637391
-dimwishlist:item=2475355656&perks=4090651448,2680121939,2284787283,1771339417
-dimwishlist:item=2475355656&perks=4090651448,2680121939,3400784728,1546637391
-dimwishlist:item=2475355656&perks=4090651448,2680121939,3400784728,1771339417
-dimwishlist:item=2475355656&perks=1840239774,1687452232,2284787283,1546637391
-dimwishlist:item=2475355656&perks=1840239774,1687452232,2284787283,1771339417
-dimwishlist:item=2475355656&perks=1840239774,1687452232,3400784728,1546637391
-dimwishlist:item=2475355656&perks=1840239774,1687452232,3400784728,1771339417
-dimwishlist:item=2475355656&perks=1840239774,2680121939,2284787283,1546637391
-dimwishlist:item=2475355656&perks=1840239774,2680121939,2284787283,1771339417
-dimwishlist:item=2475355656&perks=1840239774,2680121939,3400784728,1546637391
-dimwishlist:item=2475355656&perks=1840239774,2680121939,3400784728,1771339417
-
-
 // Seventh Seraph SAW - [YeezyGT's S15] (PvE): (god-pve)
 //notes: [YeezyGT's S15] (PvE): [MW: Stability / Range / Handling] "A personal favourite. While Warmind Cells' efficacy is currently being called into question, the SAW truly doesn't even need them. Auto-Loading Holster is a must for LMGs (sorry SWARM), and being able to roll Vorpal Weapon and Disruption Break makes SAW a top-tier pick for GMs. The recoil direction is horrible, but due to the slow firing speed, is easy to work around and plays into the power fantasy somewhat. The thing feels like you're firing a portable tank turret, and does the numbers (with a new 20% dmg buff) to back it up."|tags:god-pve
 dimwishlist:item=2582755344&perks=839105230,2420895100,3300816228,1546637391
@@ -942,26 +914,6 @@ dimwishlist:item=2870169846&perks=1482024992,3230963543,3436462433,706527188
 dimwishlist:item=2870169846&perks=1482024992,3230963543,3436462433,3523296417
 dimwishlist:item=2870169846&perks=1482024992,3230963543,1168162263,706527188
 dimwishlist:item=2870169846&perks=1482024992,3230963543,1168162263,3523296417
-
-
-// Threaded Needle - [YeezyGT's S15] (PvE): (god-pve)
-//notes: [YeezyGT's S15] (PvE): [MW: Stability / Handling] "In the event that Firing Line does not get buffed, Threaded Needle will remain the unequivocal king of LFR DPS. This thing can roll Auto-Loading Holster (which Reed's Regret cannot), and Vorpal/Frenzy. Clown Cartridge is another sleeper pick on both, which can overfill the magazine by 50%, meaning you can get up to a 9-round mag with Enhanced Battery - matching or out-DPS'ing a perfect Triple Tap. The choice for GM content essentially comes down to whether you prefer the ability to run Adept Big Ones, or the ability to effectively break shields on Match Game."|tags:god-pve
-dimwishlist:item=3075224551&perks=4090651448,1687452232,3300816228,1546637391
-dimwishlist:item=3075224551&perks=4090651448,1687452232,3300816228,4104185692
-dimwishlist:item=3075224551&perks=4090651448,1687452232,2284787283,1546637391
-dimwishlist:item=3075224551&perks=4090651448,1687452232,2284787283,4104185692
-dimwishlist:item=3075224551&perks=4090651448,2680121939,3300816228,1546637391
-dimwishlist:item=3075224551&perks=4090651448,2680121939,3300816228,4104185692
-dimwishlist:item=3075224551&perks=4090651448,2680121939,2284787283,1546637391
-dimwishlist:item=3075224551&perks=4090651448,2680121939,2284787283,4104185692
-dimwishlist:item=3075224551&perks=1840239774,1687452232,3300816228,1546637391
-dimwishlist:item=3075224551&perks=1840239774,1687452232,3300816228,4104185692
-dimwishlist:item=3075224551&perks=1840239774,1687452232,2284787283,1546637391
-dimwishlist:item=3075224551&perks=1840239774,1687452232,2284787283,4104185692
-dimwishlist:item=3075224551&perks=1840239774,2680121939,3300816228,1546637391
-dimwishlist:item=3075224551&perks=1840239774,2680121939,3300816228,4104185692
-dimwishlist:item=3075224551&perks=1840239774,2680121939,2284787283,1546637391
-dimwishlist:item=3075224551&perks=1840239774,2680121939,2284787283,4104185692
 
 
 // False Promises - [YeezyGT's S15] (PvE): (pve)
