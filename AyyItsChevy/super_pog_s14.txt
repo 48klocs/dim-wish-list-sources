@@ -367,61 +367,61 @@ dimwishlist:item=2434225986&perks=1840239774,2420895100,2869569095,3425386926#no
 
 
 
-
+// The Number
 dimwishlist:item=2492081469&perks=1467527085,1561002382,4071163871,4049631843#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
 dimwishlist:item=2492081469&perks=839105230,1561002382,4071163871,4049631843#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
-dimwishlist:item=2492081469&perks=2420895100,1561002382,4071163871,4049631843#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
+dimwishlist:item=2492081469&perks=1467527085,1561002382,4071163871,4049631843#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
 dimwishlist:item=2492081469&perks=1467527085,1968497646,4071163871,4049631843#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
 dimwishlist:item=2492081469&perks=839105230,1968497646,4071163871,4049631843#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
-dimwishlist:item=2492081469&perks=2420895100,1968497646,4071163871,4049631843#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
+dimwishlist:item=2492081469&perks=1467527085,1968497646,4071163871,4049631843#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
 dimwishlist:item=2492081469&perks=1467527085,1087426260,4071163871,4049631843#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
 dimwishlist:item=2492081469&perks=839105230,1087426260,4071163871,4049631843#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
-dimwishlist:item=2492081469&perks=2420895100,1087426260,4071163871,4049631843#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
+dimwishlist:item=2492081469&perks=1467527085,1087426260,4071163871,4049631843#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
 dimwishlist:item=2492081469&perks=1467527085,1561002382,2869569095,4049631843#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
 dimwishlist:item=2492081469&perks=839105230,1561002382,2869569095,4049631843#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
-dimwishlist:item=2492081469&perks=2420895100,1561002382,2869569095,4049631843#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
+dimwishlist:item=2492081469&perks=1467527085,1561002382,2869569095,4049631843#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
 dimwishlist:item=2492081469&perks=1467527085,1968497646,2869569095,4049631843#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
 dimwishlist:item=2492081469&perks=839105230,1968497646,2869569095,4049631843#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
-dimwishlist:item=2492081469&perks=2420895100,1968497646,2869569095,4049631843#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
+dimwishlist:item=2492081469&perks=1467527085,1968497646,2869569095,4049631843#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
 dimwishlist:item=2492081469&perks=1467527085,1087426260,2869569095,4049631843#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
 dimwishlist:item=2492081469&perks=839105230,1087426260,2869569095,4049631843#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
-dimwishlist:item=2492081469&perks=2420895100,1087426260,2869569095,4049631843#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
+dimwishlist:item=2492081469&perks=1467527085,1087426260,2869569095,4049631843#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
 dimwishlist:item=2492081469&perks=1467527085,1561002382,4071163871,2458213969#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
 dimwishlist:item=2492081469&perks=839105230,1561002382,4071163871,2458213969#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
-dimwishlist:item=2492081469&perks=2420895100,1561002382,4071163871,2458213969#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
+dimwishlist:item=2492081469&perks=1467527085,1561002382,4071163871,2458213969#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
 dimwishlist:item=2492081469&perks=1467527085,1968497646,4071163871,2458213969#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
 dimwishlist:item=2492081469&perks=839105230,1968497646,4071163871,2458213969#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
-dimwishlist:item=2492081469&perks=2420895100,1968497646,4071163871,2458213969#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
+dimwishlist:item=2492081469&perks=1467527085,1968497646,4071163871,2458213969#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
 dimwishlist:item=2492081469&perks=1467527085,1087426260,4071163871,2458213969#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
 dimwishlist:item=2492081469&perks=839105230,1087426260,4071163871,2458213969#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
-dimwishlist:item=2492081469&perks=2420895100,1087426260,4071163871,2458213969#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
+dimwishlist:item=2492081469&perks=1467527085,1087426260,4071163871,2458213969#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
 dimwishlist:item=2492081469&perks=1467527085,1561002382,2869569095,2458213969#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
 dimwishlist:item=2492081469&perks=839105230,1561002382,2869569095,2458213969#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
-dimwishlist:item=2492081469&perks=2420895100,1561002382,2869569095,2458213969#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
+dimwishlist:item=2492081469&perks=1467527085,1561002382,2869569095,2458213969#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
 dimwishlist:item=2492081469&perks=1467527085,1968497646,2869569095,2458213969#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
 dimwishlist:item=2492081469&perks=839105230,1968497646,2869569095,2458213969#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
-dimwishlist:item=2492081469&perks=2420895100,1968497646,2869569095,2458213969#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
+dimwishlist:item=2492081469&perks=1467527085,1968497646,2869569095,2458213969#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
 dimwishlist:item=2492081469&perks=1467527085,1087426260,2869569095,2458213969#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
 dimwishlist:item=2492081469&perks=839105230,1087426260,2869569095,2458213969#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
-dimwishlist:item=2492081469&perks=2420895100,1087426260,2869569095,2458213969#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
+dimwishlist:item=2492081469&perks=1467527085,1087426260,2869569095,2458213969#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
 dimwishlist:item=2492081469&perks=1467527085,1561002382,4071163871,3592538738#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
 dimwishlist:item=2492081469&perks=839105230,1561002382,4071163871,3592538738#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
-dimwishlist:item=2492081469&perks=2420895100,1561002382,4071163871,3592538738#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
+dimwishlist:item=2492081469&perks=1467527085,1561002382,4071163871,3592538738#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
 dimwishlist:item=2492081469&perks=1467527085,1968497646,4071163871,3592538738#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
 dimwishlist:item=2492081469&perks=839105230,1968497646,4071163871,3592538738#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
-dimwishlist:item=2492081469&perks=2420895100,1968497646,4071163871,3592538738#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
+dimwishlist:item=2492081469&perks=1467527085,1968497646,4071163871,3592538738#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
 dimwishlist:item=2492081469&perks=1467527085,1087426260,4071163871,3592538738#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
 dimwishlist:item=2492081469&perks=839105230,1087426260,4071163871,3592538738#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
-dimwishlist:item=2492081469&perks=2420895100,1087426260,4071163871,3592538738#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
+dimwishlist:item=2492081469&perks=1467527085,1087426260,4071163871,3592538738#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
 dimwishlist:item=2492081469&perks=1467527085,1561002382,2869569095,3592538738#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
 dimwishlist:item=2492081469&perks=839105230,1561002382,2869569095,3592538738#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
-dimwishlist:item=2492081469&perks=2420895100,1561002382,2869569095,3592538738#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
+dimwishlist:item=2492081469&perks=1467527085,1561002382,2869569095,3592538738#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
 dimwishlist:item=2492081469&perks=1467527085,1968497646,2869569095,3592538738#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
 dimwishlist:item=2492081469&perks=839105230,1968497646,2869569095,3592538738#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
-dimwishlist:item=2492081469&perks=2420895100,1968497646,2869569095,3592538738#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
+dimwishlist:item=2492081469&perks=1467527085,1968497646,2869569095,3592538738#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
 dimwishlist:item=2492081469&perks=1467527085,1087426260,2869569095,3592538738#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
 dimwishlist:item=2492081469&perks=839105230,1087426260,2869569095,3592538738#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
-dimwishlist:item=2492081469&perks=2420895100,1087426260,2869569095,3592538738#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
+dimwishlist:item=2492081469&perks=1467527085,1087426260,2869569095,3592538738#notes:Chevy's S14 Super Pog PvE Loot List (MKB/PVE). Recommended MW - Range
 
 
 
