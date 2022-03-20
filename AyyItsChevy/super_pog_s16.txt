@@ -182,17 +182,11 @@ dimwishlist:item=2852052802&perks=4090651448,1561002382,1820235745,1546637391#no
 
 
 dimwishlist:item=2856514843&perks=4090651448,1561002382,1168162263,124408337#notes:Chevy's S16 Super Pog PvE Loot List. Recommended MW - Range|tags:pve,mkb
-dimwishlist:item=2856514843&perks=4090651448,1561002382,3124871000,124408337#notes:Chevy's S16 Super Pog PvE Loot List. Recommended MW - Range|tags:pve,mkb
 dimwishlist:item=2856514843&perks=4090651448,1561002382,1168162263,4104185692#notes:Chevy's S16 Super Pog PvE Loot List. Recommended MW - Range|tags:pve,mkb
-dimwishlist:item=2856514843&perks=4090651448,1561002382,3124871000,4104185692#notes:Chevy's S16 Super Pog PvE Loot List. Recommended MW - Range|tags:pve,mkb
 
 
 
 
-dimwishlist:item=1019000888&perks=4090651448,1561002382,1583705720,4049631843#notes:Chevy's S16 Super Pog PvE Loot List. Recommended MW - Reload|tags:pve,mkb
-dimwishlist:item=1019000888&perks=4090651448,1561002382,247725512,4049631843#notes:Chevy's S16 Super Pog PvE Loot List. Recommended MW - Reload|tags:pve,mkb
-dimwishlist:item=1019000888&perks=4090651448,1561002382,1583705720,3038247973#notes:Chevy's S16 Super Pog PvE Loot List. Recommended MW - Reload|tags:pve,mkb
-dimwishlist:item=1019000888&perks=4090651448,1561002382,247725512,3038247973#notes:Chevy's S16 Super Pog PvE Loot List. Recommended MW - Reload|tags:pve,mkb
 
 
 
@@ -211,7 +205,6 @@ dimwishlist:item=1248372789&perks=4090651448,3142289711,3400784728,4049631843#no
 
 
 dimwishlist:item=4114929480&perks=1467527085,689005463,1583705720,2652708987#notes:Chevy's S16 Super Pog PvE Loot List. Recommended MW - Range|tags:pve,mkb
-dimwishlist:item=4114929480&perks=2420895100,689005463,1583705720,2652708987#notes:Chevy's S16 Super Pog PvE Loot List. Recommended MW - Range|tags:pve,mkb
 
 
 
