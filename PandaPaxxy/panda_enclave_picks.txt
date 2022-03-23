@@ -1,0 +1,89 @@
+title:u/pandapaxxy's Enclave and Wellspring Weapons, Season of the Risen Breakdown
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/tfhcoq/enclave_and_wellspring_weapons_season_of_the_risen/
+
+
+// Empirical Evidence
+//notes:pandapaxxy (PvE / M+KB / Controller): "It is good to see another aggressive burst sidearm back in the game. These have always been a hot topic within the community. [...] Empirical Evidence is just alright. Nothing flashy but also nothing bad. Just middle of the pack. With a better perk pool you could see this being a top contender for possibly end game activities. But Empirical Evidence’s perk pool just lets it down." Recommended MW: Reload.|tags:pve,mkb,controller
+dimwishlist:item=2607304614&perks=1840239774,1087426260,1428297954,3673922083
+dimwishlist:item=2607304614&perks=3250034553,1087426260,1428297954,3673922083
+dimwishlist:item=2607304614&perks=1840239774,1968497646,1428297954,3673922083
+dimwishlist:item=2607304614&perks=3250034553,1968497646,1428297954,3673922083
+dimwishlist:item=2607304614&perks=1840239774,2420895100,1428297954,3673922083
+dimwishlist:item=2607304614&perks=3250034553,2420895100,1428297954,3673922083
+dimwishlist:item=2607304614&perks=1840239774,1087426260,1428297954,4082225868
+dimwishlist:item=2607304614&perks=3250034553,1087426260,1428297954,4082225868
+dimwishlist:item=2607304614&perks=1840239774,1968497646,1428297954,4082225868
+dimwishlist:item=2607304614&perks=3250034553,1968497646,1428297954,4082225868
+dimwishlist:item=2607304614&perks=1840239774,2420895100,1428297954,4082225868
+dimwishlist:item=2607304614&perks=3250034553,2420895100,1428297954,4082225868
+
+
+// Empirical Evidence
+//notes:pandapaxxy (PvP / M+KB / Controller): "Within PvP the aggressive burst sidearms are extremely consistent. Swashbuckler will change the time to kill but even at lower stacks it will make it far easier to secure those three burst kills, or artificially extend your ranges. As long as you can maintain bursts on target this sidearm will do you well, not meta shattering well, but will definitely take some people by surprise." Recommended MW: Range.|tags:pvp,mkb,controller
+dimwishlist:item=2607304614&perks=1482024992,1561002382,1428297954,4082225868
+dimwishlist:item=2607304614&perks=3250034553,1561002382,1428297954,4082225868
+dimwishlist:item=2607304614&perks=1482024992,1885400500,1428297954,4082225868
+dimwishlist:item=2607304614&perks=3250034553,1885400500,1428297954,4082225868
+dimwishlist:item=2607304614&perks=1482024992,1561002382,1428297954,3673922083
+dimwishlist:item=2607304614&perks=3250034553,1561002382,1428297954,3673922083
+dimwishlist:item=2607304614&perks=1482024992,1885400500,1428297954,3673922083
+dimwishlist:item=2607304614&perks=3250034553,1885400500,1428297954,3673922083
+
+
+// Forensic Nightmare
+//notes:pandapaxxy (PvE / M+KB / Controller): "Precision frame submachine guns are in a weird spot. Having higher damage but lower stats across the boards combined with a pitiful reload creates an awful feeling weapon. You can counter this with perpetual motion to boost some of the stats or grave robber to straight up bypass the reload, but you still have an uphill battle to fight with the gun versus using Funnelweb or similar that need a lot less to feel good." Recommended MW: Reload.|tags:pve,mkb,controller
+dimwishlist:item=1526296434&perks=1840239774,1087426260,1428297954,1015611457
+dimwishlist:item=1526296434&perks=4090651448,1087426260,1428297954,1015611457
+dimwishlist:item=1526296434&perks=1482024992,1087426260,1428297954,1015611457
+dimwishlist:item=1526296434&perks=1840239774,2420895100,1428297954,1015611457
+dimwishlist:item=1526296434&perks=4090651448,2420895100,1428297954,1015611457
+dimwishlist:item=1526296434&perks=1482024992,2420895100,1428297954,1015611457
+dimwishlist:item=1526296434&perks=1840239774,1087426260,1631667848,1015611457
+dimwishlist:item=1526296434&perks=4090651448,1087426260,1631667848,1015611457
+dimwishlist:item=1526296434&perks=1482024992,1087426260,1631667848,1015611457
+dimwishlist:item=1526296434&perks=1840239774,2420895100,1631667848,1015611457
+dimwishlist:item=1526296434&perks=4090651448,2420895100,1631667848,1015611457
+dimwishlist:item=1526296434&perks=1482024992,2420895100,1631667848,1015611457
+dimwishlist:item=1526296434&perks=1840239774,1087426260,1428297954,124408337
+dimwishlist:item=1526296434&perks=4090651448,1087426260,1428297954,124408337
+dimwishlist:item=1526296434&perks=1482024992,1087426260,1428297954,124408337
+dimwishlist:item=1526296434&perks=1840239774,2420895100,1428297954,124408337
+dimwishlist:item=1526296434&perks=4090651448,2420895100,1428297954,124408337
+dimwishlist:item=1526296434&perks=1482024992,2420895100,1428297954,124408337
+dimwishlist:item=1526296434&perks=1840239774,1087426260,1631667848,124408337
+dimwishlist:item=1526296434&perks=4090651448,1087426260,1631667848,124408337
+dimwishlist:item=1526296434&perks=1482024992,1087426260,1631667848,124408337
+dimwishlist:item=1526296434&perks=1840239774,2420895100,1631667848,124408337
+dimwishlist:item=1526296434&perks=4090651448,2420895100,1631667848,124408337
+dimwishlist:item=1526296434&perks=1482024992,2420895100,1631667848,124408337
+dimwishlist:item=1526296434&perks=1840239774,1087426260,1428297954,4082225868
+dimwishlist:item=1526296434&perks=4090651448,1087426260,1428297954,4082225868
+dimwishlist:item=1526296434&perks=1482024992,1087426260,1428297954,4082225868
+dimwishlist:item=1526296434&perks=1840239774,2420895100,1428297954,4082225868
+dimwishlist:item=1526296434&perks=4090651448,2420895100,1428297954,4082225868
+dimwishlist:item=1526296434&perks=1482024992,2420895100,1428297954,4082225868
+dimwishlist:item=1526296434&perks=1840239774,1087426260,1631667848,4082225868
+dimwishlist:item=1526296434&perks=4090651448,1087426260,1631667848,4082225868
+dimwishlist:item=1526296434&perks=1482024992,1087426260,1631667848,4082225868
+dimwishlist:item=1526296434&perks=1840239774,2420895100,1631667848,4082225868
+dimwishlist:item=1526296434&perks=4090651448,2420895100,1631667848,4082225868
+dimwishlist:item=1526296434&perks=1482024992,2420895100,1631667848,4082225868
+
+
+
+// Forensic Nightmare
+//notes:pandapaxxy (PvP / M+KB / Controller): "Forensic Nightmare has a really nice scope, but the zoom is a let down. Shayura’s Wrath is just an upgrade and most people have one in their inventory. Especially now with the alacrity origin trait. The only benefit to Forensic Nightmare over Shayura’s Wrath is the fact it is craftable, for those of us (like myself) who haven’t gotten a good Shayura’s Wrath to use. Kill clip and perpetual motion or slideways both have merit against guardians, and being a stasis submachine gun does open up your loadout to have more viable combinations." Recommended MW: Range.|tags:pvp,mkb,controller
+dimwishlist:item=1526296434&perks=3250034553,1561002382,1428297954,1015611457
+dimwishlist:item=1526296434&perks=1840239774,1561002382,1428297954,1015611457
+dimwishlist:item=1526296434&perks=3250034553,1885400500,1428297954,1015611457
+dimwishlist:item=1526296434&perks=1840239774,1885400500,1428297954,1015611457
+dimwishlist:item=1526296434&perks=3250034553,1561002382,2039302152,1015611457
+dimwishlist:item=1526296434&perks=1840239774,1561002382,2039302152,1015611457
+dimwishlist:item=1526296434&perks=3250034553,1885400500,2039302152,1015611457
+dimwishlist:item=1526296434&perks=1840239774,1885400500,2039302152,1015611457
+dimwishlist:item=1526296434&perks=3250034553,1561002382,1570042021,1015611457
+dimwishlist:item=1526296434&perks=1840239774,1561002382,1570042021,1015611457
+dimwishlist:item=1526296434&perks=3250034553,1885400500,1570042021,1015611457
+dimwishlist:item=1526296434&perks=1840239774,1885400500,1570042021,1015611457
+
+
