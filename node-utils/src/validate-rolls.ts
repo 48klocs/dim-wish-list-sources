@@ -11,7 +11,7 @@ const txtDirectories = [
   "AyyItsChevy",
   "blueberries-dot-gg",
   "YeezyGT",
-  // "misc",
+  "misc",
 ];
 
 const txtFilePaths = txtDirectories.flatMap((dirName) =>

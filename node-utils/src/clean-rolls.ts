@@ -18,7 +18,8 @@ const placesToLookForValidPerks: (
     "PandaPaxxy",
     "AyyItsChevy",
     "blueberries-dot-gg",
-    "YeezyGT" /*, "misc"*/,
+    "YeezyGT",
+    "misc",
   ].forEach((dirName) => {
     fs.readdirSync("../" + dirName).forEach(async (fileName) => {
       if (!fileName.includes(".txt") || fileName.includes("-clean.txt")) {
