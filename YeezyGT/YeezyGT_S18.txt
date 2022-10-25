@@ -1,7 +1,7 @@
 title:YeezyGT's S18
 
 // The Militia's Birthright - [YeezyGT's S18]  (pve)
-//notes: [MW: Velocity] "Militia's Birthright is back, and its milder than ever. It serves as a serviceable replacement for the Slideshot Ignition Code, though the cooldown on Slideways definitely hurts its efficacy. I'd only recommend Quickdraw/ALH, which serves as a fantastic Blinding/Spike option for utility or damage." tags:pve
+//notes: [MW: Velocity] "Militia's Birthright is back, and its milder than ever. It serves as a serviceable replacement for the Slideshot Ignition Code, though the cooldown on Slideways definitely hurts its efficacy. I'd only recommend Quickdraw/ALH, which serves as a fantastic Blinding/Spike option for utility or damage." tags:pve|tags:pve
 dimwishlist:item=40394833&perks=3525010810,3301904089,706527188,3300816228,1281216113
 dimwishlist:item=40394833&perks=3525010810,3301904089,706527188,3300816228,744217850
 dimwishlist:item=40394833&perks=3525010810,3301904089,2039302152,3300816228,1281216113
@@ -29,7 +29,7 @@ dimwishlist:item=40394833&perks=981914802,3032599245,2039302152,3300816228,74421
 
 
 // Nezarec's Whisper - [YeezyGT's S18]  (god-pve)
-//notes: [MW: Handling] "Glaives are not what you think they are. Glaives are not melee weapons. They are instant-use, renewable (portable) shields, with a low skill floor and high skill ceiling. They're built around mid-health single-target cleanup, ranged instant kills, re-directing enemy aggro, and at worst, mitigating the consequences of poor gameplay decisions. Build into maximum Handling, with Impulse Amplifier being non-negotiable." tags:god-pve
+//notes: [MW: Handling] "Glaives are not what you think they are. Glaives are not melee weapons. They are instant-use, renewable (portable) shields, with a low skill floor and high skill ceiling. They're built around mid-health single-target cleanup, ranged instant kills, re-directing enemy aggro, and at worst, mitigating the consequences of poor gameplay decisions. Build into maximum Handling, with Impulse Amplifier being non-negotiable." tags:god-pve|tags:god-pve
 dimwishlist:item=254636484&perks=5699512,3721627275,951095735,4104185692,1250481499
 dimwishlist:item=254636484&perks=5699512,3721627275,951095735,3007133316,1250481499
 dimwishlist:item=254636484&perks=5699512,3721627275,3878366039,4104185692,1250481499
@@ -57,7 +57,7 @@ dimwishlist:item=254636484&perks=1263609309,679225683,3878366039,3007133316,1250
 
 
 // Zaouli's Bane (Harrowed) - [YeezyGT's S18]  (pve)
-//notes: [MW: Stability/Reload] "Zaouli's is bad and I love it. Invest (highly) into Stability, get used to hip-firing to avoid the aggressive model recoil, and have something on-hand that can force a reload (dodge, Rain of Fire, Rally Barricade, etc). Incandescent feels very, very good on this paired with the scorch fragments from Solar 3.0. If you like it, you like it. If you don't, you don't." tags:pve
+//notes: [MW: Stability/Reload] "Zaouli's is bad and I love it. Invest (highly) into Stability, get used to hip-firing to avoid the aggressive model recoil, and have something on-hand that can force a reload (dodge, Rain of Fire, Rally Barricade, etc). Incandescent feels very, very good on this paired with the scorch fragments from Solar 3.0. If you like it, you like it. If you don't, you don't." tags:pve|tags:pve
 dimwishlist:item=291092617&perks=1840239774,3230963543,3038247973,4293542123,120721526
 dimwishlist:item=291092617&perks=1840239774,3230963543,3038247973,3523296417,120721526
 dimwishlist:item=291092617&perks=1392496348,3230963543,3038247973,4293542123,120721526
@@ -65,7 +65,7 @@ dimwishlist:item=291092617&perks=1392496348,3230963543,3038247973,3523296417,120
 
 
 // Zaouli's Bane - [YeezyGT's S18]  (pve)
-//notes: [MW: Stability/Reload] "Zaouli's is bad and I love it. Invest (highly) into Stability, get used to hip-firing to avoid the aggressive model recoil, and have something on-hand that can force a reload (dodge, Rain of Fire, Rally Barricade, etc). Incandescent feels very, very good on this paired with the scorch fragments from Solar 3.0. If you like it, you like it. If you don't, you don't." tags:pve
+//notes: [MW: Stability/Reload] "Zaouli's is bad and I love it. Invest (highly) into Stability, get used to hip-firing to avoid the aggressive model recoil, and have something on-hand that can force a reload (dodge, Rain of Fire, Rally Barricade, etc). Incandescent feels very, very good on this paired with the scorch fragments from Solar 3.0. If you like it, you like it. If you don't, you don't." tags:pve|tags:pve
 dimwishlist:item=431721920&perks=1840239774,3230963543,3038247973,4293542123,120721526
 dimwishlist:item=431721920&perks=1840239774,3230963543,3038247973,2675184851,120721526
 dimwishlist:item=431721920&perks=1840239774,3230963543,3038247973,3523296417,120721526
@@ -77,7 +77,7 @@ dimwishlist:item=431721920&perks=1840239774,3230963543,64866129,1906147653,12072
 
 
 // D.F.A. - [YeezyGT's S18]  (pve)
-//notes: [MW: Reload] "D.F.A. sounds amazing, and it looks great. You get access to the old Midnight Coup Outlaw/Rampage, or can emulate a 140RPM version of the Seventh Seraph Officer Revolver's Timed Payload perk set." tags:pve
+//notes: [MW: Reload] "D.F.A. sounds amazing, and it looks great. You get access to the old Midnight Coup Outlaw/Rampage, or can emulate a 140RPM version of the Seventh Seraph Officer Revolver's Timed Payload perk set." tags:pve|tags:pve
 dimwishlist:item=575830664&perks=1840239774,3177308360,1168162263,1954620775,744217850
 dimwishlist:item=575830664&perks=1840239774,3177308360,1168162263,1954620775,1281216113
 dimwishlist:item=575830664&perks=1840239774,3177308360,1168162263,3425386926,744217850
@@ -153,7 +153,7 @@ dimwishlist:item=575830664&perks=839105230,3142289711,1428297954,3425386926,1281
 
 
 // Planck's Stride - [YeezyGT's S18]  (pve)
-//notes: [MW: Reload] "Planck's Stride is a unique LMG. Typically, I aim for strong stability, and ways to force a reload to make LMGs viable, as no one wants to spend 5 full seconds reloading mid-combat. Planck's doesn't really have that outside of Grave Robber, which means using an LMG for CQC engagements to get the most out of its perk pool. I can see it working with ranged melees, like with Warlock's Celestial Fire - a synergistic Karnstein, Grave Robber / Pugilist build could be fun. Ultimately, there's a few interesting options here for build-crafters, but not a lot to help it win out against better LMGs." tags:pve
+//notes: [MW: Reload] "Planck's Stride is a unique LMG. Typically, I aim for strong stability, and ways to force a reload to make LMGs viable, as no one wants to spend 5 full seconds reloading mid-combat. Planck's doesn't really have that outside of Grave Robber, which means using an LMG for CQC engagements to get the most out of its perk pool. I can see it working with ranged melees, like with Warlock's Celestial Fire - a synergistic Karnstein, Grave Robber / Pugilist build could be fun. Ultimately, there's a few interesting options here for build-crafters, but not a lot to help it win out against better LMGs." tags:pve|tags:pve
 dimwishlist:item=820890091&perks=1840239774,3230963543,1631667848,4049631843,3907865655
 dimwishlist:item=820890091&perks=1840239774,3230963543,1631667848,859780267,3907865655
 dimwishlist:item=820890091&perks=1840239774,3230963543,1631667848,691659142,3907865655
@@ -589,7 +589,7 @@ dimwishlist:item=820890091&perks=3661387068,2420895100,1942880504,1161469972,390
 
 
 // Burden of Guilt - [YeezyGT's S18]  (pve)
-//notes: [MW: Charge/Stability] "Burden of Guilt's primary draws over Deliverance is its faster charge time, and access to Elemental Capacitor. It's hard to compete with Riptide's Auto-Loading/Chill Clip combination, but Burden of Guilt does a good job finding itself high-Handling options." tags:pve
+//notes: [MW: Charge/Stability] "Burden of Guilt's primary draws over Deliverance is its faster charge time, and access to Elemental Capacitor. It's hard to compete with Riptide's Auto-Loading/Chill Clip combination, but Burden of Guilt does a good job finding itself high-Handling options." tags:pve|tags:pve
 dimwishlist:item=933455006&perks=839105230,689005463,3511092054,2978966579,2988596335
 dimwishlist:item=933455006&perks=839105230,689005463,3511092054,2978966579,4091460919
 dimwishlist:item=933455006&perks=839105230,689005463,3511092054,2652708987,2988596335
@@ -665,7 +665,7 @@ dimwishlist:item=933455006&perks=1392496348,3868766766,1428297954,438098033,4091
 
 
 // Yesteryear - [YeezyGT's S18] (pve)
-//notes: [MW: Handling] "Yesteryear is a gun with a dozen great options... on paper. You'll know which people have actually used the gun by the recommendations / rolls they're chasing. The base recoil direction and stability combo is bad. It kicks, 50RD is inconsistent at best, and sabotaging your play at worst. But -- if you get Heating Up, it completely fixes this, and allows you to make use of the utterly fantastic fourth column perks without reprieve. Heating Up / Golden Tricorn is my number 1, followed by Slideways, then more traditional options like Outlaw / Rampage, etc. If you're not running Heating Up, then definitely go for Arrowhead Brake and even consider running Counterbalance Stock here. Consistency is king." tags:pve
+//notes: [MW: Handling] "Yesteryear is a gun with a dozen great options... on paper. You'll know which people have actually used the gun by the recommendations / rolls they're chasing. The base recoil direction and stability combo is bad. It kicks, 50RD is inconsistent at best, and sabotaging your play at worst. But -- if you get Heating Up, it completely fixes this, and allows you to make use of the utterly fantastic fourth column perks without reprieve. Heating Up / Golden Tricorn is my number 1, followed by Slideways, then more traditional options like Outlaw / Rampage, etc. If you're not running Heating Up, then definitely go for Arrowhead Brake and even consider running Counterbalance Stock here. Consistency is king." tags:pve|tags:pve
 dimwishlist:item=1141927949&perks=839105230,1885400500,1570042021,2610012052,4008116374
 dimwishlist:item=1141927949&perks=839105230,1885400500,1570042021,2610012052,515704826
 dimwishlist:item=1141927949&perks=839105230,1885400500,1570042021,3425386926,4008116374
@@ -831,7 +831,7 @@ dimwishlist:item=1141927949&perks=1392496348,3230963543,1168162263,2848615171,51
 
 
 // Sailspy Pitchglass - [YeezyGT's S18]  (pve)
-//notes: [MW: Charge/Handling/Reload] "Sailspy is a sleeper pick, and way more accessible for solo content than those struggling to make Bait & Switch Cataclysmic work for them. Consistency is always king. Rapid Hit/Frenzy maxes out reload, Focused Fury is a reliable way to hit a 20% buff on solo content, and the gun just feels good." tags:pve
+//notes: [MW: Charge/Handling/Reload] "Sailspy is a sleeper pick, and way more accessible for solo content than those struggling to make Bait & Switch Cataclysmic work for them. Consistency is always king. Rapid Hit/Frenzy maxes out reload, Focused Fury is a reliable way to hit a 20% buff on solo content, and the gun just feels good." tags:pve|tags:pve
 dimwishlist:item=1184309824&perks=1840239774,689005463,247725512,4104185692,3907865655
 dimwishlist:item=1184309824&perks=1840239774,689005463,247725512,3007133316,3907865655
 dimwishlist:item=1184309824&perks=1840239774,689005463,247725512,2896038713,3907865655
@@ -1027,7 +1027,7 @@ dimwishlist:item=1184309824&perks=4090651448,2680121939,3563868667,2402480669,39
 
 
 // Doom of Chelchis (Harrowed) - [YeezyGT's S18] (god-pve)
-//notes: [MW: Handling] "Doom of Chelchis (chell-chiss or kell-kiss?) is the does-it-all Scout Rifle. Explo/Frenzy. Adaptive Munitions. Firefly/Dragonfly. It shoots bad guys. It does your taxes. It looks phenomenal. Adaptive Munitions is incredibly strong for Match Game, and with how often Anti-Barrier Scout pops up, it's very valuable here. The 180RPM frame is familiar and well-loved, its stat package is great, and its got unconventional perk combos. It's probably better than my beloved Vouchsafe. I won't definitively admit it, but the sentiment is out there. Fantastic weapon." tags:god-pve
+//notes: [MW: Handling] "Doom of Chelchis (chell-chiss or kell-kiss?) is the does-it-all Scout Rifle. Explo/Frenzy. Adaptive Munitions. Firefly/Dragonfly. It shoots bad guys. It does your taxes. It looks phenomenal. Adaptive Munitions is incredibly strong for Match Game, and with how often Anti-Barrier Scout pops up, it's very valuable here. The 180RPM frame is familiar and well-loved, its stat package is great, and its got unconventional perk combos. It's probably better than my beloved Vouchsafe. I won't definitively admit it, but the sentiment is out there. Fantastic weapon." tags:god-pve|tags:god-pve
 dimwishlist:item=1184692845&perks=1840239774,3177308360,3038247973,4104185692
 dimwishlist:item=1184692845&perks=1840239774,3177308360,3038247973,2848615171
 dimwishlist:item=1184692845&perks=1840239774,3177308360,1048183818,4104185692
@@ -1151,7 +1151,7 @@ dimwishlist:item=1184692845&perks=4090651448,106909392,3824105627,2848615171
 
 
 // Brigand's Law - [YeezyGT's S18]  (pve)
-//notes: [MW: Stability] "Brigand's Law is fantastic. The Blunderbuss styling on a pocket-sized sidearm, the perk package including Threat Detector or Hip-Fire Grip, Enhanced Surrounded Spec going up to a 47% damage buff, then Voltshot which is simply phenomenal on this weapon type. Always invest MASSIVELY into Stability on Sidearms - Range quite simply does not matter for damage falloff. Is it Forbearance, or Trinity Ghoul? No. But hopefully, if we move back to a world where Primary weapons matter again, this is definitely in my backpack and ready for action." tags:pve
+//notes: [MW: Stability] "Brigand's Law is fantastic. The Blunderbuss styling on a pocket-sized sidearm, the perk package including Threat Detector or Hip-Fire Grip, Enhanced Surrounded Spec going up to a 47% damage buff, then Voltshot which is simply phenomenal on this weapon type. Always invest MASSIVELY into Stability on Sidearms - Range quite simply does not matter for damage falloff. Is it Forbearance, or Trinity Ghoul? No. But hopefully, if we move back to a world where Primary weapons matter again, this is definitely in my backpack and ready for action." tags:pve|tags:pve
 dimwishlist:item=1298815317&perks=1392496348,3177308360,4071163871,2173046394,3907865655
 dimwishlist:item=1298815317&perks=1392496348,3177308360,4071163871,1720528630,3907865655
 dimwishlist:item=1298815317&perks=1392496348,3177308360,4071163871,3708227201,3907865655
@@ -1187,7 +1187,7 @@ dimwishlist:item=1298815317&perks=1482024992,3177308360,3118144663,781192741,390
 
 
 // Qullim's Terminus - [YeezyGT's S18]  (pve)
-//notes: [MW: Reload] "Qullim's Terminus wins the arms race on style points alone. Where it struggles is a slow Reload with little in the perk pool that can effectively mitigate this. Firefly and Ensemble can do some heavy lifting here - and Stats for All is beneficial for Reload once again, though even 100 Reload on an LMG pails in comparison to options like Demolitionist, Reconstruction, Auto-Loading Holster that don't ruin the flow of combat. My recommendation for Qullim's as a result is unfortunately tied to builds that have the ability to force a reload, using this LMG as a "glass cannon" style, investing into Heating Up / Killing Tally to benefit from recoil and stability boosts, and completely clear a room before needing to initiate a reload. Firefly and Headstone are neat, though you'll find yourself activating them far less frequently than you'd think - LMGs don't shine in their precision capabilities." tags:pve
+//notes: [MW: Reload] "Qullim's Terminus wins the arms race on style points alone. Where it struggles is a slow Reload with little in the perk pool that can effectively mitigate this. Firefly and Ensemble can do some heavy lifting here - and Stats for All is beneficial for Reload once again, though even 100 Reload on an LMG pails in comparison to options like Demolitionist, Reconstruction, Auto-Loading Holster that don't ruin the flow of combat. My recommendation for Qullim's as a result is unfortunately tied to builds that have the ability to force a reload, using this LMG as a "glass cannon" style, investing into Heating Up / Killing Tally to benefit from recoil and stability boosts, and completely clear a room before needing to initiate a reload. Firefly and Headstone are neat, though you'll find yourself activating them far less frequently than you'd think - LMGs don't shine in their precision capabilities." tags:pve|tags:pve
 dimwishlist:item=1321506184&perks=1392496348,3177308360,1570042021,557221067,120721526
 dimwishlist:item=1321506184&perks=1392496348,3177308360,1570042021,2896748467,120721526
 dimwishlist:item=1321506184&perks=1392496348,3177308360,1570042021,3824105627,120721526
@@ -1287,7 +1287,7 @@ dimwishlist:item=1321506184&perks=839105230,3230963543,2495011826,1183436451,120
 
 
 // Tears of Contrition - [YeezyGT's S18]  (pve)
-//notes: [MW: Handling] "Tears of Contrition is a Scout Rifle. It fires bullets. It fires them far. It has Explosive Payload and Vorpal. It looks cool. It's a Scout Rifle." tags:pve
+//notes: [MW: Handling] "Tears of Contrition is a Scout Rifle. It fires bullets. It fires them far. It has Explosive Payload and Vorpal. It looks cool. It's a Scout Rifle." tags:pve|tags:pve
 dimwishlist:item=1366394399&perks=1840239774,3230963543,1428297954,3038247973,1250481499
 dimwishlist:item=1366394399&perks=1840239774,3230963543,1428297954,64866129,1250481499
 dimwishlist:item=1366394399&perks=1840239774,3230963543,1428297954,1546637391,1250481499
@@ -1691,7 +1691,7 @@ dimwishlist:item=1366394399&perks=4090651448,1087426260,3528046508,3418165135,12
 
 
 // Without Remorse - [YeezyGT's S18]  (pve)
-//notes: [MW: Handling] "Without Remorse looks great, feels great, shoots great. For PvE, Threat or HFG with One-Two Punch are stellar options with the ability to spec into high Handling. For everything else, Incandescent turns the thing into a buckshot flamethrower. Great gun." tags:pve
+//notes: [MW: Handling] "Without Remorse looks great, feels great, shoots great. For PvE, Threat or HFG with One-Two Punch are stellar options with the ability to spec into high Handling. For everything else, Incandescent turns the thing into a buckshot flamethrower. Great gun." tags:pve|tags:pve
 dimwishlist:item=1478986057&perks=1300023272,791862061,4071163871,2679249093
 dimwishlist:item=1478986057&perks=1300023272,791862061,4071163871,788178929
 dimwishlist:item=1478986057&perks=1300023272,791862061,4071163871,4293542123
@@ -1823,7 +1823,7 @@ dimwishlist:item=1478986057&perks=1482024992,3142289711,3118144663,2675184851
 
 
 // Blood Feud - [YeezyGT's S18]  (pve)
-//notes: [MW: Reload] "Blood Feud is slowly replacing my favourite SMG, Extraordinary Rendition. The new Ambitious Assassin buff is extremely good on this archetype, coupled with S-Tier SMG perk Frenzy. You can get comparable to Threat Detector speeds with a near-constant 15% damage buff, and going beyond double your mag size just by snowballing kills. When you set this thing up the right way, it plays fantastically well. Truly its only downside, from personal preference, comes from poor shading - for me, it doesn't win out on style points. So, is it function over form? Up to you." tags:pve
+//notes: [MW: Reload] "Blood Feud is slowly replacing my favourite SMG, Extraordinary Rendition. The new Ambitious Assassin buff is extremely good on this archetype, coupled with S-Tier SMG perk Frenzy. You can get comparable to Threat Detector speeds with a near-constant 15% damage buff, and going beyond double your mag size just by snowballing kills. When you set this thing up the right way, it plays fantastically well. Truly its only downside, from personal preference, comes from poor shading - for me, it doesn't win out on style points. So, is it function over form? Up to you." tags:pve|tags:pve
 dimwishlist:item=1509167284&perks=1392496348,3230963543,2010801679,4104185692
 dimwishlist:item=1509167284&perks=1392496348,3230963543,2010801679,3007133316
 dimwishlist:item=1509167284&perks=1392496348,3230963543,3797647183,4104185692
@@ -1863,7 +1863,7 @@ dimwishlist:item=1509167284&perks=1482024992,106909392,3797647183,3007133316
 
 
 // Taipan-4fr - [YeezyGT's S18]  (pve)
-//notes: [MW: Charge] "Taipan is the Linear that everyone in the world has told you to get. Triple Tap/Firing Line typically. Then, Frenzy or Focused Fury for solo content. Veist Stinger is very, very good. Taipan is very good -- with the right roll -- so there's a good reason you've heard about it." tags:pve
+//notes: [MW: Charge] "Taipan is the Linear that everyone in the world has told you to get. Triple Tap/Firing Line typically. Then, Frenzy or Focused Fury for solo content. Veist Stinger is very, very good. Taipan is very good -- with the right roll -- so there's a good reason you've heard about it." tags:pve|tags:pve
 dimwishlist:item=1911060537&perks=1840239774,689005463,3400784728,1771339417,3988215619
 dimwishlist:item=1911060537&perks=1840239774,689005463,3400784728,395388285,3988215619
 dimwishlist:item=1911060537&perks=1840239774,689005463,3400784728,4104185692,3988215619
@@ -2107,7 +2107,7 @@ dimwishlist:item=1911060537&perks=1392496348,2680121939,3563868667,2402480669,39
 
 
 // Doom of Chelchis - [YeezyGT's S18] (god-pve)
-//notes: [MW: Handling] "Doom of Chelchis (chell-chiss or kell-kiss?) is the does-it-all Scout Rifle. Explo/Frenzy. Adaptive Munitions. Firefly/Dragonfly. It shoots bad guys. It does your taxes. It looks phenomenal. Adaptive Munitions is incredibly strong for Match Game, and with how often Anti-Barrier Scout pops up, it's very valuable here. The 180RPM frame is familiar and well-loved, its stat package is great, and its got unconventional perk combos. It's probably better than my beloved Vouchsafe. I won't definitively admit it, but the sentiment is out there. Fantastic weapon." tags:god-pve
+//notes: [MW: Handling] "Doom of Chelchis (chell-chiss or kell-kiss?) is the does-it-all Scout Rifle. Explo/Frenzy. Adaptive Munitions. Firefly/Dragonfly. It shoots bad guys. It does your taxes. It looks phenomenal. Adaptive Munitions is incredibly strong for Match Game, and with how often Anti-Barrier Scout pops up, it's very valuable here. The 180RPM frame is familiar and well-loved, its stat package is great, and its got unconventional perk combos. It's probably better than my beloved Vouchsafe. I won't definitively admit it, but the sentiment is out there. Fantastic weapon." tags:god-pve|tags:god-pve
 dimwishlist:item=1937552980&perks=1840239774,3177308360,3038247973,4104185692,120721526
 dimwishlist:item=1937552980&perks=1840239774,3177308360,3038247973,2848615171,120721526
 dimwishlist:item=1937552980&perks=1840239774,3177308360,3038247973,3007133316,120721526
@@ -2495,7 +2495,7 @@ dimwishlist:item=1937552980&perks=4090651448,106909392,1183436451,169755979,1207
 
 
 // Bump in the Night - [YeezyGT's S18]  (pve)
-//notes: [MW: Handling/Reload] "Bump in the Night has a unique combo - Demo/Chill Clip fits perfectly as a damage option for grenade-heavy builds, such as Starfire Warlocks. Chill Clip's main success on a rocket comes from being paired with Wolfpack Rounds, (advisable only for 2 out of 6 on a team). Bump in the Night is a great option for static targets as a result." tags:pve
+//notes: [MW: Handling/Reload] "Bump in the Night has a unique combo - Demo/Chill Clip fits perfectly as a damage option for grenade-heavy builds, such as Starfire Warlocks. Chill Clip's main success on a rocket comes from being paired with Wolfpack Rounds, (advisable only for 2 out of 6 on a team). Bump in the Night is a great option for static targets as a result." tags:pve|tags:pve
 dimwishlist:item=1959650777&perks=3525010810,2822142346,3523296417,2978966579,1250481499
 dimwishlist:item=1959650777&perks=3525010810,2822142346,3523296417,344235611,1250481499
 dimwishlist:item=1959650777&perks=3525010810,2822142346,3523296417,4104185692,1250481499
@@ -2695,7 +2695,7 @@ dimwishlist:item=1999697514&perks=1482024992,3868766766,1645158859,1600092898,39
 
 
 // D.F.A. (Adept) - [YeezyGT's S18]  (pve)
-//notes: [MW: Reload] "D.F.A. sounds amazing, and it looks great. You get access to the old Midnight Coup Outlaw/Rampage, or can emulate a 140RPM version of the Seventh Seraph Officer Revolver's Timed Payload perk set." tags:pve
+//notes: [MW: Reload] "D.F.A. sounds amazing, and it looks great. You get access to the old Midnight Coup Outlaw/Rampage, or can emulate a 140RPM version of the Seventh Seraph Officer Revolver's Timed Payload perk set." tags:pve|tags:pve
 dimwishlist:item=2006308129&perks=1840239774,3177308360,1168162263,1954620775,1281216113
 dimwishlist:item=2006308129&perks=1840239774,3177308360,1168162263,1954620775,744217850
 dimwishlist:item=2006308129&perks=1840239774,3177308360,1168162263,3425386926,1281216113
@@ -2795,7 +2795,7 @@ dimwishlist:item=2006308129&perks=839105230,3142289711,1428297954,3425386926,744
 
 
 // Lingering Dread - [YeezyGT's S18]  (god-pve)
-//notes: [MW: Handling] "The cooler Pardon Our Dust. Aesthetics win out, and it has the holy Blinding or Spike / ALH combo. Demolitionist, Chill Clip, and even Danger Zone which has some great synergy with Blinding Grenades." tags:god-pve
+//notes: [MW: Handling] "The cooler Pardon Our Dust. Aesthetics win out, and it has the holy Blinding or Spike / ALH combo. Demolitionist, Chill Clip, and even Danger Zone which has some great synergy with Blinding Grenades." tags:god-pve|tags:god-pve
 dimwishlist:item=2026087437&perks=3525010810,3032599245,3300816228,3523296417,4154828211
 dimwishlist:item=2026087437&perks=3525010810,3032599245,3300816228,2978966579,4154828211
 dimwishlist:item=2026087437&perks=3525010810,3032599245,3300816228,960810156,4154828211
@@ -2817,7 +2817,7 @@ dimwishlist:item=2026087437&perks=3798852852,3301904089,3300816228,960810156,415
 
 
 // Ammit AR2 - [YeezyGT's S18]  (pve)
-//notes: [MW: Reload/Stability] "Ammit benefits greatly from the Omolon origin perk, feels great, and has access to a healthy perk pool. Surplus is a top pick, followed by new fan favourite Incandescent, and damage perks like Adrenaline Junkie. Some are fans of Stats for All, though I've never been too enamored by its inability to refresh mid-timer." tags:pve
+//notes: [MW: Reload/Stability] "Ammit benefits greatly from the Omolon origin perk, feels great, and has access to a healthy perk pool. Surplus is a top pick, followed by new fan favourite Incandescent, and damage perks like Adrenaline Junkie. Some are fans of Stats for All, though I've never been too enamored by its inability to refresh mid-timer." tags:pve|tags:pve
 dimwishlist:item=2119346509&perks=839105230,3230963543,3436462433,4293542123,2839173408
 dimwishlist:item=2119346509&perks=839105230,3230963543,3436462433,2675184851,2839173408
 dimwishlist:item=2119346509&perks=839105230,3230963543,3436462433,11612903,2839173408
@@ -2917,7 +2917,7 @@ dimwishlist:item=2119346509&perks=1482024992,1561002382,2658083589,2422968039,28
 
 
 // Fixed Odds - [YeezyGT's S18]  (pve)
-//notes: [MW: Reload] "Fixed Odds makes a triumphant return as a craftable LMG, now with perks like Incandescent, Killing Tally, and Rampage. Spec into high Stability and Reload. The low reload speed can be compensated by things such as Rally Barricade, Marksman Dodge, Rain of Fire boots, etc." tags:pve
+//notes: [MW: Reload] "Fixed Odds makes a triumphant return as a craftable LMG, now with perks like Incandescent, Killing Tally, and Rampage. Spec into high Stability and Reload. The low reload speed can be compensated by things such as Rally Barricade, Marksman Dodge, Rain of Fire boots, etc." tags:pve|tags:pve
 dimwishlist:item=2194955522&perks=1392496348,3177308360,2869569095,4293542123,1905044254
 dimwishlist:item=2194955522&perks=1392496348,3177308360,2869569095,2675184851,1905044254
 dimwishlist:item=2194955522&perks=1392496348,3177308360,2869569095,557221067,1905044254
@@ -2969,7 +2969,7 @@ dimwishlist:item=2194955522&perks=1840239774,3230963543,2308090567,288411554,190
 
 
 // Tarnished Mettle - [YeezyGT's S18]  (pve)
-//notes: [MW: Stability] "Tarnished Mettle has a number of great options for a Scout. Shoot to Loot/Explo is a tried-and-true combination for endgame, with Rapid Hit also being well-loved (for good reason). It's one of the privileged few to have Demolitionist in the third column, meaning you have access to Demo/Swashbuckler (for synergy with the Right Hook origin trait), Demo/Voltshot if you want the long-range jolting capability, and also Dragonfly which I'll never not recommend based on fun factor alone. While I don't see this being anyone's favourite gun, it does add some flavour to endgame Scouts." tags:pve
+//notes: [MW: Stability] "Tarnished Mettle has a number of great options for a Scout. Shoot to Loot/Explo is a tried-and-true combination for endgame, with Rapid Hit also being well-loved (for good reason). It's one of the privileged few to have Demolitionist in the third column, meaning you have access to Demo/Swashbuckler (for synergy with the Right Hook origin trait), Demo/Voltshot if you want the long-range jolting capability, and also Dragonfly which I'll never not recommend based on fun factor alone. While I don't see this being anyone's favourite gun, it does add some flavour to endgame Scouts." tags:pve|tags:pve
 dimwishlist:item=2218569744&perks=839105230,3177308360,3700496672,3038247973,3907865655
 dimwishlist:item=2218569744&perks=839105230,3177308360,3700496672,2173046394,3907865655
 dimwishlist:item=2218569744&perks=839105230,3177308360,3700496672,4082225868,3907865655
@@ -3133,7 +3133,7 @@ dimwishlist:item=2218569744&perks=1482024992,3142289711,3523296417,2848615171,39
 
 
 // Smite of Merain - [YeezyGT's S18] (pve)
-//notes: [MW: Handling] "Smite of Merain is a great-feeling Pulse with a stellar perk pool. For PvE, you're looking for consistent damage uptime, high Handling (always important for Champion content), and ways to bolster your abilities. Smite does all of this quite well. I'd be looking at Demo/Gutshot for high-level (Vorpal if Anti-Barrier Pulse is a thing), Demo/Adrenaline for low-level content, and Firefly just for the fun factor. Stats for All / One for All IS good, I just tend not to recommend it on Primary weapons that typically deal with one target at a time, unlike Heavies sporting the ability to really snowball kills." tags:pve
+//notes: [MW: Handling] "Smite of Merain is a great-feeling Pulse with a stellar perk pool. For PvE, you're looking for consistent damage uptime, high Handling (always important for Champion content), and ways to bolster your abilities. Smite does all of this quite well. I'd be looking at Demo/Gutshot for high-level (Vorpal if Anti-Barrier Pulse is a thing), Demo/Adrenaline for low-level content, and Firefly just for the fun factor. Stats for All / One for All IS good, I just tend not to recommend it on Primary weapons that typically deal with one target at a time, unlike Heavies sporting the ability to really snowball kills." tags:pve|tags:pve
 dimwishlist:item=2221264583&perks=839105230,3230963543,3523296417,1365187766,120721526
 dimwishlist:item=2221264583&perks=839105230,3230963543,3523296417,11612903,120721526
 dimwishlist:item=2221264583&perks=839105230,3230963543,3523296417,2422968039,120721526
@@ -3317,7 +3317,7 @@ dimwishlist:item=2221264583&perks=4090651448,3177308360,1906147653,4200236906,12
 
 
 // The Epicurean - [YeezyGT's S18]  (pve)
-//notes: [MW: Charge/Stab/Handling] "There's something specific Epicurean does which few others do. Quickdraw/Backup Plan is an incredible combo - something akin to a hot-swap that lets you fire a burst off as quickly as a shotgun can. Similarly, Surplus is a nice option that gives more Handling uptime than Quickdraw." tags:pve
+//notes: [MW: Charge/Stab/Handling] "There's something specific Epicurean does which few others do. Quickdraw/Backup Plan is an incredible combo - something akin to a hot-swap that lets you fire a burst off as quickly as a shotgun can. Similarly, Surplus is a nice option that gives more Handling uptime than Quickdraw." tags:pve|tags:pve
 dimwishlist:item=2263839058&perks=1840239774,689005463,706527188,1600092898
 dimwishlist:item=2263839058&perks=1840239774,689005463,706527188,828056542
 dimwishlist:item=2263839058&perks=1840239774,689005463,706527188,1799762209
@@ -3449,7 +3449,7 @@ dimwishlist:item=2263839058&perks=4090651448,3868766766,2658083589,1008128453
 
 
 // Hollow Denial - [YeezyGT's S18]  (pve)
-//notes: [MW: Range] "Hollow Denial has a fantastic perk package, with the crown jewel being Surplus/Killing Tally. Smallbore/Light Battery/Surplus has the ability to add up to 100/100/100 for Stability, Handling and Reload with the option to then invest into Range. Great feeling Trace that shades very well." tags:pve
+//notes: [MW: Range] "Hollow Denial has a fantastic perk package, with the crown jewel being Surplus/Killing Tally. Smallbore/Light Battery/Surplus has the ability to add up to 100/100/100 for Stability, Handling and Reload with the option to then invest into Range. Great feeling Trace that shades very well." tags:pve|tags:pve
 dimwishlist:item=2323544076&perks=1840239774,3868766766,3436462433,557221067
 dimwishlist:item=2323544076&perks=1840239774,3868766766,3436462433,2896748467
 dimwishlist:item=2323544076&perks=1840239774,3868766766,3436462433,2848615171
@@ -3501,7 +3501,7 @@ dimwishlist:item=2323544076&perks=1482024992,2749775325,2658083589,169755979
 
 
 // The Militia's Birthright (Adept) - [YeezyGT's S18]  (pve)
-//notes: [MW: Velocity] "Militia's Birthright is back, and its milder than ever. It serves as a serviceable replacement for the Slideshot Ignition Code, though the cooldown on Slideways definitely hurts its efficacy. I'd only recommend Quickdraw/ALH, which serves as a fantastic Blinding/Spike option for utility or damage." tags:pve
+//notes: [MW: Velocity] "Militia's Birthright is back, and its milder than ever. It serves as a serviceable replacement for the Slideshot Ignition Code, though the cooldown on Slideways definitely hurts its efficacy. I'd only recommend Quickdraw/ALH, which serves as a fantastic Blinding/Spike option for utility or damage." tags:pve|tags:pve
 dimwishlist:item=2378101424&perks=3525010810,3301904089,706527188,3300816228,1281216113
 dimwishlist:item=2378101424&perks=3525010810,3301904089,706527188,3300816228,744217850
 dimwishlist:item=2378101424&perks=3525010810,3301904089,2039302152,3300816228,1281216113
@@ -3529,7 +3529,7 @@ dimwishlist:item=2378101424&perks=981914802,3032599245,2039302152,3300816228,744
 
 
 // The Hero's Burden - [YeezyGT's S18]  (pve)
-//notes: [MW: Reload] "For PvE - is it Funnelweb? No, but it has Kill Clip, Repulsor Brace, and access to the SUROS origin perk. Merge these with a naturally high reload stat, Feeding Frenzy, and you have the potential for an extremely strong Kill Clip-looping, Volatile Rounds-using, Overshield-generating SMG." tags:pve
+//notes: [MW: Reload] "For PvE - is it Funnelweb? No, but it has Kill Clip, Repulsor Brace, and access to the SUROS origin perk. Merge these with a naturally high reload stat, Feeding Frenzy, and you have the potential for an extremely strong Kill Clip-looping, Volatile Rounds-using, Overshield-generating SMG." tags:pve|tags:pve
 dimwishlist:item=2488587246&perks=1392496348,3230963543,2779035018,1015611457,4008116374
 dimwishlist:item=2488587246&perks=1392496348,3230963543,2779035018,776531651,4008116374
 dimwishlist:item=2488587246&perks=1840239774,3230963543,2779035018,1015611457,4008116374
@@ -3537,7 +3537,7 @@ dimwishlist:item=2488587246&perks=1840239774,3230963543,2779035018,776531651,400
 
 
 // CALUS Mini-Tool - [YeezyGT's S18]  (god-pve)
-//notes: [MW: Reload] "Mini-Tool is back and it's fantastic. Enhanced Surrounded (+Spec) is a truly whopping 47% damage buff, Threat Detector remains one of (if not the best) perks for SMGs, and Unrelenting post-buff is very, very good - especially when paired with a perk like Incandescent, which covers multiple enemies at once." tags:god-pve
+//notes: [MW: Reload] "Mini-Tool is back and it's fantastic. Enhanced Surrounded (+Spec) is a truly whopping 47% damage buff, Threat Detector remains one of (if not the best) perks for SMGs, and Unrelenting post-buff is very, very good - especially when paired with a perk like Incandescent, which covers multiple enemies at once." tags:god-pve|tags:god-pve
 dimwishlist:item=2490988246&perks=3250034553,3230963543,4071163871,3708227201,1905044254
 dimwishlist:item=2490988246&perks=3250034553,3230963543,4071163871,781192741,1905044254
 dimwishlist:item=2490988246&perks=3250034553,3230963543,4071163871,4293542123,1905044254
@@ -3733,7 +3733,7 @@ dimwishlist:item=2490988246&perks=3661387068,3177308360,855168139,2675184851,190
 
 
 // Lunulata-4b - [YeezyGT's S18]  (pve)
-//notes: [MW: Draw Time/Reload] "Headstone on a Bow is a really interesting concept. Combining this with Steady Hands to be able to quick-swap to a weapon that can shatter the crystal, or with Shoot to Loot to shatter and (hopefully) collect the ammo dropped at long range is also an interesting idea." tags:pve
+//notes: [MW: Draw Time/Reload] "Headstone on a Bow is a really interesting concept. Combining this with Steady Hands to be able to quick-swap to a weapon that can shatter the crystal, or with Shoot to Loot to shatter and (hopefully) collect the ammo dropped at long range is also an interesting idea." tags:pve|tags:pve
 dimwishlist:item=2513965917&perks=2801223209,16392701,509074078,124408337,3988215619
 dimwishlist:item=2513965917&perks=2801223209,16392701,509074078,2652708987,3988215619
 dimwishlist:item=2513965917&perks=2801223209,16392701,3700496672,124408337,3988215619
@@ -3785,7 +3785,7 @@ dimwishlist:item=2513965917&perks=852209214,3827198035,3700496672,2652708987,398
 
 
 // No Reprieve - [YeezyGT's S18]  (pve)
-//notes: [MW: Range/Handling] "The main reason people want this in the PvE community is for the Triple Tap/Surrounded combo. Surrounded (+Spec) is a whopping 40% damage buff, adding up to 47% for Enhanced Surrounded (+Spec). It's rather niche for those scenarios where there are active ads mid-damage phase, or you can use it as a workhorse single-target cleanup weapon, in which case, I'd recommend Surplus." tags:pve
+//notes: [MW: Range/Handling] "The main reason people want this in the PvE community is for the Triple Tap/Surrounded combo. Surrounded (+Spec) is a whopping 40% damage buff, adding up to 47% for Enhanced Surrounded (+Spec). It's rather niche for those scenarios where there are active ads mid-damage phase, or you can use it as a workhorse single-target cleanup weapon, in which case, I'd recommend Surplus." tags:pve|tags:pve
 dimwishlist:item=2531963421&perks=1840239774,791862061,3400784728,3708227201
 dimwishlist:item=2531963421&perks=1840239774,791862061,3400784728,781192741
 dimwishlist:item=2531963421&perks=1840239774,791862061,573122728,3708227201
@@ -3909,7 +3909,7 @@ dimwishlist:item=2531963421&perks=202670084,679225683,2658083589,781192741
 
 
 // Strident Whistle - [YeezyGT's S18]  (pve)
-//notes: [MW: Draw/Reload] "Fantastic Bow. Uses the Wolftone Draw-style model, with a stellar perk pool. Includes fan favourite Incandescent, Explosive Head, Vorpal for Champions, the list goes on. Excellently replaces the sub-par Solar Bow from Last Wish." tags:pve
+//notes: [MW: Draw/Reload] "Fantastic Bow. Uses the Wolftone Draw-style model, with a stellar perk pool. Includes fan favourite Incandescent, Explosive Head, Vorpal for Champions, the list goes on. Excellently replaces the sub-par Solar Bow from Last Wish." tags:pve|tags:pve
 dimwishlist:item=2591241074&perks=2801223209,16392701,201365942,4293542123,744217850
 dimwishlist:item=2591241074&perks=2801223209,16392701,201365942,3365897133,744217850
 dimwishlist:item=2591241074&perks=2801223209,16392701,201365942,2848615171,744217850
@@ -4201,7 +4201,7 @@ dimwishlist:item=2591241074&perks=852209214,3827198035,2450788523,2652708987,744
 
 
 // The Enigma - [YeezyGT's S18] (god-pve)
-//notes: [MW: Handling] "Glaives are not what you think they are. Glaives are not melee weapons. They are instant-use, renewable (portable) shields, with a low skill floor and high skill ceiling. They're built around mid-health single-target cleanup, ranged instant kills, re-directing enemy aggro, and at worst, mitigating the consequences of poor gameplay decisions. Build into maximum Handling, with Impulse Amplifier being non-negotiable." tags:god-pve
+//notes: [MW: Handling] "Glaives are not what you think they are. Glaives are not melee weapons. They are instant-use, renewable (portable) shields, with a low skill floor and high skill ceiling. They're built around mid-health single-target cleanup, ranged instant kills, re-directing enemy aggro, and at worst, mitigating the consequences of poor gameplay decisions. Build into maximum Handling, with Impulse Amplifier being non-negotiable." tags:god-pve|tags:god-pve
 dimwishlist:item=2595497736&perks=5699512,3721627275,951095735,4104185692
 dimwishlist:item=2595497736&perks=5699512,3721627275,951095735,3007133316
 dimwishlist:item=2595497736&perks=5699512,3721627275,3878366039,4104185692
@@ -4229,7 +4229,7 @@ dimwishlist:item=2595497736&perks=1263609309,679225683,3878366039,3007133316
 
 
 // Riptide - [YeezyGT's S18]  (god-pve)
-//notes: [MW: Charge/Stab] "As of now, Riptide is probably the best Chill Clip workhorse in the game. Deliverance has great synergy with grenade-based Stasis builds, but Riptide is class-agnostic, sporting Auto-Loading Holster, easy-to-get, and can fire four (4!) Chill Clip rounds using the default mag size. That's two separate freezes on a Rapid-Fire frame. You can shoot a rocket, swap to Riptide, and freeze a Barrier Champion in a Grandmaster before it even pulls up its shield. If the icon wasn't so abrasive, it'd probably never leave my inventory." tags:god-pve
+//notes: [MW: Charge/Stab] "As of now, Riptide is probably the best Chill Clip workhorse in the game. Deliverance has great synergy with grenade-based Stasis builds, but Riptide is class-agnostic, sporting Auto-Loading Holster, easy-to-get, and can fire four (4!) Chill Clip rounds using the default mag size. That's two separate freezes on a Rapid-Fire frame. You can shoot a rocket, swap to Riptide, and freeze a Barrier Champion in a Grandmaster before it even pulls up its shield. If the icon wasn't so abrasive, it'd probably never leave my inventory." tags:god-pve|tags:god-pve
 dimwishlist:item=2715240478&perks=839105230,689005463,3300816228,2978966579,4091460919
 dimwishlist:item=2715240478&perks=839105230,689005463,3300816228,4104185692,4091460919
 dimwishlist:item=2715240478&perks=839105230,689005463,3300816228,3523296417,4091460919
@@ -4473,7 +4473,7 @@ dimwishlist:item=2715240478&perks=4090651448,1687452232,2869569095,2652708987,40
 
 
 // Firefright - [YeezyGT's S18]  (pve)
-//notes: [MW: Any] "Firefright takes the Scathelocke AR frame, so feels familiar, and comfortable. Craftable, and sporting new-wave perks that have had some lukewarm reception. Firefright is a reliable workhorse Auto that I'd spec highly into Stability/Handling, namely with perks like Threat Detector/Hip Fire Grip, then E-Cap, or Surrounded if you feel you can make use of the damage perk." tags:pve
+//notes: [MW: Any] "Firefright takes the Scathelocke AR frame, so feels familiar, and comfortable. Craftable, and sporting new-wave perks that have had some lukewarm reception. Firefright is a reliable workhorse Auto that I'd spec highly into Stability/Handling, namely with perks like Threat Detector/Hip Fire Grip, then E-Cap, or Surrounded if you feel you can make use of the damage perk." tags:pve|tags:pve
 dimwishlist:item=2778013407&perks=839105230,1885400500,1866048759,3511092054
 dimwishlist:item=2778013407&perks=839105230,1885400500,1866048759,711234314
 dimwishlist:item=2778013407&perks=839105230,1885400500,1866048759,3708227201
@@ -4797,7 +4797,7 @@ dimwishlist:item=2778013407&perks=4090651448,1968497646,494941759,781192741
 
 
 // BrayTech Werewolf - [YeezyGT's S18]  (pve)
-//notes: [MW: Handling/Reload] "BrayTech Werewolf is my favourite Auto. Great looking frame, cool gimmick with an environment-dynamic aesthetic, manageable recoil direction and great perks both before and after the rework. Gutshot is a free 10% damage buff against all enemies, Vorpal is 20% against Champions. Slideshot is a personal favourite for reload management, though there's some other great options here that would be less synergistic to recommend (Subsistence, Kill Clip, etc)." tags:pve
+//notes: [MW: Handling/Reload] "BrayTech Werewolf is my favourite Auto. Great looking frame, cool gimmick with an environment-dynamic aesthetic, manageable recoil direction and great perks both before and after the rework. Gutshot is a free 10% damage buff against all enemies, Vorpal is 20% against Champions. Slideshot is a personal favourite for reload management, though there's some other great options here that would be less synergistic to recommend (Subsistence, Kill Clip, etc)." tags:pve|tags:pve
 dimwishlist:item=2869466318&perks=1840239774,1561002382,3161816588,1546637391,2250679103
 dimwishlist:item=2869466318&perks=1840239774,1561002382,3161816588,1365187766,2250679103
 dimwishlist:item=2869466318&perks=1840239774,1885400500,3161816588,1546637391,2250679103
@@ -4819,7 +4819,7 @@ dimwishlist:item=2869466318&perks=4090651448,3230963543,3161816588,1365187766,22
 
 
 // Out of Bounds - [YeezyGT's S18]  (pve)
-//notes: [MW: Reload] "Out of Bounds is good. It's really, really good. Almost half the perks on this thing are good. Its stock recoil direction is good. Its stock handling is good. The Reload sucks, but then it comes with Threat Detector. It comes with Subsistence. It comes with Demolitionist/Golden Tricorn. Or Adrenaline Junkie. It's got Threat Detector/Kill Clip. Its one of the best perk pools I've seen. Potentially ever. So it really just comes down to your personal preference here - do you like the gun? Cool. Max out the reload and go ham. Have fun." tags:pve
+//notes: [MW: Reload] "Out of Bounds is good. It's really, really good. Almost half the perks on this thing are good. Its stock recoil direction is good. Its stock handling is good. The Reload sucks, but then it comes with Threat Detector. It comes with Subsistence. It comes with Demolitionist/Golden Tricorn. Or Adrenaline Junkie. It's got Threat Detector/Kill Clip. Its one of the best perk pools I've seen. Potentially ever. So it really just comes down to your personal preference here - do you like the gun? Cool. Max out the reload and go ham. Have fun." tags:pve|tags:pve
 dimwishlist:item=2988121501&perks=1392496348,3230963543,4071163871,3708227201,2839173408
 dimwishlist:item=2988121501&perks=1392496348,3230963543,4071163871,3708227201,4091460919
 dimwishlist:item=2988121501&perks=1392496348,3230963543,4071163871,1015611457,2839173408
@@ -5623,7 +5623,7 @@ dimwishlist:item=2988121501&perks=1840239774,679225683,1428297954,2610012052,409
 
 
 // Unforgiven - [YeezyGT's S18]  (pve)
-//notes: [MW: Reload] "Amazing SMG stinted by the (very) low Reload stat. If you can get lucky, and score Flared Magwell, Reload Masterwork and Frenzy, you'll have a very serviceable roll. Unfortunately, 100 full Duality runs later, and I don't have that 3/5 - so, good luck!" tags:pve
+//notes: [MW: Reload] "Amazing SMG stinted by the (very) low Reload stat. If you can get lucky, and score Flared Magwell, Reload Masterwork and Frenzy, you'll have a very serviceable roll. Unfortunately, 100 full Duality runs later, and I don't have that 3/5 - so, good luck!" tags:pve|tags:pve
 dimwishlist:item=3000847393&perks=1840239774,3230963543,2779035018,4104185692
 dimwishlist:item=3000847393&perks=1840239774,3230963543,3523296417,4104185692
 dimwishlist:item=3000847393&perks=1392496348,3230963543,2779035018,4104185692
@@ -5635,7 +5635,7 @@ dimwishlist:item=3000847393&perks=3661387068,3230963543,3523296417,4104185692
 
 
 // Qullim's Terminus (Harrowed) - [YeezyGT's S18]  (pve)
-//notes: [MW: Reload] "Qullim's Terminus wins the arms race on style points alone. Where it struggles is a slow Reload with little in the perk pool that can effectively mitigate this. Firefly and Ensemble can do some heavy lifting here - and Stats for All is beneficial for Reload once again, though even 100 Reload on an LMG pails in comparison to options like Demolitionist, Reconstruction, Auto-Loading Holster that don't ruin the flow of combat. My recommendation for Qullim's as a result is unfortunately tied to builds that have the ability to force a reload, using this LMG as a "glass cannon" style, investing into Heating Up / Killing Tally to benefit from recoil and stability boosts, and completely clear a room before needing to initiate a reload. Firefly and Headstone are neat, though you'll find yourself activating them far less frequently than you'd think - LMGs don't shine in their precision capabilities." tags:pve
+//notes: [MW: Reload] "Qullim's Terminus wins the arms race on style points alone. Where it struggles is a slow Reload with little in the perk pool that can effectively mitigate this. Firefly and Ensemble can do some heavy lifting here - and Stats for All is beneficial for Reload once again, though even 100 Reload on an LMG pails in comparison to options like Demolitionist, Reconstruction, Auto-Loading Holster that don't ruin the flow of combat. My recommendation for Qullim's as a result is unfortunately tied to builds that have the ability to force a reload, using this LMG as a "glass cannon" style, investing into Heating Up / Killing Tally to benefit from recoil and stability boosts, and completely clear a room before needing to initiate a reload. Firefly and Headstone are neat, though you'll find yourself activating them far less frequently than you'd think - LMGs don't shine in their precision capabilities." tags:pve|tags:pve
 dimwishlist:item=3248429089&perks=839105230,3177308360,1570042021,557221067
 dimwishlist:item=3248429089&perks=839105230,3177308360,1570042021,3824105627
 dimwishlist:item=3248429089&perks=839105230,3177308360,2621346526,557221067
@@ -5663,7 +5663,7 @@ dimwishlist:item=3248429089&perks=1392496348,3230963543,2621346526,3824105627
 
 
 // Smite of Merain (Harrowed) - [YeezyGT's S18] (pve)
-//notes: [MW: Handling] "Smite of Merain is a great-feeling Pulse with a stellar perk pool. For PvE, you're looking for consistent damage uptime, high Handling (always important for Champion content), and ways to bolster your abilities. Smite does all of this quite well. I'd be looking at Demo/Gutshot for high-level (Vorpal if Anti-Barrier Pulse is a thing), Demo/Adrenaline for low-level content, and Firefly just for the fun factor. Stats for All / One for All IS good, I just tend not to recommend it on Primary weapons that typically deal with one target at a time, unlike Heavies sporting the ability to really snowball kills." tags:pve
+//notes: [MW: Handling] "Smite of Merain is a great-feeling Pulse with a stellar perk pool. For PvE, you're looking for consistent damage uptime, high Handling (always important for Champion content), and ways to bolster your abilities. Smite does all of this quite well. I'd be looking at Demo/Gutshot for high-level (Vorpal if Anti-Barrier Pulse is a thing), Demo/Adrenaline for low-level content, and Firefly just for the fun factor. Stats for All / One for All IS good, I just tend not to recommend it on Primary weapons that typically deal with one target at a time, unlike Heavies sporting the ability to really snowball kills." tags:pve|tags:pve
 dimwishlist:item=3407395594&perks=839105230,3142289711,3523296417,1365187766,120721526
 dimwishlist:item=3407395594&perks=839105230,3142289711,3523296417,11612903,120721526
 dimwishlist:item=3407395594&perks=839105230,3142289711,3523296417,3824105627,120721526
@@ -5712,7 +5712,7 @@ dimwishlist:item=3407395594&perks=4090651448,3177308360,3523296417,3824105627,12
 
 
 // Stormchaser - [YeezyGT's S18]  (god-pve)
-//notes: [MW: Charge] "Stormchaser still reigns as one of the best-in-slot options, currently being the only burst-fire frame, and making up DPS potential with fast reload options such as Rapid Hit/Frenzy. There's a roll for everyone - Auto-Loading Holster, Clown Cartridge, Firing Line, Frenzy/Vorpal for solo activities - all sorts. It's well-loved, and well-loved for a reason." tags:god-pve
+//notes: [MW: Charge] "Stormchaser still reigns as one of the best-in-slot options, currently being the only burst-fire frame, and making up DPS potential with fast reload options such as Rapid Hit/Frenzy. There's a roll for everyone - Auto-Loading Holster, Clown Cartridge, Firing Line, Frenzy/Vorpal for solo activities - all sorts. It's well-loved, and well-loved for a reason." tags:god-pve|tags:god-pve
 dimwishlist:item=3652506829&perks=1840239774,689005463,247725512,1771339417,4154828211
 dimwishlist:item=3652506829&perks=1840239774,689005463,247725512,4104185692,4154828211
 dimwishlist:item=3652506829&perks=1840239774,689005463,247725512,1546637391,4154828211
@@ -5896,7 +5896,7 @@ dimwishlist:item=3652506829&perks=1482024992,1687452232,2284787283,1546637391,41
 
 
 // Roar of the Bear - [YeezyGT's S18] (pve)
-//notes: [MW: Handling] "Roar of the Bear does something many other Rockets can't. Combining Auto-Loading Holster with Demolitionist gives it great utility, and making it a dual-purpose Rocket for swapping with weapons like Izanagi's Burden. Impulse Amplifier / Auto-Loading Holster with high Handling makes this a top contender for Divinity users too, as you can maintain the Divinity cage while shooting off Rockets of your own." tags:pve
+//notes: [MW: Handling] "Roar of the Bear does something many other Rockets can't. Combining Auto-Loading Holster with Demolitionist gives it great utility, and making it a dual-purpose Rocket for swapping with weapons like Izanagi's Burden. Impulse Amplifier / Auto-Loading Holster with high Handling makes this a top contender for Divinity users too, as you can maintain the Divinity cage while shooting off Rockets of your own." tags:pve|tags:pve
 dimwishlist:item=4009352833&perks=3525010810,3796465595,3523296417,3300816228,3989629871
 dimwishlist:item=4009352833&perks=3525010810,3796465595,2869569095,3300816228,3989629871
 dimwishlist:item=4009352833&perks=3525010810,3796465595,951095735,3300816228,3989629871
@@ -5918,7 +5918,7 @@ dimwishlist:item=4009352833&perks=3798852852,2985827016,951095735,3300816228,398
 
 
 // Staccato-46 - [YeezyGT's S18]  (pve)
-//notes: [MW: Any] "Staccato is great. It sports the SUROS weapon feel, benefitting from bonus handling from the origin trait, while having access to perks like Explosive Payload/Incandescent and Shoot to Loot for higher-level content." tags:pve
+//notes: [MW: Any] "Staccato is great. It sports the SUROS weapon feel, benefitting from bonus handling from the origin trait, while having access to perks like Explosive Payload/Incandescent and Shoot to Loot for higher-level content." tags:pve|tags:pve
 dimwishlist:item=4019668921&perks=1840239774,3230963543,3700496672,3038247973,4008116374
 dimwishlist:item=4019668921&perks=1840239774,3230963543,3700496672,4293542123,4008116374
 dimwishlist:item=4019668921&perks=1840239774,3230963543,1168162263,3038247973,4008116374
