@@ -1,0 +1,5 @@
+version: "1"
+rules:
+  - base: master
+    upstream: 48klocs:dim-wish-list-sources   # change `wei` to the owner of upstream repo
+    mergeMethod: rebase
