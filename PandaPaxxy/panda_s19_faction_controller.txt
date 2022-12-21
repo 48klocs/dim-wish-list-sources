@@ -1,0 +1,90 @@
+title:u/pandapaxxy's Season 19, Faction Weapons Controller Breakdown
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/zokr09/season_19_faction_weapons/
+
+// Veles-X
+//notes:pandapaxxy (PvE / M+KB / Controller): "Veles-X is an aggressive burst pulse rifle that doesn’t need a raid to acquire. [...] If you happen to use void, however, getting golden tricorn 2x should be a cakewalk. The synergy is there to take this gun with echo of instability. Get a kill with Veles-X first, throw a grenade and get volatile rounds. You have golden tricorn 2x, this can stack with font of might for insane damage output. You have volatile rounds for add clear and if you get the kill you’ll have a small overshield to use. This is incredible for almost all activities. Unless you can’t get the grenade kill easily I would keep this in your inventory." Recommended MW - Stability.|tags:pve,mkb,controller
+dimwishlist:item=2276328320&perks=3661387068,3230963543,776531651,2610012052
+dimwishlist:item=2276328320&perks=3661387068,3230963543,2946784966,2610012052
+dimwishlist:item=2276328320&perks=3661387068,3230963543,776531651,1015611457
+dimwishlist:item=2276328320&perks=3661387068,3230963543,2946784966,1015611457
+
+
+// Veles-X
+//notes:pandapaxxy (PvP / M+KB / Controller): "Veles-X will still have some incredible usefulness in PvP as well. Tunnel vision and kill clip are perfect with one another. At base you have an incredible pulse that can two burst. With kill clip it makes that two burst more forgiving but you also have tunnel vision for more aim assist. With the recent change to kill clip and tunnel vision, both can be refreshed so it keeps both perks active whenever you get a kill." Recommended MW - Stability.|tags:pvp,mkb,controller
+dimwishlist:item=2276328320&perks=3661387068,3230963543,2946784966,1015611457
+
+
+// Albruna-D
+//notes:pandapaxxy (PvE / M+KB / Controller): "For any PvE activity I will always try and prioritize recoil direction. Especially on special weapons or your main DPS weapon to make follow up shots easier. Any mag boosting perk will make the overall roll better. The usual suspects of triple tap, clown cartridge and field prep all make their appearance. Alongside our usual damage perks; firing line, frenzy and vorpal weapon. All of these damage perks are phenomenal, but use case specific. Firing line only works when in a full fireteam or raid, and you’d have to be within range for it to work. Frenzy only really works as long as you’re continuously taking damage or dealing it. Vorpal is the easiest to work with but also has the lowest damage output of all three." Recommended MW - Reload.|tags:pve,mkb,controller
+dimwishlist:item=676270382&perks=1840239774,1087426260,3400784728,1771339417
+dimwishlist:item=676270382&perks=839105230,1087426260,3400784728,1771339417
+dimwishlist:item=676270382&perks=1840239774,106909392,3400784728,1771339417
+dimwishlist:item=676270382&perks=839105230,106909392,3400784728,1771339417
+dimwishlist:item=676270382&perks=1840239774,3230963543,3400784728,1771339417
+dimwishlist:item=676270382&perks=839105230,3230963543,3400784728,1771339417
+dimwishlist:item=676270382&perks=1840239774,1087426260,2284787283,1771339417
+dimwishlist:item=676270382&perks=839105230,1087426260,2284787283,1771339417
+dimwishlist:item=676270382&perks=1840239774,106909392,2284787283,1771339417
+dimwishlist:item=676270382&perks=839105230,106909392,2284787283,1771339417
+dimwishlist:item=676270382&perks=1840239774,3230963543,2284787283,1771339417
+dimwishlist:item=676270382&perks=839105230,3230963543,2284787283,1771339417
+dimwishlist:item=676270382&perks=1840239774,1087426260,2869569095,1771339417
+dimwishlist:item=676270382&perks=839105230,1087426260,2869569095,1771339417
+dimwishlist:item=676270382&perks=1840239774,106909392,2869569095,1771339417
+dimwishlist:item=676270382&perks=839105230,106909392,2869569095,1771339417
+dimwishlist:item=676270382&perks=1840239774,3230963543,2869569095,1771339417
+dimwishlist:item=676270382&perks=839105230,3230963543,2869569095,1771339417
+dimwishlist:item=676270382&perks=1840239774,1087426260,3400784728,4104185692
+dimwishlist:item=676270382&perks=839105230,1087426260,3400784728,4104185692
+dimwishlist:item=676270382&perks=1840239774,106909392,3400784728,4104185692
+dimwishlist:item=676270382&perks=839105230,106909392,3400784728,4104185692
+dimwishlist:item=676270382&perks=1840239774,3230963543,3400784728,4104185692
+dimwishlist:item=676270382&perks=839105230,3230963543,3400784728,4104185692
+dimwishlist:item=676270382&perks=1840239774,1087426260,2284787283,4104185692
+dimwishlist:item=676270382&perks=839105230,1087426260,2284787283,4104185692
+dimwishlist:item=676270382&perks=1840239774,106909392,2284787283,4104185692
+dimwishlist:item=676270382&perks=839105230,106909392,2284787283,4104185692
+dimwishlist:item=676270382&perks=1840239774,3230963543,2284787283,4104185692
+dimwishlist:item=676270382&perks=839105230,3230963543,2284787283,4104185692
+dimwishlist:item=676270382&perks=1840239774,1087426260,2869569095,4104185692
+dimwishlist:item=676270382&perks=839105230,1087426260,2869569095,4104185692
+dimwishlist:item=676270382&perks=1840239774,106909392,2869569095,4104185692
+dimwishlist:item=676270382&perks=839105230,106909392,2869569095,4104185692
+dimwishlist:item=676270382&perks=1840239774,3230963543,2869569095,4104185692
+dimwishlist:item=676270382&perks=839105230,3230963543,2869569095,4104185692
+dimwishlist:item=676270382&perks=1840239774,1087426260,3400784728,1546637391
+dimwishlist:item=676270382&perks=839105230,1087426260,3400784728,1546637391
+dimwishlist:item=676270382&perks=1840239774,106909392,3400784728,1546637391
+dimwishlist:item=676270382&perks=839105230,106909392,3400784728,1546637391
+dimwishlist:item=676270382&perks=1840239774,3230963543,3400784728,1546637391
+dimwishlist:item=676270382&perks=839105230,3230963543,3400784728,1546637391
+dimwishlist:item=676270382&perks=1840239774,1087426260,2284787283,1546637391
+dimwishlist:item=676270382&perks=839105230,1087426260,2284787283,1546637391
+dimwishlist:item=676270382&perks=1840239774,106909392,2284787283,1546637391
+dimwishlist:item=676270382&perks=839105230,106909392,2284787283,1546637391
+dimwishlist:item=676270382&perks=1840239774,3230963543,2284787283,1546637391
+dimwishlist:item=676270382&perks=839105230,3230963543,2284787283,1546637391
+dimwishlist:item=676270382&perks=1840239774,1087426260,2869569095,1546637391
+dimwishlist:item=676270382&perks=839105230,1087426260,2869569095,1546637391
+dimwishlist:item=676270382&perks=1840239774,106909392,2869569095,1546637391
+dimwishlist:item=676270382&perks=839105230,106909392,2869569095,1546637391
+dimwishlist:item=676270382&perks=1840239774,3230963543,2869569095,1546637391
+dimwishlist:item=676270382&perks=839105230,3230963543,2869569095,1546637391
+
+
+// Albruna-D
+//notes:pandapaxxy (PvP / M+KB / Controller): "For PvP it is a decent zoom high-impact frame. You can make a choice between opening shot or snapshot if you crank up the handling high enough. Elemental capacitor will certainly help with that. Perpetual motion and moving target are also both incredible perks on snipers, one boosting low stats, the other adding forgiveness through aim assist." Recommended MW - Handling.|tags:pvp,mkb,controller
+dimwishlist:item=676270382&perks=1840239774,3142289711,588594999,957782887
+dimwishlist:item=676270382&perks=4090651448,3142289711,588594999,957782887
+dimwishlist:item=676270382&perks=1840239774,3142289711,3511092054,957782887
+dimwishlist:item=676270382&perks=4090651448,3142289711,3511092054,957782887
+dimwishlist:item=676270382&perks=1840239774,3142289711,1428297954,957782887
+dimwishlist:item=676270382&perks=4090651448,3142289711,1428297954,957782887
+dimwishlist:item=676270382&perks=1840239774,3142289711,588594999,47981717
+dimwishlist:item=676270382&perks=4090651448,3142289711,588594999,47981717
+dimwishlist:item=676270382&perks=1840239774,3142289711,3511092054,47981717
+dimwishlist:item=676270382&perks=4090651448,3142289711,3511092054,47981717
+dimwishlist:item=676270382&perks=1840239774,3142289711,1428297954,47981717
+dimwishlist:item=676270382&perks=4090651448,3142289711,1428297954,47981717
+
+
