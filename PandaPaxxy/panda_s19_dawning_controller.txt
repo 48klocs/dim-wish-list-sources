@@ -1,0 +1,60 @@
+title:u/pandapaxxy's Season 19, Dawning Controller Breakdown
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/zl9s10/rngeez_dawning_breakdown/
+
+// Cold Front
+//notes:pandapaxxy (PvE / M+KB / Controller): "[...] just has poor stats across the board. With the lowest stability in its class, the lowest reload and aim assist. Cold Front is tied for the lowest magazine with Blood Feud. Cold Front needs a lot to make it feel and shoot well. In PvE I would recommend corkscrew rifling to give a flat buff to all its stats. Flared magwell offers the best of both reload and stability (two stats this gun desperately needs). Frenzy and Subsistence are my final choices. Frenzy is the best for bringing up even more of Cold Front’s poor stats. Subsistence has received multiple buffs and it feels incredible on your primary add clear weapon." Recommended MW - Stability.|tags:pve,mkb,controller
+dimwishlist:item=2814093983&perks=839105230,1885400500,247725512,2213355989
+dimwishlist:item=2814093983&perks=839105230,1561002382,247725512,2213355989
+dimwishlist:item=2814093983&perks=839105230,1885400500,3523296417,2213355989
+dimwishlist:item=2814093983&perks=839105230,1561002382,3523296417,2213355989
+dimwishlist:item=2814093983&perks=839105230,1885400500,247725512,331667533
+dimwishlist:item=2814093983&perks=839105230,1561002382,247725512,331667533
+dimwishlist:item=2814093983&perks=839105230,1885400500,3523296417,331667533
+dimwishlist:item=2814093983&perks=839105230,1561002382,3523296417,331667533
+
+
+// Cold Front
+//notes:pandapaxxy (PvP / Controller): "Cold Front has a giant hill to climb and with a lot of competition it might not be worth it. [...] Cold Front does have the best sights IMO so for me it’s semi-worth. In PvP you’re really looking for consistency or lethality. Cold Front does not have super strong lethality perks like kill clip or multikill clip, so you’re looking for consistency. Cold Front does offer rangefinder, putting it on par with its siblings, but the lack of stats still leaves a lot to be desired." Recommended MW - Stability.|tags:pvp,controller
+dimwishlist:item=2814093983&perks=1482024992,3142289711,1890422124,2846385770
+
+
+// Stay Frosty
+//notes:pandapaxxy (PvE / M+KB / Controller): "Its base stats aren’t anything to write home about. [...] Where Stay Frosty takes the lead is in its perks. Arrowhead is a must regardless of what activity you’re in. Having a base recoil of 55 means you can slap on a CB mod and be at 100. Thresh is an incredible tool for building your supers now that your intellect stat doesn’t matter as much compared to whatever tier you’re in. Headstone is just fun add clear. [...] Short shout-out to Golden tricorn. Golden tricorn is the best for ability cycling and weapon cycling. Being able to have such a huge refreshable buff that stacks with things like elemental wells, high-energy fire, and radiance is too good to pass up. Stasis isn’t the strongest on its own for abilities, but it might get a buff. Who knows." Recommended MW - Reload.|tags:pve,mkb,controller
+dimwishlist:item=2812100428&perks=839105230,1968497646,2726471870,124408337
+
+
+// Stay Frosty
+//notes:pandapaxxy (PvP / Controller): "Over in the crucible 450 pulses just aren’t anything important. Messenger exists, and the new hotness is Disparity. Stay Frosty has a lot to build up in order to compete. Arrowhead brake is a must, but smallbore is a decent alternative if you’re fine with the lower recoil direction. Ricochet rounds brings up the stability and bumps up the range a smidge. [...]  On Controller I would recommend something slightly different. Moving target is the only perk I would change. Moving target gives you aim assist and movement speed neutrally. That extra aim assist will help a ton to ensure a crit kill in order to get desperado going in the first place." Recommended MW - Stability.|tags:pvp,controller
+dimwishlist:item=2812100428&perks=839105230,1885400500,588594999,3047969693
+
+
+// Glacioclasm
+//notes:pandapaxxy (PvE / M+KB / Controller): "Subsistence will continue to keep reservoir burst up, but newer fusions can roll reservoir burst and keep it for more than one shot. Glacioclasm is a product of power creep, but that’s okay. Not needing to think about how many shots of reservoir burst you have left and instead going 1:1 makes things easier. Easy is good. I will also give a special shoutout to Golden tricorn. SImilar to Stay Frosty, having the ability cycling and one of the highest damage outputs you can imagine for this weapon type is incredible. Void also gives you more ways of uptime and refresh-ability. Definitely keep an eye out for that." Recommended MW - Handling.|tags:pve,mkb,controller
+dimwishlist:item=3573686365&perks=839105230,689005463,1820235745,1427256713
+
+
+// Glacioclasm
+//notes:pandapaxxy (PvP / M+KB / Controller): "In PvP it’s all about stacking as many consistency perks as possible. Lowering the charge time via accelerated coils and charge time MW so you won’t have to pre-charge as long. Arrowhead to make tracking easier. Under pressure for the most accuracy bonuses. High-impact reserves for some damage bonuses. It’s not going to be as quick as Midha’s Reckoning but it can get close and feel just as strong." Recommended MW - Charge Time.|tags:pvp,mkb,controller
+dimwishlist:item=3573686365&perks=839105230,689005463,1645158859,2213355989
+
+
+// Avalanche
+//notes:pandapaxxy (PvE / M+KB / Controller): "I am always both happy and sad when this weapon rolls around. Avalanche is just a relic of year 3. It’s a weird SUROS machine gun that fires from both barrels. The saving grace is being a 450 RPM machine gun. I went slightly different with my recommendations compared to my peers. With a recoil direction of 70 you really want to bump this up to max. Arrowhead brake is the first suggestion I have. With auto-loading holster you won’t have to worry about reload speed and you’ll get all the benefits of a bigger magazine with appended mag. Finally there’s target lock. This season’s newest perk. Target lock will increase your damage the longer you stay on target. With backup mag and appended mag you cap out your magazine at 75. With these many bullets you should definitely be the coolest person in your fireteam when you hit the cap on damage and be able to show off that sweet, sweet DEEPS." Recommended MW - Stability.|tags:pve,mkb,controller
+dimwishlist:item=495940989&perks=839105230,1087426260,3300816228,2939589096
+
+
+// Avalanche
+//notes:pandapaxxy (PvP / Controller): "Adaptive machine guns have always been my favorite for PvP. Being able to have decent damage at range, good chip damage, and a pretty manageable recoil are all great things to have. Avalanche does bring some good things to the table, like maxing out recoil direction with arrowhead brake. Ricochet rounds gives you some much needed stability. Dynamic sway reduction will reduce your bloom on extended gunfights. [...] On Controller I would recommend tap the trigger for even more stability. Not all of it is needed, but having a gun you don’t have to fight will make your job easier and you can focus on your opponent." Recommended MW - Range.|tags:pvp,controller
+dimwishlist:item=495940989&perks=839105230,1885400500,1359896290,1890422124
+
+
+// Zephyr
+//notes:pandapaxxy (PvE / M+KB / Controller): "It just looks cool. Besides the general Stasis sword go ColdSteel (brrrrrrrr) I would also recommend another roll. Unrelenting to get your health back and chain reaction for STASIS BOOM." Recommended MW - Impact.|tags:pve,mkb,controller
+dimwishlist:item=396910433&perks=3666208348,269888150,3108830275,2396489472
+
+
+// Zephyr
+//notes:pandapaxxy (PvP / M+KB / Controller): "In PvP there isn’t a lot to talk about, swords aren’t really hot commodities within PvP and those that use swords are mostly using eager edge. Zephyr looks amazing but looks won't win you crucible matches." Recommended MW - Impact.|tags:pvp,mkb,controller
+dimwishlist:item=396910433&perks=3666208348,269888150,2590710093,354401740
+
+
