@@ -1,0 +1,53 @@
+title:WarlockMaggie's Season 19, Dawning Breakdown
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/zl9s10/rngeez_dawning_breakdown/
+
+// Cold Front
+//notes:WarlockMaggie (PvE / M+KB / Controller): Abysmal stability means this thing will kick like a mule and being under the 20 stability threshold means you’ll be taking extra flinch. So the priority with this weapon is to improve stability (and any other stats) as soon as possible. Enter the community-named “musketeer” build (Stats and One for All). With a quick pass over 3 targets, you’ll gain stats boosts and damage. Tac Mag may not be the most stat heavy option, but the extra bullet may help in securing that initial activation. Other stat raising perks can work, but don’t keep any rolls without ‘em. Remember, if you are a naughty Guardian, Xur will leave a Slickdraw / Gutshot Straight Cold Front in your stocking. |tags:pve,mkb,controller
+dimwishlist:item=2814093983&perks=1482024992,106909392,1583705720,4049631843
+
+
+// Cold Front
+//notes:WarlockMaggie (PvP / M+KB / Controller): Similar to my PvP recommendation, stability needs to be your priority but you can mix in range to get a bit more accuracy. Steady Rounds plus a Range MW provides that mix with a little extra Airborne Effectiveness to help you get the jump on your opponents. Combine that with a tried and true consistency combo of Tap the Trigger and Rangefinder, this will work for you if you put in the work of finding this roll. Recommended MW: Range|tags:pvp,mkb,controller
+dimwishlist:item=2814093983&perks=1482024992,3177308360,1890422124,2846385770
+
+
+// Stay Frosty
+//notes:WarlockMaggie (PvE / M+KB / Controller): Stay Frosty is a Lightweight Pulse Rifle and I couldn’t be happier to have it in the game. Being a Stasis weapon, it has access to Headstone. Which not only is a hilarious perk when clearing mobs but also can help activate various Stasis Fragments that care about proximity or shattering of crystals. Well-Rounded is one of my favorite perks introduced this year, granting a stack of 10 range, stability and handling for using your grenade or scoring a hit with a charged melee. The gameplay loop is super satisfying and encourages integration of gunplay and ability usage. Recommended MW: Reload|tags:pve,mkb,controller
+dimwishlist:item=2812100428&perks=839105230,1885400500,744594675,124408337
+
+
+// Stay Frosty
+//notes:WarlockMaggie (PvP / M+KB / Controller): Encore got a rework this season and it works well with Desperado as any missed precision final blows will still increase the range, stability and accuracy of the weapon (5, 8, and 1.25% / stack, up to 4 stacks). With the classic combo of Arrowhead Brake and Ricochet Rounds, Stay Frosty will perform. Another possible fourth column perk would be Headseeker as it also got a rework that increases damage and aim assist. Either way, the lightweight frame will additionally give you a little boost in movement speed which may help you take cover from that Chaos Reach that just showed up. Recommended MW: Range|tags:pvp,mkb,controller
+dimwishlist:item=2812100428&perks=839105230,1885400500,1195158366,3047969693
+
+
+// Glacioclasm
+//notes:WarlockMaggie (PvE / M+KB / Controller): Nothing beats the holiday whimsy of disintegrating your enemies in a void-powered explosion, getting a round auto-loaded, and then doing it all over again :) Glacioclasm hits hard, but it also handles like a brick. Look to your magazine perks for extra stability and reload, and try to aim for more stability and handling in your barrel. A Reload MW and the Omolon intrinsic trait will help make the rare time you need to reload not take an ice age. Recommended MW: Reload|tags:pve,mkb,controller
+dimwishlist:item=3573686365&perks=1840239774,3868766766,1820235745,1427256713
+
+
+// Glacioclasm
+//notes:WarlockMaggie (PvP / M+KB / Controller): I’m not going to dissuade anyone from taking this into the Crucible, but bear in mind that pre-charging your shot is crucial to success with this archetype. Due to your starting ammo count of 2, Under Pressure and HIR will be already online, giving you a little extra stats and punch to dissolve that charging Guardian holding a Wastelander… Recommended MW: Charge Time|tags:pvp,mkb,controller
+dimwishlist:item=3573686365&perks=1840239774,3868766766,1645158859,2213355989
+
+
+// Avalanche
+//notes:WarlockMaggie (PvE / M+KB / Controller): LMGs are without question some of the best mob-clearing weapons in the game. So lean into that with Subsistence and Incandescent. Avalanche takes Arrowhead quite nicely (70 to 100 recoil direction) and Ricochet rounds are my personal go-to for the range and stability bonuses it provides. Give it a try and you’ll see why it is my personal favorite LMG. Recommended MW: Reload|tags:pve,mkb,controller
+dimwishlist:item=495940989&perks=839105230,1885400500,1820235745,4293542123
+
+
+// Avalanche
+//notes:WarlockMaggie (PvP / M+KB / Controller): Adaptives are my favorite LMG archetype and this extends to use within Crucible. With a requirement of 5 crits to achieve the coveted .53s TTK, accuracy is going to be vital: enter DSR + Tap the Trigger. With DSR taking 0.6 seconds to fully ramp up, you will likely be near maximum benefit by that 5th shot. Like Hammerhead and other 450 rpm LMGs after it, this can catch many a Guardian by surprise and melt them quickly! Recommended MW: Range|tags:pvp,mkb,controller
+dimwishlist:item=495940989&perks=3250034553,1885400500,1359896290,1890422124
+
+
+// Zephyr
+//notes:WarlockMaggie (PvE / M+KB / Controller): Cold Steel is what sets this blade apert from every other, the slow-into-freeze ability is an amazing pairing with Stasis subclasses as well as good utility for mods and effects that care about Stasis/Slow application. Couple it with Duelist’s Trance for extra stats. It’s a chilling prospect to consider… Recommended MW: Impact|tags:pve,mkb,controller
+dimwishlist:item=396910433&perks=3666208348,269888150,3705817207,3650930298
+
+
+// Zephyr
+//notes:WarlockMaggie (PvP / M+KB / Controller): Okay, hear me out on this combo. It’s a unique one to the Adaptive frame sword archetype and what it allows is the ability to steal the overshield of a supering Guardian and apply it to yourself while dealing increased damage. This could mean you can easily shut down roaming, ground-based supers and survive the opposing team’s retribution. Otherwise, it’s just like any other sword in the Crucible (that doesn’t have Eager Edge). Recommended MW: Impact|tags:pvp,mkb,controller
+dimwishlist:item=396910433&perks=3666208348,269888150,2209918983,1546637391
+
+

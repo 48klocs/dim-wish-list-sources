@@ -1,0 +1,58 @@
+title:SirStallion's Season 19, Dawning Breakdown
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/zl9s10/rngeez_dawning_breakdown/
+
+// Cold Front
+//notes:/u/SirStallion_ (PvE / M+KB / Controller): Smallbore and Flared are both going to provide minor buffs to stability which will be felt massively on a gun with a base of 7. Plus a little extra reload to help Frenzy along is never a bad thing, so Flared is a no brainer for me. Frenzy is fairly obvious, damage boost + reload boost baked into the same perk is really nice. Unrelenting may not be everyone's first pick, but for me, this gun feels like a mobbing monster, getting healing inside that same role is just a cherry on top. MW Unimportant|tags:pve,mkb,controller
+dimwishlist:item=2814093983&perks=1482024992,3230963543,3108830275,4104185692
+
+
+// Cold Front
+//notes:/u/SirStallion_ (PvP / M+KB / Controller): While the main traits are obvious picks as far as this weapon is concerned, the rest is a little confusing. With a base 7 stability, will full sending into the stat actually make a meaningful difference? Will losing it entirely via Full Bore make a difference? I honestly don't know. I will be looking for these rolls because they're a great middle ground with a little extra stability for controllers. I do believe the rolls are interchangeable though, since it's just a MW difference. Recommended MW: Range (M+KB), Stability (Controller)|tags:pvp,mkb,controller
+dimwishlist:item=2814093983&perks=1482024992,3142289711,1890422124,2846385770
+
+
+// Stay Frosty
+//notes:/u/SirStallion_ (PvE / M+KB / Controller): Let me address the elephant in the gun, "Thresh". Thresh is not often seen as a top tier perk, but that's because it's typically fighting for 4th slot against damage perks or better utility perks. In this case however, it's a 3rd slot pick which means you can use it in tandem with the better utility perk, "Headstone". Assuming the headstone explosions trigger Thresh in much the same way it does Stats for All and Unrelenting, it should make for some decent super gains for your stasis builds. Recommended MW: Stability|tags:pve,mkb,controller
+dimwishlist:item=2812100428&perks=839105230,3230963543,2726471870,124408337
+
+
+// Stay Frosty
+//notes:/u/SirStallion_ (PvP / M+KB / Controller): Lightweight pulses are feeling a lot better in PvP these days and for me, Killing Wind and Kill Clip are perks that perfectly compliment each other and provide so many benefits to the gun it becomes a no brainer. With 55 Recoil Direction, Arrowhead Brake is a must on Stay Frosty and High-Caliber should assist in opening duels to get KW/KC rolling. Omolon Fluid Dynamics will make up for any stability or reload speed losses meaning you can get the extra little bit of range from the MW. Recommended MW: Range|tags:pvp,mkb,controller
+dimwishlist:item=2812100428&perks=839105230,1561002382,2450788523,1015611457
+
+
+// Glacioclasm
+//notes:/u/SirStallion_ (PvE / M+KB / Controller): This roll feels fairly obvious. Kill stuff, Res Burst explodes them, Subsistence fills your mag and Res Burst is ready again. It's just good fun times and I didnt get it last year. The bonus damage from Res Burst will make up for the loss of impact from the Accelerated Coils and Charge Time MW. Recommended MW: Charge Time|tags:pve,mkb,controller
+dimwishlist:item=3573686365&perks=839105230,689005463,1820235745,1427256713
+
+
+// Glacioclasm
+//notes:/u/SirStallion_ (PvP / M+KB / Controller): This weapon is a High-Impact. You can try to skirt that fact with lower charge times, but it will still charge slow and hit hard as long as you're accurate. I say embrace it and full send into consistency. Corrected recoil direction, higher stability, better accuracy while under fire. Which you inevitably will be with a High-Impact. Unlike PvE, I don't feel the attempt at lowering charge time is worth it. Recommended MW: Stability|tags:pvp,mkb,controller
+dimwishlist:item=3573686365&perks=839105230,3868766766,1645158859,699525795
+
+
+// Avalanche
+//notes:/u/SirStallion_ (PvE / M+KB / Controller): When my team calls for DPS, my choice is seldom the LMG. So for me, I'm shooting for mass mobbing potential and rocking this weapon with a double special setup. Similar thought process to Glacioclasm, kill stuff with big explosions (or in this case, Scorch) and refill the mag automatically. All reserves, no reload, but Flared Magwell just in case you get hit with a heaping spoonful of "Destiny" and things don't go to plan. Plus, the extra stability is nice. Recommended MW: Stability|tags:pve,mkb,controller
+dimwishlist:item=495940989&perks=839105230,3230963543,1820235745,4293542123
+
+
+// Avalanche
+//notes:/u/SirStallion_ (PvP / M+KB): As a 450, Avalanche falls into a very controllable category in PvP which means you can fairly comfortably commit to more range for short bursts of damage (like the time it might take to drop a guardian) instead of long term consistent shots. So, range range range. A little extra stability for the controller players and once you get a kill and trigger Encore, all subsequent kills should be a lot easier to manage. DSR is also an option, but only if going for multi-kills, in my opinion. If the kills are a little more spread out, I'd rather have Encore. Recommended MW: Range|tags:pvp,mkb
+dimwishlist:item=495940989&perks=202670084,1561002382,1195158366,1890422124
+
+
+// Avalanche
+//notes:/u/SirStallion_ (PvP / Controller): As a 450, Avalanche falls into a very controllable category in PvP which means you can fairly comfortably commit to more range for short bursts of damage (like the time it might take to drop a guardian) instead of long term consistent shots. So, range range range. A little extra stability for the controller players and once you get a kill and trigger Encore, all subsequent kills should be a lot easier to manage. DSR is also an option, but only if going for multi-kills, in my opinion. If the kills are a little more spread out, I'd rather have Encore. Recommended MW: Range|tags:pvp,controller
+dimwishlist:item=495940989&perks=1482024992,1561002382,1195158366,1890422124
+
+
+// Zephyr
+//notes:/u/SirStallion_ (PvE / M+KB / Controller): This one is tricky. I wanted to look for Thresh and Chain Reaction, but Half Truths can get that same roll and it would be enhanced via crafting. So it's necessary to commit to the thing only this sword can do, and that's Cold Steel. I figured Cold Steel and Wellspring would be a nice combo for any hyper aggressive Stasis builds. Recommended MW: Impact|tags:pve,mkb,controller
+dimwishlist:item=396910433&perks=3666208348,269888150,3592538738,3650930298
+
+
+// Zephyr
+//notes:/u/SirStallion_ (PvP / M+KB / Controller): I got nothing. I personally would never take this sword into PvP, but if I absolutely had to I'd likely end up using my heavy to fight supers, which would never result in me escaping unscathed so unrelenting might help? Maybe? In any case, Cold Steel is doing nothing for you in PvP, which is the only thing that makes this sword unique. Recommended MW: Impact|tags:pvp,mkb,controller
+dimwishlist:item=396910433&perks=3666208348,269888150,3108830275,1546637391
+
+
