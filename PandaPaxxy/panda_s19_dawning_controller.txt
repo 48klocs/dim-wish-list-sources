@@ -3,14 +3,7 @@ description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/
 
 // Cold Front
 //notes:pandapaxxy (PvE / M+KB / Controller): "[...] just has poor stats across the board. With the lowest stability in its class, the lowest reload and aim assist. Cold Front is tied for the lowest magazine with Blood Feud. Cold Front needs a lot to make it feel and shoot well. In PvE I would recommend corkscrew rifling to give a flat buff to all its stats. Flared magwell offers the best of both reload and stability (two stats this gun desperately needs). Frenzy and Subsistence are my final choices. Frenzy is the best for bringing up even more of Cold Front’s poor stats. Subsistence has received multiple buffs and it feels incredible on your primary add clear weapon." Recommended MW - Stability.|tags:pve,mkb,controller
-dimwishlist:item=2814093983&perks=839105230,1885400500,247725512,2213355989
-dimwishlist:item=2814093983&perks=839105230,1561002382,247725512,2213355989
-dimwishlist:item=2814093983&perks=839105230,1885400500,3523296417,2213355989
-dimwishlist:item=2814093983&perks=839105230,1561002382,3523296417,2213355989
-dimwishlist:item=2814093983&perks=839105230,1885400500,247725512,331667533
-dimwishlist:item=2814093983&perks=839105230,1561002382,247725512,331667533
-dimwishlist:item=2814093983&perks=839105230,1885400500,3523296417,331667533
-dimwishlist:item=2814093983&perks=839105230,1561002382,3523296417,331667533
+dimwishlist:item=2814093983&perks=4090651448,3230963543,1820235745,4104185692
 
 
 // Cold Front
@@ -40,7 +33,7 @@ dimwishlist:item=3573686365&perks=839105230,689005463,1645158859,2213355989
 
 // Avalanche
 //notes:pandapaxxy (PvE / M+KB / Controller): "I am always both happy and sad when this weapon rolls around. Avalanche is just a relic of year 3. It’s a weird SUROS machine gun that fires from both barrels. The saving grace is being a 450 RPM machine gun. I went slightly different with my recommendations compared to my peers. With a recoil direction of 70 you really want to bump this up to max. Arrowhead brake is the first suggestion I have. With auto-loading holster you won’t have to worry about reload speed and you’ll get all the benefits of a bigger magazine with appended mag. Finally there’s target lock. This season’s newest perk. Target lock will increase your damage the longer you stay on target. With backup mag and appended mag you cap out your magazine at 75. With these many bullets you should definitely be the coolest person in your fireteam when you hit the cap on damage and be able to show off that sweet, sweet DEEPS." Recommended MW - Stability.|tags:pve,mkb,controller
-dimwishlist:item=495940989&perks=839105230,1087426260,3300816228,2939589096
+dimwishlist:item=495940989&perks=839105230,1087426260,3300816228,365154968
 
 
 // Avalanche
