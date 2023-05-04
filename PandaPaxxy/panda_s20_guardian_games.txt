@@ -8,7 +8,7 @@ dimwishlist:item=3559361670&perks=839105230,3230963543,4071163871,3708227201
 
 // The Title
 //notes:pandapaxxy (PvP / M+KB): "The Title doesn't need much to be a powerhouse in this meta. Rangefinder on a 750 is enough. But allowing you to duel multiple enemies within quick succession is another thing entirely. Without offering damage in the way of Kill Clip, the Title does give you Offhand Strike to take on multiple opponents while keeping your strafe speed up. Pairing this with a freehand grip would be my recommendation." Recommended MW: Range.|tags:pvp,mkb
-dimwishlist:item=3559361670&perks=1482024992,1885400500,3050799639,2846385770
+dimwishlist:item=3559361670&perks=1482024992,1885400500,2416023159,2846385770
 
 
 // The Title
