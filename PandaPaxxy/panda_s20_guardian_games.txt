@@ -49,7 +49,6 @@ dimwishlist:item=3559361670&perks=1482024992,1561002382,1359896290,2846385770
 // Taraxippos
 //notes:pandapaxxy (PvE / M+KB / Controller): "Speedy reloads and threadlings? Heck yeah boi. Definitely go for Arrowhead Brake so you have a decent recoil direction. Lightweight scouts don't need much but anything helps. Tactical Mag or Appended Mag are going to be the best here. Small shout out to Flared Magwell, but with Outlaw you won't need a lot of reload. I'd take more bullets for this one." Recommended MW: Handling.|tags:pve,mkb,controller
 dimwishlist:item=1389546626&perks=839105230,106909392,1168162263,831391274
-dimwishlist:item=1389546626&perks=839105230,106909392,3124871000,831391274
 
 
 // Taraxippos
@@ -80,13 +79,11 @@ dimwishlist:item=1389546626&perks=839105230,3230963543,2387244414,3038247973
 // Taraxippos
 //notes:Sneecher (PvE / M+KB / Controller): "A new Strand weapon enters the fray! I'm always excited to get a new weapon type to add to my toolbox, and this weapon immediately gives us the Outlaw/Hatchling combo I've been waiting for (I still love you Round Robin). I expect to have a lot of dumb fun with this gun in PVE, especially in activities with a Strand surge (AKA all of them this season). Warlocks in particular should enjoy this combo, especially with Thread of Evolution, the Classy Contender trait, and an Empowering rift. That being said, Threadlings aren't the strongest choice for endgame PVE, and Lightweight frame scouts aren't my favorite in GMs either, so I expect this will just be a roll for fun, rather than a top tier PVE weapon. If you are intent on using this for GMs, you'll want Explosive Payload or maybe even Focused Fury instead." Recommended MW: Stability.|tags:pve,mkb,controller
 dimwishlist:item=1389546626&perks=1482024992,2420895100,1168162263,831391274
-dimwishlist:item=1389546626&perks=1482024992,2420895100,3124871000,831391274
 
 
 // Taraxippos
 //notes:Sneecher (PvP / M+KB): "PC players don’t need stability as much as I do, so you can trade all of those stability boosts for range, and really let the cones do the work for you. Outlaw and Kill Clip are a tried and true combo, so you can’t really go wrong here. Once again there are a few combos that work in PVP, so use whatever feels best for your playstyle." Recommended MW: Range.|tags:pvp,mkb
 dimwishlist:item=1389546626&perks=839105230,3142289711,1168162263,1015611457
-dimwishlist:item=1389546626&perks=839105230,3142289711,3124871000,1015611457
 
 
 // Taraxippos
