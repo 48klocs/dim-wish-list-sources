@@ -18,7 +18,7 @@ dimwishlist:item=3559361670&perks=839105230,1885400500,1359896290,2846385770
 
 // The Title
 //notes:SirStallion_ (PvE / M+KB / Controller): "For me personally, I like to full send into one particular element, Void Subclass with Void Weapons, making the most of the keywords from the subclass. As such, I don't value Pugilist for void. I just don't like the melee abilities for the most part and that's okay. [...] I do wish Repulsor was a column 3 perk, but I understand why it isn't. All that combined with Classy Contender will make this weapon a mainstay on my Gyrfalcon hunter or Devourlock once Volatile Flow is no longer on our artifact." Recommended MW: Stability.|tags:pve,mkb,controller
-dimwishlist:item=3559361670&perks=839105230,1087426260,424370782,776531651
+dimwishlist:item=3559361670&perks=839105230,1087426260,968510818,776531651
 
 
 // The Title
