@@ -48,48 +48,48 @@ dimwishlist:item=3559361670&perks=1482024992,1561002382,1359896290,2846385770
 
 // Taraxippos
 //notes:pandapaxxy (PvE / M+KB / Controller): "Speedy reloads and threadlings? Heck yeah boi. Definitely go for Arrowhead Brake so you have a decent recoil direction. Lightweight scouts don't need much but anything helps. Tactical Mag or Appended Mag are going to be the best here. Small shout out to Flared Magwell, but with Outlaw you won't need a lot of reload. I'd take more bullets for this one." Recommended MW: Handling.|tags:pve,mkb,controller
-dimwishlist:item=3234246770&perks=839105230,106909392,1168162263,102912326
-dimwishlist:item=3234246770&perks=839105230,106909392,3124871000,102912326
+dimwishlist:item=1389546626&perks=839105230,106909392,1168162263,102912326
+dimwishlist:item=1389546626&perks=839105230,106909392,3124871000,102912326
 
 
 // Taraxippos
 //notes:pandapaxxy (PvP / M+KB): "Moving Target is arguably the best in slot for the third column, and kill clip will allow for some spicy three taps. Definitely keep an eye out for this one. Again Arrowhead Brake is recommended for allowing you to focus less on controlling the recoil and more about crits. Steady Rounds will bump up the stability meaning you have less jump each shot. You shouldn't have to worry about the range drop as scouts have different metrics for range. Handling or stability for masterwork depending on how fast you like your weapons. [...] You won't necessarily need the range boost, but you don't need the stability boost from steady rounds either. So use that knowledge for what you'd like. There's no bad mag perk other than extended mag." Recommended MW: Handling.|tags:pvp,mkb
-dimwishlist:item=3234246770&perks=839105230,3142289711,588594999,1015611457
+dimwishlist:item=1389546626&perks=839105230,3142289711,588594999,1015611457
 
 
 // Taraxippos
 //notes:pandapaxxy (PvP / Controller): "Moving Target is arguably the best in slot for the third column, and kill clip will allow for some spicy three taps. Definitely keep an eye out for this one. Again Arrowhead Brake is recommended for allowing you to focus less on controlling the recoil and more about crits. Steady Rounds will bump up the stability meaning you have less jump each shot. You shouldn't have to worry about the range drop as scouts have different metrics for range. Handling or stability for masterwork depending on how fast you like your weapons." Recommended MW: Handling.|tags:pvp,controller
-dimwishlist:item=3234246770&perks=839105230,3177308360,588594999,1015611457
+dimwishlist:item=1389546626&perks=839105230,3177308360,588594999,1015611457
 
 
 // Taraxippos
 //notes:SirStallion_ (PvE / M+KB / Controller): "Everybody is going to be looking for Hatchling on this thing, so I'm not unique in that respect. A strand scout is new and unique, so leaning into that newness and uniqueness is great, absolutely worth it. However.. I am not going to be looking for Outlaw, instead I'm looking for FTTC. Just to be a bit special? Yes. But also, Tactical Mag should bring the gun to a nice 16 mag size, which will play nicely with FTTC. The reload from Tac and MW will be more than enough and they don't have a kill condition, so personally I don't think I need outlaw. Obligatory Arrowhead because even on a scout rifle, 54 RD is brutal." Recommended MW: Reload.|tags:pve,mkb,controller
-dimwishlist:item=3234246770&perks=839105230,106909392,1354429876,102912326
+dimwishlist:item=1389546626&perks=839105230,106909392,1354429876,102912326
 
 
 // Taraxippos
 //notes:SirStallion_ (PvP / M+KB): "I just need to shoutout that Kill Clip is right there in slot 4 also, and that would be great too. However, my thought process with this roll is that I want to make any given engagement as easy for me as possible (High stab, Zen Moment) while also being as much of a nuisance for the enemy as I can (Low flinch intake, Explosive Payload) So while I do think the KC 3 taps will go hard, I'm here to be a menace, not a slayer. [...] While MnK won't actively benefit from Stability as much as Controller, the flinch resist is gonna be a big deal for this roll to work. So it may feel strange at first, but trust the process" Recommended MW: Stability.|tags:pvp,mkb
-dimwishlist:item=3234246770&perks=839105230,3230963543,2387244414,3038247973
+dimwishlist:item=1389546626&perks=839105230,3230963543,2387244414,3038247973
 
 
 // Taraxippos
 //notes:SirStallion_ (PvP / Controller): "I just need to shoutout that Kill Clip is right there in slot 4 also, and that would be great too. However, my thought process with this roll is that I want to make any given engagement as easy for me as possible (High stab, Zen Moment) while also being as much of a nuisance for the enemy as I can (Low flinch intake, Explosive Payload) So while I do think the KC 3 taps will go hard, I'm here to be a menace, not a slayer." Recommended MW: Stability.|tags:pvp,controller
-dimwishlist:item=3234246770&perks=839105230,3230963543,2387244414,3038247973
+dimwishlist:item=1389546626&perks=839105230,3230963543,2387244414,3038247973
 
 
 // Taraxippos
 //notes:Sneecher (PvE / M+KB / Controller): "A new Strand weapon enters the fray! I'm always excited to get a new weapon type to add to my toolbox, and this weapon immediately gives us the Outlaw/Hatchling combo I've been waiting for (I still love you Round Robin). I expect to have a lot of dumb fun with this gun in PVE, especially in activities with a Strand surge (AKA all of them this season). Warlocks in particular should enjoy this combo, especially with Thread of Evolution, the Classy Contender trait, and an Empowering rift. That being said, Threadlings aren't the strongest choice for endgame PVE, and Lightweight frame scouts aren't my favorite in GMs either, so I expect this will just be a roll for fun, rather than a top tier PVE weapon. If you are intent on using this for GMs, you'll want Explosive Payload or maybe even Focused Fury instead." Recommended MW: Stability.|tags:pve,mkb,controller
-dimwishlist:item=3234246770&perks=1482024992,2420895100,1168162263,102912326
-dimwishlist:item=3234246770&perks=1482024992,2420895100,3124871000,102912326
+dimwishlist:item=1389546626&perks=1482024992,2420895100,1168162263,102912326
+dimwishlist:item=1389546626&perks=1482024992,2420895100,3124871000,102912326
 
 
 // Taraxippos
 //notes:Sneecher (PvP / M+KB): "PC players don’t need stability as much as I do, so you can trade all of those stability boosts for range, and really let the cones do the work for you. Outlaw and Kill Clip are a tried and true combo, so you can’t really go wrong here. Once again there are a few combos that work in PVP, so use whatever feels best for your playstyle." Recommended MW: Range.|tags:pvp,mkb
-dimwishlist:item=3234246770&perks=839105230,3142289711,1168162263,1015611457
-dimwishlist:item=3234246770&perks=839105230,3142289711,3124871000,1015611457
+dimwishlist:item=1389546626&perks=839105230,3142289711,1168162263,1015611457
+dimwishlist:item=1389546626&perks=839105230,3142289711,3124871000,1015611457
 
 
 // Taraxippos
 //notes:Sneecher (PvP / Controller): "There are a lot of options for PVP on this weapon, which took me a bit by surprise. If you like scouts at all, I am sure there is a roll for you somewhere in here. As a console player myself, I thoroughly enjoy high stability rolls. Scouts have such good coverage that they can handle a slight hit to range in favor of landing more shots quickly. Encore is a perk I think a lot of people sleep on, but after the rework it can be very effective in 6v6 modes. Add No Distractions and the Omolon origin trait, and you’ve got a workhorse ready to excel in all stats." Recommended MW: Stability.|tags:pvp,controller
-dimwishlist:item=3234246770&perks=839105230,3177308360,2866798147,1195158366
+dimwishlist:item=1389546626&perks=839105230,3177308360,2866798147,1195158366
 
