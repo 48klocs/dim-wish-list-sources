@@ -1,0 +1,92 @@
+title:RNGeez S20 Guardian Games Breakdown
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/135o1ti/guardian_games_rngeez_weapon_breakdown/
+
+// The Title
+//notes:pandapaxxy (PvE / M+KB / Controller): "Submachine guns are the perfect run and gun weapon. They have better range than a sidearm, and feel better for a more run-and-gun play style than an auto rifle. Surrounded is the best damage perk for running into a group of enemies, and threat detector just enhances stats. Nothing like immediate damage." Recommended MW: Reload.|tags:pve,mkb,controller
+dimwishlist:item=3559361670&perks=839105230,3230963543,4071163871,3708227201
+
+
+// The Title
+//notes:pandapaxxy (PvP / M+KB): "The Title doesn't need much to be a powerhouse in this meta. Rangefinder on a 750 is enough. But allowing you to duel multiple enemies within quick succession is another thing entirely. Without offering damage in the way of Kill Clip, the Title does give you Offhand Strike to take on multiple opponents while keeping your strafe speed up. Pairing this with a freehand grip would be my recommendation." Recommended MW: Range.|tags:pvp,mkb
+dimwishlist:item=3559361670&perks=1482024992,1885400500,2416023159,2846385770
+
+
+// The Title
+//notes:pandapaxxy (PvP / Controller): "This is the best version of the title we have seen. This almost competes with the like of Shayura's Tarrabah, IKELOS and Immortal. No adept mods, not the best range, but having rangefinder is an incredible bonus. Dynamic Sway Reduction is icing on the Title's cake for allowing a smooth shooting experience." Recommended MW: Stability.|tags:pvp,controller
+dimwishlist:item=3559361670&perks=839105230,1885400500,1359896290,2846385770
+
+
+// The Title
+//notes:SirStallion_ (PvE / M+KB / Controller): "For me personally, I like to full send into one particular element, Void Subclass with Void Weapons, making the most of the keywords from the subclass. As such, I don't value Pugilist for void. I just don't like the melee abilities for the most part and that's okay. [...] I do wish Repulsor was a column 3 perk, but I understand why it isn't. All that combined with Classy Contender will make this weapon a mainstay on my Gyrfalcon hunter or Devourlock once Volatile Flow is no longer on our artifact." Recommended MW: Stability.|tags:pve,mkb,controller
+dimwishlist:item=3559361670&perks=839105230,1087426260,968510818,776531651
+
+
+// The Title
+//notes:SirStallion_ (PvP / M+KB): "Now you might be thinking "Stal, you put Arrowhead on all 3 rolls and haven't mentioned it. WHY. The gun has 85 RD, it doesn't need +30, +10 is enough if you absolutely want more, or you can use counterbalance." That's all true, but those don't also give +10 handling. That's only 5 less than Fluted, and I want my SMGs snappy. So if I can get more handling and a perfect 100 RD, I'm taking that every time." Recommended MW: Range.|tags:pvp,mkb
+dimwishlist:item=3559361670&perks=839105230,3230963543,1359896290,1546637391
+
+
+// The Title
+//notes:SirStallion_ (PvP / Controller): "I don't like Rangefinder. [...] BUT there's no denying that people like it, and they should. So it's very easily swapped in, in place of Vorpal. Now then, why Vorpal? Well, it just feels like the best of the bunch for passive PvP usage. More damage on supers good. As for Flared Magwell over Ricochet or Hi-Cal, I like my stability bumped up when possible and there's nothing worse than being caught mid reload on something as heavy as a 750. Loader mods will help, but Flared is worth the investment for me." Recommended MW: Stability.|tags:pvp,controller
+dimwishlist:item=3559361670&perks=839105230,3230963543,1359896290,1546637391
+
+
+// The Title
+//notes:Sneecher (PvE / M+KB / Controller): "This year my Titan is going to lean heavily into Repulsor Brace. I am one of the few that enjoys the shield throw in PVE, and this combo will ensure that I always have one ready. Endless shield throws and volatile enemies guarantee that my Titan can rest easy knowing he will always have an overshield to protect him." Recommended MW: Stability.|tags:pve,mkb,controller
+dimwishlist:item=3559361670&perks=1840239774,1885400500,691659142,776531651
+
+
+// The Title
+//notes:Sneecher (PvP / M+KB): "For those hoping for/dreading an energy slot version of The Immortal, Target Lock is nowhere to be found. Despite that, the gun still has the same strong combo of Dynamic Sway and Rangefinder. Perpetual Motion is also a great choice for people who prefer that. I don’t love Threat Detector on aggressive frame SMGs, since the base ADS range is outside of Threat Detector’s activation range, but if you love it, go nuts." Recommended MW: Range.|tags:pvp,mkb
+dimwishlist:item=3559361670&perks=3250034553,1561002382,1359896290,2846385770
+
+
+// The Title
+//notes:Sneecher (PvP / Controller): "For those hoping for/dreading an energy slot version of The Immortal, Target Lock is nowhere to be found. Despite that, the gun still has the same strong combo of Dynamic Sway and Rangefinder. Perpetual Motion is also a great choice for people who prefer that. I don’t love Threat Detector on aggressive frame SMGs, since the base ADS range is outside of Threat Detector’s activation range, but if you love it, go nuts." Recommended MW: Stability.|tags:pvp,controller
+dimwishlist:item=3559361670&perks=1482024992,1561002382,1359896290,2846385770
+
+
+// Taraxippos
+//notes:pandapaxxy (PvE / M+KB / Controller): "Speedy reloads and threadlings? Heck yeah boi. Definitely go for Arrowhead Brake so you have a decent recoil direction. Lightweight scouts don't need much but anything helps. Tactical Mag or Appended Mag are going to be the best here. Small shout out to Flared Magwell, but with Outlaw you won't need a lot of reload. I'd take more bullets for this one." Recommended MW: Handling.|tags:pve,mkb,controller
+dimwishlist:item=1389546626&perks=839105230,106909392,1168162263,831391274
+
+
+// Taraxippos
+//notes:pandapaxxy (PvP / M+KB): "Moving Target is arguably the best in slot for the third column, and kill clip will allow for some spicy three taps. Definitely keep an eye out for this one. Again Arrowhead Brake is recommended for allowing you to focus less on controlling the recoil and more about crits. Steady Rounds will bump up the stability meaning you have less jump each shot. You shouldn't have to worry about the range drop as scouts have different metrics for range. Handling or stability for masterwork depending on how fast you like your weapons. [...] You won't necessarily need the range boost, but you don't need the stability boost from steady rounds either. So use that knowledge for what you'd like. There's no bad mag perk other than extended mag." Recommended MW: Handling.|tags:pvp,mkb
+dimwishlist:item=1389546626&perks=839105230,3142289711,588594999,1015611457
+
+
+// Taraxippos
+//notes:pandapaxxy (PvP / Controller): "Moving Target is arguably the best in slot for the third column, and kill clip will allow for some spicy three taps. Definitely keep an eye out for this one. Again Arrowhead Brake is recommended for allowing you to focus less on controlling the recoil and more about crits. Steady Rounds will bump up the stability meaning you have less jump each shot. You shouldn't have to worry about the range drop as scouts have different metrics for range. Handling or stability for masterwork depending on how fast you like your weapons." Recommended MW: Handling.|tags:pvp,controller
+dimwishlist:item=1389546626&perks=839105230,3177308360,588594999,1015611457
+
+
+// Taraxippos
+//notes:SirStallion_ (PvE / M+KB / Controller): "Everybody is going to be looking for Hatchling on this thing, so I'm not unique in that respect. A strand scout is new and unique, so leaning into that newness and uniqueness is great, absolutely worth it. However.. I am not going to be looking for Outlaw, instead I'm looking for FTTC. Just to be a bit special? Yes. But also, Tactical Mag should bring the gun to a nice 16 mag size, which will play nicely with FTTC. The reload from Tac and MW will be more than enough and they don't have a kill condition, so personally I don't think I need outlaw. Obligatory Arrowhead because even on a scout rifle, 54 RD is brutal." Recommended MW: Reload.|tags:pve,mkb,controller
+dimwishlist:item=1389546626&perks=839105230,106909392,1354429876,831391274
+
+
+// Taraxippos
+//notes:SirStallion_ (PvP / M+KB): "I just need to shoutout that Kill Clip is right there in slot 4 also, and that would be great too. However, my thought process with this roll is that I want to make any given engagement as easy for me as possible (High stab, Zen Moment) while also being as much of a nuisance for the enemy as I can (Low flinch intake, Explosive Payload) So while I do think the KC 3 taps will go hard, I'm here to be a menace, not a slayer. [...] While MnK won't actively benefit from Stability as much as Controller, the flinch resist is gonna be a big deal for this roll to work. So it may feel strange at first, but trust the process" Recommended MW: Stability.|tags:pvp,mkb
+dimwishlist:item=1389546626&perks=839105230,3230963543,2387244414,3038247973
+
+
+// Taraxippos
+//notes:SirStallion_ (PvP / Controller): "I just need to shoutout that Kill Clip is right there in slot 4 also, and that would be great too. However, my thought process with this roll is that I want to make any given engagement as easy for me as possible (High stab, Zen Moment) while also being as much of a nuisance for the enemy as I can (Low flinch intake, Explosive Payload) So while I do think the KC 3 taps will go hard, I'm here to be a menace, not a slayer." Recommended MW: Stability.|tags:pvp,controller
+dimwishlist:item=1389546626&perks=839105230,3230963543,2387244414,3038247973
+
+
+// Taraxippos
+//notes:Sneecher (PvE / M+KB / Controller): "A new Strand weapon enters the fray! I'm always excited to get a new weapon type to add to my toolbox, and this weapon immediately gives us the Outlaw/Hatchling combo I've been waiting for (I still love you Round Robin). I expect to have a lot of dumb fun with this gun in PVE, especially in activities with a Strand surge (AKA all of them this season). Warlocks in particular should enjoy this combo, especially with Thread of Evolution, the Classy Contender trait, and an Empowering rift. That being said, Threadlings aren't the strongest choice for endgame PVE, and Lightweight frame scouts aren't my favorite in GMs either, so I expect this will just be a roll for fun, rather than a top tier PVE weapon. If you are intent on using this for GMs, you'll want Explosive Payload or maybe even Focused Fury instead." Recommended MW: Stability.|tags:pve,mkb,controller
+dimwishlist:item=1389546626&perks=1482024992,2420895100,1168162263,831391274
+
+
+// Taraxippos
+//notes:Sneecher (PvP / M+KB): "PC players don’t need stability as much as I do, so you can trade all of those stability boosts for range, and really let the cones do the work for you. Outlaw and Kill Clip are a tried and true combo, so you can’t really go wrong here. Once again there are a few combos that work in PVP, so use whatever feels best for your playstyle." Recommended MW: Range.|tags:pvp,mkb
+dimwishlist:item=1389546626&perks=839105230,3142289711,1168162263,1015611457
+
+
+// Taraxippos
+//notes:Sneecher (PvP / Controller): "There are a lot of options for PVP on this weapon, which took me a bit by surprise. If you like scouts at all, I am sure there is a roll for you somewhere in here. As a console player myself, I thoroughly enjoy high stability rolls. Scouts have such good coverage that they can handle a slight hit to range in favor of landing more shots quickly. Encore is a perk I think a lot of people sleep on, but after the rework it can be very effective in 6v6 modes. Add No Distractions and the Omolon origin trait, and you’ve got a workhorse ready to excel in all stats." Recommended MW: Stability.|tags:pvp,controller
+dimwishlist:item=1389546626&perks=839105230,3177308360,2866798147,1195158366
+
