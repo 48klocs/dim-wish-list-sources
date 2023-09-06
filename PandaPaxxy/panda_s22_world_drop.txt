@@ -1,8 +1,8 @@
 title:pandapaxxy's Season 22 World Drop Breakdown
 description:https://www.reddit.com/r/sharditkeepit/comments/16b03ta/season_22_world_drop_breakdown/
 
-// Psi Hermetic V - PvE (mnk,controller,pve)
-//notes:pandapaxxy (PvE / M+KB / Controller): "Psi Heretic V has some incredible uses in PvE. It's not the absolute strongest weapon, but it will be a reliable workhorse if you need a pulse. Being one from the the highest damage archetype paired with Frenzy, or even Kill Clip you'll be able to have some great damage or stasis utility through Headstone. Outlaw is the best neutrally but Enlightened Action boosting the low handling will feel really nice." Recommended MW: Reload.|tags:mnk,controller,pve
+// Psi Hermetic V - PvE (mkb,controller,pve)
+//notes:pandapaxxy (PvE / M+KB / Controller): "Psi Heretic V has some incredible uses in PvE. It's not the absolute strongest weapon, but it will be a reliable workhorse if you need a pulse. Being one from the the highest damage archetype paired with Frenzy, or even Kill Clip you'll be able to have some great damage or stasis utility through Headstone. Outlaw is the best neutrally but Enlightened Action boosting the low handling will feel really nice." Recommended MW: Reload.|tags:mkb,controller,pve
 dimwishlist:item=358788212&perks=839105230,1087426260,1168162263,4104185692
 dimwishlist:item=358788212&perks=839105230,1087426260,1168162263,124408337
 dimwishlist:item=358788212&perks=839105230,1087426260,1168162263,1015611457
@@ -117,8 +117,8 @@ dimwishlist:item=358788212&perks=3661387068,3177308360,588594999,1015611457
 dimwishlist:item=358788212&perks=3661387068,3177308360,588594999,2610012052
 
 
-// Psi Hermetic V - MnK PvP (mnk,pvp)
-//notes:pandapaxxy (PvP / M+KB): "So Psi Heretic V is a great PvP pulse. Don’t believe me? You can hit 100 stability with Smallbore / Steady Rounds / Void Elemental Capacitor / Stability MW, and you have your fourth column perk to do with as you please. Perpetual Motion for more handling and reload, Headseeker for more forgiving bursts, Kill Clip for a bit of chaining, Headstone for Stasis shenanigans. The world is your oyster. Crack it and find out what you want." Recommended MW: Range or Handling.|tags:mnk,pvp
+// Psi Hermetic V - MnK PvP (mkb,pvp)
+//notes:pandapaxxy (PvP / M+KB): "So Psi Heretic V is a great PvP pulse. Don’t believe me? You can hit 100 stability with Smallbore / Steady Rounds / Void Elemental Capacitor / Stability MW, and you have your fourth column perk to do with as you please. Perpetual Motion for more handling and reload, Headseeker for more forgiving bursts, Kill Clip for a bit of chaining, Headstone for Stasis shenanigans. The world is your oyster. Crack it and find out what you want." Recommended MW: Range or Handling.|tags:mkb,pvp
 dimwishlist:item=358788212&perks=839105230,3142289711,3511092054,460017080
 dimwishlist:item=358788212&perks=839105230,3142289711,3511092054,1015611457
 dimwishlist:item=358788212&perks=839105230,3142289711,3511092054,2610012052
@@ -175,8 +175,8 @@ dimwishlist:item=358788212&perks=1482024992,3177308360,588594999,1015611457
 dimwishlist:item=358788212&perks=1482024992,3177308360,588594999,2610012052
 
 
-// Nox Perennial V - PvE (mnk,controller,pve)
-//notes:pandapaxxy (PvE / M+KB / Controller): "Nox Perennial V is a great addition to your arsenal. Being able to roll with Envious Assassin and Controlled Burst in the Kinetic Slot is incredible. Lead from Gold if you prefer those builds or even just Collective Action for a neutral damage buff. Nox Perennial V’s greatest strength isn’t in its perk combinations, while they are strong, the biggest strength is in loadout flexibility. You can now use whatever energy weapon you’d like. T-Ghoul, Centrifuse, Sunshot, or any legendary weapon you prefer. You won’t be stuck using kinetic weapons with a great fusion." Recommended MW: Charge Time.|tags:mnk,controller,pve
+// Nox Perennial V - PvE (mkb,controller,pve)
+//notes:pandapaxxy (PvE / M+KB / Controller): "Nox Perennial V is a great addition to your arsenal. Being able to roll with Envious Assassin and Controlled Burst in the Kinetic Slot is incredible. Lead from Gold if you prefer those builds or even just Collective Action for a neutral damage buff. Nox Perennial V’s greatest strength isn’t in its perk combinations, while they are strong, the biggest strength is in loadout flexibility. You can now use whatever energy weapon you’d like. T-Ghoul, Centrifuse, Sunshot, or any legendary weapon you prefer. You won’t be stuck using kinetic weapons with a great fusion." Recommended MW: Charge Time.|tags:mkb,controller,pve
 dimwishlist:item=2767393525&perks=839105230,689005463,968510818,2594592626
 dimwishlist:item=2767393525&perks=839105230,689005463,968510818,831391274
 dimwishlist:item=2767393525&perks=839105230,689005463,1556840489,2594592626
@@ -215,8 +215,8 @@ dimwishlist:item=2767393525&perks=1482024992,2969185026,1645158859,3511092054
 dimwishlist:item=2767393525&perks=1482024992,2969185026,1645158859,1754714824
 
 
-// Nox Perennial V - MnK PvP (mnk,pvp)
-//notes:pandapaxxy (PvP / M+KB): "In PvP there’s a similar but not quite the same story. Under Pressure with Kickstart is going to be the main play, but Elemental Capacitor is also great for boosting some lower stats. I wouldn’t take this fusion into PvP unless you know you like High-Impacts but it could serve you well, again, in loadout flexibility." Recommended MW: Range.|tags:mnk,pvp
+// Nox Perennial V - MnK PvP (mkb,pvp)
+//notes:pandapaxxy (PvP / M+KB): "In PvP there’s a similar but not quite the same story. Under Pressure with Kickstart is going to be the main play, but Elemental Capacitor is also great for boosting some lower stats. I wouldn’t take this fusion into PvP unless you know you like High-Impacts but it could serve you well, again, in loadout flexibility." Recommended MW: Range.|tags:mkb,pvp
 dimwishlist:item=2767393525&perks=3250034553,2969185026,2451262963,1754714824
 dimwishlist:item=2767393525&perks=3250034553,2969185026,2451262963,3511092054
 dimwishlist:item=2767393525&perks=3250034553,2969185026,1645158859,1754714824
@@ -227,8 +227,8 @@ dimwishlist:item=2767393525&perks=1482024992,2969185026,1645158859,1754714824
 dimwishlist:item=2767393525&perks=1482024992,2969185026,1645158859,3511092054
 
 
-// Geodetic HSm - PvE (mnk,controller,pve)
-//notes:pandapaxxy (PvE / M+KB / Controller): "I think this is going to be the best weapon for low to mid-tier Void builds. Being able to use Destabilizing Rounds (swipes?), and Repulser Brace to debuff your enemies and buff yourself is incredible. You can clear entire rooms with only a few sword swipes and grant yourself an incredible over shield." Recommended MW: Impact.|tags:mnk,controller,pve
+// Geodetic HSm - PvE (mkb,controller,pve)
+//notes:pandapaxxy (PvE / M+KB / Controller): "I think this is going to be the best weapon for low to mid-tier Void builds. Being able to use Destabilizing Rounds (swipes?), and Repulser Brace to debuff your enemies and buff yourself is incredible. You can clear entire rooms with only a few sword swipes and grant yourself an incredible over shield." Recommended MW: Impact.|tags:mkb,controller,pve
 dimwishlist:item=3637669759&perks=3666208348,2349202967,776531651,2048641572
 dimwishlist:item=3637669759&perks=3666208348,2349202967,776531651,3913600130
 dimwishlist:item=3637669759&perks=3666208348,2349202967,3705817207,2048641572
@@ -293,16 +293,16 @@ dimwishlist:item=3637669759&perks=938542991,269888150,2590710093,354401740
 dimwishlist:item=3637669759&perks=938542991,269888150,2590710093,1685431615
 
 
-// Geodetic HSm - MnK PvP (mnk,pvp)
-//notes:pandapaxxy (PvP / M+KB): "In PvP there are not many reasons to use this sword over Eager Edge or Valiant Charge." Recommended MW: Impact.|tags:mnk,pvp
+// Geodetic HSm - MnK PvP (mkb,pvp)
+//notes:pandapaxxy (PvP / M+KB): "In PvP there are not many reasons to use this sword over Eager Edge or Valiant Charge." Recommended MW: Impact.|tags:mkb,pvp
 dimwishlist:item=3637669759&perks=3666208348,269888150,2590710093,354401740
 dimwishlist:item=3637669759&perks=3666208348,269888150,2590710093,1685431615
 dimwishlist:item=3637669759&perks=938542991,269888150,2590710093,354401740
 dimwishlist:item=3637669759&perks=938542991,269888150,2590710093,1685431615
 
 
-// Heliocentric QSc - PvE (mnk,controller,pve)
-//notes:pandapaxxy (PvE / M+KB / Controller): "I've seen some buzz with this sidearm. For one it is probably the easiest way to use Heal Clip as sidearms have naturally quick reload times. Cure also works better in PvE compared to PvP. Being able to scorch rooms with Incandescent and get some healing back like Unrelenting makes this a sidearm version of the CALUS-Mini Tool." Recommended MW: Range.|tags:mnk,controller,pve
+// Heliocentric QSc - PvE (mkb,controller,pve)
+//notes:pandapaxxy (PvE / M+KB / Controller): "I've seen some buzz with this sidearm. For one it is probably the easiest way to use Heal Clip as sidearms have naturally quick reload times. Cure also works better in PvE compared to PvP. Being able to scorch rooms with Incandescent and get some healing back like Unrelenting makes this a sidearm version of the CALUS-Mini Tool." Recommended MW: Range.|tags:mkb,controller,pve
 dimwishlist:item=3998080529&perks=1482024992,1087426260,3017780555,4293542123
 dimwishlist:item=3998080529&perks=1482024992,1087426260,3017780555,1015611457
 dimwishlist:item=3998080529&perks=1482024992,1087426260,3017780555,4104185692
@@ -402,8 +402,8 @@ dimwishlist:item=3998080529&perks=1482024992,3230963543,2846385770,1015611457
 dimwishlist:item=3998080529&perks=1482024992,3230963543,588594999,1015611457
 
 
-// Heliocentric QSc - MnK PvP (pvp,mnk)
-//notes:pandapaxxy (PvP / M+KB): " I don't think the Heliocentric QSc will have as much fun in PvP. Kill Clip is the only solid fourth column perk, and while Rangefinder did get nerfed it will be strong on this sidearm for pushing out the AA, thus extending its feel. You'll still want to push out the range via Hammer-Forged Rifling, Accurized Rounds and a Range MW." Recommended MW: Range.|tags:pvp,mnk
+// Heliocentric QSc - MnK PvP (pvp,mkb)
+//notes:pandapaxxy (PvP / M+KB): " I don't think the Heliocentric QSc will have as much fun in PvP. Kill Clip is the only solid fourth column perk, and while Rangefinder did get nerfed it will be strong on this sidearm for pushing out the AA, thus extending its feel. You'll still want to push out the range via Hammer-Forged Rifling, Accurized Rounds and a Range MW." Recommended MW: Range.|tags:pvp,mkb
 dimwishlist:item=3998080529&perks=3250034553,3142289711,1428297954,1015611457
 dimwishlist:item=3998080529&perks=3250034553,3142289711,2846385770,1015611457
 dimwishlist:item=3998080529&perks=3250034553,3142289711,3523296417,1015611457

@@ -1,8 +1,8 @@
 title:Pandapaxxy's Season 22 Vendor Breakdown
 description:https://www.reddit.com/r/sharditkeepit/comments/16b037h/season_22_vendor_breakdown/
 
-// Pre Astyanax IV (Adept) - PvE (mnk,controller,pve)
-//notes:pandapaxxy (PvE / M+KB / Controller): "Next up is a very interesting and arguable best in slot bow. Pre Astyanax IV is a solar bow rivaling Tyranny of Heaven and Strident Whistle, but neither can slot in adept mods. Adept Big Ones plus Precision Instrument will be an incredible combination. Incandescent for clearing rooms is another strong choice but I'm leaning towards Precision Instrument as the best in slot." Recommened MW: Draw Time.|tags:mnk,controller,pve
+// Pre Astyanax IV (Adept) - PvE (mkb,controller,pve)
+//notes:pandapaxxy (PvE / M+KB / Controller): "Next up is a very interesting and arguable best in slot bow. Pre Astyanax IV is a solar bow rivaling Tyranny of Heaven and Strident Whistle, but neither can slot in adept mods. Adept Big Ones plus Precision Instrument will be an incredible combination. Incandescent for clearing rooms is another strong choice but I'm leaning towards Precision Instrument as the best in slot." Recommened MW: Draw Time.|tags:mkb,controller,pve
 dimwishlist:item=496556698&perks=2801223209,3429800428,201365942,555281244
 dimwishlist:item=496556698&perks=2801223209,3429800428,201365942,4293542123
 dimwishlist:item=496556698&perks=2801223209,3429800428,201365942,3365897133
@@ -117,8 +117,8 @@ dimwishlist:item=496556698&perks=4067834857,3311977193,201365942,3365897133
 dimwishlist:item=496556698&perks=4067834857,3311977193,201365942,2652708987
 
 
-// Pre Astyanax IV (Adept) - MnK PvP (mnk,pvp)
-//notes:pandapaxxy (PvP / M+KB): "Pre Astyanax IV is not really meant for the crucible but you can achieve some really great stats through adept mods. Either lowering the draw time further or increasing the accuracy. Archer's Tempo is the best in slot, but you can pair that with a bunch of other perks like Opening Shot, Explosive Head, or even Successful Warm-Up for even faster follow up shots after a kill." Recommended MW: Draw Time.|tags:mnk,pvp
+// Pre Astyanax IV (Adept) - MnK PvP (mkb,pvp)
+//notes:pandapaxxy (PvP / M+KB): "Pre Astyanax IV is not really meant for the crucible but you can achieve some really great stats through adept mods. Either lowering the draw time further or increasing the accuracy. Archer's Tempo is the best in slot, but you can pair that with a bunch of other perks like Opening Shot, Explosive Head, or even Successful Warm-Up for even faster follow up shots after a kill." Recommended MW: Draw Time.|tags:mkb,pvp
 dimwishlist:item=496556698&perks=2801223209,3429800428,201365942,47981717
 dimwishlist:item=496556698&perks=2801223209,3429800428,201365942,3365897133
 dimwishlist:item=496556698&perks=2801223209,3429800428,201365942,2652708987
@@ -148,8 +148,8 @@ dimwishlist:item=496556698&perks=4067834857,3311977193,201365942,3365897133
 dimwishlist:item=496556698&perks=4067834857,3311977193,201365942,2652708987
 
 
-// Pre Astyanax IV - PvE (mnk,controller,pve)
-//notes:pandapaxxy (PvE / M+KB / Controller): "Next up is a very interesting and arguable best in slot bow. Pre Astyanax IV is a solar bow rivaling Tyranny of Heaven and Strident Whistle, but neither can slot in adept mods. Adept Big Ones plus Precision Instrument will be an incredible combination. Incandescent for clearing rooms is another strong choice but I'm leaning towards Precision Instrument as the best in slot." Recommened MW: Draw Time.|tags:mnk,controller,pve
+// Pre Astyanax IV - PvE (mkb,controller,pve)
+//notes:pandapaxxy (PvE / M+KB / Controller): "Next up is a very interesting and arguable best in slot bow. Pre Astyanax IV is a solar bow rivaling Tyranny of Heaven and Strident Whistle, but neither can slot in adept mods. Adept Big Ones plus Precision Instrument will be an incredible combination. Incandescent for clearing rooms is another strong choice but I'm leaning towards Precision Instrument as the best in slot." Recommened MW: Draw Time.|tags:mkb,controller,pve
 dimwishlist:item=192784503&perks=2801223209,3429800428,201365942,555281244
 dimwishlist:item=192784503&perks=2801223209,3429800428,201365942,4293542123
 dimwishlist:item=192784503&perks=2801223209,3429800428,201365942,3365897133
@@ -264,8 +264,8 @@ dimwishlist:item=192784503&perks=4067834857,3311977193,201365942,3365897133
 dimwishlist:item=192784503&perks=4067834857,3311977193,201365942,2652708987
 
 
-// Pre Astyanax IV - MnK PvP (mnk,pvp)
-//notes:pandapaxxy (PvP / M+KB): "Pre Astyanax IV is not really meant for the crucible but you can achieve some really great stats through adept mods. Either lowering the draw time further or increasing the accuracy. Archer's Tempo is the best in slot, but you can pair that with a bunch of other perks like Opening Shot, Explosive Head, or even Successful Warm-Up for even faster follow up shots after a kill." Recommended MW: Draw Time.|tags:mnk,pvp
+// Pre Astyanax IV - MnK PvP (mkb,pvp)
+//notes:pandapaxxy (PvP / M+KB): "Pre Astyanax IV is not really meant for the crucible but you can achieve some really great stats through adept mods. Either lowering the draw time further or increasing the accuracy. Archer's Tempo is the best in slot, but you can pair that with a bunch of other perks like Opening Shot, Explosive Head, or even Successful Warm-Up for even faster follow up shots after a kill." Recommended MW: Draw Time.|tags:mkb,pvp
 dimwishlist:item=192784503&perks=2801223209,3429800428,201365942,47981717
 dimwishlist:item=192784503&perks=2801223209,3429800428,201365942,3365897133
 dimwishlist:item=192784503&perks=2801223209,3429800428,201365942,2652708987
@@ -295,8 +295,8 @@ dimwishlist:item=192784503&perks=4067834857,3311977193,201365942,3365897133
 dimwishlist:item=192784503&perks=4067834857,3311977193,201365942,2652708987
 
 
-// Point of the Stag - PvE (mnk,controller,pve)
-//notes:pandapaxxy (PvE / M+KB / Controller): "This is arguably the best ritual weapon bungie introduced. It remains strong to this day only really outclassed by exotic bow buffs. The tried and true classic of Archer's Tempo and Vorpal Weapon remains, but you can get higher damage through Precision Instrument or Golden Tricorn on Arc. If you can maintain Golden Tricorn 2x you will for sure enjoy this bow." Recommended MW: Draw Time.|tags:mnk,controller,pve
+// Point of the Stag - PvE (mkb,controller,pve)
+//notes:pandapaxxy (PvE / M+KB / Controller): "This is arguably the best ritual weapon bungie introduced. It remains strong to this day only really outclassed by exotic bow buffs. The tried and true classic of Archer's Tempo and Vorpal Weapon remains, but you can get higher damage through Precision Instrument or Golden Tricorn on Arc. If you can maintain Golden Tricorn 2x you will for sure enjoy this bow." Recommended MW: Draw Time.|tags:mkb,controller,pve
 dimwishlist:item=888872889&perks=2801223209,3429800428,201365942,555281244
 dimwishlist:item=888872889&perks=2801223209,3429800428,201365942,2610012052
 dimwishlist:item=888872889&perks=2801223209,3429800428,201365942,1546637391
@@ -384,8 +384,8 @@ dimwishlist:item=888872889&perks=4067834857,3311977193,3511092054,4082225868
 dimwishlist:item=888872889&perks=4067834857,3311977193,3511092054,2610012052
 
 
-// Point of the Stag - MnK PvP (mnk,pvp)
-//notes:pandapaxxy (PvP / M+KB): "Precision frame bows did not receive any buffs recently, so their lightweight brethren are feeling much better this season. I still think these bows are better for swapping but you let me know if you're finding success with lightweight blinting. Both Golden Tricorn 2x and Swashbuckler will allow you to 1 crit kill any guardian and Archer's Tempo will make the follow up kills easier." Recommended MW: Draw Time.|tags:mnk,pvp
+// Point of the Stag - MnK PvP (mkb,pvp)
+//notes:pandapaxxy (PvP / M+KB): "Precision frame bows did not receive any buffs recently, so their lightweight brethren are feeling much better this season. I still think these bows are better for swapping but you let me know if you're finding success with lightweight blinting. Both Golden Tricorn 2x and Swashbuckler will allow you to 1 crit kill any guardian and Archer's Tempo will make the follow up kills easier." Recommended MW: Draw Time.|tags:mkb,pvp
 dimwishlist:item=888872889&perks=2801223209,3429800428,201365942,699525795
 dimwishlist:item=888872889&perks=2801223209,3429800428,201365942,4082225868
 dimwishlist:item=888872889&perks=2801223209,3429800428,201365942,2610012052
@@ -442,8 +442,8 @@ dimwishlist:item=888872889&perks=4067834857,3311977193,3511092054,4082225868
 dimwishlist:item=888872889&perks=4067834857,3311977193,3511092054,2610012052
 
 
-// The Guiding Sight - PvE (mnk,controller,pve)
-//notes:pandapaxxy (PvE / M+KB / Controller): "The Guiding Sight is similar to Nightshade with multiple revisions. Originally in Vanilla, and then dropping again in Season of the Hunt. Can we get a new gun? The Guiding Sight did lose one of its biggest attractors, the scopes you can select. Now with just barrels the best one is Arrowhead Brake to bring the recoil all the way to 100. Precision Instrument will be strong on this gun because you can keep a safe distance and still keep putting out incredible damage. Enlightened Action will also bring up the gun feel and help your reload." Recommended MW: Handling.|tags:mnk,controller,pve
+// The Guiding Sight - PvE (mkb,controller,pve)
+//notes:pandapaxxy (PvE / M+KB / Controller): "The Guiding Sight is similar to Nightshade with multiple revisions. Originally in Vanilla, and then dropping again in Season of the Hunt. Can we get a new gun? The Guiding Sight did lose one of its biggest attractors, the scopes you can select. Now with just barrels the best one is Arrowhead Brake to bring the recoil all the way to 100. Precision Instrument will be strong on this gun because you can keep a safe distance and still keep putting out incredible damage. Enlightened Action will also bring up the gun feel and help your reload." Recommended MW: Handling.|tags:mkb,controller,pve
 dimwishlist:item=1161561386&perks=839105230,1087426260,3523296417,555281244
 dimwishlist:item=1161561386&perks=839105230,1087426260,3523296417,11612903
 dimwishlist:item=1161561386&perks=839105230,1087426260,3523296417,1015611457
@@ -558,8 +558,8 @@ dimwishlist:item=1161561386&perks=1392496348,3230963543,3828510309,1015611457
 dimwishlist:item=1161561386&perks=1392496348,3230963543,3828510309,11612903
 
 
-// The Guiding Sight - MnK PvP (mnk,pvp)
-//notes:pandapaxxy (PvP / M+KB): "Now, while you can 3 crit at 0.80 at nearly every distance. I don't think this scout will be really strong in the close range. Fluted Barrel and Ricochet Rounds will bring up the low stats. Perpetual Motion and Enlightened Action will both boost your stats further and Kill Clip will allow you to 2 crit 1 body in the close range. It's not the strongest scout in the game. But it is now another high-impact scout with Kill Clip." Recommended MW: Handling.|tags:mnk,pvp
+// The Guiding Sight - MnK PvP (mkb,pvp)
+//notes:pandapaxxy (PvP / M+KB): "Now, while you can 3 crit at 0.80 at nearly every distance. I don't think this scout will be really strong in the close range. Fluted Barrel and Ricochet Rounds will bring up the low stats. Perpetual Motion and Enlightened Action will both boost your stats further and Kill Clip will allow you to 2 crit 1 body in the close range. It's not the strongest scout in the game. But it is now another high-impact scout with Kill Clip." Recommended MW: Handling.|tags:mkb,pvp
 dimwishlist:item=1161561386&perks=1840239774,1885400500,3828510309,1015611457
 dimwishlist:item=1161561386&perks=1840239774,1885400500,3828510309,11612903
 dimwishlist:item=1161561386&perks=1840239774,1885400500,3523296417,1015611457
@@ -598,8 +598,8 @@ dimwishlist:item=1161561386&perks=4090651448,1561002382,1428297954,1015611457
 dimwishlist:item=1161561386&perks=4090651448,1561002382,1428297954,11612903
 
 
-// Warden's Law (Adept) - PvE (mnk,controller,pve)
-//notes:pandapaxxy (PvE / M+KB / Controller): "Warden's Law got a buff recently and allows it to feel more like a hybrid Crimson. The two burst, feeling almost like a short version of Revision Zero or Graviton Lance. That's not a bad thing by the way. In PvE you'll want Fourth Time's the Charm, which should actually work on this gun, coupled with Vorpal Weapon for the highest damage and best mag utilization. For a more neutral weapon something like Enlightened Action and Frenzy for damage, reload, and handling all wrapped up into one." Recommended MW: Reload.|tags:mnk,controller,pve
+// Warden's Law (Adept) - PvE (mkb,controller,pve)
+//notes:pandapaxxy (PvE / M+KB / Controller): "Warden's Law got a buff recently and allows it to feel more like a hybrid Crimson. The two burst, feeling almost like a short version of Revision Zero or Graviton Lance. That's not a bad thing by the way. In PvE you'll want Fourth Time's the Charm, which should actually work on this gun, coupled with Vorpal Weapon for the highest damage and best mag utilization. For a more neutral weapon something like Enlightened Action and Frenzy for damage, reload, and handling all wrapped up into one." Recommended MW: Reload.|tags:mkb,controller,pve
 dimwishlist:item=267089201&perks=1482024992,1087426260,1354429876,1546637391
 dimwishlist:item=267089201&perks=1482024992,1087426260,1354429876,4104185692
 dimwishlist:item=267089201&perks=1482024992,1087426260,3828510309,1546637391
@@ -660,8 +660,8 @@ dimwishlist:item=267089201&perks=1482024992,3142289711,3828510309,3425386926
 dimwishlist:item=267089201&perks=1482024992,3142289711,3828510309,1015611457
 
 
-// Warden's Law (Adept) - MnK PvP (mnk,pvp)
-//notes:pandapaxxy (PvP / M+KB): "I would like to get my hands on a Warden's Law with Zen Moment to see if I can completely ignore stability as one trigger pull will grant my 4 stacks (2 per hit). It would feel incredible with that and Moving Target for more aim assist. Rampage and Kill Clip can both make the two burst easier and require less crits, but it won't be enough to one burst on its own. Kill Clip with a Ward of Dawn will be able to one burst dealing 124 to the head and 78 to the body. Really easy to down an enemy in record time." Recommended MW: Range.|tags:mnk,pvp
+// Warden's Law (Adept) - MnK PvP (mkb,pvp)
+//notes:pandapaxxy (PvP / M+KB): "I would like to get my hands on a Warden's Law with Zen Moment to see if I can completely ignore stability as one trigger pull will grant my 4 stacks (2 per hit). It would feel incredible with that and Moving Target for more aim assist. Rampage and Kill Clip can both make the two burst easier and require less crits, but it won't be enough to one burst on its own. Kill Clip with a Ward of Dawn will be able to one burst dealing 124 to the head and 78 to the body. Really easy to down an enemy in record time." Recommended MW: Range.|tags:mkb,pvp
 dimwishlist:item=267089201&perks=1840239774,3142289711,1428297954,3425386926
 dimwishlist:item=267089201&perks=1840239774,3142289711,1428297954,1015611457
 dimwishlist:item=267089201&perks=1840239774,3142289711,957782887,3425386926
@@ -682,8 +682,8 @@ dimwishlist:item=267089201&perks=1482024992,3142289711,3828510309,3425386926
 dimwishlist:item=267089201&perks=1482024992,3142289711,3828510309,1015611457
 
 
-// Warden's Law - PvE (mnk,controller,pve)
-//notes:pandapaxxy (PvE / M+KB / Controller): "Warden's Law got a buff recently and allows it to feel more like a hybrid Crimson. The two burst, feeling almost like a short version of Revision Zero or Graviton Lance. That's not a bad thing by the way. In PvE you'll want Fourth Time's the Charm, which should actually work on this gun, coupled with Vorpal Weapon for the highest damage and best mag utilization. For a more neutral weapon something like Enlightened Action and Frenzy for damage, reload, and handling all wrapped up into one." Recommended MW: Reload.|tags:mnk,controller,pve
+// Warden's Law - PvE (mkb,controller,pve)
+//notes:pandapaxxy (PvE / M+KB / Controller): "Warden's Law got a buff recently and allows it to feel more like a hybrid Crimson. The two burst, feeling almost like a short version of Revision Zero or Graviton Lance. That's not a bad thing by the way. In PvE you'll want Fourth Time's the Charm, which should actually work on this gun, coupled with Vorpal Weapon for the highest damage and best mag utilization. For a more neutral weapon something like Enlightened Action and Frenzy for damage, reload, and handling all wrapped up into one." Recommended MW: Reload.|tags:mkb,controller,pve
 dimwishlist:item=1821529912&perks=1482024992,1087426260,1354429876,1546637391
 dimwishlist:item=1821529912&perks=1482024992,1087426260,1354429876,4104185692
 dimwishlist:item=1821529912&perks=1482024992,1087426260,3828510309,1546637391
@@ -744,8 +744,8 @@ dimwishlist:item=1821529912&perks=1482024992,3142289711,3828510309,3425386926
 dimwishlist:item=1821529912&perks=1482024992,3142289711,3828510309,1015611457
 
 
-// Warden's Law - MnK PvP (mnk,pvp)
-//notes:pandapaxxy (PvP / M+KB): "I would like to get my hands on a Warden's Law with Zen Moment to see if I can completely ignore stability as one trigger pull will grant my 4 stacks (2 per hit). It would feel incredible with that and Moving Target for more aim assist. Rampage and Kill Clip can both make the two burst easier and require less crits, but it won't be enough to one burst on its own. Kill Clip with a Ward of Dawn will be able to one burst dealing 124 to the head and 78 to the body. Really easy to down an enemy in record time." Recommended MW: Range.|tags:mnk,pvp
+// Warden's Law - MnK PvP (mkb,pvp)
+//notes:pandapaxxy (PvP / M+KB): "I would like to get my hands on a Warden's Law with Zen Moment to see if I can completely ignore stability as one trigger pull will grant my 4 stacks (2 per hit). It would feel incredible with that and Moving Target for more aim assist. Rampage and Kill Clip can both make the two burst easier and require less crits, but it won't be enough to one burst on its own. Kill Clip with a Ward of Dawn will be able to one burst dealing 124 to the head and 78 to the body. Really easy to down an enemy in record time." Recommended MW: Range.|tags:mkb,pvp
 dimwishlist:item=1821529912&perks=1840239774,3142289711,1428297954,3425386926
 dimwishlist:item=1821529912&perks=1840239774,3142289711,1428297954,1015611457
 dimwishlist:item=1821529912&perks=1840239774,3142289711,957782887,3425386926
@@ -766,8 +766,8 @@ dimwishlist:item=1821529912&perks=1482024992,3142289711,3828510309,3425386926
 dimwishlist:item=1821529912&perks=1482024992,3142289711,3828510309,1015611457
 
 
-// Luna Regolith III - PvE (controller,mnk,pve)
-//notes:pandapaxxy (PvE / M+KB / Controller): "Luna Regolith III is the new vanguard sniper. Triple Tap and Clown Cartridge are the best in slot, but Field Prep will be great for longer damage phases. Firing Line is going to be your best damage buff, but Higher Ground will be good for solo players. It's not the most reliable as you can't always be higher than your target. But when it works, an extra 20% is an extra 20%." Recommended MW: Reload.|tags:controller,mnk,pve
+// Luna Regolith III - PvE (controller,mkb,pve)
+//notes:pandapaxxy (PvE / M+KB / Controller): "Luna Regolith III is the new vanguard sniper. Triple Tap and Clown Cartridge are the best in slot, but Field Prep will be great for longer damage phases. Firing Line is going to be your best damage buff, but Higher Ground will be good for solo players. It's not the most reliable as you can't always be higher than your target. But when it works, an extra 20% is an extra 20%." Recommended MW: Reload.|tags:controller,mkb,pve
 dimwishlist:item=1948035256&perks=839105230,1087426260,2284787283,1771339417
 dimwishlist:item=1948035256&perks=839105230,1087426260,2284787283,2319119708
 dimwishlist:item=1948035256&perks=839105230,1087426260,2284787283,4293542123
@@ -882,8 +882,8 @@ dimwishlist:item=1948035256&perks=4090651448,3142289711,1645158859,588594999
 dimwishlist:item=1948035256&perks=4090651448,3142289711,1645158859,699525795
 
 
-// Luna Regolith III - MnK PvP (mnk,pvp)
-//notes:pandapaxxy (PvP / M+KB): "In PvP there are really only a few options. Max handling with Snapshot Sights and Opening Shot will be the most sought after roll. But I wouldn't be opposed to Eye of the Storm, Moving Target, or even one of my favorite silly perk combos: Opening Shot and Under Pressure. Previously this was only on the Occluded Finality with its monstrous zoom. That also helped in bullet bending, but as the majority of players prefer short zooms this will allow other players to enjoy my silly combo." Recommended MW: Handling.|tags:mnk,pvp
+// Luna Regolith III - MnK PvP (mkb,pvp)
+//notes:pandapaxxy (PvP / M+KB): "In PvP there are really only a few options. Max handling with Snapshot Sights and Opening Shot will be the most sought after roll. But I wouldn't be opposed to Eye of the Storm, Moving Target, or even one of my favorite silly perk combos: Opening Shot and Under Pressure. Previously this was only on the Occluded Finality with its monstrous zoom. That also helped in bullet bending, but as the majority of players prefer short zooms this will allow other players to enjoy my silly combo." Recommended MW: Handling.|tags:mkb,pvp
 dimwishlist:item=1948035256&perks=1840239774,3142289711,957782887,47981717
 dimwishlist:item=1948035256&perks=1840239774,3142289711,957782887,588594999
 dimwishlist:item=1948035256&perks=1840239774,3142289711,957782887,699525795
@@ -913,8 +913,8 @@ dimwishlist:item=1948035256&perks=4090651448,3142289711,1645158859,588594999
 dimwishlist:item=1948035256&perks=4090651448,3142289711,1645158859,699525795
 
 
-// Igneous Hammer (Adept) - PvE (mnk,controller,pve)
-//notes:pandapaxxy (PvE / M+KB / Controller): "Probably the most hyped weapon from this season. Rightfully so the Igneous Hammer is an incredible weapon. Rapid Hit and Incandescent for clearing rooms, or Golden Tricorn with solar builds to have the highest damage possible." Recommended MW: Reload.|tags:mnk,controller,pve
+// Igneous Hammer (Adept) - PvE (mkb,controller,pve)
+//notes:pandapaxxy (PvE / M+KB / Controller): "Probably the most hyped weapon from this season. Rightfully so the Igneous Hammer is an incredible weapon. Rapid Hit and Incandescent for clearing rooms, or Golden Tricorn with solar builds to have the highest damage possible." Recommended MW: Reload.|tags:mkb,controller,pve
 dimwishlist:item=2314610827&perks=1840239774,1087426260,247725512,4293542123
 dimwishlist:item=2314610827&perks=1840239774,1087426260,247725512,2610012052
 dimwishlist:item=2314610827&perks=1840239774,1087426260,247725512,4104185692
@@ -1011,8 +1011,8 @@ dimwishlist:item=2314610827&perks=1482024992,1561002382,2451262963,588594999
 dimwishlist:item=2314610827&perks=1482024992,1561002382,2451262963,47981717
 
 
-// Igneous Hammer (Adept) - MnK PvP (mnk,pvp)
-//notes:pandapaxxy (PvP / M+KB): "Igneous Hammer is a real do-it-all but the crucible is where the Hammer can flex its wings. Keep Away with Eye of the Storm is going to be the best perk combo to look for. Fragile Focus is nice but requires you to not get hit. Rapid Hit is a great shout but you have to hit your crits in order to gain the benefits. Miss a shot and it's almost like starting from zero. If you want something that doesn't require you to get hit you can opt for Moving Target or Opening Shot to pair with Keep Away" Recommended MW: Range.|tags:mnk,pvp
+// Igneous Hammer (Adept) - MnK PvP (mkb,pvp)
+//notes:pandapaxxy (PvP / M+KB): "Igneous Hammer is a real do-it-all but the crucible is where the Hammer can flex its wings. Keep Away with Eye of the Storm is going to be the best perk combo to look for. Fragile Focus is nice but requires you to not get hit. Rapid Hit is a great shout but you have to hit your crits in order to gain the benefits. Miss a shot and it's almost like starting from zero. If you want something that doesn't require you to get hit you can opt for Moving Target or Opening Shot to pair with Keep Away" Recommended MW: Range.|tags:mkb,pvp
 dimwishlist:item=2314610827&perks=1840239774,1885400500,3619207468,699525795
 dimwishlist:item=2314610827&perks=1840239774,1885400500,3619207468,588594999
 dimwishlist:item=2314610827&perks=1840239774,1885400500,3619207468,47981717
@@ -1069,8 +1069,8 @@ dimwishlist:item=2314610827&perks=1482024992,1561002382,247725512,588594999
 dimwishlist:item=2314610827&perks=1482024992,1561002382,247725512,47981717
 
 
-// Igneous Hammer - PvE (mnk,controller,pve)
-//notes:pandapaxxy (PvE / M+KB / Controller): "Probably the most hyped weapon from this season. Rightfully so the Igneous Hammer is an incredible weapon. Rapid Hit and Incandescent for clearing rooms, or Golden Tricorn with solar builds to have the highest damage possible." Recommended MW: Reload.|tags:mnk,controller,pve
+// Igneous Hammer - PvE (mkb,controller,pve)
+//notes:pandapaxxy (PvE / M+KB / Controller): "Probably the most hyped weapon from this season. Rightfully so the Igneous Hammer is an incredible weapon. Rapid Hit and Incandescent for clearing rooms, or Golden Tricorn with solar builds to have the highest damage possible." Recommended MW: Reload.|tags:mkb,controller,pve
 dimwishlist:item=1973107014&perks=1840239774,1087426260,247725512,4293542123
 dimwishlist:item=1973107014&perks=1840239774,1087426260,247725512,2610012052
 dimwishlist:item=1973107014&perks=1840239774,1087426260,247725512,4104185692
@@ -1167,8 +1167,8 @@ dimwishlist:item=1973107014&perks=1482024992,1561002382,2451262963,588594999
 dimwishlist:item=1973107014&perks=1482024992,1561002382,2451262963,47981717
 
 
-// Igneous Hammer - MnK PvP (mnk,pvp)
-//notes:pandapaxxy (PvP / M+KB): "Igneous Hammer is a real do-it-all but the crucible is where the Hammer can flex its wings. Keep Away with Eye of the Storm is going to be the best perk combo to look for. Fragile Focus is nice but requires you to not get hit. Rapid Hit is a great shout but you have to hit your crits in order to gain the benefits. Miss a shot and it's almost like starting from zero. If you want something that doesn't require you to get hit you can opt for Moving Target or Opening Shot to pair with Keep Away" Recommended MW: Range.|tags:mnk,pvp
+// Igneous Hammer - MnK PvP (mkb,pvp)
+//notes:pandapaxxy (PvP / M+KB): "Igneous Hammer is a real do-it-all but the crucible is where the Hammer can flex its wings. Keep Away with Eye of the Storm is going to be the best perk combo to look for. Fragile Focus is nice but requires you to not get hit. Rapid Hit is a great shout but you have to hit your crits in order to gain the benefits. Miss a shot and it's almost like starting from zero. If you want something that doesn't require you to get hit you can opt for Moving Target or Opening Shot to pair with Keep Away" Recommended MW: Range.|tags:mkb,pvp
 dimwishlist:item=1973107014&perks=1840239774,1885400500,3619207468,699525795
 dimwishlist:item=1973107014&perks=1840239774,1885400500,3619207468,588594999
 dimwishlist:item=1973107014&perks=1840239774,1885400500,3619207468,47981717
@@ -1225,8 +1225,8 @@ dimwishlist:item=1973107014&perks=1482024992,1561002382,247725512,588594999
 dimwishlist:item=1973107014&perks=1482024992,1561002382,247725512,47981717
 
 
-// Qua Xaphan V - PvE (mnk,controller,pve)
-//notes:pandapaxxy (PvE / M+KB / Controller): "The new Gambit machine gun is a high-impact. Right away this will either entice you or drive you away. Field prep coupled with Target Lock will be my #1 roll. Increase the magazine size and slap on Arrowhead Brake for a really easy to use, high damage machine gun. Destabilizing Rounds will also do great as a single shot (in lower tiered content) will be able to kill an enemy and apply the debuff." Recommended MW: Reload.|tags:mnk,controller,pve
+// Qua Xaphan V - PvE (mkb,controller,pve)
+//notes:pandapaxxy (PvE / M+KB / Controller): "The new Gambit machine gun is a high-impact. Right away this will either entice you or drive you away. Field prep coupled with Target Lock will be my #1 roll. Increase the magazine size and slap on Arrowhead Brake for a really easy to use, high damage machine gun. Destabilizing Rounds will also do great as a single shot (in lower tiered content) will be able to kill an enemy and apply the debuff." Recommended MW: Reload.|tags:mkb,controller,pve
 dimwishlist:item=1975125963&perks=839105230,1087426260,2869569095,365154968
 dimwishlist:item=1975125963&perks=839105230,1087426260,2869569095,4104185692
 dimwishlist:item=1975125963&perks=839105230,1087426260,2869569095,2048641572
@@ -1350,8 +1350,8 @@ dimwishlist:item=1975125963&perks=1482024992,1561002382,2450788523,3425386926
 dimwishlist:item=1975125963&perks=1482024992,1561002382,2450788523,11612903
 
 
-// Qua Xaphan V - MnK PvP (mnk,pvp)
-//notes:pandapaxxy (PvP / M+KB): "There are not many uses for a high-impact machine gun in PvP. They require all crits but just feel extremely unforgiving. Anything to bump up the consistency will be greatly appreciated. Dynamic Sway Reduction or Under Pressure, and Ricochet Rounds will feel great. Rampage might not be the best but it does allow you to 3 crit 1 body any resilience and 2 crit 2 body all the way up to 7 resilience. Adrenaline Junkie isn't quite as strong on the low end. But if you can get a grenade kill you can 3 crit any resilience for a 0.33s TtK. Incredibly fast." Recommended MW: Range.|tags:mnk,pvp
+// Qua Xaphan V - MnK PvP (mkb,pvp)
+//notes:pandapaxxy (PvP / M+KB): "There are not many uses for a high-impact machine gun in PvP. They require all crits but just feel extremely unforgiving. Anything to bump up the consistency will be greatly appreciated. Dynamic Sway Reduction or Under Pressure, and Ricochet Rounds will feel great. Rampage might not be the best but it does allow you to 3 crit 1 body any resilience and 2 crit 2 body all the way up to 7 resilience. Adrenaline Junkie isn't quite as strong on the low end. But if you can get a grenade kill you can 3 crit any resilience for a 0.33s TtK. Incredibly fast." Recommended MW: Range.|tags:mkb,pvp
 dimwishlist:item=1975125963&perks=3250034553,1885400500,1359896290,3425386926
 dimwishlist:item=1975125963&perks=3250034553,1885400500,1359896290,11612903
 dimwishlist:item=1975125963&perks=3250034553,1885400500,1645158859,3425386926
@@ -1380,8 +1380,8 @@ dimwishlist:item=1975125963&perks=1840239774,1561002382,1645158859,11612903
 
 
 
-// Unending Tempest - PvE (controller,mnk,pve)
-//notes:pandapaxxy (PvE / M+KB / Controller): "Another season, another bajillion perks in our core weapons. Unending Tempest comes in as the first core playlist 600 rpm submachine gun. We have had Aggressives come from Crucible and Gambit. Lightweights from Crucible and Vanguard. So no Precision Frames. The biggest synergy is Demolitionist and Adrenaline Junkie. Enlightened Action and any damage bonus will also feel incredible. And of course there's Subsistence and Frenzy for damage and never having to reload." Recommended MW: Reload.|tags:controller,mnk,pve
+// Unending Tempest - PvE (controller,mkb,pve)
+//notes:pandapaxxy (PvE / M+KB / Controller): "Another season, another bajillion perks in our core weapons. Unending Tempest comes in as the first core playlist 600 rpm submachine gun. We have had Aggressives come from Crucible and Gambit. Lightweights from Crucible and Vanguard. So no Precision Frames. The biggest synergy is Demolitionist and Adrenaline Junkie. Enlightened Action and any damage bonus will also feel incredible. And of course there's Subsistence and Frenzy for damage and never having to reload." Recommended MW: Reload.|tags:controller,mkb,pve
 dimwishlist:item=2510526114&perks=1482024992,1087426260,3523296417,11612903
 dimwishlist:item=2510526114&perks=1482024992,1087426260,3523296417,124408337
 dimwishlist:item=2510526114&perks=1482024992,1087426260,3523296417,4104185692
@@ -1469,8 +1469,8 @@ dimwishlist:item=2510526114&perks=4090651448,3142289711,1428297954,1890422124
 dimwishlist:item=2510526114&perks=4090651448,3142289711,1428297954,2451262963
 
 
-// Unending Tempest - MnK PvP (mnk,pvp)
-//notes:pandapaxxy (PvP / M+KB): "Unending Tempest will be the next best submachine gun. Rivaling but not as strong as release The Immortal. The only issue is the large perk pool, but you can always work around that by playing crucible for more resets. The best perks depend on how you play. Killing Wind will help you get to and beat out your next engagement, Multikill Clip works here, but Kill Clip would have been better. Dynamic Sway Reduction will help keep your bullets on target paired with Target Lock for that quick TtK. Finally you could also try to hit max range with Fragile Focus and boost up your other stats with Perpetual Motion. It's definitely going to be a dominant SMG this season, and if you prefer precision SMGs like myself it will be worth the grind." Recommended MW: Range.|tags:mnk,pvp
+// Unending Tempest - MnK PvP (mkb,pvp)
+//notes:pandapaxxy (PvP / M+KB): "Unending Tempest will be the next best submachine gun. Rivaling but not as strong as release The Immortal. The only issue is the large perk pool, but you can always work around that by playing crucible for more resets. The best perks depend on how you play. Killing Wind will help you get to and beat out your next engagement, Multikill Clip works here, but Kill Clip would have been better. Dynamic Sway Reduction will help keep your bullets on target paired with Target Lock for that quick TtK. Finally you could also try to hit max range with Fragile Focus and boost up your other stats with Perpetual Motion. It's definitely going to be a dominant SMG this season, and if you prefer precision SMGs like myself it will be worth the grind." Recommended MW: Range.|tags:mkb,pvp
 dimwishlist:item=2510526114&perks=3250034553,3142289711,2450788523,365154968
 dimwishlist:item=2510526114&perks=3250034553,3142289711,2450788523,2458213969
 dimwishlist:item=2510526114&perks=3250034553,3142289711,2450788523,2451262963
@@ -1491,8 +1491,8 @@ dimwishlist:item=2510526114&perks=1482024992,3142289711,1359896290,2458213969
 dimwishlist:item=2510526114&perks=1482024992,3142289711,1359896290,2451262963
 
 
-// Cataphract GL3 (Adept) - PvE (mnk,controller,pve)
-//notes:pandapaxxy (PvE / M+KB / Controller): "It's interesting when a PvP weapon has strong utility in PvE. Cataphract GL3 is one such example. With Envious Assassin and Bait and Switch you can really get some incredible damage out. Even reloader perks like Auto-Loading Holster and Field Prep are incredible too, it just depends on the damage cycle. Explosive Light and Chain Reaction are both tried and true combinations." Recommended MW: Reload.|tags:mnk,controller,pve
+// Cataphract GL3 (Adept) - PvE (mkb,controller,pve)
+//notes:pandapaxxy (PvE / M+KB / Controller): "It's interesting when a PvP weapon has strong utility in PvE. Cataphract GL3 is one such example. With Envious Assassin and Bait and Switch you can really get some incredible damage out. Even reloader perks like Auto-Loading Holster and Field Prep are incredible too, it just depends on the damage cycle. Explosive Light and Chain Reaction are both tried and true combinations." Recommended MW: Reload.|tags:mkb,controller,pve
 dimwishlist:item=874623537&perks=3525010810,3301904089,968510818,3078487919
 dimwishlist:item=874623537&perks=3525010810,3301904089,968510818,3194351027
 dimwishlist:item=874623537&perks=3525010810,3301904089,968510818,2396489472
@@ -1550,8 +1550,8 @@ dimwishlist:item=874623537&perks=1441682018,2822142346,3523296417,2396489472
 dimwishlist:item=874623537&perks=1441682018,2822142346,3523296417,831391274
 
 
-// Cataphract GL3 (Adept) - MnK PvP (mnk,pvp)
-//pandapaxxy (PvP / M+KB): "In PvP there isn't much to talk about. Grenade launchers are the best in slot, Proximity Grenades allow you some forgiveness and Impulse Amplifier gives you a pocket rocket. Your best option for multikills is with Chain Reaction." Recommended MW: Velocity.|tags:mnk,pvp
+// Cataphract GL3 (Adept) - MnK PvP (mkb,pvp)
+//pandapaxxy (PvP / M+KB): "In PvP there isn't much to talk about. Grenade launchers are the best in slot, Proximity Grenades allow you some forgiveness and Impulse Amplifier gives you a pocket rocket. Your best option for multikills is with Chain Reaction." Recommended MW: Velocity.|tags:mkb,pvp
 dimwishlist:item=874623537&perks=3525010810,409831596,951095735,2396489472
 dimwishlist:item=874623537&perks=3525010810,409831596,951095735,831391274
 dimwishlist:item=874623537&perks=3525010810,409831596,3523296417,2396489472
@@ -1578,8 +1578,8 @@ dimwishlist:item=874623537&perks=1441682018,2822142346,3523296417,2396489472
 dimwishlist:item=874623537&perks=1441682018,2822142346,3523296417,831391274
 
 
-// Cataphract GL3 - PvE (mnk,controller,pve)
-//notes:pandapaxxy (PvE / M+KB / Controller): "It's interesting when a PvP weapon has strong utility in PvE. Cataphract GL3 is one such example. With Envious Assassin and Bait and Switch you can really get some incredible damage out. Even reloader perks like Auto-Loading Holster and Field Prep are incredible too, it just depends on the damage cycle. Explosive Light and Chain Reaction are both tried and true combinations." Recommended MW: Reload.|tags:mnk,controller,pve
+// Cataphract GL3 - PvE (mkb,controller,pve)
+//notes:pandapaxxy (PvE / M+KB / Controller): "It's interesting when a PvP weapon has strong utility in PvE. Cataphract GL3 is one such example. With Envious Assassin and Bait and Switch you can really get some incredible damage out. Even reloader perks like Auto-Loading Holster and Field Prep are incredible too, it just depends on the damage cycle. Explosive Light and Chain Reaction are both tried and true combinations." Recommended MW: Reload.|tags:mkb,controller,pve
 dimwishlist:item=2738601016&perks=3525010810,3301904089,968510818,3078487919
 dimwishlist:item=2738601016&perks=3525010810,3301904089,968510818,3194351027
 dimwishlist:item=2738601016&perks=3525010810,3301904089,968510818,2396489472
@@ -1637,8 +1637,8 @@ dimwishlist:item=2738601016&perks=1441682018,2822142346,3523296417,2396489472
 dimwishlist:item=2738601016&perks=1441682018,2822142346,3523296417,831391274
 
 
-// Cataphract GL3 - MnK PvP (mnk,pvp)
-//pandapaxxy (PvP / M+KB): "In PvP there isn't much to talk about. Grenade launchers are the best in slot, Proximity Grenades allow you some forgiveness and Impulse Amplifier gives you a pocket rocket. Your best option for multikills is with Chain Reaction." Recommended MW: Velocity.|tags:mnk,pvp
+// Cataphract GL3 - MnK PvP (mkb,pvp)
+//pandapaxxy (PvP / M+KB): "In PvP there isn't much to talk about. Grenade launchers are the best in slot, Proximity Grenades allow you some forgiveness and Impulse Amplifier gives you a pocket rocket. Your best option for multikills is with Chain Reaction." Recommended MW: Velocity.|tags:mkb,pvp
 dimwishlist:item=2738601016&perks=3525010810,409831596,951095735,2396489472
 dimwishlist:item=2738601016&perks=3525010810,409831596,951095735,831391274
 dimwishlist:item=2738601016&perks=3525010810,409831596,3523296417,2396489472
@@ -1665,8 +1665,8 @@ dimwishlist:item=2738601016&perks=1441682018,2822142346,3523296417,2396489472
 dimwishlist:item=2738601016&perks=1441682018,2822142346,3523296417,831391274
 
 
-// Malediction - PvE (mnk,controller,pve)
-//notes:pandapaxxy (PvE / M+KB / Controller): "I've heard some incredible things about Malediction. Mostly that it feels like a 140 but hits like a 120. Enlightened Action is the best perk for 120s, it bumps up two of the lower stats of the archetypes; handling and reload. Explosive payload also bumps up the damage ever so slightly. Harmony and Discord work really well together to constantly have a full magazine and a damage bump for 7 seconds. You won't be able to keep up the damage bump, but the synergy is there." Recommended MW: Stability.|tags:mnk,controller,pve
+// Malediction - PvE (mkb,controller,pve)
+//notes:pandapaxxy (PvE / M+KB / Controller): "I've heard some incredible things about Malediction. Mostly that it feels like a 140 but hits like a 120. Enlightened Action is the best perk for 120s, it bumps up two of the lower stats of the archetypes; handling and reload. Explosive payload also bumps up the damage ever so slightly. Harmony and Discord work really well together to constantly have a full magazine and a damage bump for 7 seconds. You won't be able to keep up the damage bump, but the synergy is there." Recommended MW: Stability.|tags:mkb,controller,pve
 dimwishlist:item=3337727085&perks=1840239774,3230963543,3978468247,438098033
 dimwishlist:item=3337727085&perks=1840239774,3230963543,3978468247,3038247973
 dimwishlist:item=3337727085&perks=1840239774,3230963543,3828510309,438098033
@@ -1678,8 +1678,8 @@ dimwishlist:item=3337727085&perks=1840239774,3230963543,3828510309,3038247973
 dimwishlist:item=3337727085&perks=1840239774,3230963543,3828510309,3038247973
 
 
-// Malediction - MnK PvP (mnk,pvp)
-//notes:pandapaxxy (PvP / M+KB): "In PvP the handling and gun feel continue here too. But you're only really going to use Explosive Payload and Enlightened Action. The stability bump from Flared Magwell, Fluted Barrel, and the stability MW make round out all the stats you need." Recommended MW: Stability.|tags:mnk,pvp
+// Malediction - MnK PvP (mkb,pvp)
+//notes:pandapaxxy (PvP / M+KB): "In PvP the handling and gun feel continue here too. But you're only really going to use Explosive Payload and Enlightened Action. The stability bump from Flared Magwell, Fluted Barrel, and the stability MW make round out all the stats you need." Recommended MW: Stability.|tags:mkb,pvp
 dimwishlist:item=3337727085&perks=1840239774,3230963543,3828510309,3038247973
 
 
