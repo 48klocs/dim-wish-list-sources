@@ -1,8 +1,8 @@
 title:pandapaxxy Season 22 Seasonal Breakdown
 description:https://www.reddit.com/r/sharditkeepit/comments/16b04lz/season_22_seasonal_breakdown/
 
-// Eleatic Principle - PvE (mnk,controller,pve)
-//notes:pandapaxxy (PvE / M+KB / Controller): "I am sure by now most players have a good rapid-fire machine gun in their arsenal. Whether that's Retrofit Escapade, Planck's Stride, Recurrent Impact, Shattered Cipher, or reaching all the way back even a Thermal Erosion. That being said, the only direct competition Eleatic Principle has is with Planck's Stride, which I think Eleatic Principle blows Planck's out of the water. Eleatic has access to Golden Tricorn which is the best damage perk in the game, or if you prefer not to use an arc subclass you could go with Target Lock for a slightly different Retrofit. You won't have access to a reload or mag extending perk but you can make the shots easier to land with Zen Moment, Well Rounded, or after some kills even Heating Up." Recommended MW: Stability.|tags:mnk,controller,pve
+// Eleatic Principle - PvE (mkb,controller,pve)
+//notes:pandapaxxy (PvE / M+KB / Controller): "I am sure by now most players have a good rapid-fire machine gun in their arsenal. Whether that's Retrofit Escapade, Planck's Stride, Recurrent Impact, Shattered Cipher, or reaching all the way back even a Thermal Erosion. That being said, the only direct competition Eleatic Principle has is with Planck's Stride, which I think Eleatic Principle blows Planck's out of the water. Eleatic has access to Golden Tricorn which is the best damage perk in the game, or if you prefer not to use an arc subclass you could go with Target Lock for a slightly different Retrofit. You won't have access to a reload or mag extending perk but you can make the shots easier to land with Zen Moment, Well Rounded, or after some kills even Heating Up." Recommended MW: Stability.|tags:mkb,controller,pve
 dimwishlist:item=105306149&perks=839105230,1087426260,2621346526,2610012052
 dimwishlist:item=105306149&perks=839105230,1087426260,2621346526,365154968
 dimwishlist:item=105306149&perks=839105230,1087426260,2621346526,11612903
@@ -81,8 +81,8 @@ dimwishlist:item=105306149&perks=1482024992,1885400500,1570042021,1890422124
 dimwishlist:item=105306149&perks=1482024992,1885400500,1570042021,365154968
 
 
-// Eleatic Principle - MnK PvP (pvp,mnk)
-//notes:pandapaxxy (PvP / M+KB): "Eleatic Principle will live and die by the PvE metascene, so there isn't much hope for it in PvP. Moving Target or Zen Moment paired with Tap the Trigger will allow you to stay on target a bit with the 900 RPM, and if you're a good shot you could take advantage of Target Lock for a slight edge." Recommended MW: Handling.|tags:pvp,mnk
+// Eleatic Principle - MnK PvP (pvp,mkb)
+//notes:pandapaxxy (PvP / M+KB): "Eleatic Principle will live and die by the PvE metascene, so there isn't much hope for it in PvP. Moving Target or Zen Moment paired with Tap the Trigger will allow you to stay on target a bit with the 900 RPM, and if you're a good shot you could take advantage of Target Lock for a slight edge." Recommended MW: Handling.|tags:pvp,mkb
 dimwishlist:item=105306149&perks=1840239774,1885400500,2387244414,365154968
 dimwishlist:item=105306149&perks=1840239774,1885400500,2387244414,1890422124
 dimwishlist:item=105306149&perks=1840239774,1885400500,588594999,365154968
@@ -121,8 +121,8 @@ dimwishlist:item=105306149&perks=839105230,1561002382,744594675,365154968
 dimwishlist:item=105306149&perks=839105230,1561002382,744594675,1890422124
 
 
-// Persuader - PvE (mnk,controller,pve)
-//notes:pandapaxxy (PvE / M+KB / Controller): "Did anyone want more Rapid-Fire Frame snipers? I hope so because Persuader is here and ready to take up some vault space. The best PvE option is actually a throwback repeat to one of my first "DPS" snipers. Does anyone remember the Long Shadow with Rapid Hit and Triple Tap being the best we could have in Forsaken until Black Armory introduced us to Firing Line. Persuader is the best option for the older perk combo, but is still outclassed by other snipers in the current Sandbox. Supremacy and Praedyth's Revenge are both incredible for damage, and any Firing Line sniper will compete with this one for decent damage." Recommended MW: Reload.|tags:mnk,controller,pve
+// Persuader - PvE (mkb,controller,pve)
+//notes:pandapaxxy (PvE / M+KB / Controller): "Did anyone want more Rapid-Fire Frame snipers? I hope so because Persuader is here and ready to take up some vault space. The best PvE option is actually a throwback repeat to one of my first "DPS" snipers. Does anyone remember the Long Shadow with Rapid Hit and Triple Tap being the best we could have in Forsaken until Black Armory introduced us to Firing Line. Persuader is the best option for the older perk combo, but is still outclassed by other snipers in the current Sandbox. Supremacy and Praedyth's Revenge are both incredible for damage, and any Firing Line sniper will compete with this one for decent damage." Recommended MW: Reload.|tags:mkb,controller,pve
 dimwishlist:item=781498181&perks=839105230,1087426260,247725512,3400784728
 dimwishlist:item=781498181&perks=839105230,1087426260,247725512,2048641572
 dimwishlist:item=781498181&perks=839105230,1087426260,776531651,3400784728
@@ -165,8 +165,8 @@ dimwishlist:item=781498181&perks=4090651448,3142289711,3619207468,47981717
 dimwishlist:item=781498181&perks=4090651448,3142289711,3619207468,588594999
 
 
-// Persuader - MnK PvP (mnk,pvp)
-//notes:pandapaxxy (PvP / M+KB): "Persuader also falls behind in the Crucible. It does have access to Surplus to reach 100 handling but you would either have to have all 3 stacks or 2 stacks with full investment into handling to maintain ability usage while keeping 100 handling. If you can maintain all your Surplus stacks and invest the rest of your stats into range you'll have 87 range and 100 handling and reload speed. Still incredible but then you remember it's a rapid-fire frame meaning you can't crit supers or double body." Recommended MW: Handling.| tags:mnk,pvp
+// Persuader - MnK PvP (mkb,pvp)
+//notes:pandapaxxy (PvP / M+KB): "Persuader also falls behind in the Crucible. It does have access to Surplus to reach 100 handling but you would either have to have all 3 stacks or 2 stacks with full investment into handling to maintain ability usage while keeping 100 handling. If you can maintain all your Surplus stacks and invest the rest of your stats into range you'll have 87 range and 100 handling and reload speed. Still incredible but then you remember it's a rapid-fire frame meaning you can't crit supers or double body." Recommended MW: Handling.| tags:mkb,pvp
 dimwishlist:item=781498181&perks=1840239774,3142289711,3436462433,47981717
 dimwishlist:item=781498181&perks=1840239774,3142289711,3436462433,588594999
 dimwishlist:item=781498181&perks=1840239774,3142289711,3619207468,47981717
@@ -181,8 +181,8 @@ dimwishlist:item=781498181&perks=4090651448,3142289711,3619207468,47981717
 dimwishlist:item=781498181&perks=4090651448,3142289711,3619207468,588594999
 
 
-// Deadpan Delivery - PvE (mnk,controller,pve)
-//notes:pandapaxxy (PvE / M+KB / Controller): "Deadpan Delivery is a great shotgun for most players looking for a "plug and play" shotgun. Being able to have Overflow and One-Two Punch for the highest damage show followed by the most One-Two Punch... punches. The only other synergy you could have asked for is Grave Robber for instant refresh on melee kills. However, on bigger bosses that might need a few more hits than your magazine allows this could slot in perfectly. Being Arc it also has some synergy with the Hunter class and can play into blinding / amplified builds. Discord is another interesting shout as you can run around with Frenzy for full uptime on damage and always having ammo to shoot with. Barrel Constrictor is an interesting perk for PvE as it makes sure all your pellets hit but it would be better paired with One-Two Punch instead of in the same column." Recommended MW: Reload.|tags:mnk,controller,pve
+// Deadpan Delivery - PvE (mkb,controller,pve)
+//notes:pandapaxxy (PvE / M+KB / Controller): "Deadpan Delivery is a great shotgun for most players looking for a "plug and play" shotgun. Being able to have Overflow and One-Two Punch for the highest damage show followed by the most One-Two Punch... punches. The only other synergy you could have asked for is Grave Robber for instant refresh on melee kills. However, on bigger bosses that might need a few more hits than your magazine allows this could slot in perfectly. Being Arc it also has some synergy with the Hunter class and can play into blinding / amplified builds. Discord is another interesting shout as you can run around with Frenzy for full uptime on damage and always having ammo to shoot with. Barrel Constrictor is an interesting perk for PvE as it makes sure all your pellets hit but it would be better paired with One-Two Punch instead of in the same column." Recommended MW: Reload.|tags:mkb,controller,pve
 dimwishlist:item=1296429091&perks=1300023272,1087426260,3643424744,2679249093
 dimwishlist:item=1296429091&perks=1300023272,1087426260,3643424744,4104185692
 dimwishlist:item=1296429091&perks=1300023272,1087426260,3643424744,1451849462
@@ -286,8 +286,8 @@ dimwishlist:item=1296429091&perks=1300023272,791862061,1821614984,1451849462
 dimwishlist:item=1296429091&perks=1300023272,791862061,1821614984,2450788523
 
 
-// Deadpan Delivery - MnK PvP (mnk,pvp)
-//notes:pandapaxxy (PvP / M+KB): "I'm not going to lie. I got excited by this shotgun for one mere fact. Slickdraw. I know it's not everyone's cup of tea, but it has been mine for the past season. I have been slowly collecting Slickdraw weapons and changing crafted weapons to utilize Slickdraw. Now I know Slickdraw reduces your auto-aim cone size; it just means you have to be a bit more accurate when aiming. You can achieve a similar effect of Slickdraw by going with Arc Elemental Capacitor, Barrel Shroud, a Handling MW, and Quick Access Sling for 96 handling. This gives you a ready speed of 0.20s and an aim down sights speed of 0.23s. However just having Slickdraw drops you to the same ready speed and drops a hundredth of a second off of aim down sights. This means you can invest every other stat point into range. Bungie knew what they were doing when bringing in this weapon as Deadpan Delivery has the second lowest range stat of all Aggressive Frame shotguns even losing to the Uncommon Ded Nemoris II." Recommended MW: Handling.| tags:mnk,pvp
+// Deadpan Delivery - MnK PvP (mkb,pvp)
+//notes:pandapaxxy (PvP / M+KB): "I'm not going to lie. I got excited by this shotgun for one mere fact. Slickdraw. I know it's not everyone's cup of tea, but it has been mine for the past season. I have been slowly collecting Slickdraw weapons and changing crafted weapons to utilize Slickdraw. Now I know Slickdraw reduces your auto-aim cone size; it just means you have to be a bit more accurate when aiming. You can achieve a similar effect of Slickdraw by going with Arc Elemental Capacitor, Barrel Shroud, a Handling MW, and Quick Access Sling for 96 handling. This gives you a ready speed of 0.20s and an aim down sights speed of 0.23s. However just having Slickdraw drops you to the same ready speed and drops a hundredth of a second off of aim down sights. This means you can invest every other stat point into range. Bungie knew what they were doing when bringing in this weapon as Deadpan Delivery has the second lowest range stat of all Aggressive Frame shotguns even losing to the Uncommon Ded Nemoris II." Recommended MW: Handling.| tags:mkb,pvp
 dimwishlist:item=1296429091&perks=1482024992,3142289711,3511092054,1451849462
 dimwishlist:item=1296429091&perks=1482024992,3142289711,3511092054,2450788523
 dimwishlist:item=1296429091&perks=1482024992,3142289711,1821614984,1451849462
@@ -306,8 +306,8 @@ dimwishlist:item=1296429091&perks=1300023272,791862061,1821614984,1451849462
 dimwishlist:item=1296429091&perks=1300023272,791862061,1821614984,2450788523
 
 
-// Kept Confidence - PvE (pve,mnk,controller)
-//notes:pandapaxxy (PvE / M+KB / Controller): "Kept Confidence is getting a lot of hype but is it worth it? We have some incredible powerhouses in the same slot. Fatebringer, Austringer, Eyasluna, Spare Rations, and to a lesser extent D.F.A. and Dire Promise. What does Kept Confidence bring to the table? Well, in PvE not a whole lot. If you're constantly cycling debuffs it could be interesting, but not all subclasses have equal access to debuffs. Void warlock and hunter could be the strongest uptime with child and the smoke bomb applying debuffs. Otherwise I think this perk is mostly useless. It then leaves us with a dilemma; what is the best PvE perk on Kept Confidence for PvE? Stats for All is probably going to be your best bet. It leaves a lot to be desired, but is the best we can do. Pairing this with Collective Action or Multikill Clip are going to be your best bets. There aren't a lot of good combinations for PvE with this hand cannon." Recommended MW: Reload.|tags:pve,mnk,controller
+// Kept Confidence - PvE (pve,mkb,controller)
+//notes:pandapaxxy (PvE / M+KB / Controller): "Kept Confidence is getting a lot of hype but is it worth it? We have some incredible powerhouses in the same slot. Fatebringer, Austringer, Eyasluna, Spare Rations, and to a lesser extent D.F.A. and Dire Promise. What does Kept Confidence bring to the table? Well, in PvE not a whole lot. If you're constantly cycling debuffs it could be interesting, but not all subclasses have equal access to debuffs. Void warlock and hunter could be the strongest uptime with child and the smoke bomb applying debuffs. Otherwise I think this perk is mostly useless. It then leaves us with a dilemma; what is the best PvE perk on Kept Confidence for PvE? Stats for All is probably going to be your best bet. It leaves a lot to be desired, but is the best we can do. Pairing this with Collective Action or Multikill Clip are going to be your best bets. There aren't a lot of good combinations for PvE with this hand cannon." Recommended MW: Reload.|tags:pve,mkb,controller
 dimwishlist:item=1875512595&perks=1840239774,106909392,1583705720,3324494224
 dimwishlist:item=1875512595&perks=1840239774,106909392,1583705720,2458213969
 dimwishlist:item=1875512595&perks=1840239774,106909392,1119449540,3324494224
@@ -356,16 +356,16 @@ dimwishlist:item=1875512595&perks=3250034553,3142289711,2450788523,699525795
 dimwishlist:item=1875512595&perks=3250034553,3142289711,706527188,699525795
 
 
-// Kept Confidence - MnK PvP (mnk,pvp)
-//notes:pandapaxxy (PvP / M+KB): "PvP is another story. There's really only one or two ways this hand cannon can work. You can either opt for a "win more" perk like Killing Wind or a more neutral perk like Quickdraw depending on how you play. Neither are exceptionally better than the other, but the main pairing for both is Eye of the Storm. Kept Confidence could have been released as a static weapon like Epochal Integration and people would still use the same perks. Your barrel and masterwork choice is really up to preference if you want more stability, handling, or range." Recommended MW: Range or Stability. tags:mnk,pvp
+// Kept Confidence - MnK PvP (mkb,pvp)
+//notes:pandapaxxy (PvP / M+KB): "PvP is another story. There's really only one or two ways this hand cannon can work. You can either opt for a "win more" perk like Killing Wind or a more neutral perk like Quickdraw depending on how you play. Neither are exceptionally better than the other, but the main pairing for both is Eye of the Storm. Kept Confidence could have been released as a static weapon like Epochal Integration and people would still use the same perks. Your barrel and masterwork choice is really up to preference if you want more stability, handling, or range." Recommended MW: Range or Stability. tags:mkb,pvp
 dimwishlist:item=1875512595&perks=3250034553,3142289711,2450788523,699525795
 dimwishlist:item=1875512595&perks=3250034553,3142289711,706527188,699525795
 dimwishlist:item=1875512595&perks=1482024992,3142289711,2450788523,699525795
 dimwishlist:item=1875512595&perks=1482024992,3142289711,706527188,699525795
 
 
-// Nightshade - PvE (mnk,controller,pve)
-//notes:pandapaxxy (PvE / M+KB / Controller): "Nightshade returns in its third, and hopefully, final glory. With a recoil direction of 56 you almost need Arrowhead Brake in order to fire at full RPM. In PvE I would highly recommend Flared Magwell or Light Mag depending on if you want range or stability. The added reload will feel incredible. You can then stack on Outlaw or Enlightened Action for better reload on top of that, or even Keep Away to bump out your range and handling. I find that in certain activities it is hard to keep enemies away all the time so you'll be constantly fighting whether the perk is up or not. Finally to round out the reload / damage perks you can use the easiest damage Nightshade has to offer, Collective Action. I find Kill Clip to be better as it's an ever so slightly higher damage bump. But depending on your build if you can create those elemental pickups it would be easier on Collective Action. Hatchling could work really well on Strand now that they received a slight buff." Recommended MW: Stability.|tags:mnk,controller,pve
+// Nightshade - PvE (mkb,controller,pve)
+//notes:pandapaxxy (PvE / M+KB / Controller): "Nightshade returns in its third, and hopefully, final glory. With a recoil direction of 56 you almost need Arrowhead Brake in order to fire at full RPM. In PvE I would highly recommend Flared Magwell or Light Mag depending on if you want range or stability. The added reload will feel incredible. You can then stack on Outlaw or Enlightened Action for better reload on top of that, or even Keep Away to bump out your range and handling. I find that in certain activities it is hard to keep enemies away all the time so you'll be constantly fighting whether the perk is up or not. Finally to round out the reload / damage perks you can use the easiest damage Nightshade has to offer, Collective Action. I find Kill Clip to be better as it's an ever so slightly higher damage bump. But depending on your build if you can create those elemental pickups it would be easier on Collective Action. Hatchling could work really well on Strand now that they received a slight buff." Recommended MW: Stability.|tags:mkb,controller,pve
 dimwishlist:item=1974641289&perks=839105230,3230963543,1168162263,1015611457
 dimwishlist:item=1974641289&perks=839105230,3230963543,1168162263,3324494224
 dimwishlist:item=1974641289&perks=839105230,3230963543,1168162263,831391274
@@ -489,8 +489,8 @@ dimwishlist:item=1974641289&perks=1482024992,1561002382,3828510309,588594999
 dimwishlist:item=1974641289&perks=1482024992,1561002382,3828510309,1015611457
 
 
-// Nightshade - MnK PvP (mnk,pvp)
-//notes:pandapaxxy (PvP / M+KB): "Nightshade in PvP has had an interesting run. From being a viable option in Vanilla, to being passed over with random rolls, to being an off meta choice in its revival, to being outclassed, and finally returning again. What a ride. Arrowhead Brake is again my choice in barrels, but if you can control the recoil direction you can certainly opt for other options. Ricochet Rounds is the best in slot whenever it is available so please choose that. High-Caliber Rounds can work but I find neutrally the bump in stability outweighs possibly flinching off my opponent. In the third column it is all about Keep Away. Being able to get a range bump for free is incredible. I prefer Kill Clip for an easier time 1v2'ing as I am usually in a bad situation, but Headseeker is better neutrally for any 1vX situation as it's always on. With my roll choices you can have 100 recoil direction with a counterbalance mod and 32m of in game range. Plenty to take advantage of the bonuses of Keep Away." Recommended MW: Range.|tags:mnk,pvp
+// Nightshade - MnK PvP (mkb,pvp)
+//notes:pandapaxxy (PvP / M+KB): "Nightshade in PvP has had an interesting run. From being a viable option in Vanilla, to being passed over with random rolls, to being an off meta choice in its revival, to being outclassed, and finally returning again. What a ride. Arrowhead Brake is again my choice in barrels, but if you can control the recoil direction you can certainly opt for other options. Ricochet Rounds is the best in slot whenever it is available so please choose that. High-Caliber Rounds can work but I find neutrally the bump in stability outweighs possibly flinching off my opponent. In the third column it is all about Keep Away. Being able to get a range bump for free is incredible. I prefer Kill Clip for an easier time 1v2'ing as I am usually in a bad situation, but Headseeker is better neutrally for any 1vX situation as it's always on. With my roll choices you can have 100 recoil direction with a counterbalance mod and 32m of in game range. Plenty to take advantage of the bonuses of Keep Away." Recommended MW: Range.|tags:mkb,pvp
 dimwishlist:item=1974641289&perks=839105230,1885400500,3619207468,460017080
 dimwishlist:item=1974641289&perks=839105230,1885400500,3619207468,1015611457
 dimwishlist:item=1974641289&perks=839105230,1885400500,3619207468,588594999
@@ -574,8 +574,8 @@ dimwishlist:item=1974641289&perks=1482024992,3230963543,3828510309,1015611457
 dimwishlist:item=1974641289&perks=1482024992,3230963543,3828510309,588594999
 
 
-// The Showrunner - PvE (mnk,controller,pve)
-//notes:pandapaxxy (PvE / M+KB / Controller): "The Showrunner returns to us in an interesting time. I know I will be using it but that's because it can roll with an ever so elusive combination of Grave Robber and Swashbuckler. The Showrunner being the second lightweight frame with this combo and the first in the Kinetic Slot. For me this works well with all my titan builds and my titan brain. However, if you're not on a punch subclass or the master class then opting for something like Overflow and Kinetic Tremors will be a great combo. Overflow allows you to get 72 bullets per magazine, allowing for a whopping 7 Kinetic Tremor activations; and that's just at base. The only other weapon to get this combination is Buzzard but the lower magazine on Buzzard really holds it back, only getting 3 per overflow. This doesn't mean you can't get more than that by constantly walking over bricks to refill the magazine, but let's be honest I haven't done that subconsciously and I love Overflow." Recommended MW: Reload.|tags:mnk,controller,pve
+// The Showrunner - PvE (mkb,controller,pve)
+//notes:pandapaxxy (PvE / M+KB / Controller): "The Showrunner returns to us in an interesting time. I know I will be using it but that's because it can roll with an ever so elusive combination of Grave Robber and Swashbuckler. The Showrunner being the second lightweight frame with this combo and the first in the Kinetic Slot. For me this works well with all my titan builds and my titan brain. However, if you're not on a punch subclass or the master class then opting for something like Overflow and Kinetic Tremors will be a great combo. Overflow allows you to get 72 bullets per magazine, allowing for a whopping 7 Kinetic Tremor activations; and that's just at base. The only other weapon to get this combination is Buzzard but the lower magazine on Buzzard really holds it back, only getting 3 per overflow. This doesn't mean you can't get more than that by constantly walking over bricks to refill the magazine, but let's be honest I haven't done that subconsciously and I love Overflow." Recommended MW: Reload.|tags:mkb,controller,pve
 dimwishlist:item=1999754402&perks=1482024992,3230963543,3643424744,3891536761
 dimwishlist:item=1999754402&perks=1482024992,3230963543,3643424744,365154968
 dimwishlist:item=1999754402&perks=1482024992,3230963543,3643424744,4082225868
@@ -717,8 +717,8 @@ dimwishlist:item=1999754402&perks=3250034553,1561002382,2846385770,2451262963
 dimwishlist:item=1999754402&perks=3250034553,1561002382,2846385770,4082225868
 
 
-// The Showrunner - MnK PvP (mnk,pvp)
-//notes:pandapaxxy (PvP / M+KB): "In PvP The Showrunner is going to be the least used SMG this season right behind Unending Tempest. Go see why I think that SMG is better in the Vendor breakdown. The Showrunner has some great perks in Target Lock and Dynamic Sway Reduction, Rangefinder if you're really looking for consistency at range, or more neutral perks like Well Rounded or Heating Up. However, the issue is really the frame we were given. Lightweight SMGs are not "in the spotlight." While I think this SMG can serve you well as a kinetic Funnelweb the perks to note aren't as strong. You can almost hit 100 range with Full Bore, Ricochet, Well Rounded 2x, and Fragile Focus, but that sacrifices Target Lock and Dynamic Sway Reduction for only 23m of range." Recommended MW: Range.|tags:mnk,pvp
+// The Showrunner - MnK PvP (mkb,pvp)
+//notes:pandapaxxy (PvP / M+KB): "In PvP The Showrunner is going to be the least used SMG this season right behind Unending Tempest. Go see why I think that SMG is better in the Vendor breakdown. The Showrunner has some great perks in Target Lock and Dynamic Sway Reduction, Rangefinder if you're really looking for consistency at range, or more neutral perks like Well Rounded or Heating Up. However, the issue is really the frame we were given. Lightweight SMGs are not "in the spotlight." While I think this SMG can serve you well as a kinetic Funnelweb the perks to note aren't as strong. You can almost hit 100 range with Full Bore, Ricochet, Well Rounded 2x, and Fragile Focus, but that sacrifices Target Lock and Dynamic Sway Reduction for only 23m of range." Recommended MW: Range.|tags:mkb,pvp
 dimwishlist:item=1999754402&perks=1840239774,1885400500,1359896290,365154968
 dimwishlist:item=1999754402&perks=1840239774,1885400500,1359896290,2451262963
 dimwishlist:item=1999754402&perks=1840239774,1885400500,1359896290,4082225868
@@ -802,8 +802,8 @@ dimwishlist:item=1999754402&perks=1467527085,679225683,2846385770,2451262963
 dimwishlist:item=1999754402&perks=1467527085,679225683,2846385770,4082225868
 
 
-// Brya's Love - PvE (pve,mnk,controller)
-//notes:pandapaxxy (PvE / M+KB / Controller): "Brya's Love is probably the only weapon I will really grind out, and this is only for PvE. Brya's Love has some incredible perk combinations I would love to try out. Destabilizing Rounds on void has some incredible utility. Precision Instrument will probably take the cake as the next Vorpal Weapon being able to scale up damage with ease. Pair that with Rapid Hit to really get the most for your precision hits. Another great perk to craft would be Shoot to Loot to get your ammo and orbs from a distance. Not being required to chase after orbs is a pretty big benefit." Recommended MW: Handling or Reload.|tags:pve,mnk,controller
+// Brya's Love - PvE (pve,mkb,controller)
+//notes:pandapaxxy (PvE / M+KB / Controller): "Brya's Love is probably the only weapon I will really grind out, and this is only for PvE. Brya's Love has some incredible perk combinations I would love to try out. Destabilizing Rounds on void has some incredible utility. Precision Instrument will probably take the cake as the next Vorpal Weapon being able to scale up damage with ease. Pair that with Rapid Hit to really get the most for your precision hits. Another great perk to craft would be Shoot to Loot to get your ammo and orbs from a distance. Not being required to chase after orbs is a pretty big benefit." Recommended MW: Handling or Reload.|tags:pve,mkb,controller
 dimwishlist:item=2779821308&perks=839105230,106909392,247725512,555281244
 dimwishlist:item=2779821308&perks=839105230,106909392,247725512,3038247973
 dimwishlist:item=2779821308&perks=839105230,106909392,247725512,4104185692
@@ -945,8 +945,8 @@ dimwishlist:item=2779821308&perks=4090651448,106909392,1428297954,555281244
 dimwishlist:item=2779821308&perks=4090651448,106909392,1428297954,3038247973
 
 
-// Brya's Love - MnK PvP (mnk,pvp)
-//notes:pandapaxxy (PvP / M+KB): "In PvP Brya's could see some niche usage like a Box Breathing Hung Jury. I don't think it will be enough to break the meta but it will be a unique pick on longer ranged maps. I don't find myself swapping weapons depending on the map, but it would be a safe pick on Widow's Court or Eternity." Recommended MW: Handling.|tags:mnk,pvp
+// Brya's Love - MnK PvP (mkb,pvp)
+//notes:pandapaxxy (PvP / M+KB): "In PvP Brya's could see some niche usage like a Box Breathing Hung Jury. I don't think it will be enough to break the meta but it will be a unique pick on longer ranged maps. I don't find myself swapping weapons depending on the map, but it would be a safe pick on Widow's Court or Eternity." Recommended MW: Handling.|tags:mkb,pvp
 dimwishlist:item=2779821308&perks=1840239774,3177308360,247725512,555281244
 dimwishlist:item=2779821308&perks=1840239774,3177308360,247725512,3038247973
 dimwishlist:item=2779821308&perks=1840239774,3177308360,3619207468,555281244
@@ -985,8 +985,8 @@ dimwishlist:item=2779821308&perks=4090651448,106909392,3619207468,555281244
 dimwishlist:item=2779821308&perks=4090651448,106909392,3619207468,3038247973
 
 
-// Semiotician - PvE (pve,controller,mnk)
-//notes:pandapaxxy (PvE / M+KB / Controller): "While this rocket is better than Crowning Duologue, it's because the bar was so low Semiotician almost tripped walking in this season. Semiotician has way too many vowels to be considered healthy, but has a decent enough perk tool to keep it around. Enhanced Field Prep and Enhanced Explosive Light are going to be tried and true. Thanks to one of my Patrons, we discovered with one reserve mod and enhanced Bipod you can have 15 rockets in reserves. The last possible perk combination is Impulse Amplifier with Frenzy as once Frenzy gets going you won't need the reload, so the added velocity is appreciated here." Recommended MW: Velocity.|tags:pve,controller,mnk
+// Semiotician - PvE (pve,controller,mkb)
+//notes:pandapaxxy (PvE / M+KB / Controller): "While this rocket is better than Crowning Duologue, it's because the bar was so low Semiotician almost tripped walking in this season. Semiotician has way too many vowels to be considered healthy, but has a decent enough perk tool to keep it around. Enhanced Field Prep and Enhanced Explosive Light are going to be tried and true. Thanks to one of my Patrons, we discovered with one reserve mod and enhanced Bipod you can have 15 rockets in reserves. The last possible perk combination is Impulse Amplifier with Frenzy as once Frenzy gets going you won't need the reload, so the added velocity is appreciated here." Recommended MW: Velocity.|tags:pve,controller,mkb
 dimwishlist:item=2922749929&perks=3525010810,3796465595,2869569095,3194351027
 dimwishlist:item=2922749929&perks=3525010810,3796465595,2869569095,4104185692
 dimwishlist:item=2922749929&perks=3525010810,3796465595,951095735,3194351027
@@ -1017,8 +1017,8 @@ dimwishlist:item=2922749929&perks=1441682018,3796465595,951095735,3194351027
 dimwishlist:item=2922749929&perks=1441682018,3796465595,3592538738,3194351027
 
 
-// Semiotician - MnK PvP (mnk,pvp)
-//notes:pandapaxxy (PvP / M+KB): "High-Impact Frames are generally regarded as the best rocket archetype to use. Great blast radius for splash damage. Semiotician doesn't have any incredible AoE perks like Chain Reaction or Cluster Bomb for multikills but it does have Explosive Light to max out the blast radius, it's easy enough to get orbs, and you'll be able to nuke supers with Explosive Light." Recommended MW: Handling.|tags:mnk,pvp
+// Semiotician - MnK PvP (mkb,pvp)
+//notes:pandapaxxy (PvP / M+KB): "High-Impact Frames are generally regarded as the best rocket archetype to use. Great blast radius for splash damage. Semiotician doesn't have any incredible AoE perks like Chain Reaction or Cluster Bomb for multikills but it does have Explosive Light to max out the blast radius, it's easy enough to get orbs, and you'll be able to nuke supers with Explosive Light." Recommended MW: Handling.|tags:mkb,pvp
 dimwishlist:item=2922749929&perks=3525010810,2822142346,951095735,3194351027
 dimwishlist:item=2922749929&perks=3525010810,2822142346,3592538738,3194351027
 dimwishlist:item=2922749929&perks=3525010810,3796465595,951095735,3194351027
@@ -1033,8 +1033,8 @@ dimwishlist:item=2922749929&perks=1441682018,3796465595,951095735,3194351027
 dimwishlist:item=2922749929&perks=1441682018,3796465595,3592538738,3194351027
 
 
-// The Eremite - PvE (mnk,controller,pve)
-//notes:pandapaxxy (PvE / M+KB / Controller): "The Eremite is an interesting fusion. If you didn't farm out an Envious Assassin / Controlled Burst Loaded Question from last season you can get a solar version this season. You can even craft it to your liking. If you prefer Golden Tricorn for a higher damage ceiling or Reservoir Burst for clearing out rooms of enemies. The possibilities are truly yours to harness. Lead from Gold and Heal Clip can be really nice additions too depending on your full loadout." Recommended MW: Charge Time.|tags:mnk,controller,pve
+// The Eremite - PvE (mkb,controller,pve)
+//notes:pandapaxxy (PvE / M+KB / Controller): "The Eremite is an interesting fusion. If you didn't farm out an Envious Assassin / Controlled Burst Loaded Question from last season you can get a solar version this season. You can even craft it to your liking. If you prefer Golden Tricorn for a higher damage ceiling or Reservoir Burst for clearing out rooms of enemies. The possibilities are truly yours to harness. Lead from Gold and Heal Clip can be really nice additions too depending on your full loadout." Recommended MW: Charge Time.|tags:mkb,controller,pve
 dimwishlist:item=3347946548&perks=839105230,689005463,968510818,2594592626
 dimwishlist:item=3347946548&perks=839105230,689005463,968510818,2610012052
 dimwishlist:item=3347946548&perks=839105230,689005463,968510818,1427256713
@@ -1146,8 +1146,8 @@ dimwishlist:item=3347946548&perks=1467527085,689005463,2416023159,3511092054
 dimwishlist:item=3347946548&perks=1467527085,689005463,2416023159,691659142
 
 
-// The Eremite - MnK PvP (mnk,pvp)
-//notes:pandapaxxy (PvP / M+KB): "I'm sure most people have seen u/Legoleflash's new video on the Eremite (if you haven't, go watch it https://youtu.be/csuxec3lFcs). Essentially the main point is enhanced Slickdraw doesn't feel terrible and allows you to full send into range. With Slickdraw maxing out your handling you can even opt for handling reducing perks like Full Bore, or, better yet, Extended Barrel for a bump in recoil direction. If you don't like Slickdraw there you could opt for Offhand Strike and find a good balance of range and stability." Recommended MW: Range or Charge Time.|tags:mnk,pvp
+// The Eremite - MnK PvP (mkb,pvp)
+//notes:pandapaxxy (PvP / M+KB): "I'm sure most people have seen u/Legoleflash's new video on the Eremite (if you haven't, go watch it https://youtu.be/csuxec3lFcs). Essentially the main point is enhanced Slickdraw doesn't feel terrible and allows you to full send into range. With Slickdraw maxing out your handling you can even opt for handling reducing perks like Full Bore, or, better yet, Extended Barrel for a bump in recoil direction. If you don't like Slickdraw there you could opt for Offhand Strike and find a good balance of range and stability." Recommended MW: Range or Charge Time.|tags:mkb,pvp
 dimwishlist:item=3347946548&perks=3250034553,2969185026,1821614984,3511092054
 dimwishlist:item=3347946548&perks=3250034553,2969185026,1821614984,691659142
 dimwishlist:item=3347946548&perks=3250034553,2969185026,2416023159,3511092054
@@ -1174,8 +1174,8 @@ dimwishlist:item=3347946548&perks=1467527085,689005463,2416023159,3511092054
 dimwishlist:item=3347946548&perks=1467527085,689005463,2416023159,691659142
 
 
-// Locus Locutus - PvE (pve,controller,mnk)
-//notes:pandapaxxy (PvE / M+KB / Controller): "Locus Locutus is a very fun name, but does the weapon hold up as well as its vocalization? To save you some reading, not really. You can get some great usage in PvE with Overflow and Firing Line for some great damage but we already have a better version in Thoughtless. Thoughtless beats out every stat of Locus Locutus except for the airborne effectiveness stat. Locus Locutus has +2 at 4. So the only stat Locus Locutus beats Thoughtless in is a waste stat. Both can roll Overflow and Firing Line. Both can also get Headstone. Kill Clip is unique to Locus Locutus but you have to ask yourself if Kill Clip is worth it in PvE." Recommended MW: Reload.|tags:pve,controller,mnk
+// Locus Locutus - PvE (pve,controller,mkb)
+//notes:pandapaxxy (PvE / M+KB / Controller): "Locus Locutus is a very fun name, but does the weapon hold up as well as its vocalization? To save you some reading, not really. You can get some great usage in PvE with Overflow and Firing Line for some great damage but we already have a better version in Thoughtless. Thoughtless beats out every stat of Locus Locutus except for the airborne effectiveness stat. Locus Locutus has +2 at 4. So the only stat Locus Locutus beats Thoughtless in is a waste stat. Both can roll Overflow and Firing Line. Both can also get Headstone. Kill Clip is unique to Locus Locutus but you have to ask yourself if Kill Clip is worth it in PvE." Recommended MW: Reload.|tags:pve,controller,mkb
 dimwishlist:item=4132072834&perks=839105230,1087426260,3643424744,1771339417
 dimwishlist:item=4132072834&perks=839105230,1087426260,3643424744,124408337
 dimwishlist:item=4132072834&perks=839105230,1087426260,3643424744,1015611457
@@ -1254,8 +1254,8 @@ dimwishlist:item=4132072834&perks=4090651448,106909392,3619207468,47981717
 dimwishlist:item=4132072834&perks=4090651448,106909392,3619207468,124408337
 
 
-// Locus Locutus - MnK PvP (mnk,pvp)
-//notes:pandapaxxy (PvP / M+KB): "In PvP Thoughtless is hands down better. Thoughtless can roll Snapshot or Headstone. Perpetual Motion for a better handling bonus. The only reason you want to use Locus Locutus over Thoughtless is due to Opening Shot being stacked on Keep Away. This way you can stack fully into handling as enhanced Opening Shot and Keep Away with Accurized Rounds puts you at a flat 100 range. While not the most optimal in most Guardian's eyes, it will still be a solid weapon to use." Recommended MW: Handling.|tags:mnk,pvp
+// Locus Locutus - MnK PvP (mkb,pvp)
+//notes:pandapaxxy (PvP / M+KB): "In PvP Thoughtless is hands down better. Thoughtless can roll Snapshot or Headstone. Perpetual Motion for a better handling bonus. The only reason you want to use Locus Locutus over Thoughtless is due to Opening Shot being stacked on Keep Away. This way you can stack fully into handling as enhanced Opening Shot and Keep Away with Accurized Rounds puts you at a flat 100 range. While not the most optimal in most Guardian's eyes, it will still be a solid weapon to use." Recommended MW: Handling.|tags:mkb,pvp
 dimwishlist:item=4132072834&perks=1840239774,3142289711,3436462433,47981717
 dimwishlist:item=4132072834&perks=1840239774,3142289711,3436462433,124408337
 dimwishlist:item=4132072834&perks=1840239774,3142289711,3643424744,47981717
