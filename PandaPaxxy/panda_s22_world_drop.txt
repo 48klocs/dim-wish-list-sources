@@ -204,7 +204,7 @@ dimwishlist:item=2767393525&perks=1482024992,1483536627,1556840489,831391274
 
 
 // Nox Perennial V - Controller PvP (controller,pvp)
-//pandapaxxy (PvP / Controller): "In PvP there’s a similar but not quite the same story. Under Pressure with Kickstart is going to be the main play, but Elemental Capacitor is also great for boosting some lower stats. I wouldn’t take this fusion into PvP unless you know you like High-Impacts but it could serve you well, again, in loadout flexibility." Recommended MW: Range.|tags:controller,pvp
+//notes:pandapaxxy (PvP / Controller): "In PvP there’s a similar but not quite the same story. Under Pressure with Kickstart is going to be the main play, but Elemental Capacitor is also great for boosting some lower stats. I wouldn’t take this fusion into PvP unless you know you like High-Impacts but it could serve you well, again, in loadout flexibility." Recommended MW: Range.|tags:controller,pvp
 dimwishlist:item=2767393525&perks=839105230,2969185026,2451262963,3511092054
 dimwishlist:item=2767393525&perks=839105230,2969185026,2451262963,1754714824
 dimwishlist:item=2767393525&perks=839105230,2969185026,1645158859,3511092054
