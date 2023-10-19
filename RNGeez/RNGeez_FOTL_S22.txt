@@ -1,0 +1,133 @@
+title: RNGeez Festival of the Lost Breakdown, Season 22
+description: FotL S22 picks from u/SirStallion_, u/PandaPaxxy, and u/Clegmir
+
+// Horror Story
+//notes:pandapaxxy (PvE / M+KB / Controller): "So Horror Story is stasis now. Kinda cool, but not the biggest draw. The combo I'm looking for is Enlightened Action and Target Lock. The two of them together give you bonus handling, reload, and damage. As long as you're connecting shots you'll get the benefits of both!" Recommended MW: Stability.|tags:pve,mkb,controller
+dimwishlist:item=177568179&perks=839105230,106909392,3828510309,365154968
+
+
+// Horror Story
+//notes:pandapaxxy (PvP / M+KB / Controller): "In PvP you could swap out Enlightened Action for Dynamic Sway Reduction or maybe even Demolitionist. But I'd say that the handling bonus will feel really nice. A base of 37 handling isn't ideal, so the slight bonus from Arrowhead Brake coupled with Enlightened Action will make this auto rifle feel more like an SMG." Recommended MW: Range.|tags:pvp,mkb,controller
+dimwishlist:item=177568179&perks=839105230,3142289711,3828510309,365154968
+
+
+// Horror Story
+//notes:SirStallion_ (PvE / M+KB / Controller): "This gun will be special. Not meta shifting or game breaking, but special. For me, there's an undeniable good feel when it comes to 450s, I love using them but finding a way to best make use of them typically comes down to how I can nuke the most trash mobs in the fastest time. In the past, that's been the likes of Incandescent, but this has the potential to help with chunkier mobs you wouldn't usually want to use a primary against. Kill a thrall, freeze everything around it, explode the world. Demolitionist will feed your grenades, and that means even more freezing when on stasis, but don't for a moment think that means it can only be used on that subclass. Other weapons with this combo have existed, and they're multiclass. A self contained stasis machine. I will be hunting for this, for sure." Recommended MW: Reload.|tags:pve,mkb,controller
+dimwishlist:item=177568179&perks=839105230,3230963543,3523296417,124408337
+
+
+// Horror Story
+//notes:SirStallion_ (PvP / M+KB / Controller): "As a primarily controller player, I believe 450s are some of the easiest guns to control. Stability is not as necessary, but preference is a thing and you should absolutely commit to whichever stat you feel is best. But the trait combo remains the same for my ideal. I will never just be using one gun, chances are if I get special ammo I'm going to be trying to use that special ammo and discord benefits me when I inevitably succeed. OR.. more likely.. When I use my 450/450 combo and bust out a Harmony suros sidearm, this gun will support a flip flop swip swap playstyle that I enjoy very very much." Recommended MW: Range.|tags:pvp,mkb,controller
+dimwishlist:item=177568179&perks=839105230,3142289711,3978468247,365154968
+
+
+// Horror Story
+//notes:Clegmir (PvE / M+KB / Controller): "As a precision frame AR, you have a built-in horizontal recoil reduction so you are given the freedom to lean more into other attributes with your barrel and mod. For PvE, this is one of the few guns that can get both Demolitionist and Headstone to quickly regenerate grenade energy (the others being Unending Tempest from the Crucible, and Fire and Forget from Season of the Seraph)." Recommended MW: Reload.|tags:pve,mkb,controller
+dimwishlist:item=177568179&perks=1840239774,106909392,3523296417,124408337
+
+
+// Horror Story
+//notes:Clegmir (PvP / M+KB): "For PvP, adding just a bit more range to make sure you get the most out of your aim assist is where it’s at. Having a third column option for Elemental Capacitor is handy as that perk can have a substantial impact on the feel of the gun, especially if you don’t get something like Frenzy to max your Handling and Reload. Though there are a lot of damage perks in the fourth column, Stasis has an easy time creating shards so leaning into Collective Action is the play, I think." Recommended MW: Range.|tags:pvp,mkb
+dimwishlist:item=177568179&perks=1840239774,3142289711,3511092054,365154968
+
+
+// Horror Story
+//notes:Clegmir (PvP / Controller): "For PvP, adding just a bit more range to make sure you get the most out of your aim assist is where it’s at. Having a third column option for Elemental Capacitor is handy as that perk can have a substantial impact on the feel of the gun, especially if you don’t get something like Frenzy to max your Handling and Reload. Though there are a lot of damage perks in the fourth column, Stasis has an easy time creating shards so leaning into Collective Action is the play, I think." Recommended MW: Range.|tags:pvp,controller
+dimwishlist:item=177568179&perks=1840239774,3142289711,1359896290,3324494224
+
+
+// Jurassic Green
+//notes:pandapaxxy (PvE / M+KB / Controller): "It can roll Incandescent and Subsistence, but I think it shines with Golden Tricorn. You can make use of Heal Clip if you want a bit more healing but on solar hunter? This is going to be the bomb dot com." Recommended MW: Stability.|tags:pve,mkb,controller
+dimwishlist:item=3103255595&perks=839105230,3230963543,3619207468,2610012052
+
+
+// Jurassic Green
+//notes:pandapaxxy (PvP / M+KB): "Both rolls for PvP are very similar except for two differences in stat investments. On controller you'll want a bit more stability, on MnK you can invest those stat points into range. Headseeker and Keep Away are the key points, but definitely keep an eye out for Arrowhead Brake to correct that recoil direction." Recommended MW: Range.|tags:pvp,mkb
+dimwishlist:item=3103255595&perks=839105230,3142289711,3619207468,460017080
+
+
+// Jurassic Green
+//notes:pandapaxxy (PvP / Controller): "Both rolls for PvP are very similar except for two differences in stat investments. On controller you'll want a bit more stability, on MnK you can invest those stat points into range. Headseeker and Keep Away are the key points, but definitely keep an eye out for Arrowhead Brake to correct that recoil direction." Recommended MW: Stability.|tags:pvp,controller
+dimwishlist:item=3103255595&perks=839105230,3230963543,3619207468,2610012052
+
+
+// Jurassic Green
+//notes:SirStallion_ (PvE / M+KB / Controller): "[...] I'm looking for something a little more niche. Perp Motion gives stats when on the move (which this gun desperately needs) and Collective Action gives me a reason to be on the move with its enticing damage boost (that the gun also needs in PvE). Technically this job could be done by frenzy also, but if I build in such a way that both my subclass and guns benefit from pickups, it's a win win." Recommended MW: Handling.|tags:pve,mkb,controller
+dimwishlist:item=3103255595&perks=839105230,3230963543,1428297954,3324494224
+
+
+// Jurassic Green
+//notes:SirStallion_ (PvP / M+KB / Controller): "[...] I'm looking for something a little more niche. Perp Motion gives stats when on the move (which this gun desperately needs) and Collective Action gives me a reason to be on the move with its enticing damage boost (that the gun also needs in PvE). Technically this job could be done by frenzy also, but if I build in such a way that both my subclass and guns benefit from pickups, it's a win win." Recommended MW: Handling (M+KB) or Stability (Controller).|tags:pvp,mkb,controller
+dimwishlist:item=3103255595&perks=839105230,3230963543,2450788523,3324494224
+
+
+// Jurassic Green
+//notes:Clegmir (PvE / M+KB / Controller): "The combination of Subsistence and Incandescent came out last Festival, and I am glad that it is sticking around for this one as I wasn’t lucky enough to get one last go-around. Pairing Heal Clip and Frenzy is a handy pairing since the 100 Reload bonus will stack with the scalar from the frame when reloading from empty (bringing you down to a 1.03 second reload) Golden Tricorn and Collective Action are both incredibly straightforward to use with Solar 3.0, as well, offering noticeable damage boosts." Recommended MW: Stability.|tags:pve,mkb,controller
+dimwishlist:item=3103255595&perks=839105230,106909392,1820235745,4293542123
+
+
+// Jurassic Green
+//notes:Clegmir (PvP / M+KB / Controller): "On the PvP side, with the changes to Rangefinder and damage falloff, Killing Wind and Keep Away will be your stars, I think. The former is a “next kill” perk while the latter is to help you secure that first kill. There are a lot of viable rolls for this gun, so if you get one, try it out! I’ll be looking for Killing Wind/Encore and Keep Away/Headseeker, personally." Recommended MW: Range.|tags:pvp,mkb,controller
+dimwishlist:item=3103255595&perks=839105230,3142289711,2450788523,1195158366
+
+
+// Mechabre
+//notes:pandapaxxy (PvE / M+KB / Controller): "In order to, in my humble opinion, get the most out of it in PvE, you'll want a base of 4 in your magazine. This way with Clown Cartridge there's a very high chance you'll be with 5 going into engagements. With Vorpal Weapon you won't need to hit crits in order to do good damage and you can take this solo without any drop in damage. Reload MW helps speed up those reloads getting you back to 4 or higher." Recommended MW: Reload.|tags:pve,mkb,controller
+dimwishlist:item=3871226707&perks=839105230,1087426260,2284787283,1546637391
+
+
+// Mechabre
+//notes:pandapaxxy (PvP / M+KB / Controller): "Eva spoiled us last year and gave us a god roll, snapshot and opening shot, right off the rip. This year she might not be so giving. If you're looking for max handling, fluted and a handling MW will get you there. You can also opt for Smallbore / Accurized Rounds / Range MW for max range. I am a little sour that Slickdraw was removed, especially after the buff." Recommended MW: Handling.|tags:pvp,mkb,controller
+dimwishlist:item=3871226707&perks=1840239774,3142289711,957782887,47981717
+
+
+// Mechabre
+//notes:SirStallion_ (PvE / M+KB / Controller): "AJ is going to be confusing [...] I run a lot of high grenade regen builds, because of this I feel fairly comfortable relying on a damage boost like AJ on a weapon like Mechabre. It may not be as consistent as Vorpal, and it probably won't be the ideal for long boss phases, but for eliminating minibosses and champions, this will be my go to. Throwing an arcbolt to jolt the big guy and kill some trash mobs, giving me a damage boost and a pulse AOE around the target.. nice. Throwing a void grenade to debuff the target, killing some trash mobs, giving me the damage boost.. nice. Throwing a solar grenade, applying more damage to the target, killing some trash mobs, giving me a damage boost.. Nice. You get it. I doubt it would be anyone's first pick, but it is mine." Recommended MW: Reload.|tags:pve,mkb,controller
+dimwishlist:item=3871226707&perks=1840239774,1087426260,2284787283,11612903
+
+
+// Mechabre
+//notes:SirStallion_ (PvP / M+KB / Controller): "It's a PvP sniper rifle in Destiny. Of COURSE you want snapshot/opening shot. You want to hit the headshots as quickly and cleanly as you can, this is the combo that will do that for you, it is tried and true. However, if you're a sniper that likes to find tricky lanes and make people say "Wha.. from THERE?" and maybe you don't mind a little extra ADS time, I'd give Keep Away a shot." Recommended MW: Handling.|tags:pvp,mkb,controller
+dimwishlist:item=3871226707&perks=1840239774,3142289711,3619207468,47981717
+
+
+// Mechabre
+//notes:Clegmir (PvE / M+KB / Controller): "[...] in their current state it is challenging to suggest any sniper for use in PvE content. With Triple Tap generating ammo out of thin air, it is almost mandatory, and Vorpal is a nice “always on” damage perk to pair with it." Recommended MW: Reload.|tags:pve,mkb,controller
+dimwishlist:item=3871226707&perks=1840239774,106909392,3400784728,1546637391
+
+
+// Mechabre
+//notes:Clegmir (PvP / M+KB / Controller): "For PvP, if you didn’t score the Snapshot/Opening Shot last go-around, you do have another chance at getting one! You also have the options of getting one with Keep Away and Discord as options. Ammo being refunded on takedowns is a very nice reward to deal with the potential lack of special ammo drops." Recommended MW: Range.|tags:pvp,mkb,controller
+dimwishlist:item=3871226707&perks=1840239774,3142289711,957782887,47981717
+
+
+// Acosmic GSp
+//notes:pandapaxxy (PvE / M+KB / Controller): "Similar to how Geodetic HSM is the best sword for void mains, Acosmic GSp will be the best grenade launcher for void mains. Loose Change is a laughable perk on its own, but coupled with Destabilizing Rounds you won't need to rely as heavily on your abilities to get a whopping +50 reload speed. You'll be able to clear rooms with ease and be able to bridge your loadout into higher DPS weapons." Recommended MW: Blast Radius.|tags:pve,mkb,controller
+dimwishlist:item=413901114&perks=3525010810,3301904089,1119449540,2048641572
+
+
+// Acosmic GSp
+//notes:pandapaxxy (PvP / M+KB / Controller): "Grenade launchers in PvP need to do two things. Hit their targets, and kill them. With high velocity coming at base with these grenade launchers you'll know your grenade gets to where it needs to go. Explosive Light will max out your blast radius and with how often you'll generate an orb the tricky part is actually securing heavy. Proximity Grenades will make this more forgiving. It might just take your heavy slot up from Wendigo." Recommended MW: Velocity.|tags:pvp,mkb,controller
+dimwishlist:item=413901114&perks=3525010810,409831596,951095735,3194351027
+
+
+// Acosmic GSp
+//notes:SirStallion_ (PvE / M+KB / Controller): "[...] this combo just feels weird, and I like that. Cascade Point is really fun on a lot of things and I think there's a world where I run 3 cascade point weapons and see how fast I can run out of ammo. Enlightened Action will help keep the cycle going because unfortunately there is no Auto Loading Holster, so I figure a reload before you stow is going to be best. It should be fun, but it won't be winning any DPS prizes, and that is just.. Okay. It is okay." Recommended MW: Velocity.|tags:pve,mkb,controller
+dimwishlist:item=413901114&perks=3525010810,3301904089,3828510309,331667533
+
+
+// Acosmic GSp
+//notes:SirStallion_ (PvP / M+KB / Controller): "What do you want from a heavy GL in PvP? You wanna kill people fast and you wanna get back to slaying with your regularly scheduled arsenal. What is a core part of that arsenal? Abilities. Picture this.. You pick up heavy, you snag a cute little triple kill on B thanks to Proxy rounds and then you sprint to C so you can grenade the ding dongs you just slaughtered right as they spawn." Recommended MW: Velocity.|tags:pvp,mkb,controller
+dimwishlist:item=413901114&perks=3525010810,409831596,951095735,3592538738
+
+
+// Acosmic GSp
+//notes:Clegmir (PvE / M+KB / Controller): "Heavy grenade launchers never felt right to me in PvE because machine guns handle ad-clear better, and for boss or champion damaging you have rockets and linear fusions. That said it is really hard to suggest something other than Quick Launch and Spike Grenades for PvE. For columns three and four you have Impulse Amplifier to help substantially with reloads and velocity, and Explosive Light which allows you to ignore blast radius entirely (while charged with orbs)." Recommended MW: Velocity.|tags:pve,mkb,controller
+dimwishlist:item=413901114&perks=3525010810,3301904089,951095735,3194351027
+
+
+// Acosmic GSp
+//notes:Clegmir (PvP / M+KB / Controller): "Thankfully for PvP you do have access to Proximity Grenades. Explosive Light is handy given the ease at which you can generate orbs in the current sandbox, and the same holds true for elemental pickups with Collective Action." Recommended MW: Velocity.|tags:pvp,mkb,controller
+dimwishlist:item=413901114&perks=3525010810,409831596,951095735,3194351027
+
+
