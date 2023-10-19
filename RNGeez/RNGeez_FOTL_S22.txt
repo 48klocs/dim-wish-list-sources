@@ -101,3 +101,33 @@ dimwishlist:item=3871226707&perks=1840239774,106909392,3400784728,1546637391
 dimwishlist:item=3871226707&perks=1840239774,3142289711,957782887,47981717
 
 
+// Acosmic GSp
+//notes:pandapaxxy (PvE / M+KB / Controller): "Similar to how Geodetic HSM is the best sword for void mains, Acosmic GSp will be the best grenade launcher for void mains. Loose Change is a laughable perk on its own, but coupled with Destabilizing Rounds you won't need to rely as heavily on your abilities to get a whopping +50 reload speed. You'll be able to clear rooms with ease and be able to bridge your loadout into higher DPS weapons." Recommended MW: Blast Radius.|tags:pve,mkb,controller
+dimwishlist:item=413901114&perks=3525010810,3301904089,1119449540,2048641572
+
+
+// Acosmic GSp
+//notes:pandapaxxy (PvP / M+KB / Controller): "Grenade launchers in PvP need to do two things. Hit their targets, and kill them. With high velocity coming at base with these grenade launchers you'll know your grenade gets to where it needs to go. Explosive Light will max out your blast radius and with how often you'll generate an orb the tricky part is actually securing heavy. Proximity Grenades will make this more forgiving. It might just take your heavy slot up from Wendigo." Recommended MW: Velocity.|tags:pvp,mkb,controller
+dimwishlist:item=413901114&perks=3525010810,409831596,951095735,3194351027
+
+
+// Acosmic GSp
+//notes:SirStallion_ (PvE / M+KB / Controller): "[...] this combo just feels weird, and I like that. Cascade Point is really fun on a lot of things and I think there's a world where I run 3 cascade point weapons and see how fast I can run out of ammo. Enlightened Action will help keep the cycle going because unfortunately there is no Auto Loading Holster, so I figure a reload before you stow is going to be best. It should be fun, but it won't be winning any DPS prizes, and that is just.. Okay. It is okay." Recommended MW: Velocity.|tags:pve,mkb,controller
+dimwishlist:item=413901114&perks=3525010810,3301904089,3828510309,331667533
+
+
+// Acosmic GSp
+//notes:SirStallion_ (PvP / M+KB / Controller): "What do you want from a heavy GL in PvP? You wanna kill people fast and you wanna get back to slaying with your regularly scheduled arsenal. What is a core part of that arsenal? Abilities. Picture this.. You pick up heavy, you snag a cute little triple kill on B thanks to Proxy rounds and then you sprint to C so you can grenade the ding dongs you just slaughtered right as they spawn." Recommended MW: Velocity.|tags:pvp,mkb,controller
+dimwishlist:item=413901114&perks=3525010810,409831596,951095735,3592538738
+
+
+// Acosmic GSp
+//notes:Clegmir (PvE / M+KB / Controller): "Heavy grenade launchers never felt right to me in PvE because machine guns handle ad-clear better, and for boss or champion damaging you have rockets and linear fusions. That said it is really hard to suggest something other than Quick Launch and Spike Grenades for PvE. For columns three and four you have Impulse Amplifier to help substantially with reloads and velocity, and Explosive Light which allows you to ignore blast radius entirely (while charged with orbs)." Recommended MW: Velocity.|tags:pve,mkb,controller
+dimwishlist:item=413901114&perks=3525010810,3301904089,951095735,3194351027
+
+
+// Acosmic GSp
+//notes:Clegmir (PvP / M+KB / Controller): "Thankfully for PvP you do have access to Proximity Grenades. Explosive Light is handy given the ease at which you can generate orbs in the current sandbox, and the same holds true for elemental pickups with Collective Action." Recommended MW: Velocity.|tags:pvp,mkb,controller
+dimwishlist:item=413901114&perks=3525010810,409831596,951095735,3194351027
+
+
