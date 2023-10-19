@@ -1,3 +1,38 @@
 title: RNGeez Festival of the Lost Breakdown, Season 22
 description: FotL S22 picks from u/SirStallion_, u/PandaPaxxy, and u/Clegmir
 
+// Horror Story
+//notes:pandapaxxy (PvE / M+KB / Controller): "So Horror Story is stasis now. Kinda cool, but not the biggest draw. The combo I'm looking for is Enlightened Action and Target Lock. The two of them together give you bonus handling, reload, and damage. As long as you're connecting shots you'll get the benefits of both!" Recommended MW: Stability.|tags:pve,mkb,controller
+dimwishlist:item=177568179&perks=839105230,106909392,3828510309,365154968
+
+
+// Horror Story
+//notes:pandapaxxy (PvP / M+KB / Controller): "In PvP you could swap out Enlightened Action for Dynamic Sway Reduction or maybe even Demolitionist. But I'd say that the handling bonus will feel really nice. A base of 37 handling isn't ideal, so the slight bonus from Arrowhead Brake coupled with Enlightened Action will make this auto rifle feel more like an SMG." Recommended MW: Range.|tags:pvp,mkb,controller
+dimwishlist:item=177568179&perks=839105230,3142289711,3828510309,365154968
+
+
+// Horror Story
+//notes:SirStallion_ (PvE / M+KB / Controller): "This gun will be special. Not meta shifting or game breaking, but special. For me, there's an undeniable good feel when it comes to 450s, I love using them but finding a way to best make use of them typically comes down to how I can nuke the most trash mobs in the fastest time. In the past, that's been the likes of Incandescent, but this has the potential to help with chunkier mobs you wouldn't usually want to use a primary against. Kill a thrall, freeze everything around it, explode the world. Demolitionist will feed your grenades, and that means even more freezing when on stasis, but don't for a moment think that means it can only be used on that subclass. Other weapons with this combo have existed, and they're multiclass. A self contained stasis machine. I will be hunting for this, for sure." Recommended MW: Reload.|tags:pve,mkb,controller
+dimwishlist:item=177568179&perks=839105230,3230963543,3523296417,124408337
+
+
+// Horror Story
+//notes:SirStallion_ (PvP / M+KB / Controller): "As a primarily controller player, I believe 450s are some of the easiest guns to control. Stability is not as necessary, but preference is a thing and you should absolutely commit to whichever stat you feel is best. But the trait combo remains the same for my ideal. I will never just be using one gun, chances are if I get special ammo I'm going to be trying to use that special ammo and discord benefits me when I inevitably succeed. OR.. more likely.. When I use my 450/450 combo and bust out a Harmony suros sidearm, this gun will support a flip flop swip swap playstyle that I enjoy very very much." Recommended MW: Range.|tags:pvp,mkb,controller
+dimwishlist:item=177568179&perks=839105230,3142289711,3978468247,365154968
+
+
+// Horror Story
+//notes:Clegmir (PvE / M+KB / Controller): "As a precision frame AR, you have a built-in horizontal recoil reduction so you are given the freedom to lean more into other attributes with your barrel and mod. For PvE, this is one of the few guns that can get both Demolitionist and Headstone to quickly regenerate grenade energy (the others being Unending Tempest from the Crucible, and Fire and Forget from Season of the Seraph)." Recommended MW: Reload.|tags:pve,mkb,controller
+dimwishlist:item=177568179&perks=1840239774,106909392,3523296417,124408337
+
+
+// Horror Story
+//notes:Clegmir (PvP / M+KB): "For PvP, adding just a bit more range to make sure you get the most out of your aim assist is where it’s at. Having a third column option for Elemental Capacitor is handy as that perk can have a substantial impact on the feel of the gun, especially if you don’t get something like Frenzy to max your Handling and Reload. Though there are a lot of damage perks in the fourth column, Stasis has an easy time creating shards so leaning into Collective Action is the play, I think." Recommended MW: Range.|tags:pvp,mkb
+dimwishlist:item=177568179&perks=1840239774,3142289711,3511092054,365154968
+
+
+// Horror Story
+//notes:Clegmir (PvP / Controller): "For PvP, adding just a bit more range to make sure you get the most out of your aim assist is where it’s at. Having a third column option for Elemental Capacitor is handy as that perk can have a substantial impact on the feel of the gun, especially if you don’t get something like Frenzy to max your Handling and Reload. Though there are a lot of damage perks in the fourth column, Stasis has an easy time creating shards so leaning into Collective Action is the play, I think." Recommended MW: Range.|tags:pvp,controller
+dimwishlist:item=177568179&perks=1840239774,3142289711,1359896290,3324494224
+
+
