@@ -36,3 +36,38 @@ dimwishlist:item=177568179&perks=1840239774,3142289711,3511092054,365154968
 dimwishlist:item=177568179&perks=1840239774,3142289711,1359896290,3324494224
 
 
+// Jurassic Green
+//notes:pandapaxxy (PvE / M+KB / Controller): "It can roll Incandescent and Subsistence, but I think it shines with Golden Tricorn. You can make use of Heal Clip if you want a bit more healing but on solar hunter? This is going to be the bomb dot com." Recommended MW: Stability.|tags:pve,mkb,controller
+dimwishlist:item=3103255595&perks=839105230,3230963543,3619207468,2610012052
+
+
+// Jurassic Green
+//notes:pandapaxxy (PvP / M+KB): "Both rolls for PvP are very similar except for two differences in stat investments. On controller you'll want a bit more stability, on MnK you can invest those stat points into range. Headseeker and Keep Away are the key points, but definitely keep an eye out for Arrowhead Brake to correct that recoil direction." Recommended MW: Range.|tags:pvp,mkb
+dimwishlist:item=3103255595&perks=839105230,3142289711,3619207468,460017080
+
+
+// Jurassic Green
+//notes:pandapaxxy (PvP / Controller): "Both rolls for PvP are very similar except for two differences in stat investments. On controller you'll want a bit more stability, on MnK you can invest those stat points into range. Headseeker and Keep Away are the key points, but definitely keep an eye out for Arrowhead Brake to correct that recoil direction." Recommended MW: Stability.|tags:pvp,controller
+dimwishlist:item=3103255595&perks=839105230,3230963543,3619207468,2610012052
+
+
+// Jurassic Green
+//notes:SirStallion_ (PvE / M+KB / Controller): "[...] I'm looking for something a little more niche. Perp Motion gives stats when on the move (which this gun desperately needs) and Collective Action gives me a reason to be on the move with its enticing damage boost (that the gun also needs in PvE). Technically this job could be done by frenzy also, but if I build in such a way that both my subclass and guns benefit from pickups, it's a win win." Recommended MW: Handling.|tags:pve,mkb,controller
+dimwishlist:item=3103255595&perks=839105230,3230963543,1428297954,3324494224
+
+
+// Jurassic Green
+//notes:SirStallion_ (PvP / M+KB / Controller): "[...] I'm looking for something a little more niche. Perp Motion gives stats when on the move (which this gun desperately needs) and Collective Action gives me a reason to be on the move with its enticing damage boost (that the gun also needs in PvE). Technically this job could be done by frenzy also, but if I build in such a way that both my subclass and guns benefit from pickups, it's a win win." Recommended MW: Handling (M+KB) or Stability (Controller).|tags:pvp,mkb,controller
+dimwishlist:item=3103255595&perks=839105230,3230963543,2450788523,3324494224
+
+
+// Jurassic Green
+//notes:Clegmir (PvE / M+KB / Controller): "The combination of Subsistence and Incandescent came out last Festival, and I am glad that it is sticking around for this one as I wasn’t lucky enough to get one last go-around. Pairing Heal Clip and Frenzy is a handy pairing since the 100 Reload bonus will stack with the scalar from the frame when reloading from empty (bringing you down to a 1.03 second reload) Golden Tricorn and Collective Action are both incredibly straightforward to use with Solar 3.0, as well, offering noticeable damage boosts." Recommended MW: Stability.|tags:pve,mkb,controller
+dimwishlist:item=3103255595&perks=839105230,106909392,1820235745,4293542123
+
+
+// Jurassic Green
+//notes:Clegmir (PvP / M+KB / Controller): "On the PvP side, with the changes to Rangefinder and damage falloff, Killing Wind and Keep Away will be your stars, I think. The former is a “next kill” perk while the latter is to help you secure that first kill. There are a lot of viable rolls for this gun, so if you get one, try it out! I’ll be looking for Killing Wind/Encore and Keep Away/Headseeker, personally." Recommended MW: Range.|tags:pvp,mkb,controller
+dimwishlist:item=3103255595&perks=839105230,3142289711,2450788523,1195158366
+
+
