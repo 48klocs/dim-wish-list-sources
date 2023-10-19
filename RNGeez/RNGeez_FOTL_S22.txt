@@ -71,3 +71,33 @@ dimwishlist:item=3103255595&perks=839105230,106909392,1820235745,4293542123
 dimwishlist:item=3103255595&perks=839105230,3142289711,2450788523,1195158366
 
 
+// Mechabre
+//notes:pandapaxxy (PvE / M+KB / Controller): "In order to, in my humble opinion, get the most out of it in PvE, you'll want a base of 4 in your magazine. This way with Clown Cartridge there's a very high chance you'll be with 5 going into engagements. With Vorpal Weapon you won't need to hit crits in order to do good damage and you can take this solo without any drop in damage. Reload MW helps speed up those reloads getting you back to 4 or higher." Recommended MW: Reload.|tags:pve,mkb,controller
+dimwishlist:item=3871226707&perks=839105230,1087426260,2284787283,1546637391
+
+
+// Mechabre
+//notes:pandapaxxy (PvP / M+KB / Controller): "Eva spoiled us last year and gave us a god roll, snapshot and opening shot, right off the rip. This year she might not be so giving. If you're looking for max handling, fluted and a handling MW will get you there. You can also opt for Smallbore / Accurized Rounds / Range MW for max range. I am a little sour that Slickdraw was removed, especially after the buff." Recommended MW: Handling.|tags:pvp,mkb,controller
+dimwishlist:item=3871226707&perks=1840239774,3142289711,957782887,47981717
+
+
+// Mechabre
+//notes:SirStallion_ (PvE / M+KB / Controller): "AJ is going to be confusing [...] I run a lot of high grenade regen builds, because of this I feel fairly comfortable relying on a damage boost like AJ on a weapon like Mechabre. It may not be as consistent as Vorpal, and it probably won't be the ideal for long boss phases, but for eliminating minibosses and champions, this will be my go to. Throwing an arcbolt to jolt the big guy and kill some trash mobs, giving me a damage boost and a pulse AOE around the target.. nice. Throwing a void grenade to debuff the target, killing some trash mobs, giving me the damage boost.. nice. Throwing a solar grenade, applying more damage to the target, killing some trash mobs, giving me a damage boost.. Nice. You get it. I doubt it would be anyone's first pick, but it is mine." Recommended MW: Reload.|tags:pve,mkb,controller
+dimwishlist:item=3871226707&perks=1840239774,1087426260,2284787283,11612903
+
+
+// Mechabre
+//notes:SirStallion_ (PvP / M+KB / Controller): "It's a PvP sniper rifle in Destiny. Of COURSE you want snapshot/opening shot. You want to hit the headshots as quickly and cleanly as you can, this is the combo that will do that for you, it is tried and true. However, if you're a sniper that likes to find tricky lanes and make people say "Wha.. from THERE?" and maybe you don't mind a little extra ADS time, I'd give Keep Away a shot." Recommended MW: Handling.|tags:pvp,mkb,controller
+dimwishlist:item=3871226707&perks=1840239774,3142289711,3619207468,47981717
+
+
+// Mechabre
+//notes:Clegmir (PvE / M+KB / Controller): "[...] in their current state it is challenging to suggest any sniper for use in PvE content. With Triple Tap generating ammo out of thin air, it is almost mandatory, and Vorpal is a nice “always on” damage perk to pair with it." Recommended MW: Reload.|tags:pve,mkb,controller
+dimwishlist:item=3871226707&perks=1840239774,106909392,3400784728,1546637391
+
+
+// Mechabre
+//notes:Clegmir (PvP / M+KB / Controller): "For PvP, if you didn’t score the Snapshot/Opening Shot last go-around, you do have another chance at getting one! You also have the options of getting one with Keep Away and Discord as options. Ammo being refunded on takedowns is a very nice reward to deal with the potential lack of special ammo drops." Recommended MW: Range.|tags:pvp,mkb,controller
+dimwishlist:item=3871226707&perks=1840239774,3142289711,957782887,47981717
+
+
