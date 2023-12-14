@@ -1,0 +1,143 @@
+title:RNGeez 2023 Dawning Breakdown
+description:https://www.reddit.com/r/sharditkeepit/comments/18gqn8y/rngeez_2023_dawning_breakdown/
+
+// Stay Frosty
+//notes:Panda (PvE / M+KB / Controller): "Stay Frosty is a bit of an odd weapon. It lost a bit of utility from last years model, but gained a quality of life perk in Enlightened Action. Desperado is a fun perk but nothing about this weapon will break the meta or shake up the game." Recommended MW: Stability.|tags:pve,mkb,controller
+dimwishlist:item=1891321753&perks=839105230,1087426260,3828510309,3047969693
+
+
+// Stay Frosty
+//notes:Panda (PvP / M+KB): "There are two versions of this weapon you can get. Don't take into MnK or controller as seriously. The MnK roll is better for 6v6 or slaying play styles. The controller roll is better for 3v3 or more neutral play styles. Both will feel great but have different utilities." Recommended MW: Range.|tags:pvp,mkb
+dimwishlist:item=1891321753&perks=839105230,3142289711,2450788523,1015611457
+
+
+// Stay Frosty
+//notes:Panda (PvP / Controller): "There are two versions of this weapon you can get. Don't take into MnK or controller as seriously. The MnK roll is better for 6v6 or slaying play styles. The controller roll is better for 3v3 or more neutral play styles. Both will feel great but have different utilities." Recommended MW: Stability.|tags:pvp,controller
+dimwishlist:item=1891321753&perks=839105230,106909392,588594999,460017080
+
+
+// Stay Frosty
+//notes:Stallion (PvE / M+KB / Controller): "This weapon was better last year, imo. Enlightened Action and Headstone may very well work excellently together, but I'm sad we lost Thresh, which is a sentiment I'm sure not many people share. BUT.. I still think it's worth going for. Enlightened is a chonky buff and if Headstone can help trigger it, it's gonna be a fun combo." Recommended MW: Stability.|tags:pve,mkb,controller
+dimwishlist:item=1891321753&perks=839105230,106909392,3828510309,124408337
+
+
+// Stay Frosty
+//notes:Stallion (PvP / M+KB): "I never got this roll last year, so I will be going for it again. I do not think this roll needs explaining, you kill 1 person (pretty easily because 450s feel great imo) then use that momentum to carry you through the rest of the match with a nice range and handling bump from Killing Wind and a nice damage bump from Kill Clip. This is my favourite combo in PvP. I needs it." Recommended MW: Range.|tags:pvp,mkb
+dimwishlist:item=1891321753&perks=839105230,3230963543,2450788523,1015611457
+
+
+// Stay Frosty
+//notes:Stallion (PvP / Controller): "I never got this roll last year, so I will be going for it again. I do not think this roll needs explaining, you kill 1 person (pretty easily because 450s feel great imo) then use that momentum to carry you through the rest of the match with a nice range and handling bump from Killing Wind and a nice damage bump from Kill Clip. This is my favourite combo in PvP. I needs it." Recommended MW: Stability.|tags:pvp,controller
+dimwishlist:item=1891321753&perks=839105230,3230963543,2450788523,1015611457
+
+
+// Zephyr
+//notes:Panda (PvE / M+KB / Controller): "Cold Steel is Zephyr's claim to fame. Zephyr is the only sword with Cold Steel and you'll want to stack as many charge time benefits as possible. Duelist's Trance grants +60 to charge rate and both Guard Resistance and Endurance. This all allows you to heavy swing more frequently. Stacking the extra slow debuff faster. Tempered Edge also gives you more ammo while adding more impact as well. Dealing better damage is always good." Recommended MW: Impact.|tags:pve,mkb,controller
+dimwishlist:item=1911078836&perks=938542991,269888150,3705817207,3650930298
+
+
+// Zephyr
+//notes:Panda (PvP / M+KB / Controller): "Zephyr was one of my favorite swords when it was introduced in season 2. I still think it looks incredible. In PvP you'll want some good guard resistance so you can get close and if you happen to have multiple enemies stacked up you can get Chain Reaction kills. More booms equals better, no?" Recommended MW: Impact.|tags:pvp,mkb,controller
+dimwishlist:item=1911078836&perks=3666208348,3625355092,2590710093,2396489472
+
+
+// Zephyr
+//notes:Stallion (PvE / M+KB / Controller): "I won't lie, I straight lifted this roll from last years post because I never got it and I still think it could be interesting for a stasis build. Wellspring to keep your abilities up, which will in turn provide slow/freeze in combination with Cold Steel to leave targets more vulnerable to more attacks. There is potential for a fun cycle there, and it utilises Cold Steel which is what makes this sword particularly unique." Recommended MW: Impact.|tags:pve,mkb,controller
+dimwishlist:item=1911078836&perks=3666208348,269888150,3592538738,3650930298
+
+
+// Zephyr
+//notes:Stallion (PvP / M+KB / Controller): "Unfortunately, Zephyr would not be my first pick for PvP swords. Its not craftable, Cold Steel is pointless and its not an interesting frame. BUT. This would be what I'd take into PvP if I had to. Duelist benefits the player after a kill until you put the sword away, but since heavy is not very frequent in PvP, you're likely gonna commit to using all your ammo up. So Duelist gives the best benefit in slot imo. Vorpal is a nice safety net incase your heavy spawn gets assaulted by a super (I've seen it happen, it's terrifying), you might be able to fight back a little easier." Recommended MW: Impact.|tags:pvp,mkb,controller
+dimwishlist:item=1911078836&perks=3666208348,269888150,3705817207,1546637391
+
+
+// Albedo Wing
+//notes:Panda (PvE / M+KB / Controller): "I don't know how often this glaive will be used over the crafted gloves but there's a nice niche between Beacon Rounds and Close to Melee. If you get any glaive kill you'll activate Beacon Rounds, with the added tracking you can shoot off in the general direction of a thrall and with that kill you'll activate Close to Melee to deal an extra 30% more melee damage. Any additional damage with your melee or projectile you'll keep up Beacon Rounds and Close to Melee to continue the chaining of better tracking and better damage." Recommended MW: Range.|tags:pve,mkb,controller
+dimwishlist:item=2680976411&perks=1934171651,679225683,2859149211,1782407750
+
+
+// Albedo Wing
+//notes:Panda (PvP / M+KB / Controller): "With Auxiliary Reserves you get some great shield duration. With Light Mag and Keep Away you negate the reload speed loss from Auxiliary Reserves. All the range gives you a velocity of 130 m/s which is 1.11x times faster than the base 117 m/s. This extra speed will make the hit registration feel better. If you can manage to get Golden Tricorn 2x with one surge mod you can one hit kill any guardian 6 resilience or below. As you add one surge mod you can down an additional resilience tier. It scales 1:1." Recommended MW: Range.|tags:pvp,mkb,controller
+dimwishlist:item=2680976411&perks=580685494,679225683,3619207468,2610012052
+
+
+// Albedo Wing
+//notes:Stallion (PvE / M+KB / Controller): "Okay here's my thought process.. This weapon needs to be really unique to justify using over a crafted Glaive. What makes it unique is Beacon Rounds. Beacon Rounds are an ease of use perk, they're built to make you miss less shots without slowing down combat by aiming (gross, all my homies hate aiming). So my plan is to make myself a one man phalanx, storming forward with homing shots that aim themselves. Demolitionist to help me panic reload, plus just keeping my grenade energy up, and more shield duration to aid in the goal of becoming phalanx. Also, Honourable mention to Golden Tricorn potentially being very fun to mess around with." Recommended MW: Shield Duration.|tags:pve,mkb,controller
+dimwishlist:item=2680976411&perks=1934171651,1087426260,2859149211,3523296417
+
+
+// Albedo Wing
+//notes:Stallion (PvP / M+KB / Controller): "Okay so.. Glaives in PvP. Not my favourite thing. But here's what I'm thinking: Max Range for max projectile speed, bonus handling to make it less hefty to switch to, Beacon Rounds because auto-aim potentially gooder, demo simply because there's nothing else I feel is worth using in that slot. High Impact Reserves is only a 6% damage boost, Golden Tricorn might be tricky to keep active in PvP, Lead From Gold serves no purpose in PvP.. It's just tricky. I'm sorry I can't provide more, I'm really not a glaive in PvP kinda fella." Recommended MW: Handling.|tags:pvp,mkb,controller
+dimwishlist:item=2680976411&perks=1263609309,3142289711,2859149211,3523296417
+
+
+// Glacioclasm
+//notes:Panda (PvE / M+KB / Controller): "One of my favorite fusions as of late has been Loaded Question with Envious Assassin and Controlled Burst. Glacioclasm will have a similar roll but with Overflow. Both will allow you to destroy majors and bosses with ease." Recommended MW: Charge Time.|tags:pve,mkb,controller
+dimwishlist:item=2728851518&perks=1482024992,689005463,3643424744,2594592626
+
+
+// Glacioclasm
+//notes:Panda (PvP / M+KB / Controller): "Slideshot makes this roll. With Slideshot you can invest the rest of your stats into a mix of range and stability to still hit 100 range and have a whopping 76 stability. If you can somehow wrangle up full ammo you'll only sit 4 points less than 100 stability. High-Impact Reserves helps those long shots keep their damage at range." Recommended MW: Range.|tags:pvp,mkb,controller
+dimwishlist:item=2728851518&perks=1482024992,3868766766,3161816588,2213355989
+
+
+// Glacioclasm
+//notes:Stallion (PvE / M+KB / Controller): "This weapon has a lot of options for making Res Burst the star of the show. Slideshot, which also boosts range and stability. Subsistence, which will keep your mag topped up after a kill so you can keep chaining. But the most interesting to me is Overflow. The combination of Overflow and Res Burst is the ultimate combo workhorse for me, you will have multiple back to back Res Burst shots to unload into a boss or to clear a group of mobs. It's the best of both worlds, baked into 1 gun." Recommended MW: Charge Time.|tags:pve,mkb,controller
+dimwishlist:item=2728851518&perks=1840239774,689005463,3643424744,1427256713
+
+
+// Glacioclasm
+//notes:Stallion (PvP / M+KB / Controller): "This archetype is tricky for PvP, the long charge time is going to leave you vulnerable, the low handling is going to make it feel sluggish and the reload speed is gonna leave you without a functioning weapon many times a match. This roll should help all of those problems at least a little bit. Slideshot, so reloading is as easy as scraping your knees. Eye of the Storm to help you combat missing bolts due to being shot while charging. Charge Time reductions.. because charge time reductions. This thing take a year to charge, might as well cut some time down." Recommended MW: Charge Time.|tags:pvp,mkb,controller
+dimwishlist:item=2728851518&perks=1840239774,689005463,3161816588,699525795
+
+
+// Cold Front
+//notes:Panda (PvE / M+KB / Controller): "While there aren't a lot of amazing submachine guns, Cold Front is reliable in that we get Subsistence and Frenzy for low level PvE activities. It's not going to replace any of your more specified submachine guns for any particular subclass. But if you want something to turn your brain off and still clear rooms with ease. Cold Front can be it." Recommended MW: Stability.|tags:pve,mkb,controller
+dimwishlist:item=3206190066&perks=1482024992,3230963543,1820235745,4104185692
+
+
+// Cold Front
+//notes:Panda (PvP / M+KB): "Now I know what you're saying, Rangefinder was nerfed. I know it was. But having lower range for the SMG class you'll feel some of the forgiveness factors from Rangefinder coupled with Tap the Trigger bringing you better accuracy and stability." Recommended MW: Range.|tags:pvp,mkb
+dimwishlist:item=3206190066&perks=3250034553,3142289711,1890422124,2846385770
+
+
+// Cold Front
+//notes:Panda (PvP / Controller): "Now I know what you're saying, Rangefinder was nerfed. I know it was. But having lower range for the SMG class you'll feel some of the forgiveness factors from Rangefinder coupled with Tap the Trigger bringing you better accuracy and stability." Recommended MW: Stability.|tags:pvp,controller
+dimwishlist:item=3206190066&perks=1392496348,3230963543,1890422124,2846385770
+
+
+// Cold Front
+//notes:Stallion (PvE / M+KB / Controller): "I cannot stress this enough.. THIS GUN HAS SEVEN STABILITY. SEVEN. I need all the stab buffs possible, so I take them. As for the main traits, Unrelenting has been tried and true for me, I love this perk. I don't always need it, but it's there for me when I do. Frenzy is a classic perk, everybody knows how good it is, we love it for it's constant damage buff, but more importantly it boosts handling and reload. This is gonna be real important since we had to commit to stability to make up for the BASE SEVEN that the gun has.." Recommended MW: Stability.|tags:pve,mkb,controller
+dimwishlist:item=3206190066&perks=1392496348,3177308360,3108830275,4104185692
+
+
+// Cold Front
+//notes:Stallion (PvP / M+KB / Controller): "Okay wait, hear me out. This weapon has bad stats. The difference between minimum range and maximum range is like 3.5m, and while that might be significant if this weapon is your primary, it is not significant in my use case. A secondary. A sidearm, with a substantial heft boost. As much handling as I can squeeze out without losing a usable amount of stability, then Perpetual Motion to help those stats even further. But the main thing, the thing that really makes this roll a backup weapon is Cascade Point. Switching into Cascade to burn someone down like you've got a pocket Tarrabah just sounds fun.. Niche. But fun." Recommended MW: Handling.|tags:pvp,mkb,controller
+dimwishlist:item=3206190066&perks=1840239774,3230963543,1428297954,3751912585
+
+
+// Avalanche
+//notes:Panda (PvE / M+KB / Controller): "How many bullets can you shoot before reloading? Will this be a power weapon alternative of Sweet Business? Quite possibly. With Actium War Rig, Extended Mag, and Rewind Rounds you'll never have to reload before the target is dead. Especially so if you stack on damage from a spec mod and Vorpal Weapon." Recommended MW: Reload.|tags:pve,mkb,controller
+dimwishlist:item=4220529694&perks=839105230,2420895100,3418782618,1546637391
+
+
+// Avalanche
+//notes:Panda (PvP / M+KB): "While you don't see many machine guns running around in the crucible, you can with Avalanche. Arrowhead Brake brings up the recoil direction to 100. Adding in either range or stability (or both) with Dynamic Sway Reduction will make the shooting experience enjoyable. Incandescent is a bit of an odd choice but being able to apply some Scorch and make the second kill easier will allow you to go on a nice spree." Recommended MW: Range.|tags:pvp,mkb
+dimwishlist:item=4220529694&perks=839105230,3142289711,1359896290,4293542123
+
+
+// Avalanche
+//notes:Panda (PvP / Controller): "While you don't see many machine guns running around in the crucible, you can with Avalanche. Arrowhead Brake brings up the recoil direction to 100. Adding in either range or stability (or both) with Dynamic Sway Reduction will make the shooting experience enjoyable. Incandescent is a bit of an odd choice but being able to apply some Scorch and make the second kill easier will allow you to go on a nice spree." Recommended MW: Stability.|tags:pvp,controller
+dimwishlist:item=4220529694&perks=839105230,3177308360,1359896290,4293542123
+
+
+// Avalanche
+//notes:Stallion (PvE / M+KB / Controller): "Personally, I'm really looking for a mobbing monster here. If you want bossing, you can very easily switch from Incan to Target Lock or Vorpal, but for me I like to rip through groups with an LMG. It makes me happy. As such, I went for mag increase to better fuel Rewind, Incandescent for explosions and a stab MW to make it a little easier to use. Plenty of fun." Recommended MW: Stability.|tags:pve,mkb,controller
+dimwishlist:item=4220529694&perks=839105230,1087426260,3418782618,4293542123
+
+
+// Avalanche
+//notes:Stallion (PvP / Controller / M+KB): "This weapon is strange in that it doesn't have much for PvP, but the small pool of options is pretty good. Using a heavy weapon against a super is pretty common, so Vorpal is nice. DSR and stability buffs to help you not lose a gunfight due to flinch. Are they the best perks? Maybe not. But they are certainly nice." Recommended MW: Range.|tags:pvp,controller,mkb
+dimwishlist:item=4220529694&perks=839105230,3177308360,1359896290,1546637391
+
+
