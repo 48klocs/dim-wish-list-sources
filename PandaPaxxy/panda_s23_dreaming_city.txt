@@ -366,7 +366,7 @@ dimwishlist:item=355922321&perks=4090651448,3230963543,776531651,2048641572
 
 
 // Vouchsafe
-//notes:pandapaxxy (PvE / Controller): "Lightweight frames in PvP are in an interesting spot. They don’t kill fast enough to be competitive, and any boosts don’t really elevate the weapon further. Golden Tricorn 2x does allow you to 3 shot any guardian at any resilience at a 0.60 TtK, but it requires two whole kills to get rolling and without additional ability kills you’ll be back at square one before you know it. Taraxippos and Eternal Blazon with Kill Clip or even Tarnished Mettle with Swashbuckler allow you to 3 crit after just one kill." Recommended MW: Stability.|tags:pvp,controller
+//notes:pandapaxxy (PvP / Controller): "Lightweight frames in PvP are in an interesting spot. They don’t kill fast enough to be competitive, and any boosts don’t really elevate the weapon further. Golden Tricorn 2x does allow you to 3 shot any guardian at any resilience at a 0.60 TtK, but it requires two whole kills to get rolling and without additional ability kills you’ll be back at square one before you know it. Taraxippos and Eternal Blazon with Kill Clip or even Tarnished Mettle with Swashbuckler allow you to 3 crit after just one kill." Recommended MW: Stability.|tags:pvp,controller
 dimwishlist:item=355922321&perks=839105230,3177308360,247725512,3038247973
 dimwishlist:item=355922321&perks=3661387068,3177308360,247725512,3038247973
 dimwishlist:item=355922321&perks=839105230,3230963543,247725512,3038247973
