@@ -27,3 +27,23 @@ dimwishlist:item=3007479950&perks=839105230,1087426260,3828510309,831391274
 dimwishlist:item=3007479950&perks=839105230,3230963543,699525795,1015611457
 
 
+// The Title
+//notes:pandapaxxy (PvE / M+KB / Controller): "Void mains rejoice. I don’t think anyone is surprised to see this pick. Smallbore plus ricochet rounds boosts your stability and range enough to not worry about engagement ranges and compete with auto rifles. The extra overshield and add clearing capabilities will also allow you to allocate different fragments into your builds." Recommended MW: Reload.|tags:pve,mkb,controller
+dimwishlist:item=655712834&perks=1482024992,1885400500,776531651,2048641572
+
+
+// The Title
+//notes:pandapaxxy (PvP / M+KB / Controller): "Swashbuckler is really the only standout perk in the fourth column. Some more niche options exist but there’s also not really a big pull to use this year's version of the Title for PvP. Rangefinder does help push out your zoom but with the recent changes to rangefinder it’s less than stellar." Recommended MW: Range (M+KB) / Stability (Controller).|tags:pvp,mkb,controller
+dimwishlist:item=655712834&perks=1482024992,1885400500,1359896290,4082225868
+
+
+// The Title
+//notes:SirStallion (PvE / M+KB / Controller): "Pugilist / Swash is going to have a lot of fun potential on my void Titan, and that makes the combo worth hunting for. Titans can already get plenty of overshields, and being able to keep a steady flow of disc throws in is always a good time. I want both rolls, and I won't apologise for it. Gonna melee the world." Recommended MW: Reload.|tags:pve,mkb,controller
+dimwishlist:item=655712834&perks=1482024992,3230963543,691659142,4082225868
+
+
+// The Title
+//notes:SirStallion (PvP / M+KB / Controller): "Cards on the table, I picked rangefinder because it was the best "neutral" perk in that 4th column, but it can absolutely be any other perk there you want. The rest of the roll is all about making your weapon a stat monster for 1v1s. I like 720s for 3v3 gamemodes, I think they're fun as heck. So giving my weapon a stat package that would make Banshee blush is always my goal. With 85 base Recoil Direction, the bonus handling and stability felt like a no brainer for me, Perp Motion is gonna bump that stab even further and anything else is just icing on the cake." Recommended MW: Range.|tags:pvp,mkb,controller
+dimwishlist:item=655712834&perks=1840239774,1885400500,1428297954,2846385770
+
+
