@@ -49,7 +49,7 @@ dimwishlist:item=655712834&perks=1840239774,1885400500,1428297954,2846385770
 
 // Hullabaloo
 //notes:pandapaxxy (PvE / M+KB / Controller): "Oh this is gonna be fun. I love a large mag and Cascade Point. My Until It’s Return gets a lot of use due to being a better Fourth Horseman. This roll will get a ton of smiles clearing rooms and taking down beefier enemies with relative safety." Recommended MW: Velocity.|tags:pve,mkb,controller
-dimwishlist:item=657927352&perks=3525010810,2822142346,968510818,331667533
+dimwishlist:item=657927352&perks=3525010810,2822142346,968510818,3751912585
 
 
 // Hullabaloo
