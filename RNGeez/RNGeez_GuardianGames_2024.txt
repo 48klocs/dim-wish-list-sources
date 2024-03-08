@@ -1,0 +1,70 @@
+title:RNGeez Guardian Games Breakdown (2024)
+description:https://www.reddit.com/r/sharditkeepit/comments/1b8718p/rngeez_guardian_games_breakdown/
+
+// Taraxippos
+//notes:pandapaxxy (PvE / M+KB / Controller): "We [probably] have a scout in our vault we use for PvE. Do we need another? Well technically no. Taraxippos doesn’t do anything another scout couldn’t do equally or better. If you somehow don’t have one, then yeah. Grind yourself one out this Guardian Games. It’s easy to get and you’ll probably have more than you know what to do with." Recommended MW: Stability.|tags:pve,mkb,controller
+dimwishlist:item=3007479950&perks=839105230,106909392,1354429876,555281244
+
+
+// Taraxippos
+//notes:pandapaxxy (PvP / M+KB): "With the update to scout rifle damage, I think there’s a good case for this scout being a low-key meta choice. It won’t have as good of a feeling as the rapid-fire frames, nor the oomph of the high-impacts. But the extra movement speed and the extra flexibility could aid certain builds and loadouts. I love kill clip for really deleting guardians in 6s, but it falls off hard in 3s." Recommended MW: Handling.|tags:pvp,mkb
+dimwishlist:item=3007479950&perks=839105230,3230963543,3828510309,1015611457
+
+
+// Taraxippos
+//notes:pandapaxxy (PvP / Controller): "With the update to scout rifle damage, I think there’s a good case for this scout being a low-key meta choice. It won’t have as good of a feeling as the rapid-fire frames, nor the oomph of the high-impacts. But the extra movement speed and the extra flexibility could aid certain builds and loadouts. I love kill clip for really deleting guardians in 6s, but it falls off hard in 3s." Recommended MW: Stability.|tags:pvp,controller
+dimwishlist:item=3007479950&perks=839105230,3177308360,2387244414,1015611457
+dimwishlist:item=3007479950&perks=839105230,3177308360,588594999,1015611457
+
+
+// Taraxippos
+//notes:SirStallion (PvE / M+KB / Controller): "Scouts are weird. Lets just start there. I like the idea of scouts, but in practice.. Theyre just strange. BUT, they do one thing quite well.. Precision kills. So, between Enlightened Action keeping your reload up and making the gun feel snappy, and then Hatchling helping you dispatch groups of enemies at the same time, I think this roll has a lot of low end potential for fun. Which lets be honest.. Isn't that what we all want?" Recommended MW: Stability.|tags:pve,mkb,controller
+dimwishlist:item=3007479950&perks=839105230,1087426260,3828510309,831391274
+
+
+// Taraxippos
+//notes:SirStallion (PvP / M+KB / Controller): "Okay, heres my thought process.. EotS helps secure a kill.. Which leads into Kill Clip helping you secure another.. And another. And another. Next thing you know, you're making Shaxx proud and it's all because you've become a dueling monster and all the bonus Stability makes you unflinchable. That's the theory anyway, but in my hands? No way that works in practice." Recommended MW: Stability.|tags:pvp,mkb,controller
+dimwishlist:item=3007479950&perks=839105230,3230963543,699525795,1015611457
+
+
+// The Title
+//notes:pandapaxxy (PvE / M+KB / Controller): "Void mains rejoice. I don’t think anyone is surprised to see this pick. Smallbore plus ricochet rounds boosts your stability and range enough to not worry about engagement ranges and compete with auto rifles. The extra overshield and add clearing capabilities will also allow you to allocate different fragments into your builds." Recommended MW: Reload.|tags:pve,mkb,controller
+dimwishlist:item=655712834&perks=1482024992,1885400500,776531651,2048641572
+
+
+// The Title
+//notes:pandapaxxy (PvP / M+KB / Controller): "Swashbuckler is really the only standout perk in the fourth column. Some more niche options exist but there’s also not really a big pull to use this year's version of the Title for PvP. Rangefinder does help push out your zoom but with the recent changes to rangefinder it’s less than stellar." Recommended MW: Range (M+KB) / Stability (Controller).|tags:pvp,mkb,controller
+dimwishlist:item=655712834&perks=1482024992,1885400500,1359896290,4082225868
+
+
+// The Title
+//notes:SirStallion (PvE / M+KB / Controller): "Pugilist / Swash is going to have a lot of fun potential on my void Titan, and that makes the combo worth hunting for. Titans can already get plenty of overshields, and being able to keep a steady flow of disc throws in is always a good time. I want both rolls, and I won't apologise for it. Gonna melee the world." Recommended MW: Reload.|tags:pve,mkb,controller
+dimwishlist:item=655712834&perks=1482024992,3230963543,691659142,4082225868
+
+
+// The Title
+//notes:SirStallion (PvP / M+KB / Controller): "Cards on the table, I picked rangefinder because it was the best "neutral" perk in that 4th column, but it can absolutely be any other perk there you want. The rest of the roll is all about making your weapon a stat monster for 1v1s. I like 720s for 3v3 gamemodes, I think they're fun as heck. So giving my weapon a stat package that would make Banshee blush is always my goal. With 85 base Recoil Direction, the bonus handling and stability felt like a no brainer for me, Perp Motion is gonna bump that stab even further and anything else is just icing on the cake." Recommended MW: Range.|tags:pvp,mkb,controller
+dimwishlist:item=655712834&perks=1840239774,1885400500,1428297954,2846385770
+
+
+// Hullabaloo
+//notes:pandapaxxy (PvE / M+KB / Controller): "Oh this is gonna be fun. I love a large mag and Cascade Point. My Until It’s Return gets a lot of use due to being a better Fourth Horseman. This roll will get a ton of smiles clearing rooms and taking down beefier enemies with relative safety." Recommended MW: Velocity.|tags:pve,mkb,controller
+dimwishlist:item=657927352&perks=3525010810,2822142346,968510818,331667533
+
+
+// Hullabaloo
+//notes:pandapaxxy (PvP / M+KB / Controller): "While I don’t think anyone will be vying for this roll in PvP I think the best use case is a swap build. Not ideal for “wasting” heavy to not get the kill with it. But being a wave frame you won’t get a ton of direct hits to kill. If a guardian jumps it’s all over. Ideal for pubs, not ideal for most PvP situations." Recommended MW: Velocity.|tags:pvp,mkb,controller
+dimwishlist:item=657927352&perks=3525010810,2822142346,951095735,1683379515
+dimwishlist:item=657927352&perks=3525010810,2822142346,951095735,3871884143
+
+
+// Hullabaloo
+//notes:SirStallion (PvE / M+KB / Controller): "This is a heavy GL.. So a pick like Chain Reaction might seem strange. However, with a base 28 grenades in the reserves, I will not be using this bad boy exclusively on bosses. Cascade point is a lot of fun too, but you don't get to finish out your 10 mag after Envious has kicked in. For champs and minibosses, the fight is often going to have plenty of adds to explode." Recommended MW: Velocity.|tags:pve,mkb,controller
+dimwishlist:item=657927352&perks=3525010810,2822142346,968510818,2396489472
+
+
+// Hullabaloo
+//notes:SirStallion (PvP / M+KB / Controller): "This weapon for PvP is tricky.. Wave frames are fun, but a heavy wave frame? Who knows, it might be a blast. And I intend to find out, by creating additional blasts and trying to utilise Chain Reaction to net some fun triple kills.. Or more. Imagine more.. It seems that Blast Radius really doesn't bring much to the table for wave frames, and I would assume that the heavy variant is much the same, so Im focusing on velocity to get my nades where they need to be ASAP." Recommended MW: Velocity.|tags:pvp,mkb,controller
+dimwishlist:item=657927352&perks=3525010810,2822142346,951095735,2396489472
+
+
