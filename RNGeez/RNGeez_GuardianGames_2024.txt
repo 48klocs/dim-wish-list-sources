@@ -47,3 +47,24 @@ dimwishlist:item=655712834&perks=1482024992,3230963543,691659142,4082225868
 dimwishlist:item=655712834&perks=1840239774,1885400500,1428297954,2846385770
 
 
+// Hullabaloo
+//notes:pandapaxxy (PvE / M+KB / Controller): "Oh this is gonna be fun. I love a large mag and Cascade Point. My Until It’s Return gets a lot of use due to being a better Fourth Horseman. This roll will get a ton of smiles clearing rooms and taking down beefier enemies with relative safety." Recommended MW: Velocity.|tags:pve,mkb,controller
+dimwishlist:item=657927352&perks=3525010810,2822142346,968510818,331667533
+
+
+// Hullabaloo
+//notes:pandapaxxy (PvP / M+KB / Controller): "While I don’t think anyone will be vying for this roll in PvP I think the best use case is a swap build. Not ideal for “wasting” heavy to not get the kill with it. But being a wave frame you won’t get a ton of direct hits to kill. If a guardian jumps it’s all over. Ideal for pubs, not ideal for most PvP situations." Recommended MW: Velocity.|tags:pvp,mkb,controller
+dimwishlist:item=657927352&perks=3525010810,2822142346,951095735,1683379515
+dimwishlist:item=657927352&perks=3525010810,2822142346,951095735,3871884143
+
+
+// Hullabaloo
+//notes:SirStallion (PvE / M+KB / Controller): "This is a heavy GL.. So a pick like Chain Reaction might seem strange. However, with a base 28 grenades in the reserves, I will not be using this bad boy exclusively on bosses. Cascade point is a lot of fun too, but you don't get to finish out your 10 mag after Envious has kicked in. For champs and minibosses, the fight is often going to have plenty of adds to explode." Recommended MW: Velocity.|tags:pve,mkb,controller
+dimwishlist:item=657927352&perks=3525010810,2822142346,968510818,2396489472
+
+
+// Hullabaloo
+//notes:SirStallion (PvP / M+KB / Controller): "This weapon for PvP is tricky.. Wave frames are fun, but a heavy wave frame? Who knows, it might be a blast. And I intend to find out, by creating additional blasts and trying to utilise Chain Reaction to net some fun triple kills.. Or more. Imagine more.. It seems that Blast Radius really doesn't bring much to the table for wave frames, and I would assume that the heavy variant is much the same, so Im focusing on velocity to get my nades where they need to be ASAP." Recommended MW: Velocity.|tags:pvp,mkb,controller
+dimwishlist:item=657927352&perks=3525010810,2822142346,951095735,2396489472
+
+
