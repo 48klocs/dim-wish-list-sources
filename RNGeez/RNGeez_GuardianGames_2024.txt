@@ -1,0 +1,29 @@
+title:RNGeez Guardian Games Breakdown (2024)
+description:https://www.reddit.com/r/sharditkeepit/comments/1b8718p/rngeez_guardian_games_breakdown/
+
+// Taraxippos
+//notes:pandapaxxy (PvE / M+KB / Controller): "We [probably] have a scout in our vault we use for PvE. Do we need another? Well technically no. Taraxippos doesn’t do anything another scout couldn’t do equally or better. If you somehow don’t have one, then yeah. Grind yourself one out this Guardian Games. It’s easy to get and you’ll probably have more than you know what to do with." Recommended MW: Stability.|tags:pve,mkb,controller
+dimwishlist:item=3007479950&perks=839105230,106909392,1354429876,555281244
+
+
+// Taraxippos
+//notes:pandapaxxy (PvP / M+KB): "With the update to scout rifle damage, I think there’s a good case for this scout being a low-key meta choice. It won’t have as good of a feeling as the rapid-fire frames, nor the oomph of the high-impacts. But the extra movement speed and the extra flexibility could aid certain builds and loadouts. I love kill clip for really deleting guardians in 6s, but it falls off hard in 3s." Recommended MW: Handling.|tags:pvp,mkb
+dimwishlist:item=3007479950&perks=839105230,3230963543,3828510309,1015611457
+
+
+// Taraxippos
+//notes:pandapaxxy (PvP / Controller): "With the update to scout rifle damage, I think there’s a good case for this scout being a low-key meta choice. It won’t have as good of a feeling as the rapid-fire frames, nor the oomph of the high-impacts. But the extra movement speed and the extra flexibility could aid certain builds and loadouts. I love kill clip for really deleting guardians in 6s, but it falls off hard in 3s." Recommended MW: Stability.|tags:pvp,controller
+dimwishlist:item=3007479950&perks=839105230,3177308360,2387244414,1015611457
+dimwishlist:item=3007479950&perks=839105230,3177308360,588594999,1015611457
+
+
+// Taraxippos
+//notes:SirStallion (PvE / M+KB / Controller): "Scouts are weird. Lets just start there. I like the idea of scouts, but in practice.. Theyre just strange. BUT, they do one thing quite well.. Precision kills. So, between Enlightened Action keeping your reload up and making the gun feel snappy, and then Hatchling helping you dispatch groups of enemies at the same time, I think this roll has a lot of low end potential for fun. Which lets be honest.. Isn't that what we all want?" Recommended MW: Stability.|tags:pve,mkb,controller
+dimwishlist:item=3007479950&perks=839105230,1087426260,3828510309,831391274
+
+
+// Taraxippos
+//notes:SirStallion (PvP / M+KB / Controller): "Okay, heres my thought process.. EotS helps secure a kill.. Which leads into Kill Clip helping you secure another.. And another. And another. Next thing you know, you're making Shaxx proud and it's all because you've become a dueling monster and all the bonus Stability makes you unflinchable. That's the theory anyway, but in my hands? No way that works in practice." Recommended MW: Stability.|tags:pvp,mkb,controller
+dimwishlist:item=3007479950&perks=839105230,3230963543,699525795,1015611457
+
+
