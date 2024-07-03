@@ -381,9 +381,6 @@ dimwishlist:item=2313726158&perks=1482024992,1561002382,699525795,588594999,3465
 dimwishlist:item=2313726158&perks=2420895100,1561002382,699525795,588594999,3465198467
 
 
-
-
-
 // Retrofuturist
 //notes:pandapaxxy (PvE / Controller / M+KB): "Retrofuturist is an interesting addition this season. Alongside Riiswalker we have a kinetic option for a lightweight frame shotgun. Retrofuturist was never a truly strong pick for PvE and that remains for this current version. Auto-Loading Holster will be your best quality of life perk, and paired with Vorpal Weapon is a very cookie-cutter shotgun. Destabilizing Rounds pairs best with Feeding Frenzy to use Retrofuturist as your primary add-clearing weapon." Recommended MW: Reload.|tags:pve,controller,mkb
 dimwishlist:item=1612781792&perks=1300023272,791862061,3300816228,1546637391
