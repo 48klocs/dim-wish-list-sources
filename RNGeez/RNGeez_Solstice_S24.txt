@@ -68,3 +68,21 @@ dimwishlist:item=3256453690&perks=332773068,1996142143,831391274,1275731761
 dimwishlist:item=3256453690&perks=1478423395,1996142143,831391274,1275731761
 
 
+// Fortunate Star
+//notes:pandapaxxy (PvE / M+KB / Controller): "A lightweight bow with the Void wombo combo. What more could you want?" Recommended MW - Accuracy.|tags:pve,mkb,controller
+dimwishlist:item=2326578623&perks=2801223209,3429800428,776531651,2048641572
+
+
+// Fortunate Star
+//notes:pandapaxxy (PvP / M+KB / Controller): "I see it now, a CammyCakes style video or Hynra style video of Archer's Gambit going crazy. Stacking all the hip fire benefits as you can and just going right on in. While it's certainly not for me (lil paws won't allow it) I would love to see it and I think it would maximise the potential for this bow." Recommended MW - Accuracy.|tags:pvp,mkb,controller
+dimwishlist:item=2326578623&perks=2801223209,3429800428,1866048759,3414324643
+
+
+// Fortunate Star
+//notes:SirStallion_ (PvE / M+KB / Controller): "Now, Destabilising rounds is also very desirable, but I want my Gyrfalcon hunter to have fun with this thing, so Destab isn't needed, and Golden Tricorn will give me all the damage, x2 is real nice but honestly the self refreshing x1 more than makes GT worth it for me personally. Overshields are good, so Repulsor doesn't need much explanation. Minimum draw time, as much accuracy as I can squeak out and with any luck I'll be slaying in no time." Recommended MW - Draw Time.|tags:pve,mkb,controller
+dimwishlist:item=2326578623&perks=852209214,3429800428,776531651,2610012052
+
+
+// Fortunate Star
+//notes:SirStallion_ (PvP / M+KB / Controller): "Lightweight bow means moving fast, moving fast means dinking fools from the hip (to me) so this combo became a no brainer. I don't love bows in PvP usually, but the prospect of staying on the move with minimal draw time and firing off the hip kinda gets something flowing in my brain. Unfortunately, I find neither Origin Trait to be particularly worthwhile, so we may see some power creep in the future. But hey. Shoot em while youve got em, and I'm hoping to get many." Recommended MW - Draw Time.|tags:pvp,mkb,controller
+dimwishlist:item=2326578623&perks=852209214,3429800428,1866048759,3414324643
