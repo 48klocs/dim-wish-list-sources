@@ -28,7 +28,6 @@ dimwishlist:item=3240434620&perks=1840239774,106909392,247725512,1015611457
 
 // Compass Rose
 //notes:pandapaxxy (PvE / M+KB / Controller): "I've always liked the wombo combo of Grave Robber / Melee perk. One-Two Punch is usually my go-to but in precision and aggressives where the base damage is higher I flip flop between One-Two Punch and Trench Barrel. It switches up the order of operations which is sometimes too much for me. But it's always a nice synergy weapon to keep in your vault." Recommended MW - Handling.|tags:pve,mkb,controller
-dimwishlist:item=233896077&perks=1300023272,791862061,1631667848,806159697
 dimwishlist:item=233896077&perks=1300023272,791862061,1631667848,2360754333
 
 
@@ -64,7 +63,6 @@ dimwishlist:item=3256453690&perks=3525010810,3796465595,1523832109,3078487919
 
 // Crowning Doulogue
 //notes:SirStallion_ (PvP / M+KB / Controller): "Okay look, Rockets in PvP? You basically fire it when someone is on a point you can't quite see, or 2ft in front of your face and you take yourself out too. I am okay with this. But my goal is to make the surrounding area of impact as volatile as I can [...]" Recommended MW - Blast Radius.|tags:pvp,mkb,controller
-dimwishlist:item=3256453690&perks=332773068,1996142143,831391274,1275731761
 dimwishlist:item=3256453690&perks=1478423395,1996142143,831391274,1275731761
 
 
