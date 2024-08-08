@@ -1,0 +1,28 @@
+title:RNGeez 2024 Solsitce Breakdown
+description:https://www.reddit.com/r/sharditkeepit/comments/1eln5m6/rngeez_2024_solstice_weapon_breakdown/
+
+// Something New
+//notes:pandapaxxy (PvE / M+KB / Controller): "I recently broke out my Something New from last season with Headstone / Wellspring which is a shame we cannot get that roll this year. The closest is a heavier investment into grenades with Demolitionist. While not the worst weapon, losing Wellspring puts this behind Eyasluna for me, yes even without the origin trait." Recommended MW - Handling.|tags:pve,mkb,controller
+dimwishlist:item=3240434620&perks=1840239774,106909392,3523296417,124408337
+
+
+// Something New
+//notes:pandapaxxy (PvP / M+KB): "Potentially a higher stat version of Crimil’s Dagger, the Something New with Elemental Capacitor and Precision Instrument looks to take over your kinetic slot. I was waiting for this weapon to come up instead of trying within Iron Banner. Enhanced Void Elemental Capacitor giving you a whopping +25 in stability or +55 handling on Arc brings up the stats so much that you might forget about Igneous Hammer." Recommended MW - Range.|tags:pvp,mkb
+dimwishlist:item=3240434620&perks=3250034553,3142289711,3511092054,555281244
+
+
+// Something New
+//notes:pandapaxxy (PvP / Controller): "Potentially a higher stat version of Crimil’s Dagger, the Something New with Elemental Capacitor and Precision Instrument looks to take over your kinetic slot. I was waiting for this weapon to come up instead of trying within Iron Banner. Enhanced Void Elemental Capacitor giving you a whopping +25 in stability or +55 handling on Arc brings up the stats so much that you might forget about Igneous Hammer." Recommended MW - Range.|tags:pvp,controller
+dimwishlist:item=3240434620&perks=1482024992,3142289711,3511092054,555281244
+
+
+// Something New
+//notes:SirStallion_ (PvE / M+KB / Controller): "For me, this combination is tried and true. Headstone will spawn stasis crystals that can serve as extensions of the gun.. Meaning those stasis crystal explosions will fuel demo. Handy dandy indeed, and allows for much spam. However, it's missing some reload, and like most 120rpm HCs, this big boi NEEDS it. With the Dream Work origin trait, you can certainly get by, but I still like to hedge my bets and get as much reload as I can from mag and MW. Plus, I'm sort of curious about Nadir Focus, so I wont always have Dream Work locked and loaded." Recommended MW - Reload.|tags:pve,mkb,controller
+dimwishlist:item=3240434620&perks=1840239774,3230963543,3523296417,124408337
+
+
+// Something New
+//notes:SirStallion_ (PvP / M+KB / Controller): "Now, I've given this thing a lot of stability. And it's going to get even more from Rapid Hit. To me, for PvP, my ability to hit shots with such a slow firing weapon is far more important than hitting for full damage a few metres further. Rapid Hit should hypothetically fix my reload problems as well as giving me more stability to help combat flinch. Kill Clip is just.. Nice. With how easy a lot of us can get Radiant going when we need to, the combo of damage perks should give me some slay potential. Otherwise, I'd definitely be looking at Explosive Payload just to annoy people." Recommended MW - Stability.|tags:pvp,mkb,controller
+dimwishlist:item=3240434620&perks=1840239774,106909392,247725512,1015611457
+
+
