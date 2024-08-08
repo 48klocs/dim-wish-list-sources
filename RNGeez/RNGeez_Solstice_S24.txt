@@ -47,3 +47,24 @@ dimwishlist:item=233896077&perks=1300023272,791862061,3161816588,4293542123
 dimwishlist:item=233896077&perks=1332244541,3142289711,1821614984,47981717
 
 
+// Crowning Doulogue
+//notes:pandapaxxy (PvE / M+KB / Controller): "Reconstruction and Reverberation don't seem like a pair. But with Reverberation your second shot (thanks to Reconstruction) has a larger blast radius size. I don't believe it adds to the actual blast radius stat, moreso just increases the radius upon getting kills. The intrinsic tracking will make using a rocket for add clear could be feasible." Recommended MW - Blast Radius.|tags:pve,mkb,controller
+dimwishlist:item=3256453690&perks=3525010810,3796465595,1523832109,563069569
+
+
+// Crowning Doulogue
+//notes:pandapaxxy (PvP / M+KB / Controller): "Rockets in PvP are hit or miss (zing). The intrinsic tracking on Crowning Duologue will make hitting fast moving hunters a breeze, and with Impulse Amplifier you'll have a faster moving rocket, should you get the kill you'll have Chain Reaction taking care of the rest. A one shot, fire and forget, team wipe." Recommended MW - Blast Radius.|tags:pvp,mkb,controller
+dimwishlist:item=3256453690&perks=3525010810,2822142346,951095735,2396489472
+
+
+// Crowning Doulogue
+//notes:SirStallion_ (PvE / M+KB / Controller): "Okay, this rocket might be the glow up of the century because WOW this was a dud last year. But now? We're seeing demo, we're seeing ALH, we're seeing Recon. And that's all the first perk. THEN we got B&S, Bipod and Envious? Hell, you can even rock Hatchling and Chain Reaction if you wanna get weird. Personally, this is going to become a bossing rocket I can use alongside Strand surges. I just really really wish it was a different archetype, but hey, I will take it." Recommended MW - Velocity.|tags:pve,mkb,controller
+dimwishlist:item=3256453690&perks=3525010810,3796465595,1523832109,3078487919
+
+
+// Crowning Doulogue
+//notes:SirStallion_ (PvP / M+KB / Controller): "Okay look, Rockets in PvP? You basically fire it when someone is on a point you can't quite see, or 2ft in front of your face and you take yourself out too. I am okay with this. But my goal is to make the surrounding area of impact as volatile as I can [...]" Recommended MW - Blast Radius.|tags:pvp,mkb,controller
+dimwishlist:item=3256453690&perks=332773068,1996142143,831391274,1275731761
+dimwishlist:item=3256453690&perks=1478423395,1996142143,831391274,1275731761
+
+
