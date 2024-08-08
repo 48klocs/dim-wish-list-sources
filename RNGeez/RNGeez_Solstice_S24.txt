@@ -26,3 +26,24 @@ dimwishlist:item=3240434620&perks=1840239774,3230963543,3523296417,124408337
 dimwishlist:item=3240434620&perks=1840239774,106909392,247725512,1015611457
 
 
+// Compass Rose
+//notes:pandapaxxy (PvE / M+KB / Controller): "I've always liked the wombo combo of Grave Robber / Melee perk. One-Two Punch is usually my go-to but in precision and aggressives where the base damage is higher I flip flop between One-Two Punch and Trench Barrel. It switches up the order of operations which is sometimes too much for me. But it's always a nice synergy weapon to keep in your vault." Recommended MW - Handling.|tags:pve,mkb,controller
+dimwishlist:item=233896077&perks=1300023272,791862061,1631667848,806159697
+dimwishlist:item=233896077&perks=1300023272,791862061,1631667848,2360754333
+
+
+// Compass Rose
+//notes:pandapaxxy (PvP / M+KB / Controller): "The only weapon I'm looking for grinding this Solstice is the Compass Rose with Slickdraw. I have been an avid fan of Slickdraw for quite some time. It rolled on a few pellet shotguns so far but has fallen short mostly due to bad stats or accompanying perks. Deadpan Delivery was the first and really couldn't compete without a 5/5. Next were some lightweight frames that didn't need Slickdraw to hit high handling, so it was wasted. Now it's on a precision frame that can also hit max handling and get Assault Mag to boost follow up shots is going to replace my energy shotguns entirely." Recommended MW - Range.|tags:pvp,mkb,controller
+dimwishlist:item=233896077&perks=1332244541,791862061,1821614984,47981717
+
+
+// Compass Rose
+//notes:SirStallion_ (PvE / M+KB / Controller): "I wouldn't normally bust out a precision frame shotgun in PvE for its shooting ability, but I might honestly make an exception here. Slide, bang, boom, slide. Reload rounds, explode enemies, reload rounds again.. It fulfills my hunters fantasy of spending 100% of her in the mud. I'm gonna turn mobbing jobs into the worlds explodiest slip n slide, you just watch." Recommended MW - Handling.|tags:pve,mkb,controller
+dimwishlist:item=233896077&perks=1300023272,791862061,3161816588,4293542123
+
+
+// Compass Rose
+//notes:SirStallion_ (PvP / M+KB / Controller): "I.. Cannot believe I want this. I hate slickdraw, it makes me so annoyed when I see it on guns.. Usually. But this is a shotgun. You're going for centre mass and the target acquisition just doesn't matter. Holy heck. You can have maximum handling and full send into range in tandem. So that's what I'm going to do, Opening Shot will do so much work, I'll have the snappiest little boomstick you've ever seen and have almost max range. Also this gun has regular old barrels? So that's weird. But it means if you don't want slickdraw, you have much nicer handling options." Recommended MW - Range.|tags:pvp,mkb,controller
+dimwishlist:item=233896077&perks=1332244541,3142289711,1821614984,47981717
+
+
