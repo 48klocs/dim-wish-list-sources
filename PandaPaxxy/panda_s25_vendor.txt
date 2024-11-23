@@ -278,14 +278,14 @@ dimwishlist:item=2035738085&perks=4090651448,791862061,4071163871,1194056669
 dimwishlist:item=2035738085&perks=4090651448,791862061,4071163871,47981717
 
 // Fair Judgment
-//notes:pandapaxxy (PvE / M+KB / Controller): "Our newest Ritual Weapon is Fair Judgement. A stasis auto rifle that has pretty low to medium tier stats across the board. Its uniqueness comes from being only the second precision frame stasis auto rifle. The other being last year's Horror Story that was dropped from the recently concluded Festival of the Lost. Rimestealer and Headstone are both fantastic together for stasis synergy and even outside of stasis to build up Frost Armor stacks." Recommended MW: Range, Stability, Handling, Reload Speed.|tags:pve,mkb,controller
+//notes:pandapaxxy (PvE / M+KB / Controller): "Our newest Ritual Weapon is Fair Judgement. A stasis auto rifle that has pretty low to medium tier stats across the board. Its uniqueness comes from being only the second precision frame stasis auto rifle. The other being last year's Horror Story that was dropped from the recently concluded Festival of the Lost. Rimestealer and Headstone are both fantastic together for stasis synergy and even outside of stasis to build up Frost Armor stacks." Recommended MW: Handling.|tags:pve,mkb,controller
 dimwishlist:item=4176873718&perks=4090651448,1968497646,1955165503,95528736
 dimwishlist:item=4176873718&perks=4090651448,1968497646,1955165503,124408337
 dimwishlist:item=4176873718&perks=4090651448,1968497646,1359896290,95528736
 dimwishlist:item=4176873718&perks=4090651448,1968497646,1359896290,124408337
 
 // Fair Judgment
-//notes:pandapaxxy (PvP / M+KB / Controller): "Fair Judgement will not shatter any expectations within the crucible. Precision frame auto rifles are just not as good as other options. Onslaught will drop the TtK with each stack and Dynamic Sway Reduction will help out in keeping the bullets going where you want them to. Outside of this it's good for ornaments and checking off another box for collections (oh and free shards)." Recommended MW: Range, Stability, Handling, Reload Speed.|tags:pvp,mkb,controller
+//notes:pandapaxxy (PvP / M+KB / Controller): "Fair Judgement will not shatter any expectations within the crucible. Precision frame auto rifles are just not as good as other options. Onslaught will drop the TtK with each stack and Dynamic Sway Reduction will help out in keeping the bullets going where you want them to. Outside of this it's good for ornaments and checking off another box for collections (oh and free shards)." Recommended MW: Handling.|tags:pvp,mkb,controller
 dimwishlist:item=4176873718&perks=4090651448,1968497646,1359896290,95528736
 dimwishlist:item=4176873718&perks=4090651448,1968497646,1359896290,124408337
 dimwishlist:item=4176873718&perks=4090651448,1968497646,1955165503,95528736

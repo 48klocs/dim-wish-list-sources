@@ -320,7 +320,7 @@ dimwishlist:item=963574173&perks=1482024992,3142289711,699525795,1015611457
 dimwishlist:item=963574173&perks=1482024992,3142289711,699525795,3938834702
 
 // Omniscient Eye
-//notes:pandapaxxy (PvE / M+KB / Controller): "Omniscient Eye is a returning sniper rifle. Rapid-Fire frame snipers have been pretty good for damage but lacking in single shot damage in run and gun settings. Precision Instrument and Fourth Time's the Charm both work great together for dealing DPS. I wouldn't look for Envious Arsenal as you usually don't want to end your damage rotation on your special compared to your heavy." Recommended MW: Range, Stability, Handling, Reload Speed.|tags:pve,mkb,controller
+//notes:pandapaxxy (PvE / M+KB / Controller): "Omniscient Eye is a returning sniper rifle. Rapid-Fire frame snipers have been pretty good for damage but lacking in single shot damage in run and gun settings. Precision Instrument and Fourth Time's the Charm both work great together for dealing DPS. I wouldn't look for Envious Arsenal as you usually don't want to end your damage rotation on your special compared to your heavy." Recommended MW: Reload Speed.|tags:pve,mkb,controller
 dimwishlist:item=147444292&perks=1840239774,1087426260,1354429876,555281244
 dimwishlist:item=147444292&perks=1840239774,1087426260,1354429876,1546637391
 dimwishlist:item=147444292&perks=1840239774,1087426260,1354429876,4293542123
