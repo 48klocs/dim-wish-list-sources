@@ -1,0 +1,131 @@
+title:RNGeez 2024 Dawning Weapon Breakdown
+description:https://www.reddit.com/r/sharditkeepit/comments/1hct4xj/rngeez_dawning_weapon_breakdown/
+
+// Zephyr
+//notes: Panda (PvE / Controller / M+KB): "Rimestealer and Cold Steel, name a better combo. I'll wait" Recommended MW: Impact.|tags:pve,mnk,controller
+dimwishlist:item=601948197&perks=3666208348,269888150,1955165503,3650930298
+
+
+// Zephyr
+//notes: Panda (PvP / M+KB / Controller): "Tireless Blade will get you one ammo back after every other kill, and swords OHK. The extra damage from Chain Reaction will make follow up kills easier or just get you some fun multikills." Recommended MW: Impact.|tags:pvp,controller,mnk
+dimwishlist:item=601948197&perks=3666208348,269888150,2590710093,2396489472
+
+
+// Zephyr
+//notes: Stallion (PvE / M+KB / Controller): "So, this is just last years roll but with Rimestealer instead of Wellspring. Im.. Not sold on the combo, but this sword does very little interesting outside of being stasis and having Cold Steel, so might aswell full send." Recommended MW: Impact.|tags:pve,mnk,controller
+dimwishlist:item=601948197&perks=3666208348,269888150,1955165503,3650930298
+
+
+// Zephyr
+//notes: Stallion (PvP / M+KB / Controller): "Unfortunately, Zephyr would not be my first pick for PvP swords. It's not craftable, Cold Steel is pointless and it's not an interesting frame. BUT. This would be what I'd take into PvP if I had to. Duelist benefits the player after a kill until you put the sword away, but since heavy is not very frequent in PvP, you're likely gonna commit to using all your ammo up. So Duelist gives the best benefit in slot imo. Vorpal is a nice safety net in case your heavy spawn gets assaulted by a super (I've seen it happen, it's terrifying), you might be able to fight back a little easier." Recommended MW: Impact.|tags:pvp,mnk,controller
+dimwishlist:item=601948197&perks=3666208348,269888150,3705817207,1546637391
+
+
+// Stay Frosty
+//notes: Panda (PvE / M+KB / Controller): "Stay Frosty has always been a bit of an interesting weapon. Previously competing with Nightshade and variable scopes that have since been rendered less useful. Rimestealer and Headstone give Stay Frosty obvious stasis utility and if that's all you use it for, I think this gun will be happy." Recommended MW: Stability.|tags:pve,mnk,controller
+dimwishlist:item=1123433952&perks=839105230,106909392,1955165503,124408337
+
+
+// Stay Frosty
+//notes: Panda (PvP / M+KB): "While you can cleanly two burst with Kill Clip and 6 crits I find neutral perks better. Lightweight pulses are less useful compared to other archetypes but the movement speed bonuses will be nice to feel." Recommended MW: Range.|tags:pvp,mnk
+dimwishlist:item=1123433952&perks=3250034553,3142289711,588594999,460017080
+
+
+// Stay Frosty
+//notes: Panda (PvP / Controller): "While you can cleanly two burst with Kill Clip and 6 crits I find neutral perks better. Lightweight pulses are less useful compared to other archetypes but the movement speed bonuses will be nice to feel." Recommended MW: Stability.|tags:pvp,controller
+dimwishlist:item=1123433952&perks=1482024992,3142289711,588594999,460017080
+
+
+// Stay Frosty
+//notes: Stallion (PvE / M+KB / Controller): "I can just see this being fun, 450s are not the most work horsiest of work horses (I should know) in PvP, so it felt like I should go for the fun factor. And the fact is, more stasis shenanigans can be fun. The self sustaining nature means you can get frost armour while remaining class agnostic, and with headstone being an extension of the gun, any explosions should hypothetically feed those stacks." Recommended MW: Reload Speed.|tags:pve,mnk,controller
+dimwishlist:item=1123433952&perks=839105230,3230963543,1955165503,460017080
+
+
+// Stay Frosty
+//notes: Stallion (PvP / M+KB / Controller): "I know, I know. Im betraying myself. I, SirStallion, the Killing Wind shill, is advocating for the use of a different perk. But 10 AA and 10 AE for free?! And then double when alone?! Heck, thats just free weird stats. Maybe it doesnt even do anything, heck it, then use Killing Wind. But on the chance it feels amazing? Thats what Im after." Recommended MW: Range.|tags:pvp,mnk,controller
+dimwishlist:item=1123433952&perks=839105230,3230963543,2579169598,1015611457
+
+
+// Glacioclasm
+//notes: Panda (PvE / M+KB / Controller): "I have always loved Glacioclasm from its first version to now. Slideshot will keep you topped up for Reservoir Burst but the real kicker is going with Omolon Fluid Dynamics for almost 100 stability on each voop. While not game breaking and it does require you to slide often, having near max stability on a High-Impact frame will feel so good." Recommended MW: Charge Time.|tags:pve,mnk,controller
+dimwishlist:item=1183116657&perks=839105230,689005463,3161816588,1427256713
+
+
+// Glacioclasm
+//notes: Panda (PvP / M+KB): "Where Glacioclasm really gets to shine is over in PvP. With this specific combination and the last shot you'll have 100 range, and if you're alone 75 aim assist for those shots to connect. It won't be Erentil levels of yore, but it's plenty competitive to destroy shotguns." Recommended MW: Charge Time.|tags:pvp,mnk
+dimwishlist:item=1183116657&perks=1482024992,2969185026,2579169598,1194056669
+
+
+// Glacioclasm
+//notes: Panda (PvP / Controller): "Where Glacioclasm really gets to shine is over in PvP. With this specific combination and the last shot you'll have 100 range, and if you're alone 75 aim assist for those shots to connect. It won't be Erentil levels of yore, but it's plenty competitive to destroy shotguns." Recommended MW: Stability.|tags:pvp,controller
+dimwishlist:item=1183116657&perks=1482024992,2969185026,2579169598,1194056669
+
+
+// Glacioclasm
+//notes: Stallion (PvE / M+KB / Controller): "Make gun shoot faster, small stat bumps, big damage with no reloads. Its.. Its that simple. Subsistence should keep you going, but Envious is technically an option failing that. Personally Res Burst is looking like best in slot, with Withering Gaze maybe being nice for free weaken procs, but honestly Id rather take the ad clear potential." Recommended MW: Charge Time.|tags:pve,mnk,controller
+dimwishlist:item=1183116657&perks=1482024992,689005463,1820235745,1427256713
+
+
+// Glacioclasm
+//notes: Stallion (PvP / M+KB / Controller): "Okay, Withering Gaze feels like a bit of a rogue pick. I admit. But! A little extra weaken? Eh why not. Thing shoots at a snails pace anyway, might as well try and get some mileage from the new perk, get weird with it. Slideshot for more stats and free reloads (freeloads, if you will)." Recommended MW: Charge Time.|tags:pvp,mnk,controller
+dimwishlist:item=1183116657&perks=1482024992,689005463,3161816588,1134488199
+
+
+// Albedo Wing
+//notes: Panda (PvE / M+KB / Controller): "Eddy Current and Low-Impedance Winding give you 100 reload when you're Amplified making it way easier to proc Voltshot with every shot and reload. Air Trigger does give you close to max but doesn't quite hit there. If you're looking to use Albedo Wing as a primary you should opt for Air Trigger for better reserves." Recommended MW: Shield Duration.|tags:pve,mnk,controller
+dimwishlist:item=1845372864&perks=2713678205,1087426260,684456054,2173046394
+
+
+// Albedo Wing
+//notes: Panda (PvP / M+KB / Controller): "Closing time and Light Mag will bring your range up to 100. Auxiliary Reserves and Shield MW will get you to 55 shield duration. Add in Close to Melee for easier clean ups after your massive 100 range shot." Recommended MW: Shield Duration.|tags:pvp,mnk,controller
+dimwishlist:item=1845372864&perks=580685494,679225683,1194056669,1782407750
+
+
+// Albedo Wing
+//notes: Stallion (PvE / M+KB / Controller): "I don't look for much in Glaives these days, but I do like Golden Tricorn, and Beacon Rounds can be fun. More Arc stuff. Voltshot feels a little pointless, so more gooder damage." Recommended MW: Shield Duration.|tags:pve,mnk,controller
+dimwishlist:item=1845372864&perks=580685494,3142289711,2859149211,2610012052
+
+
+// Albedo Wing
+//notes: Stallion (PvP / M+KB / Controller): "I.. Got nothing. More abilities. Get some freeloads from Demo, the shield duration tank should be fine (I hope) I really dont know what glaives want, but this seems fun to me." Recommended MW: Range.|tags:pvp,mnk,controller
+dimwishlist:item=1845372864&perks=1263609309,3721627275,880644845,3523296417
+
+
+// Avalanche
+//notes: Panda (PvE / M+KB / Controller): "There's nothing more fun than shooting forever. That's what this machine gun hopes to do. Rewind Rounds will give you ammo right back into the mag allowing for better sustained Target Lock damage." Recommended MW: Stability.|tags:pve,mnk,controller
+dimwishlist:item=1845978721&perks=839105230,2420895100,3418782618,365154968
+
+
+// Avalanche
+//notes: Panda (PvP / M+KB / Controller): "Golden Tricorn is goated on this machine gun. A blistering quick 4 shot TtK at 0.40s. You only need to hit 50% of your headshots up to Tier 8 resilience, and if you happen to synergize for Golden Tricorn 2x you can 3 shot 2c1b any resilience at 0.27s." Recommended MW: Range or Stability.|tags:pvp,mnk,controller
+dimwishlist:item=1845978721&perks=1482024992,2420895100,1359896290,2610012052
+
+
+// Avalanche
+//notes: Stallion (PvE / M+KB / Controller): "This feels obvious, but Incan explosions feeding Subsistence feels like it would be real nice. Use heavy as primary? Yes please. Avoid reloading altogether, so full send into mag size." Recommended MW: Handling.|tags:pve,mnk,controller
+dimwishlist:item=1845978721&perks=839105230,2420895100,1820235745,4293542123
+
+
+// Avalanche
+//notes: Stallion (PvP / M+KB / Controller): "Golden Trike will give you a little extra oomph going into your double (or maybe triple kills, look at you go), DSR and the stab MW should help lock in with this weird frame in PvP and we all love minor bumps from Smallbore" Recommended MW: Stability.|tags:pvp,mnk,controller
+dimwishlist:item=1845978721&perks=1482024992,2420895100,1359896290,2610012052
+
+
+// Mistral Lift
+//notes: Panda (PvE / M+KB / Controller): "Not only will Mistral Lift, lift your spire. It will also be one hell of a good heavy weapon to bring into damage rotations. Enhanced Battery gives us extra in the mag without sacrificing reload, though Ionized Battery is also okay. Withering Gaze will proc Weaken on your first hit buffing the follow up two shots in your burst. Add in a stacking damage bonus through Precision Instrument and you've got yourself an incredibly strong weapon for solo or group activities." Recommended MW: Reload.|tags:pve,mnk,controller
+dimwishlist:item=3483485727&perks=839105230,2680121939,1134488199,555281244
+
+
+// Mistral Lift
+//notes: Panda (PvP / M+KB / Controller): "While not Doomed Petitioner for PvP, Mistral Lift does have some utility in Keep Away or Moving Target and High-Impact Reserves for bonus damage on those last shots. You'll almost never be at max mag so there's no downside. Drop that charge time to have a nuclear sniper with better body shot damage." Recommended MW: Charge Time.|tags:pvp,mnk,controller
+dimwishlist:item=3483485727&perks=3250034553,689005463,3619207468,2213355989
+
+
+// Mistral Lift
+//notes: Stallion (PvE / M+KB / Controller): "Truthfully, Envious and BnS just work. The two go together like gingerbread and.. Me. Everything else is just icing. More handling for better feeling BnS swaps, but truthfully it could be more charge time too, if that's your jam. Personally, I will be looking for either/or, because farming these is a nuisance." Recommended MW: Handling.|tags:pve,mnk,controller
+dimwishlist:item=3483485727&perks=839105230,689005463,968510818,3078487919
+
+
+// Mistral Lift
+//notes: Stallion (PvP / M+KB / Controller): "I dont.. I dont know. 3 burst LFR in PvP, my brain goes to "Kill Super gooder" and I just.. Full sent into it. Moving Target is probably just as good, if not better but.. New perk. Might aswell." Recommended MW: Charge Time.|tags:pvp,mnk,controller
+dimwishlist:item=3483485727&perks=839105230,689005463,1134488199,1546637391
