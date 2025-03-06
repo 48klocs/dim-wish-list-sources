@@ -1,3 +1,6 @@
+title:Pandapaxxy's Vault of Glass Weapon Refresh Breakdown
+description:Based on https://www.reddit.com/r/sharditkeepit/comments/1j4yb1w/vault_of_glass_weapon_refresh_breakdown/
+
 // Fatebringer
 //notes:pandapaxxy (PvE / M+KB / Controller): "Fatebringer is finally craftable. Did I slog my butt off in a master VoG trying to get this? No I cheesed the heck out of Templar and Atheon, but I don't doubt it was hard doing a full run. I just wanted my Timelost flashlight gun. Not too much has changed with this version other than Kinetic Tremor and Magnificent Howl being notable additions. If you really need a kinetic hand cannon with Magnificent Howl, then farm out the normal version and craft it. I wouldn't go for the Timelost unless you really want to flex your loot." Recommended MW: Handling.|tags:pve,mkb,controller
 dimwishlist:item=4184168210&perks=1840239774,1087426260,3418782618,4104185692

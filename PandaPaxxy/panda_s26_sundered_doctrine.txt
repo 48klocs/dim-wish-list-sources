@@ -1,3 +1,6 @@
+title:Pandapaxxy's Sundered Doctrine Weapon Breakdown
+description:Based on https://www.reddit.com/r/sharditkeepit/comments/1j4ycgo/sundered_doctrine_weapon_breakdown/
+
 // Unloved
 //notes:pandapaxxy (PvE / M+KB / Controller): "Our first Strand burst hand cannon is super interesting. But mostly because Tear exists and is one of the best perks you can get. Subjugation is arguably the best origin trait as of late allowing the weapon to adapt to different enemies. Frenzy will boost your damage normally, but Paracausal Affinity works well if you use dark subclasses." Recommended MW: Reload Speed.|tags:pve,mkb,controller
 dimwishlist:item=2485881870&perks=1840239774,1087426260,247725512,3215448563

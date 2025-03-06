@@ -1,3 +1,6 @@
+title:Pandapaxxy's Heresy Guardian Games
+description:Based on https://www.reddit.com/r/sharditkeepit/comments/1j4y9le/heresy_guardian_games/
+
 // Taraxippos
 //notes:pandapaxxy (PvE / M+KB / Controller): "Taraxippos returns to us again this Guardian Games. The OGs remember how mid this scout rifle was. Does it get better this year? Well kinda. Tear is great on all the weapons it rolls on and Hatchling also exists until you invest into it. High Ground is easy to proc for free damage. But nothing crazy for this refresh." Recommended MW: Reload Speed.|tags:pve,mkb,controller
 dimwishlist:item=2595813005&perks=839105230,1087426260,1354429876,831391274

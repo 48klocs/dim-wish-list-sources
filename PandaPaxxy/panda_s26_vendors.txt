@@ -1,3 +1,6 @@
+title:Pandapaxxy's Heresy Vendor Weapon Breakdown
+description:Based on https://www.reddit.com/r/sharditkeepit/comments/1j4yz4u/heresy_vendor_weapon_breakdown/
+
 // Redrix's Estoc
 //notes:pandapaxxy (PvE / M+KB / Controller): "Redrix’s Estoc is not only a tongue twister but a decently strong pulse rifle. If you liked the BXR-55 Battler then this will feel right at home. If you wanted Stasis synergy, Rimestealer and Headstone are where it's at. If you don't, that's okay, the stats alone make up for it. Redrix's Estoc will be the Battler on steroids. Desperate Measures is great for having a rolling damage bonus. But the lack of a reload perk outside of Perpetual Motion is kind of weaksauce." Recommended MW: Reload Speed.|tags:pve,mkb,controller
 dimwishlist:item=3218364298&perks=839105230,1087426260,1428297954,2109543898

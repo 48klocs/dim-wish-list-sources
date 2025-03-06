@@ -1,3 +1,6 @@
+title:Pandapaxxy's Heresy Weapons
+description:Based on https://www.reddit.com/r/sharditkeepit/comments/1j4yfku/heresy_weapon_breakdown/
+
 // Adamantite
 //notes:pandapaxxy (PvE / M+KB / Controller): "Adamantine is our newest seasonal auto rifle and our first Strand support frame. The biggest draw with this weapon is Tear which provides Severing on precision final blows aiding your team and yourself. Reciprocity is useful if you're using this to heal teammates getting a very small bump back. Slice allows you to spread even more Sever on initial targets as well as not needing a critical kill depending on the faction could be easier on some than others." Recommended MW: Reload Speed.|tags:pve,mkb,controller
 dimwishlist:item=2987244302&perks=839105230,1087426260,692399809,960997401

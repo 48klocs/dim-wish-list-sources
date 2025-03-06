@@ -1,3 +1,6 @@
+title:Pandapaxxy's Heresy World Drop Weapon Breakdown
+description:Based on https://www.reddit.com/r/sharditkeepit/comments/1j4yguo/heresy_world_drop_weapon_breakdown/
+
 // Boondoggle Mk. 55
 //notes:pandapaxxy (PvE / M+KB / Controller): "You should get a Boondoggle Mk.55 just for the name alone. Outside of the name you have the standard low stat aggressive frame submachine gun. Subsistence is the best reload perk and Adagio, while lowering the RPM has the best damage increase." Recommended MW: Reload Speed.|tags:pve,mkb,controller
 dimwishlist:item=32287609&perks=1840239774,1087426260,1820235745,3673922083

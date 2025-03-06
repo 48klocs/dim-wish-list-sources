@@ -1,3 +1,6 @@
+title:Pandapaxxy's Heresy: Iron Banner, Nightfall, and Trials of Osiris Weapon Breakdown
+description:Based on https://www.reddit.com/r/sharditkeepit/comments/1j4yxmn/heresy_iron_banner_nightfall_and_trials_of_osiris/
+
 // Peacebond
 //notes:pandapaxxy (PvE / M+KB / Controller): "I'm excited Peacebond came back, but PvE is not its place. Headstone and Rimestealer are great when on Stasis, but the alternative is Subsistence and Frenzy, on a sidearm feels kinda weak. Not that there's much better in Kill Clip. But I don't think it's Peacebond’s fault." Recommended MW: Reload Speed.|tags:pve,mkb,controller
 dimwishlist:item=3437370193&perks=1840239774,1087426260,124408337,1955165503
@@ -912,4 +915,3 @@ dimwishlist:item=3503560035&perks=1482024992,3142289711,2579169598,588594999
 dimwishlist:item=3503560035&perks=1482024992,3142289711,1821614984,1194056669
 dimwishlist:item=3503560035&perks=1482024992,3142289711,1821614984,47981717
 dimwishlist:item=3503560035&perks=1482024992,3142289711,1821614984,588594999
-
