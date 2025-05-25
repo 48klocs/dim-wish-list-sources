@@ -1,3 +1,6 @@
+title:WarlockMaggie's Rite of the Nine Weapon Breakdown (Week 3) - Ghosts of the Deep
+description:Originally found at https://www.reddit.com/r/sharditkeepit/comments/1kulsc4/rite_of_the_nine_weapon_breakdown_week_3_ghosts/
+
 // New Pacific Epitaph
 //notes:warlockmaggie (PvE / M+KB / Controller): "My favorite roll for this can be summed up in two words: Stasis Forebearance. Unrelenting and Chain Reaction will obliterate a group of minor enemies and give you a decent bump in HP for doing so. Redirection is also very strong and can turn your add-clear into major/champion removal. If you play the multi-element mini game, Elemental Honing can reward you with up 35% damage bonus for 20 seconds!" Recommended MW: Velocity or Reload Speed.|tags:pve,mkb,controller
 dimwishlist:item=2059741649&perks=1441682018,2822142346,3108830275,2396489472
